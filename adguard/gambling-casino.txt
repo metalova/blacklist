@@ -1,18 +1,25 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-03 17:18:50
+! Last Updated: 2024-11-03 17:21:23
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 19
+! Number of unique domains: 26
 !
 
+||baccarat-online.yapenhasboediluhur.sch.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||carolinadumpstersllc.com^
+||cms-gb.com^
+||elizas.co.nz^
 ||familydentalrockville.com^
 ||goldensteersteakhouse.com^
 ||id.quora.com^
+||id.scribd.com^
 ||incharafamilygardenrestaurant.com^
 ||informaticsglobal.com^
+||instituteforpr.org^
 ||jenniferellision.com^
 ||kputulungagung.com^
+||krakatauinternationalport.co.id^
+||live-casino.smpn2kotadumai.sch.id^
 ||lubukbangkar.desa.id^
 ||newszechuan.com^
 ||pafinatuna.org^

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-03 17:18:50",
+  "updated": "2024-11-03 17:21:23",
   "categories": {
     "slot": {
       "count": 155,
@@ -937,7 +937,7 @@
       ]
     },
     "casino": {
-      "count": 19,
+      "count": 26,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -1051,6 +1051,48 @@
           "domain": "goldensteersteakhouse.com",
           "raw_url": "https://www.goldensteersteakhouse.com/",
           "found_time": "2024-11-03 10:18:47",
+          "status": "active"
+        },
+        {
+          "domain": "baccarat-online.yapenhasboediluhur.sch.id",
+          "raw_url": "https://baccarat-online.yapenhasboediluhur.sch.id/",
+          "found_time": "2024-11-03 10:18:50",
+          "status": "active"
+        },
+        {
+          "domain": "cms-gb.com",
+          "raw_url": "https://www.cms-gb.com/",
+          "found_time": "2024-11-03 10:21:02",
+          "status": "active"
+        },
+        {
+          "domain": "id.scribd.com",
+          "raw_url": "https://id.scribd.com/document/426700337/Situs-Casino-Online",
+          "found_time": "2024-11-03 10:21:12",
+          "status": "active"
+        },
+        {
+          "domain": "live-casino.smpn2kotadumai.sch.id",
+          "raw_url": "https://live-casino.smpn2kotadumai.sch.id/",
+          "found_time": "2024-11-03 10:21:14",
+          "status": "active"
+        },
+        {
+          "domain": "krakatauinternationalport.co.id",
+          "raw_url": "http://krakatauinternationalport.co.id/tests/souch/",
+          "found_time": "2024-11-03 10:21:19",
+          "status": "active"
+        },
+        {
+          "domain": "elizas.co.nz",
+          "raw_url": "https://elizas.co.nz/",
+          "found_time": "2024-11-03 10:21:20",
+          "status": "active"
+        },
+        {
+          "domain": "instituteforpr.org",
+          "raw_url": "https://instituteforpr.org/bermain-idn-play-poker-terpopuler-dan-terpercaya-di-indonesia/",
+          "found_time": "2024-11-03 10:21:23",
           "status": "active"
         }
       ]

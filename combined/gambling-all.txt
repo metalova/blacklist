@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-03 17:18:50
+! Last Updated: 2024-11-03 17:21:23
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 174
+! Number of domains: 181
 !
 
 ! Category: SLOT
@@ -182,4 +182,11 @@
 ||thefosterfarm.org^
 ||trendshairstudioandspa.com^
 ||goldensteersteakhouse.com^
+||baccarat-online.yapenhasboediluhur.sch.id^
+||cms-gb.com^
+||id.scribd.com^
+||live-casino.smpn2kotadumai.sch.id^
+||krakatauinternationalport.co.id^
+||elizas.co.nz^
+||instituteforpr.org^
 
