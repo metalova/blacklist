@@ -1,0 +1,7 @@
+! Title: Gambling Domain Blocklist - POKER
+! Last Updated: 2024-11-03 16:48:19
+! Description: Automatically generated gambling domain blocklist
+! Number of unique domains: 1
+!
+
+||pulsabet.wordpress.com^
