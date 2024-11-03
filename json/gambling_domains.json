@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-03 17:47:43",
+  "updated": "2024-11-03 17:47:45",
   "categories": {
     "slot": {
-      "count": 186,
+      "count": 189,
       "domains": [
         {
           "domain": "onsnaiset.com",
@@ -1118,6 +1118,24 @@
           "domain": "iluvphosnellville.com",
           "raw_url": "https://www.iluvphosnellville.com/",
           "found_time": "2024-11-03 10:47:42",
+          "status": "active"
+        },
+        {
+          "domain": "franksmarathon.com",
+          "raw_url": "https://www.franksmarathon.com/",
+          "found_time": "2024-11-03 10:47:43",
+          "status": "active"
+        },
+        {
+          "domain": "bnn.go.id",
+          "raw_url": "https://bnn.go.id/",
+          "found_time": "2024-11-03 10:47:44",
+          "status": "active"
+        },
+        {
+          "domain": "fashionstylistinstitute.com",
+          "raw_url": "https://www.fashionstylistinstitute.com/",
+          "found_time": "2024-11-03 10:47:45",
           "status": "active"
         }
       ]

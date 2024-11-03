@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-03 17:47:43
+! Last Updated: 2024-11-03 17:47:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 186
+! Number of unique domains: 189
 !
 
 ||192.155.95.225^
@@ -28,6 +28,7 @@
 ||birminghamcommitteeonforeignrelations.org^
 ||bisdig.darunnajah.ac.id^
 ||bkdkabsolok.com^
+||bnn.go.id^
 ||bobbobcite.com^
 ||bonesuk.com^
 ||bprkotapasuruan.com^
@@ -63,9 +64,11 @@
 ||etalrestaurant.com^
 ||exeterworks.org^
 ||famous50sdiner.com^
+||fashionstylistinstitute.com^
 ||fatboys-bbq.com^
 ||floridafreshmushrooms.com^
 ||foodpandatw.com^
+||franksmarathon.com^
 ||ftbprimetime.com^
 ||gamereactor.no^
 ||gardengrillsteakhouse.com^
