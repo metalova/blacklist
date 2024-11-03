@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-03 17:45:15",
+  "updated": "2024-11-03 17:47:43",
   "categories": {
     "slot": {
-      "count": 179,
+      "count": 186,
       "domains": [
         {
           "domain": "onsnaiset.com",
@@ -1076,6 +1076,48 @@
           "domain": "emoirestaurant.com",
           "raw_url": "https://www.emoirestaurant.com/",
           "found_time": "2024-11-03 10:45:08",
+          "status": "active"
+        },
+        {
+          "domain": "ppsdml.bpsdm.dephub.go.id",
+          "raw_url": "https://ppsdml.bpsdm.dephub.go.id/pages/?name=BOCORAN%20POLA",
+          "found_time": "2024-11-03 10:45:15",
+          "status": "active"
+        },
+        {
+          "domain": "kyrgyzaero.com",
+          "raw_url": "https://kyrgyzaero.com/",
+          "found_time": "2024-11-03 10:47:30",
+          "status": "active"
+        },
+        {
+          "domain": "hawndev.org",
+          "raw_url": "https://www.hawndev.org/",
+          "found_time": "2024-11-03 10:47:31",
+          "status": "active"
+        },
+        {
+          "domain": "yossiyovel.com",
+          "raw_url": "https://www.yossiyovel.com/",
+          "found_time": "2024-11-03 10:47:31",
+          "status": "active"
+        },
+        {
+          "domain": "electrocycle.gr",
+          "raw_url": "https://www.electrocycle.gr/",
+          "found_time": "2024-11-03 10:47:37",
+          "status": "active"
+        },
+        {
+          "domain": "laaunch.org",
+          "raw_url": "https://www.laaunch.org/",
+          "found_time": "2024-11-03 10:47:38",
+          "status": "active"
+        },
+        {
+          "domain": "iluvphosnellville.com",
+          "raw_url": "https://www.iluvphosnellville.com/",
+          "found_time": "2024-11-03 10:47:42",
           "status": "active"
         }
       ]

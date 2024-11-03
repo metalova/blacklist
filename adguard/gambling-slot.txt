@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-03 17:45:15
+! Last Updated: 2024-11-03 17:47:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 179
+! Number of unique domains: 186
 !
 
 ||192.155.95.225^
@@ -55,6 +55,7 @@
 ||drinksdestroyteeth.org^
 ||drjaybhatt.com^
 ||eaglehotelrestaurantbar.com^
+||electrocycle.gr^
 ||elezabyportal.com^
 ||elliottstreet.com^
 ||emc2023.org^
@@ -73,11 +74,13 @@
 ||grandnailssalons.com^
 ||grrrl.net^
 ||hawkinshouseevents.com^
+||hawndev.org^
 ||hc-ant.com^
 ||hillsdonuts.com^
 ||hotelakshayathrissur.com^
 ||hotelvillahakuba.com^
 ||ichirin-coffee.com^
+||iluvphosnellville.com^
 ||informaticsjournals.com^
 ||informatikalogi.com^
 ||innerbanksbbq.com^
@@ -92,6 +95,8 @@
 ||konji.hr^
 ||kp.ac.rw^
 ||kustomfithalters.com^
+||kyrgyzaero.com^
+||laaunch.org^
 ||lanceladuke.com^
 ||leovc.io^
 ||leticiarae.com^
@@ -128,6 +133,7 @@
 ||pierogifactoryphl.com^
 ||pipsqueaking.com^
 ||poupluche.com^
+||ppsdml.bpsdm.dephub.go.id^
 ||promo-hyundai-jakarta.com^
 ||propertyneedsyou.com^
 ||properwing.com^
@@ -178,6 +184,7 @@
 ||wwpaintballairsoft.com^
 ||yellowbrickfold.com^
 ||yosonhartz.com^
+||yossiyovel.com^
 ||yourturninc.com^
 ||yumhousemadrid.com^
 ||yummycakesbysue.co.uk^
