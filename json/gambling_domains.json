@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-03 17:38:58",
+  "updated": "2024-11-03 17:45:15",
   "categories": {
     "slot": {
-      "count": 177,
+      "count": 179,
       "domains": [
         {
           "domain": "onsnaiset.com",
@@ -1064,6 +1064,18 @@
           "domain": "informaticsjournals.com",
           "raw_url": "https://informaticsjournals.com/",
           "found_time": "2024-11-03 10:38:56",
+          "status": "active"
+        },
+        {
+          "domain": "bisdig.darunnajah.ac.id",
+          "raw_url": "https://bisdig.darunnajah.ac.id/",
+          "found_time": "2024-11-03 10:38:58",
+          "status": "active"
+        },
+        {
+          "domain": "emoirestaurant.com",
+          "raw_url": "https://www.emoirestaurant.com/",
+          "found_time": "2024-11-03 10:45:08",
           "status": "active"
         }
       ]
