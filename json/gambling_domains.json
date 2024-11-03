@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-03 17:48:13",
+  "updated": "2024-11-03 18:01:02",
   "categories": {
     "slot": {
-      "count": 195,
+      "count": 232,
       "domains": [
         {
           "domain": "onsnaiset.com",
@@ -1173,11 +1173,233 @@
           "raw_url": "https://androidwave.com/",
           "found_time": "2024-11-03 10:48:11",
           "status": "active"
+        },
+        {
+          "domain": "yakisoba-miura.com",
+          "raw_url": "https://yakisoba-miura.com/",
+          "found_time": "2024-11-03 10:48:12",
+          "status": "active"
+        },
+        {
+          "domain": "miniaussierescue.org",
+          "raw_url": "https://www.miniaussierescue.org/",
+          "found_time": "2024-11-03 10:48:25",
+          "status": "active"
+        },
+        {
+          "domain": "garritytraina.com",
+          "raw_url": "https://garritytraina.com/",
+          "found_time": "2024-11-03 10:48:26",
+          "status": "active"
+        },
+        {
+          "domain": "restaurantesantamonica.com",
+          "raw_url": "https://restaurantesantamonica.com/",
+          "found_time": "2024-11-03 10:48:28",
+          "status": "active"
+        },
+        {
+          "domain": "dethaikitchen.com",
+          "raw_url": "https://www.dethaikitchen.com/",
+          "found_time": "2024-11-03 10:48:28",
+          "status": "active"
+        },
+        {
+          "domain": "thewhiskeychaps.com",
+          "raw_url": "https://thewhiskeychaps.com/",
+          "found_time": "2024-11-03 10:48:29",
+          "status": "active"
+        },
+        {
+          "domain": "flatironlounge.com",
+          "raw_url": "https://flatironlounge.com/",
+          "found_time": "2024-11-03 10:48:30",
+          "status": "active"
+        },
+        {
+          "domain": "picincottage.com",
+          "raw_url": "https://www.picincottage.com/",
+          "found_time": "2024-11-03 10:48:34",
+          "status": "active"
+        },
+        {
+          "domain": "paradisepizzacapecod.com",
+          "raw_url": "https://paradisepizzacapecod.com/",
+          "found_time": "2024-11-03 10:48:34",
+          "status": "active"
+        },
+        {
+          "domain": "thenailstudiollc.com",
+          "raw_url": "https://www.thenailstudiollc.com/",
+          "found_time": "2024-11-03 10:48:35",
+          "status": "active"
+        },
+        {
+          "domain": "thekababfactory.net",
+          "raw_url": "https://www.thekababfactory.net/",
+          "found_time": "2024-11-03 10:48:35",
+          "status": "active"
+        },
+        {
+          "domain": "karakarakara.com",
+          "raw_url": "https://www.karakarakara.com/",
+          "found_time": "2024-11-03 10:48:36",
+          "status": "active"
+        },
+        {
+          "domain": "phoenixsportsrestaurant.com",
+          "raw_url": "https://www.phoenixsportsrestaurant.com/",
+          "found_time": "2024-11-03 10:48:36",
+          "status": "active"
+        },
+        {
+          "domain": "taponmainst.com",
+          "raw_url": "https://taponmainst.com/",
+          "found_time": "2024-11-03 10:49:38",
+          "status": "active"
+        },
+        {
+          "domain": "mohsenalattar.org",
+          "raw_url": "https://mohsenalattar.org/",
+          "found_time": "2024-11-03 10:49:38",
+          "status": "active"
+        },
+        {
+          "domain": "sipp.pn-gedongtataan.go.id",
+          "raw_url": "https://sipp.pn-gedongtataan.go.id/",
+          "found_time": "2024-11-03 10:49:39",
+          "status": "active"
+        },
+        {
+          "domain": "thegreenhousedayspa.com",
+          "raw_url": "https://thegreenhousedayspa.com/",
+          "found_time": "2024-11-03 10:49:39",
+          "status": "active"
+        },
+        {
+          "domain": "greenteethpress.com",
+          "raw_url": "https://www.greenteethpress.com/",
+          "found_time": "2024-11-03 10:49:39",
+          "status": "active"
+        },
+        {
+          "domain": "santeethaihouse.com",
+          "raw_url": "https://www.santeethaihouse.com/",
+          "found_time": "2024-11-03 10:49:43",
+          "status": "active"
+        },
+        {
+          "domain": "officepartyla.com",
+          "raw_url": "https://officepartyla.com/",
+          "found_time": "2024-11-03 10:49:44",
+          "status": "active"
+        },
+        {
+          "domain": "shubhashishhomes.com",
+          "raw_url": "https://www.shubhashishhomes.com/",
+          "found_time": "2024-11-03 10:49:44",
+          "status": "active"
+        },
+        {
+          "domain": "washingtoncyber.org",
+          "raw_url": "https://www.washingtoncyber.org/",
+          "found_time": "2024-11-03 10:49:45",
+          "status": "active"
+        },
+        {
+          "domain": "equityproject.org",
+          "raw_url": "https://www.equityproject.org/",
+          "found_time": "2024-11-03 10:49:47",
+          "status": "active"
+        },
+        {
+          "domain": "capitalramen.com",
+          "raw_url": "https://www.capitalramen.com/",
+          "found_time": "2024-11-03 10:49:47",
+          "status": "active"
+        },
+        {
+          "domain": "pafitelukbintuni.org",
+          "raw_url": "https://pafitelukbintuni.org/",
+          "found_time": "2024-11-03 10:49:48",
+          "status": "active"
+        },
+        {
+          "domain": "pafibonebolango.org",
+          "raw_url": "https://pafibonebolango.org/",
+          "found_time": "2024-11-03 10:49:48",
+          "status": "active"
+        },
+        {
+          "domain": "groovyduckbakery.net",
+          "raw_url": "https://www.groovyduckbakery.net/",
+          "found_time": "2024-11-03 10:49:49",
+          "status": "active"
+        },
+        {
+          "domain": "gr8.tech",
+          "raw_url": "https://gr8.tech/provider/pragmatic-play/",
+          "found_time": "2024-11-03 10:49:51",
+          "status": "active"
+        },
+        {
+          "domain": "griffinslosal.com",
+          "raw_url": "https://www.griffinslosal.com/",
+          "found_time": "2024-11-03 10:49:51",
+          "status": "active"
+        },
+        {
+          "domain": "pafisorongselatan.org",
+          "raw_url": "https://pafisorongselatan.org/",
+          "found_time": "2024-11-03 10:49:52",
+          "status": "active"
+        },
+        {
+          "domain": "angelstarch.com",
+          "raw_url": "https://angelstarch.com/",
+          "found_time": "2024-11-03 10:49:52",
+          "status": "active"
+        },
+        {
+          "domain": "nbsbangladesh.info",
+          "raw_url": "https://www.nbsbangladesh.info/",
+          "found_time": "2024-11-03 10:49:53",
+          "status": "active"
+        },
+        {
+          "domain": "hkdigital.io",
+          "raw_url": "https://hkdigital.io/",
+          "found_time": "2024-11-03 10:49:53",
+          "status": "active"
+        },
+        {
+          "domain": "demo.aippnet.org",
+          "raw_url": "https://demo.aippnet.org/",
+          "found_time": "2024-11-03 10:49:53",
+          "status": "active"
+        },
+        {
+          "domain": "piehops.com",
+          "raw_url": "https://piehops.com/",
+          "found_time": "2024-11-03 10:49:54",
+          "status": "active"
+        },
+        {
+          "domain": "gurjone.com",
+          "raw_url": "https://gurjone.com/",
+          "found_time": "2024-11-03 10:49:54",
+          "status": "active"
+        },
+        {
+          "domain": "doccom.org",
+          "raw_url": "https://doccom.org/",
+          "found_time": "2024-11-03 10:49:54",
+          "status": "active"
         }
       ]
     },
     "casino": {
-      "count": 45,
+      "count": 46,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -1448,11 +1670,17 @@
           "raw_url": "https://www.beijinggreenbeltmd.com/",
           "found_time": "2024-11-03 10:23:03",
           "status": "active"
+        },
+        {
+          "domain": "caseyforcongressri.com",
+          "raw_url": "https://www.caseyforcongressri.com/",
+          "found_time": "2024-11-03 10:52:02",
+          "status": "active"
         }
       ]
     },
     "togel": {
-      "count": 44,
+      "count": 79,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -1716,6 +1944,216 @@
           "domain": "ukbipa.id",
           "raw_url": "https://ukbipa.id/",
           "found_time": "2024-11-03 10:29:48",
+          "status": "active"
+        },
+        {
+          "domain": "culturedellasostenibilita.it",
+          "raw_url": "https://culturedellasostenibilita.it/",
+          "found_time": "2024-11-03 10:58:17",
+          "status": "active"
+        },
+        {
+          "domain": "bicentenariochile.cl",
+          "raw_url": "https://bicentenariochile.cl/",
+          "found_time": "2024-11-03 10:58:21",
+          "status": "active"
+        },
+        {
+          "domain": "auntirenestogo.com",
+          "raw_url": "https://www.auntirenestogo.com/",
+          "found_time": "2024-11-03 10:58:30",
+          "status": "active"
+        },
+        {
+          "domain": "knitandcrochetnow.com",
+          "raw_url": "https://www.knitandcrochetnow.com/",
+          "found_time": "2024-11-03 10:58:33",
+          "status": "active"
+        },
+        {
+          "domain": "kepritoto.koni.or.id",
+          "raw_url": "https://kepritoto.koni.or.id/",
+          "found_time": "2024-11-03 10:58:35",
+          "status": "active"
+        },
+        {
+          "domain": "laraec.net",
+          "raw_url": "https://laraec.net/",
+          "found_time": "2024-11-03 10:58:36",
+          "status": "active"
+        },
+        {
+          "domain": "wasabiplano.com",
+          "raw_url": "https://wasabiplano.com/",
+          "found_time": "2024-11-03 10:58:39",
+          "status": "active"
+        },
+        {
+          "domain": "deborafoundation.org",
+          "raw_url": "https://deborafoundation.org/",
+          "found_time": "2024-11-03 10:58:43",
+          "status": "active"
+        },
+        {
+          "domain": "locardslab.com",
+          "raw_url": "https://locardslab.com/",
+          "found_time": "2024-11-03 10:58:50",
+          "status": "active"
+        },
+        {
+          "domain": "insyt.esoko.com",
+          "raw_url": "https://www.insyt.esoko.com/",
+          "found_time": "2024-11-03 10:58:53",
+          "status": "active"
+        },
+        {
+          "domain": "oxyglow.id",
+          "raw_url": "https://oxyglow.id/",
+          "found_time": "2024-11-03 10:58:54",
+          "status": "active"
+        },
+        {
+          "domain": "silverstallionstable.com",
+          "raw_url": "https://www.silverstallionstable.com/",
+          "found_time": "2024-11-03 10:58:55",
+          "status": "active"
+        },
+        {
+          "domain": "escarpmentvillage.com",
+          "raw_url": "https://escarpmentvillage.com/",
+          "found_time": "2024-11-03 10:58:55",
+          "status": "active"
+        },
+        {
+          "domain": "bigwaterbrewery.net",
+          "raw_url": "https://bigwaterbrewery.net/",
+          "found_time": "2024-11-03 10:59:00",
+          "status": "active"
+        },
+        {
+          "domain": "stag.self-point.com",
+          "raw_url": "https://stag.self-point.com/",
+          "found_time": "2024-11-03 10:59:03",
+          "status": "active"
+        },
+        {
+          "domain": "dawshomefurnishings.com",
+          "raw_url": "https://www.dawshomefurnishings.com/",
+          "found_time": "2024-11-03 10:59:04",
+          "status": "active"
+        },
+        {
+          "domain": "fisherbren.com",
+          "raw_url": "https://www.fisherbren.com/",
+          "found_time": "2024-11-03 10:59:07",
+          "status": "active"
+        },
+        {
+          "domain": "mexrugby.com",
+          "raw_url": "https://mexrugby.com/",
+          "found_time": "2024-11-03 10:59:39",
+          "status": "active"
+        },
+        {
+          "domain": "eatmarinos.com",
+          "raw_url": "https://www.eatmarinos.com/",
+          "found_time": "2024-11-03 10:59:40",
+          "status": "active"
+        },
+        {
+          "domain": "soteunionsprings.com",
+          "raw_url": "https://soteunionsprings.com/",
+          "found_time": "2024-11-03 10:59:40",
+          "status": "active"
+        },
+        {
+          "domain": "tenisplaya.com",
+          "raw_url": "https://tenisplaya.com/",
+          "found_time": "2024-11-03 10:59:43",
+          "status": "active"
+        },
+        {
+          "domain": "munimaynas.gob.pe",
+          "raw_url": "https://www.munimaynas.gob.pe/",
+          "found_time": "2024-11-03 10:59:44",
+          "status": "active"
+        },
+        {
+          "domain": "michelangeloprezioso.com",
+          "raw_url": "https://michelangeloprezioso.com/",
+          "found_time": "2024-11-03 10:59:48",
+          "status": "active"
+        },
+        {
+          "domain": "ngondeli.com",
+          "raw_url": "https://www.ngondeli.com/",
+          "found_time": "2024-11-03 10:59:51",
+          "status": "active"
+        },
+        {
+          "domain": "baliranihotel.com",
+          "raw_url": "https://www.baliranihotel.com/",
+          "found_time": "2024-11-03 10:59:52",
+          "status": "active"
+        },
+        {
+          "domain": "peakschool.org",
+          "raw_url": "https://www.peakschool.org/",
+          "found_time": "2024-11-03 10:59:52",
+          "status": "active"
+        },
+        {
+          "domain": "dancingtomatoes.com",
+          "raw_url": "https://dancingtomatoes.com/",
+          "found_time": "2024-11-03 10:59:57",
+          "status": "active"
+        },
+        {
+          "domain": "joinanswerable.com",
+          "raw_url": "https://joinanswerable.com/",
+          "found_time": "2024-11-03 11:00:00",
+          "status": "active"
+        },
+        {
+          "domain": "pennstateupac.org",
+          "raw_url": "https://pennstateupac.org/",
+          "found_time": "2024-11-03 11:00:11",
+          "status": "active"
+        },
+        {
+          "domain": "dharmacon.net",
+          "raw_url": "https://dharmacon.net/",
+          "found_time": "2024-11-03 11:00:23",
+          "status": "active"
+        },
+        {
+          "domain": "fashionhairshop.com",
+          "raw_url": "https://www.fashionhairshop.com/",
+          "found_time": "2024-11-03 11:00:34",
+          "status": "active"
+        },
+        {
+          "domain": "wiswriters.org",
+          "raw_url": "https://wiswriters.org/",
+          "found_time": "2024-11-03 11:00:52",
+          "status": "active"
+        },
+        {
+          "domain": "datasciencenigeria.org",
+          "raw_url": "https://datasciencenigeria.org/",
+          "found_time": "2024-11-03 11:00:54",
+          "status": "active"
+        },
+        {
+          "domain": "drtusharbhatt.com",
+          "raw_url": "https://www.drtusharbhatt.com/",
+          "found_time": "2024-11-03 11:00:56",
+          "status": "active"
+        },
+        {
+          "domain": "torontocentre.org",
+          "raw_url": "https://www.torontocentre.org/",
+          "found_time": "2024-11-03 11:01:00",
           "status": "active"
         }
       ]

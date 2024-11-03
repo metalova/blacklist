@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-03 17:48:13
+! Last Updated: 2024-11-03 18:01:02
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 195
+! Number of unique domains: 232
 !
 
 ||192.155.95.225^
@@ -12,6 +12,7 @@
 ||adorejewelrydiamonds.com^
 ||almadanceacademy.com^
 ||androidwave.com^
+||angelstarch.com^
 ||anovahealth.co.za^
 ||argotchicago.com^
 ||ashmontcounseling.com^
@@ -37,6 +38,7 @@
 ||breadandburgerjax.com^
 ||buybetterfoods.com^
 ||cac.nust.edu.pk^
+||capitalramen.com^
 ||casalagolondrinacafe.com^
 ||circulationsdouces91.org^
 ||cis-nasional.id^
@@ -52,9 +54,12 @@
 ||daysbetweenfest.com^
 ||debilevine.com^
 ||delmaggie.com^
+||demo.aippnet.org^
 ||depotdispatch.com^
 ||desa-karyamaju.id^
+||dethaikitchen.com^
 ||discover-otocac.com^
+||doccom.org^
 ||dprd.depok.go.id^
 ||drinksdestroyteeth.org^
 ||drjaybhatt.com^
@@ -64,26 +69,35 @@
 ||elliottstreet.com^
 ||emc2023.org^
 ||emoirestaurant.com^
+||equityproject.org^
 ||etalrestaurant.com^
 ||exeterworks.org^
 ||famous50sdiner.com^
 ||fashionstylistinstitute.com^
 ||fatboys-bbq.com^
+||flatironlounge.com^
 ||floridafreshmushrooms.com^
 ||foodpandatw.com^
 ||franksmarathon.com^
 ||ftbprimetime.com^
 ||gamereactor.no^
 ||gardengrillsteakhouse.com^
+||garritytraina.com^
 ||goodburgeruae.com^
 ||gourmetworldmarket.com^
+||gr8.tech^
 ||grandnailssalons.com^
+||greenteethpress.com^
+||griffinslosal.com^
+||groovyduckbakery.net^
 ||grrrl.net^
 ||guadalminagolf.com^
+||gurjone.com^
 ||hawkinshouseevents.com^
 ||hawndev.org^
 ||hc-ant.com^
 ||hillsdonuts.com^
+||hkdigital.io^
 ||hotelakshayathrissur.com^
 ||hotelvillahakuba.com^
 ||ichirin-coffee.com^
@@ -97,6 +111,7 @@
 ||jgs.ejournal.unri.ac.id^
 ||jjsgrillandcatering.com^
 ||jupendik.or.id^
+||karakarakara.com^
 ||kecuranganpemilu.com^
 ||kemenagsidoarjo.com^
 ||konji.hr^
@@ -114,22 +129,30 @@
 ||mapolyng.com^
 ||mekongviewresidence.com^
 ||miclc.org^
+||miniaussierescue.org^
+||mohsenalattar.org^
 ||morningstar.org.sg^
 ||myflowergirl.com^
+||nbsbangladesh.info^
 ||newyartcity.com^
 ||nikoscafeandbar.com^
 ||noontupelo.com^
 ||nttbersuara.com^
 ||oabes.org.br^
+||officepartyla.com^
 ||olgc-follybeach.org^
 ||ompethospital.com^
 ||onsnaiset.com^
 ||pacetrial.org^
+||pafibonebolango.org^
 ||pafigunungkidulkab.org^
 ||pafikabmajalengka.org^
+||pafisorongselatan.org^
 ||pafisumbabaratdaya.org^
+||pafitelukbintuni.org^
 ||palatkadowntown.com^
 ||pam.edesaku.org^
+||paradisepizzacapecod.com^
 ||parekrafntt.id^
 ||pcpafikabmojokerto.org^
 ||pcpafikotaprobolinggo.org^
@@ -137,6 +160,9 @@
 ||pegasuskentucky.org^
 ||pho78florida.com^
 ||phobacdallas.com^
+||phoenixsportsrestaurant.com^
+||picincottage.com^
+||piehops.com^
 ||pierogifactoryphl.com^
 ||pipsqueaking.com^
 ||poupluche.com^
@@ -147,6 +173,7 @@
 ||questexchange.org^
 ||radioactivafm.com^
 ||reneeshairstyling.com^
+||restaurantesantamonica.com^
 ||riverdaleindiankitchenbronx.com^
 ||rohkinokarten.com^
 ||rosabar.com^
@@ -158,21 +185,29 @@
 ||salutstkomsaptacomputer.id^
 ||sanfordvitrified.com^
 ||sangareepizza.com^
+||santeethaihouse.com^
 ||schnitzelhausmiami.com^
 ||seteranglangitbiru.com^
+||shubhashishhomes.com^
 ||shwewutthmon.com^
+||sipp.pn-gedongtataan.go.id^
 ||soupscoopmediterranean.com^
 ||southernhillsanimalclinic.com^
 ||sugarmamacooks.com^
 ||summitmidwestdrags.com^
 ||t.ly^
 ||tacobeach.com^
+||taponmainst.com^
 ||thebarbershq.com^
 ||theburiedlife.com^
 ||thediywoodshop.com^
 ||thegoldencrossinn.com^
+||thegreenhousedayspa.com^
+||thekababfactory.net^
+||thenailstudiollc.com^
 ||theoriginalgoombas.com^
 ||therapywithlillyana.com^
+||thewhiskeychaps.com^
 ||toastonmarket.com^
 ||tomleechicago.com^
 ||topcoatnailbarlenexa.com^
@@ -188,9 +223,11 @@
 ||vinygretta.com^
 ||wac2023bangkok.com^
 ||warungsiska.com^
+||washingtoncyber.org^
 ||weexpo.org^
 ||willowglencreameryca.com^
 ||wwpaintballairsoft.com^
+||yakisoba-miura.com^
 ||yellowbrickfold.com^
 ||yosonhartz.com^
 ||yossiyovel.com^

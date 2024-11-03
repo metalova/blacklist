@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-03 17:48:13
+! Last Updated: 2024-11-03 18:01:02
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 284
+! Number of domains: 357
 !
 
 ! Category: SLOT
@@ -201,6 +201,43 @@
 ||guadalminagolf.com^
 ||willowglencreameryca.com^
 ||androidwave.com^
+||yakisoba-miura.com^
+||miniaussierescue.org^
+||garritytraina.com^
+||restaurantesantamonica.com^
+||dethaikitchen.com^
+||thewhiskeychaps.com^
+||flatironlounge.com^
+||picincottage.com^
+||paradisepizzacapecod.com^
+||thenailstudiollc.com^
+||thekababfactory.net^
+||karakarakara.com^
+||phoenixsportsrestaurant.com^
+||taponmainst.com^
+||mohsenalattar.org^
+||sipp.pn-gedongtataan.go.id^
+||thegreenhousedayspa.com^
+||greenteethpress.com^
+||santeethaihouse.com^
+||officepartyla.com^
+||shubhashishhomes.com^
+||washingtoncyber.org^
+||equityproject.org^
+||capitalramen.com^
+||pafitelukbintuni.org^
+||pafibonebolango.org^
+||groovyduckbakery.net^
+||gr8.tech^
+||griffinslosal.com^
+||pafisorongselatan.org^
+||angelstarch.com^
+||nbsbangladesh.info^
+||hkdigital.io^
+||demo.aippnet.org^
+||piehops.com^
+||gurjone.com^
+||doccom.org^
 
 ! Category: CASINO
 ||newszechuan.com^
@@ -248,6 +285,7 @@
 ||corporeacompanhiadecorpos.com^
 ||arlingtonyouthfootball.com^
 ||beijinggreenbeltmd.com^
+||caseyforcongressri.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
@@ -294,4 +332,39 @@
 ||hpps.com.hr^
 ||kronosalud.es^
 ||ukbipa.id^
+||culturedellasostenibilita.it^
+||bicentenariochile.cl^
+||auntirenestogo.com^
+||knitandcrochetnow.com^
+||kepritoto.koni.or.id^
+||laraec.net^
+||wasabiplano.com^
+||deborafoundation.org^
+||locardslab.com^
+||insyt.esoko.com^
+||oxyglow.id^
+||silverstallionstable.com^
+||escarpmentvillage.com^
+||bigwaterbrewery.net^
+||stag.self-point.com^
+||dawshomefurnishings.com^
+||fisherbren.com^
+||mexrugby.com^
+||eatmarinos.com^
+||soteunionsprings.com^
+||tenisplaya.com^
+||munimaynas.gob.pe^
+||michelangeloprezioso.com^
+||ngondeli.com^
+||baliranihotel.com^
+||peakschool.org^
+||dancingtomatoes.com^
+||joinanswerable.com^
+||pennstateupac.org^
+||dharmacon.net^
+||fashionhairshop.com^
+||wiswriters.org^
+||datasciencenigeria.org^
+||drtusharbhatt.com^
+||torontocentre.org^
 

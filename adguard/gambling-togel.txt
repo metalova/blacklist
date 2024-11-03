@@ -1,28 +1,56 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-03 17:48:13
+! Last Updated: 2024-11-03 18:01:02
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 44
+! Number of unique domains: 79
 !
 
 ||admin.internity.smkn1cibinong.sch.id^
+||auntirenestogo.com^
+||baliranihotel.com^
 ||baznaslangkat.org^
+||bicentenariochile.cl^
+||bigwaterbrewery.net^
 ||character-admission.org^
 ||chunkythread.com^
+||culturedellasostenibilita.it^
+||dancingtomatoes.com^
+||datasciencenigeria.org^
+||dawshomefurnishings.com^
 ||dccourts.gov^
 ||ddpu.edu.ua^
+||deborafoundation.org^
+||dharmacon.net^
+||drtusharbhatt.com^
 ||eadsenai.com.br^
+||eatmarinos.com^
 ||elliottsseafoodandsteak.com^
 ||eng.maranatha.edu^
+||escarpmentvillage.com^
 ||eyeforeyewestern.com^
 ||fadaslsalerno.talete.net^
+||fashionhairshop.com^
+||fisherbren.com^
 ||flooringshermanoaks.com^
 ||forgettherules.com^
 ||hpps.com.hr^
+||insyt.esoko.com^
+||joinanswerable.com^
 ||jorgecalandrelli.com^
+||kepritoto.koni.or.id^
 ||km-ra.org^
+||knitandcrochetnow.com^
 ||kronosalud.es^
+||laraec.net^
+||locardslab.com^
 ||maxcasa.com^
+||mexrugby.com^
+||michelangeloprezioso.com^
+||munimaynas.gob.pe^
+||ngondeli.com^
 ||nilamthreadingandspa.com^
+||oxyglow.id^
+||peakschool.org^
+||pennstateupac.org^
 ||politicayeducacion.com^
 ||prettyvalley.com^
 ||producthunt.com^
@@ -37,14 +65,21 @@
 ||servotogo.com^
 ||shadowdbc.org^
 ||sikupat.kabngawi.id^
+||silverstallionstable.com^
 ||somanyroadsbrewery.com^
+||soteunionsprings.com^
 ||spada.untirta.ac.id^
+||stag.self-point.com^
+||tenisplaya.com^
 ||togelonline88.cloud^
+||torontocentre.org^
 ||transitionbondi.org^
 ||tupac-berlin.com^
 ||ugahockeyd3.com^
 ||ugf.academy^
 ||ukbipa.id^
 ||wajimanavi.jp^
+||wasabiplano.com^
+||wiswriters.org^
 ||zafoundation.org^
 ||zz.te.ua^

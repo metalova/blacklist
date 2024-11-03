@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-03 17:48:13
+! Last Updated: 2024-11-03 18:01:02
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 45
+! Number of unique domains: 46
 !
 
 ||arlingtonyouthfootball.com^
@@ -12,6 +12,7 @@
 ||beijinggreenbeltmd.com^
 ||blackhawkbbqandcoffeeshop.com^
 ||carolinadumpstersllc.com^
+||caseyforcongressri.com^
 ||cherokeelodgenc.com^
 ||cms-gb.com^
 ||cnnindonesia.com^
