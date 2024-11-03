@@ -1,0 +1,50 @@
+! Title: Gambling Domain Blocklist - TOGEL
+! Last Updated: 2024-11-03 17:38:58
+! Description: Automatically generated gambling domain blocklist
+! Number of unique domains: 44
+!
+
+||admin.internity.smkn1cibinong.sch.id^
+||baznaslangkat.org^
+||character-admission.org^
+||chunkythread.com^
+||dccourts.gov^
+||ddpu.edu.ua^
+||eadsenai.com.br^
+||elliottsseafoodandsteak.com^
+||eng.maranatha.edu^
+||eyeforeyewestern.com^
+||fadaslsalerno.talete.net^
+||flooringshermanoaks.com^
+||forgettherules.com^
+||hpps.com.hr^
+||jorgecalandrelli.com^
+||km-ra.org^
+||kronosalud.es^
+||maxcasa.com^
+||nilamthreadingandspa.com^
+||politicayeducacion.com^
+||prettyvalley.com^
+||producthunt.com^
+||provalenslearning.com^
+||ptat.org^
+||r1.community.samsung.com^
+||rampartmetal.com^
+||raymitevlaw.com^
+||redhenrestaurant.com^
+||restaurant-labdh-lehavre.com^
+||ruangkoding.id^
+||servotogo.com^
+||shadowdbc.org^
+||sikupat.kabngawi.id^
+||somanyroadsbrewery.com^
+||spada.untirta.ac.id^
+||togelonline88.cloud^
+||transitionbondi.org^
+||tupac-berlin.com^
+||ugahockeyd3.com^
+||ugf.academy^
+||ukbipa.id^
+||wajimanavi.jp^
+||zafoundation.org^
+||zz.te.ua^

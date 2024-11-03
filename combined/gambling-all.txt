@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-03 17:21:23
+! Last Updated: 2024-11-03 17:38:58
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 181
+! Number of domains: 266
 !
 
 ! Category: SLOT
@@ -161,6 +161,28 @@
 ||olgc-follybeach.org^
 ||bonesuk.com^
 ||pegasuskentucky.org^
+||jgs.ejournal.unri.ac.id^
+||casalagolondrinacafe.com^
+||rohkinokarten.com^
+||bobbobcite.com^
+||goodburgeruae.com^
+||buybetterfoods.com^
+||konji.hr^
+||tricortaxand.com^
+||foodpandatw.com^
+||questexchange.org^
+||m.soundersfc.com^
+||informatikalogi.com^
+||oabes.org.br^
+||tourea-sports.com^
+||astrophotographie-lorraine.com^
+||almadanceacademy.com^
+||depotdispatch.com^
+||wac2023bangkok.com^
+||weexpo.org^
+||soupscoopmediterranean.com^
+||bangorsuites.com^
+||informaticsjournals.com^
 
 ! Category: CASINO
 ||newszechuan.com^
@@ -189,4 +211,68 @@
 ||krakatauinternationalport.co.id^
 ||elizas.co.nz^
 ||instituteforpr.org^
+||viva.co.id^
+||ttelt.org^
+||sunsetranchptc.org^
+||audio-constructor.com^
+||esperancepharma.com^
+||ascentinternationalschool.com^
+||ashevilledatenight.com^
+||steveabrown.com^
+||verbenergybar.com^
+||cherokeelodgenc.com^
+||columbiapacificuniversity.com^
+||thecircuslife.com^
+||mumbaicoworking.com^
+||notosb362.org^
+||wendiartit.com^
+||corporeacompanhiadecorpos.com^
+||arlingtonyouthfootball.com^
+||beijinggreenbeltmd.com^
+
+! Category: TOGEL
+||tupac-berlin.com^
+||chunkythread.com^
+||togelonline88.cloud^
+||somanyroadsbrewery.com^
+||eadsenai.com.br^
+||nilamthreadingandspa.com^
+||ugf.academy^
+||jorgecalandrelli.com^
+||restaurant-labdh-lehavre.com^
+||zz.te.ua^
+||eyeforeyewestern.com^
+||prettyvalley.com^
+||km-ra.org^
+||zafoundation.org^
+||wajimanavi.jp^
+||ruangkoding.id^
+||ugahockeyd3.com^
+||producthunt.com^
+||eng.maranatha.edu^
+||spada.untirta.ac.id^
+||sikupat.kabngawi.id^
+||raymitevlaw.com^
+||forgettherules.com^
+||character-admission.org^
+||ddpu.edu.ua^
+||servotogo.com^
+||redhenrestaurant.com^
+||baznaslangkat.org^
+||fadaslsalerno.talete.net^
+||elliottsseafoodandsteak.com^
+||ptat.org^
+||r1.community.samsung.com^
+||dccourts.gov^
+||admin.internity.smkn1cibinong.sch.id^
+||politicayeducacion.com^
+||maxcasa.com^
+||transitionbondi.org^
+||shadowdbc.org^
+||flooringshermanoaks.com^
+||rampartmetal.com^
+||provalenslearning.com^
+||hpps.com.hr^
+||kronosalud.es^
+||ukbipa.id^
 

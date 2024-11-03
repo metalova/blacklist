@@ -1,14 +1,24 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-03 17:21:23
+! Last Updated: 2024-11-03 17:38:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 26
+! Number of unique domains: 45
 !
 
+||arlingtonyouthfootball.com^
+||ascentinternationalschool.com^
+||ashevilledatenight.com^
+||audio-constructor.com^
 ||baccarat-online.yapenhasboediluhur.sch.id^
+||beijinggreenbeltmd.com^
 ||blackhawkbbqandcoffeeshop.com^
 ||carolinadumpstersllc.com^
+||cherokeelodgenc.com^
 ||cms-gb.com^
+||cnnindonesia.com^
+||columbiapacificuniversity.com^
+||corporeacompanhiadecorpos.com^
 ||elizas.co.nz^
+||esperancepharma.com^
 ||familydentalrockville.com^
 ||goldensteersteakhouse.com^
 ||id.quora.com^
@@ -21,12 +31,21 @@
 ||krakatauinternationalport.co.id^
 ||live-casino.smpn2kotadumai.sch.id^
 ||lubukbangkar.desa.id^
+||mumbaicoworking.com^
 ||newszechuan.com^
+||notosb362.org^
 ||pafinatuna.org^
 ||paoyouth.org^
 ||sierradesanfrancisco.inah.gob.mx^
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
+||steveabrown.com^
+||sunsetranchptc.org^
 ||swearandshake.com^
+||thecircuslife.com^
 ||thefosterfarm.org^
 ||trendshairstudioandspa.com^
+||ttelt.org^
+||verbenergybar.com^
+||viva.co.id^
+||wendiartit.com^

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-03 17:21:23
+! Last Updated: 2024-11-03 17:38:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 155
+! Number of unique domains: 177
 !
 
 ||192.155.95.225^
@@ -9,13 +9,16 @@
 ||acmrl.org^
 ||active20-30.com^
 ||adorejewelrydiamonds.com^
+||almadanceacademy.com^
 ||anovahealth.co.za^
 ||argotchicago.com^
 ||ashmontcounseling.com^
 ||asistendesa.id^
 ||astoriaskitchen.com^
+||astrophotographie-lorraine.com^
 ||atisasecurities.com^
 ||baliyonepal.com^
+||bangorsuites.com^
 ||baznastrenggalek.id^
 ||beautysalondehoofdzaak.com^
 ||beckmanformayor.com^
@@ -24,10 +27,13 @@
 ||bikeshop-lv.com^
 ||birminghamcommitteeonforeignrelations.org^
 ||bkdkabsolok.com^
+||bobbobcite.com^
 ||bonesuk.com^
 ||bprkotapasuruan.com^
 ||breadandburgerjax.com^
+||buybetterfoods.com^
 ||cac.nust.edu.pk^
+||casalagolondrinacafe.com^
 ||circulationsdouces91.org^
 ||cis-nasional.id^
 ||clinicadelpradoestetica.com^
@@ -41,6 +47,7 @@
 ||daysbetweenfest.com^
 ||debilevine.com^
 ||delmaggie.com^
+||depotdispatch.com^
 ||desa-karyamaju.id^
 ||discover-otocac.com^
 ||dprd.depok.go.id^
@@ -55,9 +62,11 @@
 ||famous50sdiner.com^
 ||fatboys-bbq.com^
 ||floridafreshmushrooms.com^
+||foodpandatw.com^
 ||ftbprimetime.com^
 ||gamereactor.no^
 ||gardengrillsteakhouse.com^
+||goodburgeruae.com^
 ||gourmetworldmarket.com^
 ||grandnailssalons.com^
 ||grrrl.net^
@@ -67,14 +76,18 @@
 ||hotelakshayathrissur.com^
 ||hotelvillahakuba.com^
 ||ichirin-coffee.com^
+||informaticsjournals.com^
+||informatikalogi.com^
 ||innerbanksbbq.com^
 ||iraqistudentproject.org^
 ||istrc.org^
 ||jenniferdevine.com^
+||jgs.ejournal.unri.ac.id^
 ||jjsgrillandcatering.com^
 ||jupendik.or.id^
 ||kecuranganpemilu.com^
 ||kemenagsidoarjo.com^
+||konji.hr^
 ||kp.ac.rw^
 ||kustomfithalters.com^
 ||lanceladuke.com^
@@ -82,6 +95,7 @@
 ||leticiarae.com^
 ||livingstonatlanta.com^
 ||loavesandfishesonline.org^
+||m.soundersfc.com^
 ||maiyet.com^
 ||mapolyng.com^
 ||mekongviewresidence.com^
@@ -92,6 +106,7 @@
 ||nikoscafeandbar.com^
 ||noontupelo.com^
 ||nttbersuara.com^
+||oabes.org.br^
 ||olgc-follybeach.org^
 ||ompethospital.com^
 ||onsnaiset.com^
@@ -114,9 +129,11 @@
 ||promo-hyundai-jakarta.com^
 ||propertyneedsyou.com^
 ||properwing.com^
+||questexchange.org^
 ||radioactivafm.com^
 ||reneeshairstyling.com^
 ||riverdaleindiankitchenbronx.com^
+||rohkinokarten.com^
 ||rosabar.com^
 ||roughcutgrill.com^
 ||rskariadi.co.id^
@@ -129,6 +146,7 @@
 ||schnitzelhausmiami.com^
 ||seteranglangitbiru.com^
 ||shwewutthmon.com^
+||soupscoopmediterranean.com^
 ||southernhillsanimalclinic.com^
 ||sugarmamacooks.com^
 ||summitmidwestdrags.com^
@@ -144,13 +162,17 @@
 ||tomleechicago.com^
 ||topcoatnailbarlenexa.com^
 ||toscabronx.com^
+||tourea-sports.com^
 ||travelinginmykitchen.com^
 ||tri-it-taproom.com^
+||tricortaxand.com^
 ||ugochan.com^
 ||ujian.stiki.ac.id^
 ||upw.poltekparmakassar.ac.id^
 ||vinygretta.com^
+||wac2023bangkok.com^
 ||warungsiska.com^
+||weexpo.org^
 ||wwpaintballairsoft.com^
 ||yellowbrickfold.com^
 ||yosonhartz.com^
