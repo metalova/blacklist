@@ -1,15 +1,17 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-03 17:47:45
+! Last Updated: 2024-11-03 17:48:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 189
+! Number of unique domains: 195
 !
 
 ||192.155.95.225^
 ||8toabolition.com^
+||a1gate.co.kr^
 ||acmrl.org^
 ||active20-30.com^
 ||adorejewelrydiamonds.com^
 ||almadanceacademy.com^
+||androidwave.com^
 ||anovahealth.co.za^
 ||argotchicago.com^
 ||ashmontcounseling.com^
@@ -41,6 +43,7 @@
 ||clinicadelpradoestetica.com^
 ||clubebowla.com^
 ||clubforeranch.com^
+||colessouthernbbq.com^
 ||covaledafest.com^
 ||crobinsonmd.com^
 ||crosswater.ch^
@@ -76,6 +79,7 @@
 ||gourmetworldmarket.com^
 ||grandnailssalons.com^
 ||grrrl.net^
+||guadalminagolf.com^
 ||hawkinshouseevents.com^
 ||hawndev.org^
 ||hc-ant.com^
@@ -177,6 +181,7 @@
 ||travelinginmykitchen.com^
 ||tri-it-taproom.com^
 ||tricortaxand.com^
+||tyndalearchive.com^
 ||ugochan.com^
 ||ujian.stiki.ac.id^
 ||upw.poltekparmakassar.ac.id^
@@ -184,6 +189,7 @@
 ||wac2023bangkok.com^
 ||warungsiska.com^
 ||weexpo.org^
+||willowglencreameryca.com^
 ||wwpaintballairsoft.com^
 ||yellowbrickfold.com^
 ||yosonhartz.com^

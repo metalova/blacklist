@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-03 17:47:45",
+  "updated": "2024-11-03 17:48:13",
   "categories": {
     "slot": {
-      "count": 189,
+      "count": 195,
       "domains": [
         {
           "domain": "onsnaiset.com",
@@ -1136,6 +1136,42 @@
           "domain": "fashionstylistinstitute.com",
           "raw_url": "https://www.fashionstylistinstitute.com/",
           "found_time": "2024-11-03 10:47:45",
+          "status": "active"
+        },
+        {
+          "domain": "tyndalearchive.com",
+          "raw_url": "https://www.tyndalearchive.com/",
+          "found_time": "2024-11-03 10:47:45",
+          "status": "active"
+        },
+        {
+          "domain": "colessouthernbbq.com",
+          "raw_url": "https://colessouthernbbq.com/",
+          "found_time": "2024-11-03 10:47:46",
+          "status": "active"
+        },
+        {
+          "domain": "a1gate.co.kr",
+          "raw_url": "https://a1gate.co.kr/sub_01_01.php",
+          "found_time": "2024-11-03 10:47:47",
+          "status": "active"
+        },
+        {
+          "domain": "guadalminagolf.com",
+          "raw_url": "https://www.guadalminagolf.com/",
+          "found_time": "2024-11-03 10:47:52",
+          "status": "active"
+        },
+        {
+          "domain": "willowglencreameryca.com",
+          "raw_url": "https://willowglencreameryca.com/",
+          "found_time": "2024-11-03 10:47:52",
+          "status": "active"
+        },
+        {
+          "domain": "androidwave.com",
+          "raw_url": "https://androidwave.com/",
+          "found_time": "2024-11-03 10:48:11",
           "status": "active"
         }
       ]
