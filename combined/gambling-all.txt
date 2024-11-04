@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-03 18:01:02
+! Last Updated: 2024-11-04 09:20:28
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 357
+! Number of domains: 401
 !
 
 ! Category: SLOT
@@ -238,6 +238,49 @@
 ||piehops.com^
 ||gurjone.com^
 ||doccom.org^
+||appleblossombrewing.com^
+||tuttobenemilano.com^
+||barefootcovemarina.com^
+||heartofeverywhere.com^
+||witny.org^
+||moderakatytrail.com^
+||showparadembo.com^
+||oulandroyale.com^
+||americandentalacademy.org^
+||crablobsterli.com^
+||linvn.org^
+||pafipcmuna.org^
+||krishnapuramatha.org^
+||hahnextremefitness.com^
+||mamahanks.com^
+||iacovonekitchen.com^
+||blvdlic.com^
+||phohasouthphiladelphia.com^
+||airmet.pt^
+||cobramoto.com^
+||smalldataforum.com^
+||veyor.id^
+||mesastila100ultra.com^
+||eatzombiedonuts.com^
+||victoriahospitalsjabalpur.com^
+||mexikingsgrill.com^
+||kaldiscafema.com^
+||beehivebham.com^
+||lgurjcsit.lgu.edu.pk^
+||bigpokefresh.com^
+||diyezmedia.com^
+||lemontree520.com^
+||swansondelivery.com^
+||olibabas.com^
+||caffecarlito.ch^
+||acookiebeforedinner.com^
+||blended-living.com^
+||chiufairestaurant.com^
+||ninewayredmond.com^
+||thebuffalogrand.com^
+||piedivepizza.com^
+||nationalharborboxoffice.com^
+||thebierstube.com^
 
 ! Category: CASINO
 ||newszechuan.com^
@@ -367,4 +410,5 @@
 ||datasciencenigeria.org^
 ||drtusharbhatt.com^
 ||torontocentre.org^
+||ritchiesmarketplace.net^
 

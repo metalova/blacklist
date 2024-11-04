@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-03 18:01:02
+! Last Updated: 2024-11-04 09:20:28
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 79
+! Number of unique domains: 80
 !
 
 ||admin.internity.smkn1cibinong.sch.id^
@@ -61,6 +61,7 @@
 ||raymitevlaw.com^
 ||redhenrestaurant.com^
 ||restaurant-labdh-lehavre.com^
+||ritchiesmarketplace.net^
 ||ruangkoding.id^
 ||servotogo.com^
 ||shadowdbc.org^
