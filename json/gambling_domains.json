@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-04 09:20:28",
+  "updated": "2024-11-04 16:10:56",
   "categories": {
     "slot": {
-      "count": 275,
+      "count": 382,
       "domains": [
         {
           "domain": "onsnaiset.com",
@@ -1653,11 +1653,653 @@
           "raw_url": "https://thebierstube.com/",
           "found_time": "2024-11-04 02:20:22",
           "status": "active"
+        },
+        {
+          "domain": "theliquorstorepdx.com",
+          "raw_url": "https://theliquorstorepdx.com/",
+          "found_time": "2024-11-04 02:20:28",
+          "status": "active"
+        },
+        {
+          "domain": "hellococonutclub.com",
+          "raw_url": "https://www.hellococonutclub.com/",
+          "found_time": "2024-11-04 02:23:34",
+          "status": "active"
+        },
+        {
+          "domain": "balme-avocat.com",
+          "raw_url": "https://www.balme-avocat.com/",
+          "found_time": "2024-11-04 02:23:50",
+          "status": "active"
+        },
+        {
+          "domain": "lvluxurycondos.com",
+          "raw_url": "https://lvluxurycondos.com/",
+          "found_time": "2024-11-04 02:23:51",
+          "status": "active"
+        },
+        {
+          "domain": "gregrmarshall.com",
+          "raw_url": "https://www.gregrmarshall.com/",
+          "found_time": "2024-11-04 02:23:54",
+          "status": "active"
+        },
+        {
+          "domain": "squarepie.com",
+          "raw_url": "https://www.squarepie.com/",
+          "found_time": "2024-11-04 02:23:54",
+          "status": "active"
+        },
+        {
+          "domain": "broadwayboutiquemall.com",
+          "raw_url": "https://broadwayboutiquemall.com/",
+          "found_time": "2024-11-04 02:23:56",
+          "status": "active"
+        },
+        {
+          "domain": "apkpure.com",
+          "raw_url": "https://apkpure.com/id/rtp-slot-gacor-panen/com.demo.rtpgacor88",
+          "found_time": "2024-11-04 02:23:58",
+          "status": "active"
+        },
+        {
+          "domain": "inthecurrent.org",
+          "raw_url": "https://inthecurrent.org/",
+          "found_time": "2024-11-04 02:24:00",
+          "status": "active"
+        },
+        {
+          "domain": "dukcapilmakassar.site",
+          "raw_url": "https://dukcapilmakassar.site/",
+          "found_time": "2024-11-04 02:24:12",
+          "status": "active"
+        },
+        {
+          "domain": "taichibardc.com",
+          "raw_url": "https://taichibardc.com/",
+          "found_time": "2024-11-04 02:24:34",
+          "status": "active"
+        },
+        {
+          "domain": "re-rockspacelocal.com",
+          "raw_url": "https://re-rockspacelocal.com/",
+          "found_time": "2024-11-04 02:24:39",
+          "status": "active"
+        },
+        {
+          "domain": "eatonsquarebar.com",
+          "raw_url": "https://eatonsquarebar.com/",
+          "found_time": "2024-11-04 02:25:01",
+          "status": "active"
+        },
+        {
+          "domain": "sweetberryusa.com",
+          "raw_url": "https://sweetberryusa.com/",
+          "found_time": "2024-11-04 02:25:03",
+          "status": "active"
+        },
+        {
+          "domain": "fdee.org",
+          "raw_url": "https://fdee.org/",
+          "found_time": "2024-11-04 02:25:08",
+          "status": "active"
+        },
+        {
+          "domain": "bantupori.com",
+          "raw_url": "https://bantupori.com/",
+          "found_time": "2024-11-04 02:25:08",
+          "status": "active"
+        },
+        {
+          "domain": "jackpot168gift.org",
+          "raw_url": "https://jackpot168gift.org/",
+          "found_time": "2024-11-04 02:25:08",
+          "status": "active"
+        },
+        {
+          "domain": "manlysurfschool.com",
+          "raw_url": "https://manlysurfschool.com/community",
+          "found_time": "2024-11-04 02:25:19",
+          "status": "active"
+        },
+        {
+          "domain": "apkcombo.com",
+          "raw_url": "https://apkcombo.com/id/rtp-slot-gacor-maxwin/com.apps.infortprealtime/",
+          "found_time": "2024-11-04 02:25:36",
+          "status": "active"
+        },
+        {
+          "domain": "mackatv.net",
+          "raw_url": "https://mackatv.net/",
+          "found_time": "2024-11-04 02:26:40",
+          "status": "active"
+        },
+        {
+          "domain": "citycollisionctr.com",
+          "raw_url": "https://www.citycollisionctr.com/",
+          "found_time": "2024-11-04 02:28:49",
+          "status": "active"
+        },
+        {
+          "domain": "tastyofphofl.com",
+          "raw_url": "https://www.tastyofphofl.com/",
+          "found_time": "2024-11-04 02:28:56",
+          "status": "active"
+        },
+        {
+          "domain": "losamigostoccoa.com",
+          "raw_url": "https://www.losamigostoccoa.com/",
+          "found_time": "2024-11-04 02:29:01",
+          "status": "active"
+        },
+        {
+          "domain": "cabaretbarcelona.com",
+          "raw_url": "https://cabaretbarcelona.com/",
+          "found_time": "2024-11-04 02:29:32",
+          "status": "active"
+        },
+        {
+          "domain": "goodchefrestaurant.com",
+          "raw_url": "https://goodchefrestaurant.com/",
+          "found_time": "2024-11-04 02:29:35",
+          "status": "active"
+        },
+        {
+          "domain": "twid.studio",
+          "raw_url": "https://twid.studio/",
+          "found_time": "2024-11-04 02:29:46",
+          "status": "active"
+        },
+        {
+          "domain": "strivemental.com",
+          "raw_url": "https://strivemental.com/",
+          "found_time": "2024-11-04 02:29:49",
+          "status": "active"
+        },
+        {
+          "domain": "sunnyspizzapdx.com",
+          "raw_url": "https://sunnyspizzapdx.com/",
+          "found_time": "2024-11-04 02:29:50",
+          "status": "active"
+        },
+        {
+          "domain": "marymeyer.com",
+          "raw_url": "https://marymeyer.com/vendor/?srsltid=AfmBOorvCp95w8_gpMvQd-RQtRtkyTZy7nEzvWUPoYqyZ94A1nytblkR",
+          "found_time": "2024-11-04 02:29:57",
+          "status": "active"
+        },
+        {
+          "domain": "fortheloveofgrad.com",
+          "raw_url": "https://www.fortheloveofgrad.com/",
+          "found_time": "2024-11-04 02:30:00",
+          "status": "active"
+        },
+        {
+          "domain": "padanglawaskab.go.id",
+          "raw_url": "https://padanglawaskab.go.id/",
+          "found_time": "2024-11-04 02:30:24",
+          "status": "active"
+        },
+        {
+          "domain": "jdih.komnasham.go.id",
+          "raw_url": "https://jdih.komnasham.go.id/",
+          "found_time": "2024-11-04 02:30:25",
+          "status": "active"
+        },
+        {
+          "domain": "customcakesvb.com",
+          "raw_url": "https://customcakesvb.com/",
+          "found_time": "2024-11-04 02:30:30",
+          "status": "active"
+        },
+        {
+          "domain": "churrocoaustin.com",
+          "raw_url": "https://churrocoaustin.com/",
+          "found_time": "2024-11-04 02:31:43",
+          "status": "active"
+        },
+        {
+          "domain": "mandarinhousestl.com",
+          "raw_url": "https://www.mandarinhousestl.com/",
+          "found_time": "2024-11-04 02:31:47",
+          "status": "active"
+        },
+        {
+          "domain": "off-ramp.org",
+          "raw_url": "https://off-ramp.org/",
+          "found_time": "2024-11-04 02:31:48",
+          "status": "active"
+        },
+        {
+          "domain": "mcmichaelhigh.org",
+          "raw_url": "https://www.mcmichaelhigh.org/",
+          "found_time": "2024-11-04 02:31:53",
+          "status": "active"
+        },
+        {
+          "domain": "caulfieldsdancefitness.com",
+          "raw_url": "https://caulfieldsdancefitness.com/",
+          "found_time": "2024-11-04 02:31:55",
+          "status": "active"
+        },
+        {
+          "domain": "cohunu.com.au",
+          "raw_url": "https://cohunu.com.au/",
+          "found_time": "2024-11-04 02:32:23",
+          "status": "active"
+        },
+        {
+          "domain": "gardenias-sf.com",
+          "raw_url": "https://www.gardenias-sf.com/",
+          "found_time": "2024-11-04 02:32:35",
+          "status": "active"
+        },
+        {
+          "domain": "lunchbox4you.com",
+          "raw_url": "https://lunchbox4you.com/",
+          "found_time": "2024-11-04 02:32:36",
+          "status": "active"
+        },
+        {
+          "domain": "ferrybuildingbikerentals.com",
+          "raw_url": "https://ferrybuildingbikerentals.com/",
+          "found_time": "2024-11-04 02:32:36",
+          "status": "active"
+        },
+        {
+          "domain": "dallasbridgeandgames.com",
+          "raw_url": "https://dallasbridgeandgames.com/",
+          "found_time": "2024-11-04 02:32:37",
+          "status": "active"
+        },
+        {
+          "domain": "nashturley.org",
+          "raw_url": "https://www.nashturley.org/",
+          "found_time": "2024-11-04 02:32:43",
+          "status": "active"
+        },
+        {
+          "domain": "tiendahw.com",
+          "raw_url": "https://www.tiendahw.com/",
+          "found_time": "2024-11-04 02:32:50",
+          "status": "active"
+        },
+        {
+          "domain": "bethelparkfarmersmarket.com",
+          "raw_url": "https://bethelparkfarmersmarket.com/",
+          "found_time": "2024-11-04 02:33:57",
+          "status": "active"
+        },
+        {
+          "domain": "ctprovisions.com",
+          "raw_url": "https://www.ctprovisions.com/",
+          "found_time": "2024-11-04 02:34:04",
+          "status": "active"
+        },
+        {
+          "domain": "whiterabbitny.com",
+          "raw_url": "https://www.whiterabbitny.com/",
+          "found_time": "2024-11-04 03:03:55",
+          "status": "active"
+        },
+        {
+          "domain": "mitrasehatjurnal.com",
+          "raw_url": "https://mitrasehatjurnal.com/",
+          "found_time": "2024-11-04 03:04:01",
+          "status": "active"
+        },
+        {
+          "domain": "iamfruitful.org",
+          "raw_url": "https://www.iamfruitful.org/",
+          "found_time": "2024-11-04 03:12:33",
+          "status": "active"
+        },
+        {
+          "domain": "rekryteringstraff.arbetsformedlingen.se",
+          "raw_url": "https://rekryteringstraff.arbetsformedlingen.se/",
+          "found_time": "2024-11-04 03:12:35",
+          "status": "active"
+        },
+        {
+          "domain": "nealsfurnishings.com",
+          "raw_url": "https://www.nealsfurnishings.com/",
+          "found_time": "2024-11-04 03:12:38",
+          "status": "active"
+        },
+        {
+          "domain": "safecyber.id",
+          "raw_url": "https://www.safecyber.id/",
+          "found_time": "2024-11-04 03:12:41",
+          "status": "active"
+        },
+        {
+          "domain": "himalieats.com",
+          "raw_url": "https://himalieats.com/",
+          "found_time": "2024-11-04 03:12:42",
+          "status": "active"
+        },
+        {
+          "domain": "nasdemkuburaya.id",
+          "raw_url": "https://nasdemkuburaya.id/",
+          "found_time": "2024-11-04 03:12:45",
+          "status": "active"
+        },
+        {
+          "domain": "nashvillepowdercoating.com",
+          "raw_url": "https://nashvillepowdercoating.com/",
+          "found_time": "2024-11-04 03:12:46",
+          "status": "active"
+        },
+        {
+          "domain": "quericosfmk.com",
+          "raw_url": "https://quericosfmk.com/",
+          "found_time": "2024-11-04 03:13:03",
+          "status": "active"
+        },
+        {
+          "domain": "mnh.gov.la",
+          "raw_url": "https://mnh.gov.la/",
+          "found_time": "2024-11-04 03:13:17",
+          "status": "active"
+        },
+        {
+          "domain": "fabledsilvergoldcorp.com",
+          "raw_url": "https://fabledsilvergoldcorp.com/",
+          "found_time": "2024-11-04 03:13:38",
+          "status": "active"
+        },
+        {
+          "domain": "coffeejosh.com",
+          "raw_url": "https://coffeejosh.com/",
+          "found_time": "2024-11-04 03:13:49",
+          "status": "active"
+        },
+        {
+          "domain": "bahamabreezetan.com",
+          "raw_url": "https://bahamabreezetan.com/",
+          "found_time": "2024-11-04 03:13:50",
+          "status": "active"
+        },
+        {
+          "domain": "lovelanguagenash.com",
+          "raw_url": "https://www.lovelanguagenash.com/",
+          "found_time": "2024-11-04 03:14:02",
+          "status": "active"
+        },
+        {
+          "domain": "hccon.id",
+          "raw_url": "https://hccon.id/",
+          "found_time": "2024-11-04 03:14:15",
+          "status": "active"
+        },
+        {
+          "domain": "hogriverbrewing.com",
+          "raw_url": "https://www.hogriverbrewing.com/",
+          "found_time": "2024-11-04 03:14:15",
+          "status": "active"
+        },
+        {
+          "domain": "gringosoysterbar.com",
+          "raw_url": "https://gringosoysterbar.com/",
+          "found_time": "2024-11-04 03:37:08",
+          "status": "active"
+        },
+        {
+          "domain": "thebasbar.com",
+          "raw_url": "https://thebasbar.com/",
+          "found_time": "2024-11-04 03:37:21",
+          "status": "active"
+        },
+        {
+          "domain": "beeplushive.com",
+          "raw_url": "https://beeplushive.com/",
+          "found_time": "2024-11-04 03:37:23",
+          "status": "active"
+        },
+        {
+          "domain": "chicagopizzalascolinas.com",
+          "raw_url": "https://www.chicagopizzalascolinas.com/",
+          "found_time": "2024-11-04 03:37:56",
+          "status": "active"
+        },
+        {
+          "domain": "marshfieldbbq.com",
+          "raw_url": "https://www.marshfieldbbq.com/",
+          "found_time": "2024-11-04 03:45:19",
+          "status": "active"
+        },
+        {
+          "domain": "sandwich-mafia.com",
+          "raw_url": "https://sandwich-mafia.com/",
+          "found_time": "2024-11-04 07:44:04",
+          "status": "active"
+        },
+        {
+          "domain": "legacynfk.com",
+          "raw_url": "https://legacynfk.com/",
+          "found_time": "2024-11-04 07:44:05",
+          "status": "active"
+        },
+        {
+          "domain": "bellavidanatick.com",
+          "raw_url": "https://www.bellavidanatick.com/",
+          "found_time": "2024-11-04 07:44:06",
+          "status": "active"
+        },
+        {
+          "domain": "upcycleafrica.org",
+          "raw_url": "https://upcycleafrica.org/",
+          "found_time": "2024-11-04 07:44:08",
+          "status": "active"
+        },
+        {
+          "domain": "magicmuffinsonline.com",
+          "raw_url": "https://www.magicmuffinsonline.com/",
+          "found_time": "2024-11-04 07:44:12",
+          "status": "active"
+        },
+        {
+          "domain": "disdikbud.padangpanjang.go.id",
+          "raw_url": "https://disdikbud.padangpanjang.go.id/",
+          "found_time": "2024-11-04 07:44:13",
+          "status": "active"
+        },
+        {
+          "domain": "spada.uit.ac.id",
+          "raw_url": "https://spada.uit.ac.id/bandar/",
+          "found_time": "2024-11-04 07:44:18",
+          "status": "active"
+        },
+        {
+          "domain": "booyahsbarandgrill.com",
+          "raw_url": "https://booyahsbarandgrill.com/",
+          "found_time": "2024-11-04 07:44:45",
+          "status": "active"
+        },
+        {
+          "domain": "marathonga.com",
+          "raw_url": "https://marathonga.com/",
+          "found_time": "2024-11-04 07:44:50",
+          "status": "active"
+        },
+        {
+          "domain": "ibmi-medan.com",
+          "raw_url": "https://ibmi-medan.com/",
+          "found_time": "2024-11-04 07:44:51",
+          "status": "active"
+        },
+        {
+          "domain": "mogreenstats.com",
+          "raw_url": "https://mogreenstats.com/",
+          "found_time": "2024-11-04 07:50:13",
+          "status": "active"
+        },
+        {
+          "domain": "pti.usm.my",
+          "raw_url": "https://pti.usm.my/",
+          "found_time": "2024-11-04 07:50:20",
+          "status": "active"
+        },
+        {
+          "domain": "cigo.ky",
+          "raw_url": "https://www.cigo.ky/",
+          "found_time": "2024-11-04 07:50:24",
+          "status": "active"
+        },
+        {
+          "domain": "ebbsfleetlandmark.com",
+          "raw_url": "https://www.ebbsfleetlandmark.com/",
+          "found_time": "2024-11-04 07:50:27",
+          "status": "active"
+        },
+        {
+          "domain": "zeuskusina.com",
+          "raw_url": "https://www.zeuskusina.com/",
+          "found_time": "2024-11-04 07:50:28",
+          "status": "active"
+        },
+        {
+          "domain": "skbeveren.be",
+          "raw_url": "https://www.skbeveren.be/",
+          "found_time": "2024-11-04 07:50:32",
+          "status": "active"
+        },
+        {
+          "domain": "tbobscorner.com",
+          "raw_url": "https://www.tbobscorner.com/",
+          "found_time": "2024-11-04 07:50:36",
+          "status": "active"
+        },
+        {
+          "domain": "edensedgemassage.com",
+          "raw_url": "https://www.edensedgemassage.com/",
+          "found_time": "2024-11-04 07:50:47",
+          "status": "active"
+        },
+        {
+          "domain": "formula.eesc.usp.br",
+          "raw_url": "https://formula.eesc.usp.br/wp-content/slot-deposit-pulsa/",
+          "found_time": "2024-11-04 07:50:56",
+          "status": "active"
+        },
+        {
+          "domain": "kaokaogrill.com",
+          "raw_url": "https://kaokaogrill.com/",
+          "found_time": "2024-11-04 08:33:39",
+          "status": "active"
+        },
+        {
+          "domain": "cqrsinfo.com",
+          "raw_url": "https://cqrsinfo.com/",
+          "found_time": "2024-11-04 08:33:41",
+          "status": "active"
+        },
+        {
+          "domain": "samuelvartan.com",
+          "raw_url": "https://samuelvartan.com/",
+          "found_time": "2024-11-04 08:33:42",
+          "status": "active"
+        },
+        {
+          "domain": "backbayhardware.com",
+          "raw_url": "https://www.backbayhardware.com/",
+          "found_time": "2024-11-04 08:33:45",
+          "status": "active"
+        },
+        {
+          "domain": "139.162.11.75",
+          "raw_url": "https://139.162.11.75/",
+          "found_time": "2024-11-04 08:33:46",
+          "status": "active"
+        },
+        {
+          "domain": "betalent-steam.com",
+          "raw_url": "https://betalent-steam.com/",
+          "found_time": "2024-11-04 08:33:48",
+          "status": "active"
+        },
+        {
+          "domain": "zefflin.com",
+          "raw_url": "https://www.zefflin.com/",
+          "found_time": "2024-11-04 08:35:03",
+          "status": "active"
+        },
+        {
+          "domain": "barkavenueelite.com",
+          "raw_url": "https://www.barkavenueelite.com/",
+          "found_time": "2024-11-04 09:00:12",
+          "status": "active"
+        },
+        {
+          "domain": "piperade.com",
+          "raw_url": "https://www.piperade.com/",
+          "found_time": "2024-11-04 09:01:24",
+          "status": "active"
+        },
+        {
+          "domain": "feelhomeqatar.com",
+          "raw_url": "https://feelhomeqatar.com/",
+          "found_time": "2024-11-04 09:01:35",
+          "status": "active"
+        },
+        {
+          "domain": "makassar.basarnas.go.id",
+          "raw_url": "https://makassar.basarnas.go.id/",
+          "found_time": "2024-11-04 09:01:49",
+          "status": "active"
+        },
+        {
+          "domain": "biancahome.com",
+          "raw_url": "https://biancahome.com/?srsltid=AfmBOoq3wf7t_YeDHvVkCW-N2WVcfoTgoYW3StjbY1YjLk5VoGnw9T4q",
+          "found_time": "2024-11-04 09:02:08",
+          "status": "active"
+        },
+        {
+          "domain": "thepurecareclinic.com",
+          "raw_url": "https://thepurecareclinic.com/",
+          "found_time": "2024-11-04 09:02:14",
+          "status": "active"
+        },
+        {
+          "domain": "slinginginthesmokies.com",
+          "raw_url": "https://www.slinginginthesmokies.com/",
+          "found_time": "2024-11-04 09:02:16",
+          "status": "active"
+        },
+        {
+          "domain": "56diner.com",
+          "raw_url": "https://www.56diner.com/",
+          "found_time": "2024-11-04 09:03:22",
+          "status": "active"
+        },
+        {
+          "domain": "marinebenefitsas.com",
+          "raw_url": "https://www.marinebenefitsas.com/",
+          "found_time": "2024-11-04 09:03:43",
+          "status": "active"
+        },
+        {
+          "domain": "vetsenergyproject.org",
+          "raw_url": "https://vetsenergyproject.org/",
+          "found_time": "2024-11-04 09:03:54",
+          "status": "active"
+        },
+        {
+          "domain": "techbuddy.id",
+          "raw_url": "https://techbuddy.id/",
+          "found_time": "2024-11-04 09:03:56",
+          "status": "active"
+        },
+        {
+          "domain": "hopavenuebrewing.com",
+          "raw_url": "https://www.hopavenuebrewing.com/",
+          "found_time": "2024-11-04 09:04:07",
+          "status": "active"
         }
       ]
     },
     "casino": {
-      "count": 46,
+      "count": 54,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -1934,11 +2576,59 @@
           "raw_url": "https://www.caseyforcongressri.com/",
           "found_time": "2024-11-03 10:52:02",
           "status": "active"
+        },
+        {
+          "domain": "nflgaziabad.fssai.gov.in",
+          "raw_url": "https://nflgaziabad.fssai.gov.in/",
+          "found_time": "2024-11-04 03:52:37",
+          "status": "active"
+        },
+        {
+          "domain": "tripadvisor.co.id",
+          "raw_url": "https://www.tripadvisor.co.id/LocationPhotoDirectLink-g294229-i435934885-Jakarta_Java.html",
+          "found_time": "2024-11-04 03:52:45",
+          "status": "active"
+        },
+        {
+          "domain": "nalarpolitik.com",
+          "raw_url": "https://nalarpolitik.com/",
+          "found_time": "2024-11-04 03:52:46",
+          "status": "active"
+        },
+        {
+          "domain": "ihubtc.com",
+          "raw_url": "https://ihubtc.com/",
+          "found_time": "2024-11-04 03:52:52",
+          "status": "active"
+        },
+        {
+          "domain": "kick.com",
+          "raw_url": "https://kick.com/category/slots",
+          "found_time": "2024-11-04 09:07:11",
+          "status": "active"
+        },
+        {
+          "domain": "grasz.id",
+          "raw_url": "https://grasz.id/",
+          "found_time": "2024-11-04 09:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "totalwarbattles.com",
+          "raw_url": "https://www.totalwarbattles.com/",
+          "found_time": "2024-11-04 09:10:16",
+          "status": "active"
+        },
+        {
+          "domain": "coy99.net",
+          "raw_url": "https://coy99.net/casino/",
+          "found_time": "2024-11-04 09:10:24",
+          "status": "active"
         }
       ]
     },
     "togel": {
-      "count": 80,
+      "count": 150,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -2418,6 +3108,581 @@
           "domain": "ritchiesmarketplace.net",
           "raw_url": "https://ritchiesmarketplace.net/",
           "found_time": "2024-11-03 11:01:02",
+          "status": "active"
+        },
+        {
+          "domain": "vgkh.ru",
+          "raw_url": "https://vgkh.ru/",
+          "found_time": "2024-11-04 03:25:58",
+          "status": "active"
+        },
+        {
+          "domain": "dsvrtlagos.org",
+          "raw_url": "https://www.dsvrtlagos.org/",
+          "found_time": "2024-11-04 03:26:38",
+          "status": "active"
+        },
+        {
+          "domain": "ies9021.mendoza.edu.ar",
+          "raw_url": "http://ies9021.mendoza.edu.ar/",
+          "found_time": "2024-11-04 03:26:46",
+          "status": "active"
+        },
+        {
+          "domain": "emmrod.com",
+          "raw_url": "https://emmrod.com/",
+          "found_time": "2024-11-04 03:26:49",
+          "status": "active"
+        },
+        {
+          "domain": "onegift.io",
+          "raw_url": "https://onegift.io/",
+          "found_time": "2024-11-04 03:54:03",
+          "status": "active"
+        },
+        {
+          "domain": "rdm.mtsjeumalaamal.sch.id",
+          "raw_url": "https://rdm.mtsjeumalaamal.sch.id/amap/",
+          "found_time": "2024-11-04 03:54:07",
+          "status": "active"
+        },
+        {
+          "domain": "hucksstumpgrinding.com",
+          "raw_url": "https://hucksstumpgrinding.com/",
+          "found_time": "2024-11-04 03:54:18",
+          "status": "active"
+        },
+        {
+          "domain": "ypacjakarta.org",
+          "raw_url": "https://www.ypacjakarta.org/",
+          "found_time": "2024-11-04 03:54:21",
+          "status": "active"
+        },
+        {
+          "domain": "babynbow.com",
+          "raw_url": "https://www.babynbow.com/",
+          "found_time": "2024-11-04 03:54:22",
+          "status": "active"
+        },
+        {
+          "domain": "hyitph.com",
+          "raw_url": "https://hyitph.com/kod/space/",
+          "found_time": "2024-11-04 03:54:23",
+          "status": "active"
+        },
+        {
+          "domain": "mericafoods.com",
+          "raw_url": "https://mericafoods.com/",
+          "found_time": "2024-11-04 03:54:30",
+          "status": "active"
+        },
+        {
+          "domain": "altegrity.com",
+          "raw_url": "https://altegrity.com/",
+          "found_time": "2024-11-04 03:54:56",
+          "status": "active"
+        },
+        {
+          "domain": "ricetteamericane.com",
+          "raw_url": "https://www.ricetteamericane.com/",
+          "found_time": "2024-11-04 03:55:15",
+          "status": "active"
+        },
+        {
+          "domain": "totaltool.it",
+          "raw_url": "https://www.totaltool.it/",
+          "found_time": "2024-11-04 03:55:21",
+          "status": "active"
+        },
+        {
+          "domain": "environment.go.ke",
+          "raw_url": "https://environment.go.ke/",
+          "found_time": "2024-11-04 03:55:24",
+          "status": "active"
+        },
+        {
+          "domain": "millesima-technologies.com",
+          "raw_url": "https://www.millesima-technologies.com/",
+          "found_time": "2024-11-04 03:55:32",
+          "status": "active"
+        },
+        {
+          "domain": "millerlbr.com",
+          "raw_url": "https://www.millerlbr.com/",
+          "found_time": "2024-11-04 03:55:37",
+          "status": "active"
+        },
+        {
+          "domain": "ijcl.nalsar.ac.in",
+          "raw_url": "https://ijcl.nalsar.ac.in/",
+          "found_time": "2024-11-04 03:55:50",
+          "status": "active"
+        },
+        {
+          "domain": "theramenbar.ie",
+          "raw_url": "https://theramenbar.ie/",
+          "found_time": "2024-11-04 03:55:52",
+          "status": "active"
+        },
+        {
+          "domain": "desawinong.id",
+          "raw_url": "https://desawinong.id/",
+          "found_time": "2024-11-04 03:55:53",
+          "status": "active"
+        },
+        {
+          "domain": "desakwagean.com",
+          "raw_url": "https://desakwagean.com/",
+          "found_time": "2024-11-04 03:57:09",
+          "status": "active"
+        },
+        {
+          "domain": "digitalhealthacquisition.com",
+          "raw_url": "https://digitalhealthacquisition.com/",
+          "found_time": "2024-11-04 03:57:09",
+          "status": "active"
+        },
+        {
+          "domain": "lsp-daimaru.id",
+          "raw_url": "https://lsp-daimaru.id/pdid/agen-togel-resmi-di-indonesia/",
+          "found_time": "2024-11-04 03:57:22",
+          "status": "active"
+        },
+        {
+          "domain": "airudsumbar.id",
+          "raw_url": "https://airudsumbar.id/",
+          "found_time": "2024-11-04 03:57:23",
+          "status": "active"
+        },
+        {
+          "domain": "cactustefl.com",
+          "raw_url": "https://www.cactustefl.com/",
+          "found_time": "2024-11-04 03:58:04",
+          "status": "active"
+        },
+        {
+          "domain": "canadafile.vn",
+          "raw_url": "https://canadafile.vn/",
+          "found_time": "2024-11-04 04:01:06",
+          "status": "active"
+        },
+        {
+          "domain": "therusticpig.com",
+          "raw_url": "https://www.therusticpig.com/",
+          "found_time": "2024-11-04 04:01:09",
+          "status": "active"
+        },
+        {
+          "domain": "lumerestaurante.com",
+          "raw_url": "https://www.lumerestaurante.com/",
+          "found_time": "2024-11-04 04:01:21",
+          "status": "active"
+        },
+        {
+          "domain": "hifivecafe.com",
+          "raw_url": "https://hifivecafe.com/",
+          "found_time": "2024-11-04 04:01:22",
+          "status": "active"
+        },
+        {
+          "domain": "bkbceramics.com",
+          "raw_url": "https://bkbceramics.com/",
+          "found_time": "2024-11-04 04:01:50",
+          "status": "active"
+        },
+        {
+          "domain": "thesptt.com",
+          "raw_url": "https://thesptt.com/",
+          "found_time": "2024-11-04 04:02:37",
+          "status": "active"
+        },
+        {
+          "domain": "datlanhviet.com",
+          "raw_url": "https://datlanhviet.com/?srsltid=AfmBOoqhDwSUV1-sAo6XzgnYf8LMRe-Jp-bkfs3WxCx57rVOTXHSXJFk",
+          "found_time": "2024-11-04 04:02:39",
+          "status": "active"
+        },
+        {
+          "domain": "087ina.com",
+          "raw_url": "https://087ina.com/news/2892",
+          "found_time": "2024-11-04 08:05:21",
+          "status": "active"
+        },
+        {
+          "domain": "warteg4dmaju.com",
+          "raw_url": "https://warteg4dmaju.com/",
+          "found_time": "2024-11-04 08:05:21",
+          "status": "active"
+        },
+        {
+          "domain": "kingdomserbu.com",
+          "raw_url": "https://kingdomserbu.com/promo.html",
+          "found_time": "2024-11-04 08:05:21",
+          "status": "active"
+        },
+        {
+          "domain": "togel9nagax25.com",
+          "raw_url": "https://togel9nagax25.com/",
+          "found_time": "2024-11-04 08:05:34",
+          "status": "active"
+        },
+        {
+          "domain": "reinhabitingthevillage.com",
+          "raw_url": "https://reinhabitingthevillage.com/",
+          "found_time": "2024-11-04 08:05:36",
+          "status": "active"
+        },
+        {
+          "domain": "learnthermo.com",
+          "raw_url": "https://www.learnthermo.com/",
+          "found_time": "2024-11-04 08:05:37",
+          "status": "active"
+        },
+        {
+          "domain": "er-10hag.xyz",
+          "raw_url": "https://er-10hag.xyz/",
+          "found_time": "2024-11-04 08:05:43",
+          "status": "active"
+        },
+        {
+          "domain": "rotibengkak.com",
+          "raw_url": "https://rotibengkak.com/",
+          "found_time": "2024-11-04 08:05:43",
+          "status": "active"
+        },
+        {
+          "domain": "holywin88sunday.com",
+          "raw_url": "https://holywin88sunday.com/lottery",
+          "found_time": "2024-11-04 08:05:44",
+          "status": "active"
+        },
+        {
+          "domain": "pos4dtototogel02.com",
+          "raw_url": "https://pos4dtototogel02.com/lottery",
+          "found_time": "2024-11-04 08:05:47",
+          "status": "active"
+        },
+        {
+          "domain": "playking88sunday.com",
+          "raw_url": "https://playking88sunday.com/lottery",
+          "found_time": "2024-11-04 08:06:09",
+          "status": "active"
+        },
+        {
+          "domain": "rgonside.com",
+          "raw_url": "https://rgonside.com/result/sd",
+          "found_time": "2024-11-04 08:06:10",
+          "status": "active"
+        },
+        {
+          "domain": "eksoy.com",
+          "raw_url": "https://www.eksoy.com/",
+          "found_time": "2024-11-04 08:06:18",
+          "status": "active"
+        },
+        {
+          "domain": "furnitureworldgalleries.com",
+          "raw_url": "https://www.furnitureworldgalleries.com/",
+          "found_time": "2024-11-04 08:06:19",
+          "status": "active"
+        },
+        {
+          "domain": "chiefladigacampground.com",
+          "raw_url": "https://www.chiefladigacampground.com/",
+          "found_time": "2024-11-04 08:06:19",
+          "status": "active"
+        },
+        {
+          "domain": "bengkuluakses.pro",
+          "raw_url": "https://bengkuluakses.pro/referral",
+          "found_time": "2024-11-04 08:06:20",
+          "status": "active"
+        },
+        {
+          "domain": "ajulianalvarez.com.ar",
+          "raw_url": "https://ajulianalvarez.com.ar/aplikasi-judi-togel-online24jam-terpercaya",
+          "found_time": "2024-11-04 08:06:22",
+          "status": "active"
+        },
+        {
+          "domain": "pawangtoto.id",
+          "raw_url": "https://pawangtoto.id/",
+          "found_time": "2024-11-04 08:06:24",
+          "status": "active"
+        },
+        {
+          "domain": "pawsofmichigan.com",
+          "raw_url": "https://pawsofmichigan.com/",
+          "found_time": "2024-11-04 08:06:25",
+          "status": "active"
+        },
+        {
+          "domain": "madridtoto-w.xyz",
+          "raw_url": "https://madridtoto-w.xyz/news/4667",
+          "found_time": "2024-11-04 08:06:26",
+          "status": "active"
+        },
+        {
+          "domain": "rene4dtoto.com",
+          "raw_url": "https://rene4dtoto.com/",
+          "found_time": "2024-11-04 08:06:26",
+          "status": "active"
+        },
+        {
+          "domain": "kingdom4d0809.com",
+          "raw_url": "https://kingdom4d0809.com/mobile/pasaran/2bfe00c2.html",
+          "found_time": "2024-11-04 08:06:27",
+          "status": "active"
+        },
+        {
+          "domain": "elizabethstjohn.co",
+          "raw_url": "https://elizabethstjohn.co/togel-online24jam-terpercaya/",
+          "found_time": "2024-11-04 08:06:28",
+          "status": "active"
+        },
+        {
+          "domain": "labuubuu.com",
+          "raw_url": "https://labuubuu.com/",
+          "found_time": "2024-11-04 08:06:29",
+          "status": "active"
+        },
+        {
+          "domain": "yardofale.com",
+          "raw_url": "https://yardofale.com/",
+          "found_time": "2024-11-04 08:06:29",
+          "status": "active"
+        },
+        {
+          "domain": "hris.pgn-perkasa.co.id",
+          "raw_url": "https://hris.pgn-perkasa.co.id/",
+          "found_time": "2024-11-04 08:07:31",
+          "status": "active"
+        },
+        {
+          "domain": "iuroncologia.com.br",
+          "raw_url": "https://www.iuroncologia.com.br/",
+          "found_time": "2024-11-04 08:20:45",
+          "status": "active"
+        },
+        {
+          "domain": "future-summit.org",
+          "raw_url": "https://future-summit.org/",
+          "found_time": "2024-11-04 08:21:33",
+          "status": "active"
+        },
+        {
+          "domain": "njpaincenter.com",
+          "raw_url": "https://www.njpaincenter.com/",
+          "found_time": "2024-11-04 08:23:04",
+          "status": "active"
+        },
+        {
+          "domain": "totovip2.bio",
+          "raw_url": "https://totovip2.bio/",
+          "found_time": "2024-11-04 08:23:05",
+          "status": "active"
+        },
+        {
+          "domain": "towneonallen.com",
+          "raw_url": "https://towneonallen.com/",
+          "found_time": "2024-11-04 08:23:05",
+          "status": "active"
+        },
+        {
+          "domain": "soundbetter.com",
+          "raw_url": "https://soundbetter.com/profiles/474475-bo-togel-deposit-pulsa",
+          "found_time": "2024-11-04 08:23:12",
+          "status": "active"
+        },
+        {
+          "domain": "campus.fahce.unlp.edu.ar",
+          "raw_url": "https://campus.fahce.unlp.edu.ar/",
+          "found_time": "2024-11-04 08:23:15",
+          "status": "active"
+        },
+        {
+          "domain": "kopokopo.co.ke",
+          "raw_url": "https://kopokopo.co.ke/",
+          "found_time": "2024-11-04 08:23:16",
+          "status": "active"
+        },
+        {
+          "domain": "arpegediamonds.com",
+          "raw_url": "https://www.arpegediamonds.com/",
+          "found_time": "2024-11-04 08:23:17",
+          "status": "active"
+        },
+        {
+          "domain": "pixels.com",
+          "raw_url": "https://pixels.com/featured/3-deposit-pulsa-tanpa-potongan-purnama-qq.html?srsltid=AfmBOooz--_xCXsEsi4IzWu5HLaAnl8xrcuNTLiB-GXnNCbEOkUo2XzF",
+          "found_time": "2024-11-04 08:23:30",
+          "status": "active"
+        },
+        {
+          "domain": "thewatersidebnb.com",
+          "raw_url": "https://thewatersidebnb.com/",
+          "found_time": "2024-11-04 08:23:32",
+          "status": "active"
+        },
+        {
+          "domain": "steppingstonesnh.org",
+          "raw_url": "https://www.steppingstonesnh.org/",
+          "found_time": "2024-11-04 08:23:33",
+          "status": "active"
+        }
+      ]
+    },
+    "poker": {
+      "count": 25,
+      "domains": [
+        {
+          "domain": "goodshepherdshawnee.org",
+          "raw_url": "https://www.goodshepherdshawnee.org/",
+          "found_time": "2024-11-04 03:29:13",
+          "status": "active"
+        },
+        {
+          "domain": "cobblestonecondosmuskego.com",
+          "raw_url": "https://cobblestonecondosmuskego.com/",
+          "found_time": "2024-11-04 03:29:17",
+          "status": "active"
+        },
+        {
+          "domain": "childrensclothinggiveaway.org",
+          "raw_url": "https://www.childrensclothinggiveaway.org/",
+          "found_time": "2024-11-04 03:29:18",
+          "status": "active"
+        },
+        {
+          "domain": "brian-t-murphy.com",
+          "raw_url": "https://www.brian-t-murphy.com/",
+          "found_time": "2024-11-04 03:29:18",
+          "status": "active"
+        },
+        {
+          "domain": "zafiroxzafiro.com",
+          "raw_url": "https://zafiroxzafiro.com/",
+          "found_time": "2024-11-04 03:29:19",
+          "status": "active"
+        },
+        {
+          "domain": "infogram.com",
+          "raw_url": "https://infogram.com/idn-poker-l-situs-poker-online-l-agen-poker-terpercaya-1hd12yqlvw9w4km",
+          "found_time": "2024-11-04 03:29:21",
+          "status": "active"
+        },
+        {
+          "domain": "tessiecastillo.com",
+          "raw_url": "https://tessiecastillo.com/",
+          "found_time": "2024-11-04 03:29:23",
+          "status": "active"
+        },
+        {
+          "domain": "caaffinity.com",
+          "raw_url": "https://caaffinity.com/",
+          "found_time": "2024-11-04 03:29:25",
+          "status": "active"
+        },
+        {
+          "domain": "ccj.org",
+          "raw_url": "https://ccj.org/aman-bermain-poker-online-di-situs-poker-online-judi-terbaik/",
+          "found_time": "2024-11-04 03:29:29",
+          "status": "active"
+        },
+        {
+          "domain": "seo-charleston.com",
+          "raw_url": "https://seo-charleston.com/",
+          "found_time": "2024-11-04 03:29:33",
+          "status": "active"
+        },
+        {
+          "domain": "m.sia.no",
+          "raw_url": "https://m.sia.no/pkv-games/",
+          "found_time": "2024-11-04 03:29:36",
+          "status": "active"
+        },
+        {
+          "domain": "hukumonline.com",
+          "raw_url": "https://www.hukumonline.com/klinik/a/jerat-hukum-judi-online-cl7026/",
+          "found_time": "2024-11-04 03:29:37",
+          "status": "active"
+        },
+        {
+          "domain": "lesdeuxgaminsmontreal.com",
+          "raw_url": "https://lesdeuxgaminsmontreal.com/",
+          "found_time": "2024-11-04 03:29:40",
+          "status": "active"
+        },
+        {
+          "domain": "paradigmaaswaja.org",
+          "raw_url": "https://paradigmaaswaja.org/",
+          "found_time": "2024-11-04 03:29:41",
+          "status": "active"
+        },
+        {
+          "domain": "hotspringssageoasis.com",
+          "raw_url": "https://www.hotspringssageoasis.com/",
+          "found_time": "2024-11-04 03:32:45",
+          "status": "active"
+        },
+        {
+          "domain": "botanicbites.com",
+          "raw_url": "https://www.botanicbites.com/",
+          "found_time": "2024-11-04 03:32:58",
+          "status": "active"
+        },
+        {
+          "domain": "canamasq.com",
+          "raw_url": "https://canamasq.com/",
+          "found_time": "2024-11-04 03:32:59",
+          "status": "active"
+        },
+        {
+          "domain": "tripadvisor.ru",
+          "raw_url": "https://www.tripadvisor.ru/LocationPhotoDirectLink-g294225-i451973940-Indonesia.html",
+          "found_time": "2024-11-04 04:05:01",
+          "status": "active"
+        },
+        {
+          "domain": "pulsabet.wordpress.com",
+          "raw_url": "https://pulsabet.wordpress.com/",
+          "found_time": "2024-11-04 04:06:28",
+          "status": "active"
+        },
+        {
+          "domain": "sbnhc.org",
+          "raw_url": "https://www.sbnhc.org/",
+          "found_time": "2024-11-04 04:06:29",
+          "status": "active"
+        },
+        {
+          "domain": "thaiafprs.org",
+          "raw_url": "https://www.thaiafprs.org/",
+          "found_time": "2024-11-04 08:26:36",
+          "status": "active"
+        },
+        {
+          "domain": "gambar-idn.com",
+          "raw_url": "https://gambar-idn.com/",
+          "found_time": "2024-11-04 08:26:38",
+          "status": "active"
+        },
+        {
+          "domain": "abipha.com.vn",
+          "raw_url": "https://abipha.com.vn/",
+          "found_time": "2024-11-04 08:26:40",
+          "status": "active"
+        },
+        {
+          "domain": "modalreceheu9.com",
+          "raw_url": "https://modalreceheu9.com/slots/pgsofts",
+          "found_time": "2024-11-04 08:26:43",
+          "status": "active"
+        },
+        {
+          "domain": "petirgatot.com",
+          "raw_url": "https://petirgatot.com/slots/pgsofts",
+          "found_time": "2024-11-04 08:26:44",
           "status": "active"
         }
       ]

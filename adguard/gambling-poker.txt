@@ -1,7 +1,31 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-03 16:48:19
+! Last Updated: 2024-11-04 16:10:56
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 1
+! Number of unique domains: 25
 !
 
+||abipha.com.vn^
+||botanicbites.com^
+||brian-t-murphy.com^
+||caaffinity.com^
+||canamasq.com^
+||ccj.org^
+||childrensclothinggiveaway.org^
+||cobblestonecondosmuskego.com^
+||gambar-idn.com^
+||goodshepherdshawnee.org^
+||hotspringssageoasis.com^
+||hukumonline.com^
+||infogram.com^
+||lesdeuxgaminsmontreal.com^
+||m.sia.no^
+||modalreceheu9.com^
+||paradigmaaswaja.org^
+||petirgatot.com^
 ||pulsabet.wordpress.com^
+||sbnhc.org^
+||seo-charleston.com^
+||tessiecastillo.com^
+||thaiafprs.org^
+||tripadvisor.ru^
+||zafiroxzafiro.com^

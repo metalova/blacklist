@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-04 09:20:28
+! Last Updated: 2024-11-04 16:10:56
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 46
+! Number of unique domains: 54
 !
 
 ||arlingtonyouthfootball.com^
@@ -18,22 +18,28 @@
 ||cnnindonesia.com^
 ||columbiapacificuniversity.com^
 ||corporeacompanhiadecorpos.com^
+||coy99.net^
 ||elizas.co.nz^
 ||esperancepharma.com^
 ||familydentalrockville.com^
 ||goldensteersteakhouse.com^
+||grasz.id^
 ||id.quora.com^
 ||id.scribd.com^
+||ihubtc.com^
 ||incharafamilygardenrestaurant.com^
 ||informaticsglobal.com^
 ||instituteforpr.org^
 ||jenniferellision.com^
+||kick.com^
 ||kputulungagung.com^
 ||krakatauinternationalport.co.id^
 ||live-casino.smpn2kotadumai.sch.id^
 ||lubukbangkar.desa.id^
 ||mumbaicoworking.com^
+||nalarpolitik.com^
 ||newszechuan.com^
+||nflgaziabad.fssai.gov.in^
 ||notosb362.org^
 ||pafinatuna.org^
 ||paoyouth.org^
@@ -45,7 +51,9 @@
 ||swearandshake.com^
 ||thecircuslife.com^
 ||thefosterfarm.org^
+||totalwarbattles.com^
 ||trendshairstudioandspa.com^
+||tripadvisor.co.id^
 ||ttelt.org^
 ||verbenergybar.com^
 ||viva.co.id^
