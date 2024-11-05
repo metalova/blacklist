@@ -1,9 +1,11 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-04 16:10:56
+! Last Updated: 2024-11-05 20:42:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 54
+! Number of unique domains: 66
 !
 
+||agoda.com^
+||alx1top.org^
 ||arlingtonyouthfootball.com^
 ||ascentinternationalschool.com^
 ||ashevilledatenight.com^
@@ -19,11 +21,13 @@
 ||columbiapacificuniversity.com^
 ||corporeacompanhiadecorpos.com^
 ||coy99.net^
+||deviantart.com^
 ||elizas.co.nz^
 ||esperancepharma.com^
 ||familydentalrockville.com^
 ||goldensteersteakhouse.com^
 ||grasz.id^
+||id.marinabaysands.com^
 ||id.quora.com^
 ||id.scribd.com^
 ||ihubtc.com^
@@ -31,18 +35,25 @@
 ||informaticsglobal.com^
 ||instituteforpr.org^
 ||jenniferellision.com^
+||journalofmedula.com^
 ||kick.com^
 ||kputulungagung.com^
 ||krakatauinternationalport.co.id^
+||lanerosacasino.wordpress.com^
 ||live-casino.smpn2kotadumai.sch.id^
 ||lubukbangkar.desa.id^
+||mexicanrestaurantspringfield.com^
 ||mumbaicoworking.com^
 ||nalarpolitik.com^
+||nelsonheller.com^
 ||newszechuan.com^
 ||nflgaziabad.fssai.gov.in^
 ||notosb362.org^
+||olinda.pe.gov.br^
 ||pafinatuna.org^
 ||paoyouth.org^
+||phatphilsfireworks.com^
+||rajacasino.travel^
 ||sierradesanfrancisco.inah.gob.mx^
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
@@ -51,6 +62,7 @@
 ||swearandshake.com^
 ||thecircuslife.com^
 ||thefosterfarm.org^
+||torosclubcelaya.com^
 ||totalwarbattles.com^
 ||trendshairstudioandspa.com^
 ||tripadvisor.co.id^
