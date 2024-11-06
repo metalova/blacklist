@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-05 20:42:07
+! Last Updated: 2024-11-06 22:54:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 66
+! Number of unique domains: 81
 !
 
 ||agoda.com^
@@ -11,13 +11,16 @@
 ||ashevilledatenight.com^
 ||audio-constructor.com^
 ||baccarat-online.yapenhasboediluhur.sch.id^
+||ballycasino.com^
 ||beijinggreenbeltmd.com^
+||bendosari.desa.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||carolinadumpstersllc.com^
 ||caseyforcongressri.com^
 ||cherokeelodgenc.com^
 ||cms-gb.com^
 ||cnnindonesia.com^
+||coingabbar.com^
 ||columbiapacificuniversity.com^
 ||corporeacompanhiadecorpos.com^
 ||coy99.net^
@@ -27,21 +30,26 @@
 ||familydentalrockville.com^
 ||goldensteersteakhouse.com^
 ||grasz.id^
+||hardrock.bet^
 ||id.marinabaysands.com^
 ||id.quora.com^
 ||id.scribd.com^
 ||ihubtc.com^
+||imunisasi-tambahan.kemkes.go.id^
 ||incharafamilygardenrestaurant.com^
 ||informaticsglobal.com^
 ||instituteforpr.org^
 ||jenniferellision.com^
 ||journalofmedula.com^
+||jti.respati.ac.id^
 ||kick.com^
 ||kputulungagung.com^
 ||krakatauinternationalport.co.id^
 ||lanerosacasino.wordpress.com^
 ||live-casino.smpn2kotadumai.sch.id^
+||lrcr.com^
 ||lubukbangkar.desa.id^
+||man12jakarta.id^
 ||mexicanrestaurantspringfield.com^
 ||mumbaicoworking.com^
 ||nalarpolitik.com^
@@ -52,16 +60,23 @@
 ||olinda.pe.gov.br^
 ||pafinatuna.org^
 ||paoyouth.org^
+||pelajarmu.id^
 ||phatphilsfireworks.com^
+||philadelphia.livecasinohotel.com^
+||policarbonatoecuador.com^
 ||rajacasino.travel^
+||senator.hr^
 ||sierradesanfrancisco.inah.gob.mx^
+||sogoarts.com^
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
 ||steveabrown.com^
 ||sunsetranchptc.org^
 ||swearandshake.com^
+||take23.org^
 ||thecircuslife.com^
 ||thefosterfarm.org^
+||tiki-talk.com^
 ||torosclubcelaya.com^
 ||totalwarbattles.com^
 ||trendshairstudioandspa.com^

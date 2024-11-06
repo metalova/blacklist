@@ -1,41 +1,56 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-05 20:42:07
+! Last Updated: 2024-11-06 22:54:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 69
+! Number of unique domains: 100
 !
 
 ||63.142.240.221^
 ||abipha.com.vn^
+||alltrails.com^
 ||ambonkita.com^
+||aquapce.cz^
 ||audivice.com^
 ||baystreetpub.com^
 ||beefsneo.com^
+||bestheadlightbulbs.net^
 ||bhayangkaranews.id^
 ||blackforestcafeandbakery.com^
 ||botanicbites.com^
 ||bravotoday01.vip^
 ||brian-t-murphy.com^
 ||bsc.news^
+||bucharest-marathon.com^
 ||caaffinity.com^
+||cakrabiwa.co.id^
 ||canamasq.com^
 ||ccj.org^
 ||centervillenailsalon.com^
 ||childrensclothinggiveaway.org^
 ||cobblestonecondosmuskego.com^
 ||csdscricketacademy.org^
+||cuan3000.net^
 ||d3w4pokerinv.com^
+||developmetrics.org^
 ||districtmeasured.com^
+||ejournal.upgrisba.ac.id^
+||eseiw2019.com^
 ||feelgoodesprit.com^
+||flcollegedems.org^
+||gabal.de^
 ||gambar-idn.com^
+||gemonaturismo.com^
 ||goodshepherdshawnee.org^
 ||graciouscollegeofeducation.com^
 ||hallfairleyfs.com^
 ||horaspklight.com^
 ||hotspringssageoasis.com^
 ||hukumonline.com^
+||id.wizcase.com^
 ||idntimes.com^
 ||infogram.com^
+||issuu.com^
 ||jacketsforjasper.com^
+||ko-fi.com^
 ||kudapookerr.id^
 ||lapak303web.us^
 ||lesdeuxgaminsmontreal.com^
@@ -46,6 +61,8 @@
 ||micreiros.com^
 ||modalreceheu9.com^
 ||mountzionmedicalcollege.com^
+||mutiarapackaging.com^
+||news.bitcoin.com^
 ||nordicultratune.com^
 ||orlandoalltrans.com^
 ||pafikabacehsingkil.org^
@@ -54,11 +71,17 @@
 ||pamnanihospitalmds.com^
 ||paradigmaaswaja.org^
 ||petirgatot.com^
+||pikiran-rakyat.com^
 ||pos4dtototogel03.com^
 ||pulsabet.wordpress.com^
 ||qqpokeronline.gold^
+||quinzaine-cineastes.fr^
+||raja396club.com^
 ||rgobox1.com^
+||rifugios.net^
 ||rmniloilo.net^
+||rsudlamaddukkelleng.wajokab.go.id^
+||says.com^
 ||sbnhc.org^
 ||seo-charleston.com^
 ||sinarvegas328.com^
@@ -66,10 +89,18 @@
 ||siteme.org^
 ||sns.sk^
 ||sociedadedobem.org^
+||tedxgraphicerauniversity.com^
+||terminaljatijajar.id^
 ||tessiecastillo.com^
 ||thaiafprs.org^
 ||tripadvisor.com^
 ||tripadvisor.fr^
 ||tripadvisor.ru^
+||unifeob.edu.br^
+||visbymedical.com^
+||webflow.com^
 ||winchesterauto.com^
+||winnipokercuan.net^
 ||zafiroxzafiro.com^
+||ziebart.id^
+||zyngaplay.com^
