@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-14 20:17:55
+! Last Updated: 2024-11-14 22:14:22
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 4480
+! Number of domains: 4535
 !
 
 ! Category: SLOT
@@ -4036,6 +4036,61 @@
 ||webmail.binahusada.ac.id^
 ||jittertime.com^
 ||cafesidra.com^
+||thepetitionsite.com^
+||welbm.co.uk^
+||alirsyadpwt.or.id^
+||sosgamers.com^
+||brew-cheese.com^
+||robinhoodstory.com^
+||goldenpalmshotels.com^
+||beatpxm.com^
+||trustindex.io^
+||astrapay.com^
+||bniexperience.bni.co.id^
+||allobank.com^
+||leonbet.co.tz^
+||cuponation.co.id^
+||independent.co.uk^
+||cryptonews.com^
+||talksport.com^
+||ejournal.unimugo.ac.id^
+||gmea.net^
+||christ-rock.com^
+||msp.upr.ac.id^
+||614now.com^
+||itolog.net^
+||cog.go.ke^
+||reading.myhomecare.co.uk^
+||whittlesea.ymca.org.au^
+||joseyofficial.com^
+||godtube.com^
+||nagawin-mongsx1.coolpod.com.au^
+||elearning.sman17plg.sch.id^
+||dailynous.com^
+||huntington.fr^
+||bigbluecarwash.com^
+||sustainabilitydriven.info^
+||projectyogarichmond.org^
+||realtor.ca^
+||gta-homes.com^
+||trademe.co.nz^
+||travelgossip.co.uk^
+||iberianlawyer.com^
+||iadfrance.fr^
+||telcotitans.com^
+||crexi.com^
+||myhome.ie^
+||koin138.com^
+||forum.eset.com^
+||schulerbauer.com^
+||bhgre.com^
+||coldwellbankerhomes.com^
+||kaikabgresik.org^
+||norshunch.com^
+||apufoc.olivertrific.de^
+||ww2.singoedan.xyz^
+||gudeg.net^
+||gioadinatura.fr^
 
 ! Category: CASINO
 ||newszechuan.com^
