@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 23:04:19
+! Last Updated: 2024-11-15 23:09:03
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5230
+! Number of domains: 5287
 !
 
 ! Category: SLOT
@@ -4869,6 +4869,63 @@
 ||epicwin138toto.vercel.app^
 ||moovitapp.com^
 ||tripadvisor.com.tr^
+||siadak.stikesalifah.ac.id^
+||fpmipa.ikip-saraswati.ac.id^
+||tnrscakesncookiesgalore.com^
+||eproc-internal.jakartamrt.co.id^
+||mudbidrijaintemple.com^
+||ggbmagazine.com^
+||amazon.de^
+||chetanalaya.org^
+||suninternational.com^
+||star.com.au^
+||jollywowsbbq.com^
+||greatcanadian.com^
+||rwnewyork.com^
+||skycityadelaide.com.au^
+||crownperth.com.au^
+||sycuan.com^
+||crownmelbourne.com.au^
+||bolavip.com^
+||gdqpan.udn.vn^
+||sdlccorp.com^
+||ballislife.com^
+||dolby.io^
+||lanyardkilat.co.id^
+||bossaction.com^
+||affpapa.com^
+||baccarat.com^
+||forbes.com^
+||brsoftech.com^
+||sippn.menpan.go.id^
+||empiremetrorental.com^
+||aacc.edu^
+||playgon.com^
+||tib.co.id^
+||mshairco.com^
+||organisasi.koltimkab.com^
+||simpadupakfarmasi.kemkes.go.id^
+||tuyendungacbh.com^
+||ebelanja.id^
+||e-statistik.temanggungkab.go.id^
+||thrivemedicalaesthetics.ca^
+||agenciarmva.mg.gov.br^
+||conference.upnvj.ac.id^
+||roulette-simulator.info^
+||roulette-online.id.uptodown.com^
+||thegamer.com^
+||id.piliapp.com^
+||mikeklubnika.itch.io^
+||sociabuzz.com^
+||rawonsurabaya.com^
+||online-stopwatch.com^
+||wordwall.net^
+||rockymountainrep.com^
+||ojs.stieprasetiyamandiri.ac.id^
+||it.piliapp.com^
+||silvergames.com^
+||ocs.upnvj.ac.id^
+||rajawali.ac.id^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
