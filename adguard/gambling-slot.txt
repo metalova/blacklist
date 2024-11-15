@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:29:26
+! Last Updated: 2024-11-15 21:34:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4587
+! Number of unique domains: 4602
 !
 
 ||103.115.28.6^
@@ -106,6 +106,7 @@
 ||a1gate.co.kr^
 ||aaca-wa.org^
 ||abc12.com^
+||abdipersadafm.co.id^
 ||abgbet88win10.top^
 ||ablebeer.com^
 ||about.me^
@@ -345,6 +346,7 @@
 ||astroslot.freeampsite.xyz^
 ||asus.com^
 ||asw.asean.org^
+||asyraafahmadi.com^
 ||athaanginfra.in^
 ||atheos-app.com^
 ||atisasecurities.com^
@@ -672,6 +674,7 @@
 ||brucedickinson.com^
 ||brushycreekvineyards.com^
 ||bsmi.or.id^
+||bsn.or.id^
 ||btikp.kalselprov.go.id^
 ||buhitter.com^
 ||buildtechwetrust.com^
@@ -1831,6 +1834,7 @@
 ||indotogelzeus.com^
 ||indotruck-utama.co.id^
 ||indratogel124.com^
+||industri.kontan.co.id^
 ||industrialrevelation.org^
 ||inews.id^
 ||infinitememorial.com^
@@ -2248,6 +2252,7 @@
 ||lalanahairdesignersva.com^
 ||lalechonaenbogota.com^
 ||lalizas.com^
+||lambornmountainfarmstead.com^
 ||lanceladuke.com^
 ||lancesilverfalls.com^
 ||landandseaindustries.com^
@@ -2806,6 +2811,7 @@
 ||nationalharborboxoffice.com^
 ||nativesoul.net^
 ||natspaperstudio.com^
+||natunakab.go.id^
 ||natungsten.com^
 ||naturalfragrancerose.com^
 ||naturalhistorydirect.com^
@@ -3187,6 +3193,7 @@
 ||ponpesmodernal-imantebelian.ponpes.id^
 ||poorrichardstogo.com^
 ||poptens.com^
+||porosjakarta.com^
 ||portal-flexp-test.orsted.com^
 ||portal.mas-alkhairaat.sch.id^
 ||portal.stienusantara.ac.id^
@@ -3214,6 +3221,7 @@
 ||ppkmindonesia.com^
 ||ppnijateng.org^
 ||ppnikaltim.org^
+||ppqodratullah.com^
 ||ppsdml.bpsdm.dephub.go.id^
 ||pptqalazzaam.org^
 ||pragmatic-slot-gacor-pro.en.softonic.com^
@@ -3273,6 +3281,7 @@
 ||psicoterapiaparalgbts.com.br^
 ||psp.pertanian.go.id^
 ||psuicelionshockey.com^
+||psychoverticalfilm.com^
 ||pta-palembang.go.id^
 ||pta-pontianak.go.id^
 ||pta-spsm.com^
@@ -3892,6 +3901,7 @@
 ||stelmos.com^
 ||stevenbermanphd.com^
 ||stevenpearlman.com^
+||stie-wikara.ac.id^
 ||stieyapibone.id^
 ||stikara.ac.id^
 ||stikespasapua.ac.id^
@@ -3916,6 +3926,7 @@
 ||students.stfi.ac.id^
 ||studyx.ai^
 ||styleteamlighting.com^
+||suarasurabaya.net^
 ||suarausu.or.id^
 ||subito.it^
 ||suburbiajournal.com^
@@ -4028,6 +4039,7 @@
 ||teamsitesnow.com^
 ||tearapart.com^
 ||tebutogel88.com^
+||tech.indozone.id^
 ||techbuddy.id^
 ||techcabal.com^
 ||techdaily.id^
@@ -4245,6 +4257,7 @@
 ||trendyol.com^
 ||tri-it-taproom.com^
 ||tribratanews.bengkulu.polri.go.id^
+||tribratanews.jabar.polri.go.id^
 ||tribratanews.lampung.polri.go.id^
 ||tribratanews.polri.go.id^
 ||tribratanews.sumut.polri.go.id^
@@ -4286,6 +4299,7 @@
 ||tyndalearchive.com^
 ||tyresdirect.is^
 ||ua-referat.com^
+||uachannel.com^
 ||uanativenet.com^
 ||uatom.org^
 ||ubiblog-jp.com^
@@ -4386,6 +4400,7 @@
 ||vinostudia.com^
 ||vinygretta.com^
 ||vip-slots-club.id.uptodown.com^
+||vipelitejersey.com^
 ||vipgacorplay.co^
 ||vipslots.eu^
 ||virginiaenergyresources.com^
