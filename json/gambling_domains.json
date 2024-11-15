@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 04:49:34",
+  "updated": "2024-11-16 05:24:44",
   "categories": {
     "slot": {
       "count": 4746,
@@ -38144,7 +38144,7 @@
       ]
     },
     "others": {
-      "count": 173,
+      "count": 182,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -39182,6 +39182,60 @@
           "domain": "kalselpos.com",
           "raw_url": "https://kalselpos.com/2024/11/08/babak-baru-pemberantasan-judi-online-anggota-dpr-minta-polisi-usut-artis-yang-promosi-judi-online/",
           "found_time": "2024-11-15 21:49:34",
+          "status": "active"
+        },
+        {
+          "domain": "journal.appihi.or.id",
+          "raw_url": "https://journal.appihi.or.id/index.php/Aliansi/article/download/150/168",
+          "found_time": "2024-11-15 21:49:34",
+          "status": "active"
+        },
+        {
+          "domain": "tribratanews.jambi.polri.go.id",
+          "raw_url": "https://tribratanews.jambi.polri.go.id/humaspolda/read/8249/Promosikan-judi-online-dimedsos--polisi-amankan-selebgram-asal-jambi",
+          "found_time": "2024-11-15 22:20:36",
+          "status": "active"
+        },
+        {
+          "domain": "aboutcirebon.id",
+          "raw_url": "https://aboutcirebon.id/promosikan-situs-judi-online-gadis-asal-pabedilan-diamankan-polres-cirebon-kota/",
+          "found_time": "2024-11-15 22:21:37",
+          "status": "active"
+        },
+        {
+          "domain": "blog.modalku.co.id",
+          "raw_url": "https://blog.modalku.co.id/learning-center/jangan-gunakan-dana-pinjaman-untuk-judi-online-ini-alasannya-2/",
+          "found_time": "2024-11-15 22:23:41",
+          "status": "active"
+        },
+        {
+          "domain": "labkom.co.id",
+          "raw_url": "https://labkom.co.id/mikrotik/blokir-situs-judi-online-di-mikrotik-paling-ampuh",
+          "found_time": "2024-11-15 22:23:41",
+          "status": "active"
+        },
+        {
+          "domain": "batastimor.com",
+          "raw_url": "https://www.batastimor.com/news/amp/80513955620/bri-blokir-lebih-dari-3-ribu-rekening-langkah-tegas-perangi-judi-online",
+          "found_time": "2024-11-15 22:23:41",
+          "status": "active"
+        },
+        {
+          "domain": "warnanusa.com",
+          "raw_url": "https://www.warnanusa.com/nasional/amp/83513955680/langkah-tegas-perangi-judol-bri-sukses-blokir-lebih-dari-3-ribu-rekening",
+          "found_time": "2024-11-15 22:23:41",
+          "status": "active"
+        },
+        {
+          "domain": "edisi.co.id",
+          "raw_url": "https://www.edisi.co.id/berita/amp/9713956085/langkah-tegas-perangi-judi-online-bri-blokir-lebih-dari-3-ribu-rekening",
+          "found_time": "2024-11-15 22:24:43",
+          "status": "active"
+        },
+        {
+          "domain": "timesindonesia.co.id",
+          "raw_url": "https://timesindonesia.co.id/peristiwa-daerah/297631/awas-jeratan-judi-online-deposit-murah-dan-bisa-bayar-pakai-aplikasi",
+          "found_time": "2024-11-15 22:24:43",
           "status": "active"
         }
       ]

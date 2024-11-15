@@ -1,5 +1,6 @@
 abatanews.com
 abc.net.au
+aboutcirebon.id
 acehprov.go.id
 agenda.pinamar.gob.ar
 akurasi.id
@@ -14,9 +15,11 @@ azuralabs.id
 babad.id
 bakorwilbojonegoro.jatimprov.go.id
 banjarkota.go.id
+batastimor.com
 belasting.id
 belitongekspres.bacakoran.co
 beritaseruyan.com
+blog.modalku.co.id
 bspjimedan.kemenperin.go.id
 bukamatanews.id
 cantz.or.tz
@@ -32,6 +35,7 @@ djkn.kemenkeu.go.id
 djpb.kemenkeu.go.id
 dkisp.tarakankota.go.id
 dprd-dkijakartaprov.go.id
+edisi.co.id
 ejournal.warunayama.org
 emitennews.com
 era.id
@@ -64,6 +68,7 @@ jabarprov.go.id
 jdih.acehprov.go.id
 jernih.co
 jogjapolitan.harianjogja.com
+journal.appihi.or.id
 journal2.um.ac.id
 judiresmiofficial.com
 jurnal.stisummulayman.ac.id
@@ -82,6 +87,7 @@ kpdsabah.com
 krusial.com
 kudureti.com
 kudus.ayoindonesia.com
+labkom.co.id
 lampost.co
 law.uii.ac.id
 lbhpengayoman.unpar.ac.id
@@ -158,15 +164,18 @@ tennismag.com.ua
 teras.id
 thebestsryxxx.com
 theedadvocate.org
+timesindonesia.co.id
 transformingcenter.org
 transifex.com
 transparannews.id
+tribratanews.jambi.polri.go.id
 tvrisumbar.co.id
 ugm.ac.id
 victorynews.id
 vidio.com
 voaindonesia.com
 voxyouths.com
+warnanusa.com
 wartaekonomi.co.id
 waspadaaceh.com
 westjavatoday.com
