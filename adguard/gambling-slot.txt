@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:14:47
+! Last Updated: 2024-11-15 21:19:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4548
+! Number of unique domains: 4570
 !
 
 ||103.115.28.6^
@@ -104,6 +104,7 @@
 ||9kiss2.com^
 ||a-dokter.id^
 ||a1gate.co.kr^
+||aaca-wa.org^
 ||abc12.com^
 ||abgbet88win10.top^
 ||ablebeer.com^
@@ -267,6 +268,7 @@
 ||annatxpolice.org^
 ||annieland.id^
 ||anovahealth.co.za^
+||anpecomunidadvalenciana.es^
 ||antaranews.com^
 ||anticapitalistas.org^
 ||anturan.edesaku.org^
@@ -299,6 +301,7 @@
 ||apuestasenmexico.mx^
 ||apufoc.olivertrific.de^
 ||ar.advantaseeds.com^
+||arcadiavalleyescape.com^
 ||arcainc.com^
 ||archcrown.com^
 ||archivodocente.upea.bo^
@@ -345,6 +348,7 @@
 ||atheos-app.com^
 ||atisasecurities.com^
 ||atlantaparent.com^
+||atlasinitiative.org^
 ||atmoscoffeeshop.com^
 ||atom.com^
 ||atomictravel.co.nz^
@@ -370,6 +374,7 @@
 ||avantiuris.com^
 ||ave-africa.com^
 ||avifischeri.com^
+||awnstailoring.com^
 ||ayamjpcore.com^
 ||ayanacampbell.pages.dev^
 ||ayobandung.com^
@@ -729,6 +734,7 @@
 ||carrborocommons.org^
 ||carrizosmiles.com^
 ||carstensz.co.id^
+||cartersvilleuc.com^
 ||casadosenhor.com.br^
 ||casalagolondrinacafe.com^
 ||casamodena.net^
@@ -801,6 +807,7 @@
 ||chocolateonamission.com^
 ||chocomatcha.pro^
 ||chodska.cz^
+||chonkybooksreview.com^
 ||chopperssalon.com^
 ||chopstixasianbistrocasper.com^
 ||chr.by^
@@ -1053,6 +1060,7 @@
 ||desavanjaubijeljini.com^
 ||desawisatabudayatulusbesar.id^
 ||deschutesrivermontessori.com^
+||desibankslive.com^
 ||destinynailsspa.com^
 ||dethaikitchen.com^
 ||dev-amp.vercel.app^
@@ -1118,6 +1126,7 @@
 ||dmucu.org^
 ||dnaberita.com^
 ||do-it.org^
+||doaibu-project.pages.dev^
 ||doc420.com^
 ||doccom.org^
 ||docs.sharpsports.io^
@@ -1277,6 +1286,7 @@
 ||entremonde.net^
 ||entrepriseremiplante.com^
 ||environmentalist.co.ke^
+||eodishatourism.com^
 ||epbb.cilacapkab.go.id^
 ||epdeskel.binapemdes.kemendagri.go.id^
 ||epfologinportal.com^
@@ -2027,6 +2037,7 @@
 ||jurnal.law.uniba-bpn.ac.id^
 ||jurnal.peneliti.net^
 ||jurnal.polkesban.ac.id^
+||jurnal.stebankislam.ac.id^
 ||jurnal.stiki.ac.id^
 ||jurnal.tiga-mutiara.com^
 ||jurnal.um-palembang.ac.id^
@@ -2144,6 +2155,7 @@
 ||kishibenotabi.com^
 ||kitamuafrica.com^
 ||kjpp-frr.co.id^
+||kkogibowl.com^
 ||kkpsak.co.id^
 ||klikdokter.com^
 ||klikjatim.com^
@@ -2357,6 +2369,7 @@
 ||lovelanguagenash.com^
 ||lovingeco.com^
 ||lowcountryfishcamp.com^
+||loyaltonhighschool.org^
 ||lpkk.uki.ac.id^
 ||lpm.iaincurup.ac.id^
 ||lpmhayamwuruk.org^
@@ -2573,6 +2586,7 @@
 ||menangmamen123.us^
 ||menangmenangnya.pages.dev^
 ||mendocinocountybusiness.org^
+||menofmelaninmagic.com^
 ||menta88.gr^
 ||mercmanifesto.org^
 ||merdeka.com^
@@ -2921,6 +2935,7 @@
 ||outonalimbtreehouse.com^
 ||owngoalnigeria.com^
 ||oyo-60170-hotel-grand-jp-inn-gundlupet.hotelmix.id^
+||ozflip.com^
 ||ozonecc.com^
 ||p2m.utu.ac.id^
 ||p3m.polimedia.ac.id^
@@ -3091,6 +3106,7 @@
 ||pierogifactoryphl.com^
 ||pierogipierogi.com^
 ||pierreturmelconstruction.com^
+||pievedirevigozzo.org^
 ||pigletsgrill.com^
 ||pikaifi.com.gr^
 ||pikrjingga.com^
@@ -3386,6 +3402,7 @@
 ||repository.unpas.ac.id^
 ||repository.unsri.ac.id^
 ||research.ui.ac.id^
+||researchaether.com^
 ||researchgate.net^
 ||reset.etsii.upm.es^
 ||respic.zacatecas.gob.mx^
@@ -3416,6 +3433,7 @@
 ||rimcafd.com^
 ||ringoslakesidemarina.com^
 ||rinjani.unitri.ac.id^
+||ristorantierice.com^
 ||ritualcleanse.com^
 ||riverdaleindiankitchenbronx.com^
 ||riverfronttimes.com^
@@ -4035,6 +4053,7 @@
 ||test-smon.cez.cz^
 ||test.ppdeh.sch.id^
 ||tetsocollege.org^
+||texaseventcentermansionbythesea.com^
 ||texasinnalamo.com^
 ||texassmokehousecy.com^
 ||tgseed.com^
@@ -4084,6 +4103,7 @@
 ||thehrboss.com^
 ||thehubreedycreek.com^
 ||theinstituteforaddictionstudy.org^
+||thejohnnyleemusic.com^
 ||thekababfactory.net^
 ||thekudumbashreestory.info^
 ||thelavvabar.com^
@@ -4268,6 +4288,7 @@
 ||ukitoraja.ac.id^
 ||ukmpenelitianuny.id^
 ||ult.bbpmpjateng.id^
+||ultraman855.pages.dev^
 ||ulupalakuaranch.com^
 ||ulysse-archerie.com^
 ||umbulponggok.co.id^
@@ -4366,6 +4387,7 @@
 ||vladimirvaclavek.com^
 ||vmrabogados.com^
 ||voi.id^
+||voireproject.com^
 ||vokasi.uki.ac.id^
 ||voyageencrete.com^
 ||vpct.utad.pt^
