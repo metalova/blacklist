@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 02:01:41",
+  "updated": "2024-11-16 02:32:44",
   "categories": {
     "slot": {
       "count": 4746,
@@ -30480,7 +30480,7 @@
       ]
     },
     "togel": {
-      "count": 471,
+      "count": 475,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -33306,6 +33306,30 @@
           "domain": "e-journal.sastra-unes.com",
           "raw_url": "https://e-journal.sastra-unes.com/pages/sgp/",
           "found_time": "2024-11-15 19:01:40",
+          "status": "active"
+        },
+        {
+          "domain": "ibiclass.com",
+          "raw_url": "http://www.ibiclass.com/",
+          "found_time": "2024-11-15 19:01:40",
+          "status": "active"
+        },
+        {
+          "domain": "dundeesurgsoc.com",
+          "raw_url": "https://dundeesurgsoc.com/",
+          "found_time": "2024-11-15 19:32:43",
+          "status": "active"
+        },
+        {
+          "domain": "bjmpmpc.org",
+          "raw_url": "https://www.bjmpmpc.org/",
+          "found_time": "2024-11-15 19:32:43",
+          "status": "active"
+        },
+        {
+          "domain": "dpmptsp.tanatorajakab.go.id",
+          "raw_url": "https://dpmptsp.tanatorajakab.go.id/raden/?raden=data+togel+hk",
+          "found_time": "2024-11-15 19:32:43",
           "status": "active"
         }
       ]
