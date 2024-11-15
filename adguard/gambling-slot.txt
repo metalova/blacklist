@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 08:59:12
+! Last Updated: 2024-11-15 09:03:28
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4157
+! Number of unique domains: 4180
 !
 
 ||103.115.28.6^
@@ -111,6 +111,7 @@
 ||absoluteflooringwyo.com^
 ||academia.edu^
 ||academic.stfi.ac.id^
+||acasadocaminho.org.br^
 ||aceh.polri.go.id^
 ||aciasf.com.br^
 ||acmrl.org^
@@ -166,6 +167,7 @@
 ||agriculturaleducation.org^
 ||agrinesia.co.id^
 ||agry.se^
+||ah01.pages.dev^
 ||ahyujournal.org^
 ||aik.uhamka.ac.id^
 ||airassaults.com^
@@ -427,6 +429,7 @@
 ||beritamorut.com^
 ||beritasatu.com^
 ||bernsteinsfashions.com^
+||besadu.belitung.go.id^
 ||best-hashtags.com^
 ||bestmedicalwv.com^
 ||bet-master.in^
@@ -480,6 +483,7 @@
 ||beyondhallyu.com^
 ||beyondmadisonavenue.com^
 ||bezhetsk.tv^
+||bfa.uz^
 ||bgo88.org^
 ||bhgre.com^
 ||bi-lawfirm.com^
@@ -539,6 +543,7 @@
 ||blvdir.com^
 ||blvdlic.com^
 ||bmbk-lampung.id^
+||bmpgtpq.com^
 ||bniexperience.bni.co.id^
 ||bnn.go.id^
 ||bnuttybuddies.com^
@@ -727,8 +732,10 @@
 ||chinawovenbag.com^
 ||chiufairestaurant.com^
 ||chocolateonamission.com^
+||chocomatcha.pro^
 ||chopperssalon.com^
 ||chopstixasianbistrocasper.com^
+||chr.by^
 ||christ-rock.com^
 ||churchofsatan.com^
 ||churrocoaustin.com^
@@ -937,6 +944,7 @@
 ||delsunjse.com^
 ||deltatirta.iprocs.co.id^
 ||demo.aippnet.org^
+||demo.silverbellroad.com^
 ||democrazy.id^
 ||demoslot.com^
 ||demulih.desa.id^
@@ -977,9 +985,11 @@
 ||digi-mode.com.tr^
 ||digitalghatak.com^
 ||dilmil-yogyakarta.go.id^
+||dimitriospizza.com^
 ||dinaspangan.sumbarprov.go.id^
 ||dingdongtogel127.com^
 ||dinkes.brebeskab.go.id^
+||dinkes.padangpanjang.go.id^
 ||dinkes.sumselprov.go.id^
 ||dinsos.bangka.go.id^
 ||dinsos.bombanakab.go.id^
@@ -1329,6 +1339,7 @@
 ||gamepix.com^
 ||gamepro-cbr4d.org^
 ||gamereactor.no^
+||gamers-loft.com^
 ||gamestationhouse.com^
 ||gardenbarphx.com^
 ||gardengrillsteakhouse.com^
@@ -1715,6 +1726,7 @@
 ||ivary.io^
 ||ivoox.id^
 ||jackpot168gift.org^
+||jackpotdigital.com^
 ||jackpotjoy.com^
 ||jackpotjunction.com^
 ||jahetoto5.cyou^
@@ -1918,6 +1930,7 @@
 ||kemitraanlanskap.id^
 ||kenangan4dmu.com^
 ||kendarinews.com^
+||kennebunkport.org^
 ||kenyapharmtech.com^
 ||kesbang.ngawikab.go.id^
 ||kesbangpol.tanjabbarkab.go.id^
@@ -2123,6 +2136,7 @@
 ||lms.ulb.ac.id^
 ||lmsmpksdi.uhamka.ac.id^
 ||lnbtp-burkina.com^
+||loakulukota.desa.id^
 ||loavesandfishesonline.org^
 ||local244.com^
 ||localescomerciales.com.co^
@@ -2130,6 +2144,7 @@
 ||locourbanstreetfood.com^
 ||login.penjalin.desa.id^
 ||lonepinecafe.com^
+||lonestarplc.com^
 ||longandfoster.com^
 ||lookoutnews.it^
 ||lopinyol.com^
@@ -2426,6 +2441,7 @@
 ||mollersna.com^
 ||mollyhatchet.com^
 ||momoguro.com^
+||moneyandtheruleoflaw.com^
 ||monkeyscrubs.com^
 ||mooncup.com^
 ||mooretransport.com^
@@ -3411,6 +3427,8 @@
 ||slot97agena.com^
 ||slot97sum.com^
 ||slotdepositdana.cc^
+||slotgacor-gacor288-cronograma.pages.dev^
+||slotgacor-kangslot-sede.pages.dev^
 ||slotmalaygame.com^
 ||slots-lucky-vip-09.softonic-id.com^
 ||slotstemple.com^
@@ -3445,6 +3463,7 @@
 ||smknahdhatulumam.id^
 ||smknbulopolman.sch.id^
 ||smknukesesi.sch.id^
+||smkpgri2prabumulih.sch.id^
 ||smpalfacentauri.sch.id^
 ||smpn1raha.sch.id^
 ||smpn4satappagentan.sch.id^
@@ -3679,6 +3698,7 @@
 ||telkomsel.com^
 ||teluklecah.desa.id^
 ||tempo.co^
+||tenders-products.pages.dev^
 ||tenders.itiltd.in^
 ||tenor.com^
 ||terc.lpem.org^
@@ -3709,6 +3729,7 @@
 ||theburnscourtcafe.com^
 ||thecable.ng^
 ||thecambuswallace.com.au^
+||thecareclinicbr.com^
 ||thecitymanado.com^
 ||thecoddlingmovie.substack.com^
 ||theconversation.com^
@@ -3951,6 +3972,7 @@
 ||veniceindiansbaseball.org^
 ||ventabutibamba.com^
 ||venue-insight.com^
+||veracruzmunicipio.gob.mx^
 ||vertigoskylounge.com^
 ||vet.elxel.com^
 ||vetri.global^
@@ -4104,6 +4126,7 @@
 ||www2.gerdau.com.br^
 ||wxlgt.com^
 ||x.com^
+||xelagrillandrestaurant.com^
 ||xfragilpaisvasco.org^
 ||xianghotpot.com^
 ||xtrahoki838.com^
