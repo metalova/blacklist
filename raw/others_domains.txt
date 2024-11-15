@@ -27,6 +27,7 @@ djpb.kemenkeu.go.id
 dkisp.tarakankota.go.id
 dprd-dkijakartaprov.go.id
 ejournal.warunayama.org
+emitennews.com
 era.id
 fajarsatu.com
 faktualnews.co
@@ -36,6 +37,7 @@ forums.autodesk.com
 geraifastpay.co.id
 gizmologi.id
 harianaceh.co.id
+help.grab.com
 herald.id
 heylaw.id
 hukamanews.com
@@ -44,6 +46,7 @@ id.advantaseeds.com
 inanews.co.id
 indonesia.go.id
 indonesiainside.id
+infoekonomi.id
 infoindonesia.id
 itjen.menlhk.go.id
 j5newsroom.com
@@ -66,6 +69,7 @@ law.uii.ac.id
 lbhpengayoman.unpar.ac.id
 lensakini.com
 lenteratoday.com
+linkaja.id
 lokapalanews.com
 m.harianjogja.com
 magdalene.co
@@ -75,6 +79,7 @@ man2serang.sch.id
 mantapkerangwin.us
 medanbisnisdaily.com
 media24.id
+mediabanten.com
 mediajustitia.com
 menpan.go.id
 mistar.id
@@ -87,6 +92,7 @@ nukilan.id
 ojashospitalbhopal.com
 onesearch.id
 opini.harianjogja.com
+orgonitedjawa.com
 owntalk.co.id
 pasardana.id
 pedomanrakyat.com
@@ -98,18 +104,22 @@ ppatk.go.id
 ppid.lampungprov.go.id
 ppid.ppatk.go.id
 ptindahkarya.com
+pulsaaxis.net
 qualityplushseq.ca
+radarkepahiang.bacakoran.co
 radarutara.bacakoran.co
 repository.upbatam.ac.id
 republika.id
 reviewaspg.com
 selular.id
 setneg.go.id
+sfcv.org
 suaradewata.com
 sulbar.herald.id
 supremetoys.ca
 swa.co.id
 tatarmedia.id
+teknologi.id
 tennismag.com.ua
 teras.id
 theedadvocate.org
@@ -120,3 +130,4 @@ ugm.ac.id
 vidio.com
 voaindonesia.com
 voxyouths.com
+westjavatoday.com
