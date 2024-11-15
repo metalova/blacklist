@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 05:44:39",
+  "updated": "2024-11-16 05:48:44",
   "categories": {
     "slot": {
-      "count": 4771,
+      "count": 4777,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28628,6 +28628,42 @@
           "domain": "opuntiabrava.ult.edu.cu",
           "raw_url": "https://opuntiabrava.ult.edu.cu/dbscripts/berkahummahmandiri/index.php?Site_IDMPO%20SLOT%20DEPOSIT%20OVO",
           "found_time": "2024-11-15 22:44:38",
+          "status": "active"
+        },
+        {
+          "domain": "feelmagi.com",
+          "raw_url": "https://feelmagi.com/amp",
+          "found_time": "2024-11-15 22:44:39",
+          "status": "active"
+        },
+        {
+          "domain": "gameloop.com",
+          "raw_url": "https://www.gameloop.com/id/game/simulation/pg-soft-play-on-pc",
+          "found_time": "2024-11-15 22:46:41",
+          "status": "active"
+        },
+        {
+          "domain": "topflightfitnessonline.com",
+          "raw_url": "https://topflightfitnessonline.com/amp/",
+          "found_time": "2024-11-15 22:46:41",
+          "status": "active"
+        },
+        {
+          "domain": "crashthepartyband.com",
+          "raw_url": "https://www.crashthepartyband.com/",
+          "found_time": "2024-11-15 22:46:42",
+          "status": "active"
+        },
+        {
+          "domain": "craftcreameryhtx.com",
+          "raw_url": "https://craftcreameryhtx.com/",
+          "found_time": "2024-11-15 22:46:42",
+          "status": "active"
+        },
+        {
+          "domain": "swissconsultinggroup.com",
+          "raw_url": "https://www.swissconsultinggroup.com/amp",
+          "found_time": "2024-11-15 22:46:42",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 05:44:39
+! Last Updated: 2024-11-16 05:48:44
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4771
+! Number of unique domains: 4777
 !
 
 ||103.115.28.6^
@@ -979,11 +979,13 @@
 ||cqrsinfo.com^
 ||crablobsterli.com^
 ||craftcodekitchen.com^
+||craftcreameryhtx.com^
 ||craftersagainstcovid19.org^
 ||craftkriti.com^
 ||craigbaumann.com^
 ||craigspoplife.com^
 ||crankypm.com^
+||crashthepartyband.com^
 ||crazygames.co.id^
 ||crescentcitycatclub.com^
 ||crescentsushiandthai.com^
@@ -1432,6 +1434,7 @@
 ||feb.nuol.edu.la^
 ||federalinsubd.com^
 ||feelhomeqatar.com^
+||feelmagi.com^
 ||fekreabi.net^
 ||femalehumananimal.com^
 ||feministaa.com^
@@ -1535,6 +1538,7 @@
 ||gambling.com^
 ||gamblinginsider.com^
 ||gamedaim.com^
+||gameloop.com^
 ||gamenos4d.com^
 ||gamepix.com^
 ||gamepro-cbr4d.org^
@@ -4134,6 +4138,7 @@
 ||swansondelivery.com^
 ||sweetberryusa.com^
 ||sweetolivehair.com^
+||swissconsultinggroup.com^
 ||swoft.org^
 ||synergynashville.com^
 ||syracuse.com^
@@ -4381,6 +4386,7 @@
 ||tonicgreensbuynow.com^
 ||toonstream.org^
 ||topcoatnailbarlenexa.com^
+||topflightfitnessonline.com^
 ||topspin88.my^
 ||topup77.net^
 ||topup77.site^
