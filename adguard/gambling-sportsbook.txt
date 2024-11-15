@@ -1,0 +1,38 @@
+! Title: Gambling Domain Blocklist - SPORTSBOOK
+! Last Updated: 2024-11-16 00:24:49
+! Description: Automatically generated gambling domain blocklist
+! Number of unique domains: 32
+!
+
+||babmrjournal.org^
+||balipost.com^
+||bestczechcasinos.cz^
+||bisnis.com^
+||cyberthreat.id^
+||dempelrejo-ngampel.desa.id^
+||digilibadmin.unismuh.ac.id^
+||e-proc.pamjaya.co.id^
+||ejournal.ps.fisip-unmul.ac.id^
+||ejurnal.stiewidyapersada.id^
+||ekorantt.com^
+||investortrust.id^
+||jateng.jpnn.com^
+||joynailsbarrowlett.com^
+||kliklegal.com^
+||laloika.desa.id^
+||metooo.io^
+||neliti.com^
+||padelgoin.com^
+||perspektif.ppj.unp.ac.id^
+||property-lippocikarang.com^
+||rbtv.disway.id^
+||rejosari-kangkung.desa.id^
+||repository.uksw.edu^
+||rumah-jurnal.com^
+||smkn1sukadana.sch.id^
+||smkpasundanmalangbong.com^
+||soccer.indozone.id^
+||superball.bolasport.com^
+||tribratanewsntt.com^
+||wartatransparansi.com^
+||ydsf.org^

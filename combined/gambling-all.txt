@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 00:19:38
+! Last Updated: 2024-11-16 00:24:49
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5433
+! Number of domains: 5479
 !
 
 ! Category: SLOT
@@ -5072,6 +5072,20 @@
 ||medcom.id^
 ||shopfujifilm.com^
 ||dkcreativeworks.co.za^
+||piacasinogiris.com^
+||pustakaarsip.tanjungpinangkota.go.id^
+||iziloh.id^
+||duniagames.co.id^
+||maharashtra.gov.in^
+||cuencas.miambiente.gob.pa^
+||indeedseo.com^
+||smaryssundernagar.com^
+||business2communitymalaysia.com^
+||cleanfeed-records.com^
+||sayma.fnfcomputer.com^
+||gopay.unbp.ac.id^
+||acescaldes.com^
+||cz.casinohex.cz^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
@@ -5445,4 +5459,38 @@
 ||unifeob.edu.br^
 ||cuan3000.net^
 ||bestheadlightbulbs.net^
+
+! Category: SPORTSBOOK
+||e-proc.pamjaya.co.id^
+||neliti.com^
+||laloika.desa.id^
+||kliklegal.com^
+||soccer.indozone.id^
+||tribratanewsntt.com^
+||smkn1sukadana.sch.id^
+||rejosari-kangkung.desa.id^
+||property-lippocikarang.com^
+||padelgoin.com^
+||balipost.com^
+||babmrjournal.org^
+||jateng.jpnn.com^
+||investortrust.id^
+||dempelrejo-ngampel.desa.id^
+||digilibadmin.unismuh.ac.id^
+||metooo.io^
+||superball.bolasport.com^
+||ejournal.ps.fisip-unmul.ac.id^
+||bisnis.com^
+||ydsf.org^
+||rbtv.disway.id^
+||joynailsbarrowlett.com^
+||cyberthreat.id^
+||smkpasundanmalangbong.com^
+||perspektif.ppj.unp.ac.id^
+||wartatransparansi.com^
+||ekorantt.com^
+||rumah-jurnal.com^
+||bestczechcasinos.cz^
+||ejurnal.stiewidyapersada.id^
+||repository.uksw.edu^
 
