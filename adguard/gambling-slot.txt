@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 09:24:37
+! Last Updated: 2024-11-15 09:29:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4235
+! Number of unique domains: 4251
 !
 
 ||103.115.28.6^
@@ -120,6 +120,7 @@
 ||actionjaxjunkremoval.com^
 ||actionnetwork.com^
 ||active20-30.com^
+||acumar.gob.ar^
 ||adacta.regione.calabria.it^
 ||adai.or.id^
 ||adamsbreezyhillfarm.com^
@@ -221,6 +222,7 @@
 ||amoxicillinnrd.com^
 ||amp-jackpotgacor.pages.dev^
 ||amp-rtp.b-cdn.net^
+||amp-spacemanslot.com^
 ||amrut.mohua.gov.in^
 ||anakshaleh.org^
 ||anambaskab.go.id^
@@ -495,6 +497,7 @@
 ||bigcatchlongbeach.com^
 ||bigfishgames.com^
 ||bigkidschicago.com^
+||bigomuncrat.pages.dev^
 ||bigpokefresh.com^
 ||bigskyfriends.com^
 ||bigwinboard.com^
@@ -512,6 +515,7 @@
 ||birdbath.org.uk^
 ||birdofparadiseweddings.com^
 ||birminghamcommitteeonforeignrelations.org^
+||bisalahoki.pages.dev^
 ||bisdig.darunnajah.ac.id^
 ||bishop-hill.net^
 ||bishopspca.org^
@@ -894,6 +898,7 @@
 ||cuckoorestaurant.com.au^
 ||cumbremedical.net^
 ||cuponation.co.id^
+||cushingstreet.com^
 ||cuspe.org^
 ||customcakesvb.com^
 ||cuti.wikaikon.co.id^
@@ -1274,6 +1279,8 @@
 ||fernandofranco.com^
 ||ferrybuildingbikerentals.com^
 ||festivalsophia.it^
+||fetchbrewco.com^
+||feudee.com^
 ||fh.uika-bogor.ac.id^
 ||fiahomefoods.com^
 ||fib.unkhair.ac.id^
@@ -1560,6 +1567,7 @@
 ||hostinger.co.id^
 ||hotel-versal.com^
 ||hotelakshayathrissur.com^
+||hotelchitrapark.com^
 ||hoteldarshannaroda.com^
 ||hotelispat.com^
 ||hotelmumbaiinternational.com^
@@ -1711,6 +1719,7 @@
 ||inspektorat.situbondokab.go.id^
 ||inspireyourjourney.com^
 ||instinctpierres.fr^
+||insuribang.pages.dev^
 ||intellicraftresearch.com^
 ||intence.co^
 ||interwin1.co^
@@ -1905,6 +1914,7 @@
 ||kainratu.co.id^
 ||kakheti.gov.ge^
 ||kaldiscafema.com^
+||kampungbocor.pages.dev^
 ||kanalkalimantan.com^
 ||kanayell.shop^
 ||kangtogelresmi.pages.dev^
@@ -3126,6 +3136,7 @@
 ||reidsvillehigh.org^
 ||rejobinangun-desa.id^
 ||rekrutmen-tni.mil.id^
+||rekrutmen-tni.vercel.app^
 ||rekryteringstraff.arbetsformedlingen.se^
 ||remax.ca^
 ||remedyinc.org^
@@ -3189,6 +3200,7 @@
 ||roughcutgrill.com^
 ||route306bbq.com^
 ||routertccgames.space^
+||roxy.cz^
 ||royal138.com^
 ||royal138uz.com^
 ||royal188mk.com^
@@ -3962,6 +3974,7 @@
 ||uanativenet.com^
 ||uatom.org^
 ||ubiblog-jp.com^
+||udalah.diblast.com^
 ||uglinkbaru.com^
 ||ugochan.com^
 ||ugslot900-5.org^
@@ -3976,6 +3989,7 @@
 ||ulysse-archerie.com^
 ||umbulponggok.co.id^
 ||umdilabs.com^
+||umiba-www.vercel.app^
 ||umiba.info^
 ||umigrillsushibar.com^
 ||umla.ac.id^
@@ -3993,6 +4007,7 @@
 ||unirse.nur.edu^
 ||unitedthemes.com^
 ||universitetite.com^
+||unsulbar.pages.dev^
 ||unud.ac.id^
 ||unyu168scatterhitam.com^
 ||upaaa.net^
@@ -4188,6 +4203,7 @@
 ||yaamava.com^
 ||yagascafe.com^
 ||yakisoba-miura.com^
+||yangpentingdateng.pages.dev^
 ||yankes.kemkes.go.id^
 ||yaperti-gpm.org^
 ||yeahyourightfest.com^
