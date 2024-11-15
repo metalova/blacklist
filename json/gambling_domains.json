@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 19:49:53",
+  "updated": "2024-11-15 19:55:01",
   "categories": {
     "slot": {
-      "count": 4467,
+      "count": 4473,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26804,6 +26804,42 @@
           "domain": "sariasih.com",
           "raw_url": "https://www.sariasih.com/",
           "found_time": "2024-11-15 12:49:52",
+          "status": "active"
+        },
+        {
+          "domain": "makmurgroup.co.id",
+          "raw_url": "https://makmurgroup.co.id/",
+          "found_time": "2024-11-15 12:49:53",
+          "status": "active"
+        },
+        {
+          "domain": "ampun.diblast.com",
+          "raw_url": "https://ampun.diblast.com/amp/peterlonard/file/",
+          "found_time": "2024-11-15 12:50:54",
+          "status": "active"
+        },
+        {
+          "domain": "linkpandora.co",
+          "raw_url": "https://linkpandora.co/pandora188/",
+          "found_time": "2024-11-15 12:51:56",
+          "status": "active"
+        },
+        {
+          "domain": "tulangkuat.com",
+          "raw_url": "https://tulangkuat.com/amp",
+          "found_time": "2024-11-15 12:51:56",
+          "status": "active"
+        },
+        {
+          "domain": "sttbaptis-medan.ac.id",
+          "raw_url": "https://sttbaptis-medan.ac.id/",
+          "found_time": "2024-11-15 12:52:57",
+          "status": "active"
+        },
+        {
+          "domain": "dentalimplantsgoshenny.com",
+          "raw_url": "https://www.dentalimplantsgoshenny.com/",
+          "found_time": "2024-11-15 12:52:58",
           "status": "active"
         }
       ]

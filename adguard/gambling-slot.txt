@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 19:49:53
+! Last Updated: 2024-11-15 19:55:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4467
+! Number of unique domains: 4473
 !
 
 ||103.115.28.6^
@@ -238,6 +238,7 @@
 ||ampfiftoto.com^
 ||ampsakti.ivermectinytab.com^
 ||ampt4d.pages.dev^
+||ampun.diblast.com^
 ||ampv99.pages.dev^
 ||amrut.mohua.gov.in^
 ||anakshaleh.org^
@@ -1012,6 +1013,7 @@
 ||demulih.desa.id^
 ||dencarik.edesaku.org^
 ||denpost.id^
+||dentalimplantsgoshenny.com^
 ||depo138.blog^
 ||depo138.org^
 ||deposit4d.net^
@@ -2261,6 +2263,7 @@
 ||lingmanis.online^
 ||lini.or.id^
 ||link.space^
+||linkpandora.co^
 ||linkqu.id^
 ||linkr.bio^
 ||linktr.ee^
@@ -2393,6 +2396,7 @@
 ||majukumbang.xyz^
 ||makassar.basarnas.go.id^
 ||makingthecomplexcompelling.com^
+||makmurgroup.co.id^
 ||malamgacor.com^
 ||malang.times.co.id^
 ||malikdeenarhospital.com^
@@ -3812,6 +3816,7 @@
 ||striketips.com^
 ||strivemental.com^
 ||stroke2023.org^
+||sttbaptis-medan.ac.id^
 ||sttbi.info^
 ||students.stfi.ac.id^
 ||studyx.ai^
@@ -4166,6 +4171,7 @@
 ||tsubaki-hg.com^
 ||tto.nust.edu.pk^
 ||tuffstuffitness.com^
+||tulangkuat.com^
 ||tumblr.com^
 ||tunnelwalkofshame.com^
 ||tuttobenemilano.com^
