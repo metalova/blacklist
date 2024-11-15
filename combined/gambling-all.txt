@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 02:44:04
+! Last Updated: 2024-11-16 02:49:44
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6058
+! Number of domains: 6098
 !
 
 ! Category: SLOT
@@ -5615,6 +5615,46 @@
 ||bubblemaineia.com^
 ||snox365.com^
 ||thepitmasterbbq.com^
+||ovo.bumipersada.ac.id^
+||saveraitcastle.org^
+||satelliteisland.com.au^
+||fb.pelitaindonesia.ac.id^
+||chicplanete.net^
+||put.sidang.pa-majalengka.go.id^
+||janville-sur-juine.fr^
+||inside-global.com^
+||sdgaccord.org^
+||bdsindonesia.id^
+||vegantouchfoods.com^
+||sjm.anubih.ba^
+||ava.uniguacu.com.br^
+||campingdebesalu.com^
+||amp.domainrtp.online^
+||ransjituamp.gacorclouds.workers.dev^
+||corinne-demarest-lepretre.fr^
+||patenjituamp.gacorclouds.workers.dev^
+||warteg4damp.gacorclouds.workers.dev^
+||netizen303amp.pages.dev^
+||ampyusaldo4d.pages.dev^
+||buah4damp.gacorclouds.workers.dev^
+||cuma1nwin.info^
+||wibu69ol.vercel.app^
+||turkishost.com^
+||azurenapratica.com^
+||tedxavenuedespepinieres.com^
+||olimpohotel.com^
+||sparkassenstiftung-turkey.org^
+||georgielabs.net^
+||gunesgozlugu.com^
+||clinicaderodillas.com.mx^
+||coberconstrucciones.com.pe^
+||tinaremiz.com^
+||ayac2023.org^
+||limaumanis.desa.natunakab.go.id^
+||hackerrank.com^
+||historiadelacomunicacion.com^
+||ortax.org^
+||morrisfarm.org^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^
