@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 02:39:45
+! Last Updated: 2024-11-16 02:44:04
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 509
+! Number of unique domains: 527
 !
 
 ||087ina.com^
@@ -40,6 +40,7 @@
 ||ayicc.org^
 ||b2babq.com^
 ||babynbow.com^
+||baladena.id^
 ||baliranihotel.com^
 ||balpos.com^
 ||banksuryakencana.com^
@@ -59,12 +60,14 @@
 ||bjmpmpc.org^
 ||bkbceramics.com^
 ||bkd.kalteng.go.id^
+||blackfacts.com^
 ||bluestacks.com^
 ||boucherienotredamechartrain.fr^
 ||breederiverqueen.com^
 ||brentschmidgallauction.com^
 ||bridgeporthealthcarecenter.com^
 ||btklppbatam.pages.dev^
+||bubblemaineia.com^
 ||burlapandlacemetterga.com^
 ||cactustefl.com^
 ||cafebazaar.ir^
@@ -113,6 +116,7 @@
 ||diabetescareguide.com^
 ||digitalhealthacquisition.com^
 ||dishub.kotawaringinbaratkab.go.id^
+||diskominfo.dompukab.go.id^
 ||districtattorney10.com^
 ||dma-arch.com^
 ||dpmptsp.tanatorajakab.go.id^
@@ -133,6 +137,7 @@
 ||eksoy.com^
 ||elamigolawndale.com^
 ||elizabethstjohn.co^
+||elkingtonfamily.com^
 ||elliottsseafoodandsteak.com^
 ||elodietheron-psychologue.fr^
 ||elpipiripau.com^
@@ -180,6 +185,7 @@
 ||gvscolombia.com^
 ||halosekolah.id^
 ||hantogel.indonesianet.co.id^
+||hcglawoffice.com^
 ||hello-europe.org^
 ||hietec-conference.org^
 ||hifivecafe.com^
@@ -230,6 +236,7 @@
 ||kawasakisurabaya.com^
 ||kelarikairmali.pages.dev^
 ||kelumac.com^
+||kentuckyopry.com^
 ||kepritoto.koni.or.id^
 ||kingdom4d0809.com^
 ||kingdomserbu.com^
@@ -259,6 +266,7 @@
 ||liputanbolafox.wordpress.com^
 ||liquimarcas.co^
 ||literasispenda.id^
+||lms6.digivarsity.com^
 ||locardslab.com^
 ||louthcms.org^
 ||lphd.s-desa.id^
@@ -293,6 +301,7 @@
 ||millerlbr.com^
 ||millesima-technologies.com^
 ||mindscapeketamine.com^
+||missionfirefly.org^
 ||mlvintagemeet.com^
 ||mountainwildlifemuseum.com^
 ||mrlucky.pages.dev^
@@ -300,6 +309,7 @@
 ||munihualqui.cl^
 ||munimaynas.gob.pe^
 ||muralsoflascruces.com^
+||myfortworthpodiatrist.com^
 ||nasarri.go.ug^
 ||nationalityforall.org^
 ||neighborhoodwraps.com^
@@ -340,8 +350,10 @@
 ||polrestagorontalokota.com^
 ||polyuprotec.com^
 ||portal-flexp.orsted.com^
+||portaljatim.id^
 ||pos4dtototogel02.com^
 ||precisionlogisticsnj.com^
+||prediksi.gacorclouds.workers.dev^
 ||prediksiabujitu.com^
 ||prediksijitu.id^
 ||premier333vv.com^
@@ -356,6 +368,7 @@
 ||psy-peujard.fr^
 ||ptat.org^
 ||puela.gob.ec^
+||pulsamafia.com^
 ||putusan3.mahkamahagung.go.id^
 ||quicklyserv.com^
 ||r1.community.samsung.com^
@@ -419,7 +432,9 @@
 ||sipp.pn-sukamakmue.go.id^
 ||skpi.univrab.ac.id^
 ||smallcakesofsurprise.com^
+||sman1salatiga.sch.id^
 ||smksyanuristonjong.com^
+||snox365.com^
 ||society4romanianstudies.org^
 ||soloasi.mx^
 ||somanyroadsbrewery.com^
@@ -450,6 +465,7 @@
 ||thelakesidesuite.co.uk^
 ||theodysseyonline.com^
 ||thepearltaunton.com^
+||thepitmasterbbq.com^
 ||theramenbar.ie^
 ||therusticpig.com^
 ||thesptt.com^
@@ -463,6 +479,7 @@
 ||tomsanford.com^
 ||torontocentre.org^
 ||totaltool.it^
+||totobarong.morrodagarca.cam.mg.gov.br^
 ||totosgelgroup.wordpress.com^
 ||totovip2.bio^
 ||towneonallen.com^
@@ -501,6 +518,7 @@
 ||winterprideuk.com^
 ||wiswriters.org^
 ||witmena.org^
+||wokitup.com.au^
 ||womenscenterbc.com^
 ||wooktiup2.pages.dev^
 ||writerslife.org^
