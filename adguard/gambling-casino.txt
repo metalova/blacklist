@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 00:09:59
+! Last Updated: 2024-11-16 00:14:20
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 272
+! Number of unique domains: 296
 !
 
 ||24liveblog.com^
@@ -9,19 +9,24 @@
 ||6abc.com^
 ||aacc.edu^
 ||abzorba-live-blackjack-21-pro.id.uptodown.com^
+||accounts.hbtu.ac.in^
 ||affpapa.com^
 ||afronation.com^
 ||agen-casino.online^
 ||agenciarmva.mg.gov.br^
 ||agoda.com^
+||allsaintscollege.org^
 ||alwaysthaichicago.com^
 ||alx1top.org^
 ||amazon.de^
 ||amodiva.com^
 ||arlingtonyouthfootball.com^
+||arspb.org^
 ||ascentinternationalschool.com^
 ||ashevilledatenight.com^
+||attorneypeterkelley.com^
 ||audio-constructor.com^
+||av-voyages.fr^
 ||baccarat-online.yapenhasboediluhur.sch.id^
 ||baccarat.com^
 ||ballislife.com^
@@ -36,6 +41,7 @@
 ||bizhare.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||blockonomi.com^
+||blog.accesspoint.id^
 ||bolavip.com^
 ||bombayclub.com^
 ||bos1.xyz^
@@ -51,6 +57,7 @@
 ||casino-terrestre.com^
 ||casino-vip.com^
 ||casinoprideofficial.com^
+||casinos.ballys.com^
 ||cbsnews.com^
 ||cc.iift.ac.in^
 ||cdcgaming.com^
@@ -79,6 +86,7 @@
 ||eastbayexpress.com^
 ||ebelanja.id^
 ||edgewoodtahoe.com^
+||elements.envato.com^
 ||elizas.co.nz^
 ||empiremetrorental.com^
 ||epicwin138toto.vercel.app^
@@ -98,6 +106,7 @@
 ||golaurelhighlands.com^
 ||goldenmesa.com^
 ||goldensteersteakhouse.com^
+||golkar.or.id^
 ||gotravelly.com^
 ||grandcasino-bern.ch^
 ||grandsierraresort.com^
@@ -117,6 +126,7 @@
 ||id.scribd.com^
 ||id.uptodown.com^
 ||id.y8.com^
+||ideausher.com^
 ||ignotzsristorante.com^
 ||ihubtc.com^
 ||ilaniresort.com^
@@ -125,6 +135,8 @@
 ||incharafamilygardenrestaurant.com^
 ||informaticsglobal.com^
 ||instituteforpr.org^
+||investopedia.com^
+||isleta.com^
 ||it.piliapp.com^
 ||jacobandco.com^
 ||jacobsforsenate.com^
@@ -157,8 +169,10 @@
 ||mikeklubnika.itch.io^
 ||millelacs.com^
 ||mindilbeachcasinoresort.com.au^
+||modison.com^
 ||mojadipro.com^
 ||moovitapp.com^
+||mrbit.bg^
 ||mshairco.com^
 ||mudbidrijaintemple.com^
 ||mumbaicoworking.com^
@@ -166,16 +180,19 @@
 ||nelsonheller.com^
 ||newszechuan.com^
 ||nflgaziabad.fssai.gov.in^
+||nj.com^
 ||northstarcasinoresort.com^
 ||notosb362.org^
 ||nuxgame.com^
 ||oag.ca.gov^
 ||oaklawn.com^
 ||ocs.upnvj.ac.id^
+||oddsonpromotions.com^
 ||ojs.stieprasetiyamandiri.ac.id^
 ||olinda.pe.gov.br^
 ||online-stopwatch.com^
 ||organisasi.koltimkab.com^
+||osagecasino.com^
 ||ourladyoffatimapatiala.com^
 ||pa-bengkulukota.go.id^
 ||pafinatuna.org^
@@ -224,8 +241,10 @@
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
 ||spilnosylno.in.ua^
+||spstbt.iift.ac.in^
 ||star.com.au^
 ||steveabrown.com^
+||stjohnschandigarh.com^
 ||stkarensmontessorischool.com^
 ||suninternational.com^
 ||sunsetranchptc.org^
@@ -234,18 +253,22 @@
 ||take23.org^
 ||tastyvintage.com^
 ||teknik.widyakarya.ac.id^
+||telegraph.co.uk^
 ||thecircuslife.com^
 ||theexpendables2film.com^
 ||thefosterfarm.org^
 ||thegamer.com^
 ||thegolfbusiness.co.uk^
 ||thehypemagazine.com^
+||theoceanac.com^
+||theoplayer.com^
 ||theresortatsummerlin.com^
 ||thirdmonkeysports.com^
 ||thrivemedicalaesthetics.ca^
 ||tib.co.id^
 ||tickets.riverspirittulsa.com^
 ||tiki-talk.com^
+||tiogadowns.com^
 ||tiposderobot.com^
 ||tnrscakesncookiesgalore.com^
 ||topmassageandspallc.com^
@@ -262,6 +285,7 @@
 ||vendor.diblast.com^
 ||venetianmacao.com^
 ||verbenergybar.com^
+||videohive.net^
 ||vipcasinoevents.com^
 ||vipcasinoservices.com.au^
 ||vipchartercoaches.com^

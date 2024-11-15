@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 00:09:59
+! Last Updated: 2024-11-16 00:14:20
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5387
+! Number of domains: 5411
 !
 
 ! Category: SLOT
@@ -5026,6 +5026,30 @@
 ||littleangelschool.edu.in^
 ||gambleaware.nsw.gov.au^
 ||sjsnaini.org^
+||allsaintscollege.org^
+||modison.com^
+||stjohnschandigarh.com^
+||investopedia.com^
+||mrbit.bg^
+||ideausher.com^
+||theoceanac.com^
+||osagecasino.com^
+||casinos.ballys.com^
+||nj.com^
+||elements.envato.com^
+||videohive.net^
+||accounts.hbtu.ac.in^
+||oddsonpromotions.com^
+||isleta.com^
+||telegraph.co.uk^
+||golkar.or.id^
+||attorneypeterkelley.com^
+||arspb.org^
+||theoplayer.com^
+||av-voyages.fr^
+||blog.accesspoint.id^
+||tiogadowns.com^
+||spstbt.iift.ac.in^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
