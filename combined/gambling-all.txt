@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 09:14:08
+! Last Updated: 2024-11-15 09:18:20
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 4662
+! Number of domains: 4677
 !
 
 ! Category: SLOT
@@ -4218,6 +4218,21 @@
 ||swamijuicetampa.com^
 ||tanjungpura.sidesadigital.com^
 ||dpmptsp.bandung.go.id^
+||foundrywellington.com^
+||digilib.stkipyasika.ac.id^
+||every.co.id^
+||ijimes.org^
+||ocinhomecare.com^
+||memoriaambiental.org^
+||sunat123.com^
+||iotglobalnetwork.com^
+||pa-bengkalis.go.id^
+||tilang.pn-kediri.go.id^
+||tkc.co.id^
+||smkn1-pkp.sch.id^
+||humaneforpets.com^
+||dealls.com^
+||ccae.amucontrollerexams.com^
 
 ! Category: CASINO
 ||newszechuan.com^

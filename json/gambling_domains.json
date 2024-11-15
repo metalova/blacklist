@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 09:14:08",
+  "updated": "2024-11-15 09:18:20",
   "categories": {
     "slot": {
-      "count": 4212,
+      "count": 4227,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25274,6 +25274,96 @@
           "domain": "dpmptsp.bandung.go.id",
           "raw_url": "https://dpmptsp.bandung.go.id/detail-pages/formulir-informasi-publik-dan-formulir-layanan-perizinan",
           "found_time": "2024-11-15 09:14:08",
+          "status": "active"
+        },
+        {
+          "domain": "foundrywellington.com",
+          "raw_url": "https://foundrywellington.com/",
+          "found_time": "2024-11-15 09:14:08",
+          "status": "active"
+        },
+        {
+          "domain": "digilib.stkipyasika.ac.id",
+          "raw_url": "https://digilib.stkipyasika.ac.id/",
+          "found_time": "2024-11-15 09:15:14",
+          "status": "active"
+        },
+        {
+          "domain": "every.co.id",
+          "raw_url": "https://every.co.id/",
+          "found_time": "2024-11-15 09:15:15",
+          "status": "active"
+        },
+        {
+          "domain": "ijimes.org",
+          "raw_url": "http://www.ijimes.org/",
+          "found_time": "2024-11-15 09:15:15",
+          "status": "active"
+        },
+        {
+          "domain": "ocinhomecare.com",
+          "raw_url": "https://ocinhomecare.com/",
+          "found_time": "2024-11-15 09:15:15",
+          "status": "active"
+        },
+        {
+          "domain": "memoriaambiental.org",
+          "raw_url": "https://memoriaambiental.org/",
+          "found_time": "2024-11-15 09:15:15",
+          "status": "active"
+        },
+        {
+          "domain": "sunat123.com",
+          "raw_url": "https://sunat123.com/page/",
+          "found_time": "2024-11-15 09:15:15",
+          "status": "active"
+        },
+        {
+          "domain": "iotglobalnetwork.com",
+          "raw_url": "https://www.iotglobalnetwork.com/Zend/slot-indosat/",
+          "found_time": "2024-11-15 09:15:15",
+          "status": "active"
+        },
+        {
+          "domain": "pa-bengkalis.go.id",
+          "raw_url": "https://www.pa-bengkalis.go.id/",
+          "found_time": "2024-11-15 09:15:16",
+          "status": "active"
+        },
+        {
+          "domain": "tilang.pn-kediri.go.id",
+          "raw_url": "https://tilang.pn-kediri.go.id/",
+          "found_time": "2024-11-15 09:15:16",
+          "status": "active"
+        },
+        {
+          "domain": "tkc.co.id",
+          "raw_url": "https://tkc.co.id/",
+          "found_time": "2024-11-15 09:15:16",
+          "status": "active"
+        },
+        {
+          "domain": "smkn1-pkp.sch.id",
+          "raw_url": "https://smkn1-pkp.sch.id/",
+          "found_time": "2024-11-15 09:15:16",
+          "status": "active"
+        },
+        {
+          "domain": "humaneforpets.com",
+          "raw_url": "https://humaneforpets.com/",
+          "found_time": "2024-11-15 09:17:18",
+          "status": "active"
+        },
+        {
+          "domain": "dealls.com",
+          "raw_url": "https://dealls.com/mentoring",
+          "found_time": "2024-11-15 09:17:18",
+          "status": "active"
+        },
+        {
+          "domain": "ccae.amucontrollerexams.com",
+          "raw_url": "https://ccae.amucontrollerexams.com/img/",
+          "found_time": "2024-11-15 09:18:20",
           "status": "active"
         }
       ]

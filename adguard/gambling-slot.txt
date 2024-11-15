@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 09:14:08
+! Last Updated: 2024-11-15 09:18:20
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4212
+! Number of unique domains: 4227
 !
 
 ||103.115.28.6^
@@ -693,6 +693,7 @@
 ||cbt.dpr.go.id^
 ||cbt.prestasikita.com^
 ||cbt.smkdhkjg.sch.id^
+||ccae.amucontrollerexams.com^
 ||ccusalmona.com^
 ||cdhsinc.com^
 ||cdlaredo.com^
@@ -938,6 +939,7 @@
 ||dchomebuzz.com^
 ||ddh.ncu.edu.jm^
 ||ddisdehradun.com^
+||dealls.com^
 ||debilevine.com^
 ||debit777area.com^
 ||deezer.com^
@@ -989,6 +991,7 @@
 ||diegomolanoaponte.com^
 ||dietmarloeffler.com^
 ||digi-mode.com.tr^
+||digilib.stkipyasika.ac.id^
 ||digitalghatak.com^
 ||dilmil-yogyakarta.go.id^
 ||dimitriospizza.com^
@@ -1217,6 +1220,7 @@
 ||everi.com^
 ||evermos.com^
 ||everpro.id^
+||every.co.id^
 ||everymatrix.com^
 ||everystudentamultimillionaire.com^
 ||evolveaustin.org^
@@ -1317,6 +1321,7 @@
 ||forums.bohemia.net^
 ||forums.ftbwiki.org^
 ||foundationeast.org^
+||foundrywellington.com^
 ||foxbusiness.com^
 ||frankenforiowa.com^
 ||frankespada.com^
@@ -1572,6 +1577,7 @@
 ||huggingface.co^
 ||hukum.tvrinews.com^
 ||hulahoopphotography.com^
+||humaneforpets.com^
 ||humas.smkn1-bangil.sch.id^
 ||humoscience.com^
 ||huntington.fr^
@@ -1631,6 +1637,7 @@
 ||ihmgwalior.net^
 ||iias-seapp-dohaconference2023.org^
 ||iii.cemacyc.org^
+||ijimes.org^
 ||ijisc.com.pk^
 ||ijmpr.org^
 ||ijsenchocolade.shop^
@@ -1707,6 +1714,7 @@
 ||investasi.kontan.co.id^
 ||invitebox.com^
 ||iorworld.com^
+||iotglobalnetwork.com^
 ||ipclogistic.co.id^
 ||iphoneappsfinder.com^
 ||iqos.com^
@@ -2369,6 +2377,7 @@
 ||mekongviewresidence.com^
 ||member.allslotz88.co^
 ||member.fisika.or.id^
+||memoriaambiental.org^
 ||memuplay.com^
 ||menangmamen123.us^
 ||mendocinocountybusiness.org^
@@ -2642,6 +2651,7 @@
 ||oabes.org.br^
 ||oakwoodcounseling.com^
 ||oceanparkpizzasteakhouse.com^
+||ocinhomecare.com^
 ||oddschecker.com^
 ||odoo.com^
 ||odulsatis.org^
@@ -2703,6 +2713,7 @@
 ||p3m.polimedia.ac.id^
 ||p3m.poltekparmakassar.ac.id^
 ||p3m.stmikprofesional.ac.id^
+||pa-bengkalis.go.id^
 ||pa-demak.go.id^
 ||pa-gorontalo.go.id^
 ||pa-karangasem.go.id^
@@ -3482,6 +3493,7 @@
 ||smki-yogya.sch.id^
 ||smkmucirebon.sch.id^
 ||smkmuhammadiyah4sukorejo.sch.id^
+||smkn1-pkp.sch.id^
 ||smkn10surabaya.com^
 ||smknahdhatulumam.id^
 ||smknbulopolman.sch.id^
@@ -3624,6 +3636,7 @@
 ||sumut.antaranews.com^
 ||sumut.suara.com^
 ||sumutpost.id^
+||sunat123.com^
 ||sunenergy.id^
 ||sunnyspizzapdx.com^
 ||sunsetlanescda.com^
@@ -3834,6 +3847,7 @@
 ||tibetancenter.org^
 ||tickets-api.adodenhaag.nl^
 ||tiendahw.com^
+||tilang.pn-kediri.go.id^
 ||timelineinc.ca^
 ||timetoeatmobile.com^
 ||tinaev.com^
@@ -3844,6 +3858,7 @@
 ||tiptopdata.com^
 ||tirto.id^
 ||titusvillegardenclub.com^
+||tkc.co.id^
 ||tm-town.com^
 ||tm.fitk.uin-malang.ac.id^
 ||tmtk.syekhnurjati.ac.id^
