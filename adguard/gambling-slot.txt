@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 06:04:40
+! Last Updated: 2024-11-16 06:09:49
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4804
+! Number of unique domains: 4814
 !
 
 ||103.115.28.6^
@@ -53,6 +53,7 @@
 ||192.155.95.225^
 ||198.74.49.76^
 ||198.74.56.131^
+||1nwinterbaik1.info^
 ||2023keelungsushi.com^
 ||2024bmxworlds.com^
 ||2024ifvpsummit.com^
@@ -258,6 +259,7 @@
 ||amp.kontan.co.id^
 ||amparmyslot.com^
 ||ampfiftoto.com^
+||ampmegah138.com^
 ||ampsakti.ivermectinytab.com^
 ||ampt4d.pages.dev^
 ||ampun.diblast.com^
@@ -1635,6 +1637,7 @@
 ||gopay.geo.polgeta.ac.id^
 ||gopay178-okgas.com^
 ||gorontalopost.co.id^
+||gosocial.co.id^
 ||gouffre-proumeyssac.com^
 ||gourmetworldmarket.com^
 ||gr8.tech^
@@ -1891,6 +1894,7 @@
 ||iloveshells.com^
 ||iluvphosnellville.com^
 ||im3ooredoo.com^
+||imctekno.co.id^
 ||imigrasi-tasikmalaya.com^
 ||impactcollege.co.in^
 ||impactpub.com.au^
@@ -2883,6 +2887,7 @@
 ||mpp.batangkab.go.id^
 ||mpp.ssu.ac.kr^
 ||mracgroup.com^
+||mrbiggsbbqllc.com^
 ||mrbillsofbuckley.com^
 ||mrdka777ku.com^
 ||mrfixitstips.co.uk^
@@ -2932,6 +2937,7 @@
 ||namkhongriverside.com^
 ||narasi.tv^
 ||narutobetjoss.com^
+||nasa4d1.id^
 ||nasaa-arts.org^
 ||nasdemkuburaya.id^
 ||nashturley.org^
@@ -3062,6 +3068,7 @@
 ||oouc.rnu.tn^
 ||opendata.pref.aomori.lg.jp^
 ||opengroupinnovation.com^
+||opengroupinnovation2.pages.dev^
 ||openscience.fr^
 ||opticasdelvalle.com^
 ||opttown.com^
@@ -3937,6 +3944,7 @@
 ||slot16c10.xyz^
 ||slot212zzzz.com^
 ||slot5000happy.com^
+||slot5rb.xyz^
 ||slot88-wheat.vercel.app^
 ||slot97agena.com^
 ||slot97sum.com^
@@ -4023,6 +4031,7 @@
 ||source-fashion.com^
 ||sourcing.hktdc.com^
 ||southbaysportbikerentals.com^
+||southcentreeyeclinic.com^
 ||southernhillsanimalclinic.com^
 ||southernrailaz.com^
 ||southshorepress.net^
@@ -4527,6 +4536,7 @@
 ||uninus-ac.id^
 ||unioncds.org^
 ||unipi.ac.id^
+||unipin.com^
 ||unirse.nur.edu^
 ||unitedthemes.com^
 ||universitetite.com^

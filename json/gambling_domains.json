@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 06:04:40",
+  "updated": "2024-11-16 06:09:49",
   "categories": {
     "slot": {
-      "count": 4804,
+      "count": 4814,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28826,6 +28826,66 @@
           "domain": "persi.or.id",
           "raw_url": "https://www.persi.or.id/file/?jasa=judi+inline",
           "found_time": "2024-11-15 23:04:40",
+          "status": "active"
+        },
+        {
+          "domain": "southcentreeyeclinic.com",
+          "raw_url": "https://southcentreeyeclinic.com/",
+          "found_time": "2024-11-15 23:04:40",
+          "status": "active"
+        },
+        {
+          "domain": "imctekno.co.id",
+          "raw_url": "https://imctekno.co.id/",
+          "found_time": "2024-11-15 23:05:42",
+          "status": "active"
+        },
+        {
+          "domain": "slot5rb.xyz",
+          "raw_url": "https://slot5rb.xyz/amp/",
+          "found_time": "2024-11-15 23:05:42",
+          "status": "active"
+        },
+        {
+          "domain": "ampmegah138.com",
+          "raw_url": "https://ampmegah138.com/megah138/",
+          "found_time": "2024-11-15 23:05:43",
+          "status": "active"
+        },
+        {
+          "domain": "opengroupinnovation2.pages.dev",
+          "raw_url": "https://opengroupinnovation2.pages.dev/",
+          "found_time": "2024-11-15 23:05:43",
+          "status": "active"
+        },
+        {
+          "domain": "mrbiggsbbqllc.com",
+          "raw_url": "https://www.mrbiggsbbqllc.com/amp/",
+          "found_time": "2024-11-15 23:06:44",
+          "status": "active"
+        },
+        {
+          "domain": "gosocial.co.id",
+          "raw_url": "https://gosocial.co.id/",
+          "found_time": "2024-11-15 23:07:45",
+          "status": "active"
+        },
+        {
+          "domain": "unipin.com",
+          "raw_url": "https://www.unipin.com/id/game/kode-voucher-google-play",
+          "found_time": "2024-11-15 23:08:48",
+          "status": "active"
+        },
+        {
+          "domain": "1nwinterbaik1.info",
+          "raw_url": "https://1nwinterbaik1.info/",
+          "found_time": "2024-11-15 23:08:48",
+          "status": "active"
+        },
+        {
+          "domain": "nasa4d1.id",
+          "raw_url": "https://nasa4d1.id/",
+          "found_time": "2024-11-15 23:09:49",
           "status": "active"
         }
       ]
