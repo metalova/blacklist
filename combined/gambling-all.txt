@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 23:00:01
+! Last Updated: 2024-11-15 23:04:19
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5206
+! Number of domains: 5230
 !
 
 ! Category: SLOT
@@ -4845,6 +4845,30 @@
 ||cordish.com^
 ||simon.com^
 ||cdcgaming.com^
+||golaurelhighlands.com^
+||situswin.com^
+||vistarresorts.com^
+||uhintl.com^
+||jmet.itr.ac.id^
+||alwaysthaichicago.com^
+||24liveblog.com^
+||bizhare.id^
+||beritakriminalkepri.com^
+||sakurakjcrownpoint.com^
+||mexicanfoodhackensack.com^
+||topmassageandspallc.com^
+||casino-terrestre.com^
+||rsiarafah.id^
+||tastyvintage.com^
+||eugene-airport.com^
+||herminahospitals.com^
+||agen-casino.online^
+||theexpendables2film.com^
+||vendor.diblast.com^
+||slotgacorocean88.com^
+||epicwin138toto.vercel.app^
+||moovitapp.com^
+||tripadvisor.com.tr^
 
 ! Category: TOGEL
 ||tupac-berlin.com^

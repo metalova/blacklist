@@ -1,10 +1,13 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-15 23:00:01
+! Last Updated: 2024-11-15 23:04:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 91
+! Number of unique domains: 115
 !
 
+||24liveblog.com^
+||agen-casino.online^
 ||agoda.com^
+||alwaysthaichicago.com^
 ||alx1top.org^
 ||arlingtonyouthfootball.com^
 ||ascentinternationalschool.com^
@@ -14,10 +17,13 @@
 ||ballycasino.com^
 ||beijinggreenbeltmd.com^
 ||bendosari.desa.id^
+||beritakriminalkepri.com^
+||bizhare.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||bombayclub.com^
 ||carolinadumpstersllc.com^
 ||caseyforcongressri.com^
+||casino-terrestre.com^
 ||cdcgaming.com^
 ||cherokeelodgenc.com^
 ||cms-gb.com^
@@ -30,11 +36,15 @@
 ||creedroomz.com^
 ||deviantart.com^
 ||elizas.co.nz^
+||epicwin138toto.vercel.app^
 ||esperancepharma.com^
+||eugene-airport.com^
 ||familydentalrockville.com^
+||golaurelhighlands.com^
 ||goldensteersteakhouse.com^
 ||grasz.id^
 ||hardrock.bet^
+||herminahospitals.com^
 ||id.marinabaysands.com^
 ||id.quora.com^
 ||id.scribd.com^
@@ -46,6 +56,7 @@
 ||instituteforpr.org^
 ||jazzmidlands.org^
 ||jenniferellision.com^
+||jmet.itr.ac.id^
 ||journalofmedula.com^
 ||jti.respati.ac.id^
 ||kick.com^
@@ -57,7 +68,9 @@
 ||lubukbangkar.desa.id^
 ||maderasboulevard.com^
 ||man12jakarta.id^
+||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
+||moovitapp.com^
 ||mumbaicoworking.com^
 ||nalarpolitik.com^
 ||nelsonheller.com^
@@ -72,9 +85,13 @@
 ||philadelphia.livecasinohotel.com^
 ||policarbonatoecuador.com^
 ||rajacasino.travel^
+||rsiarafah.id^
+||sakurakjcrownpoint.com^
 ||senator.hr^
 ||sierradesanfrancisco.inah.gob.mx^
 ||simon.com^
+||situswin.com^
+||slotgacorocean88.com^
 ||sogoarts.com^
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
@@ -82,16 +99,23 @@
 ||sunsetranchptc.org^
 ||swearandshake.com^
 ||take23.org^
+||tastyvintage.com^
 ||thecircuslife.com^
+||theexpendables2film.com^
 ||thefosterfarm.org^
 ||tiki-talk.com^
+||topmassageandspallc.com^
 ||torosclubcelaya.com^
 ||totalwarbattles.com^
 ||trendshairstudioandspa.com^
 ||tripadvisor.co.id^
+||tripadvisor.com.tr^
 ||ttelt.org^
+||uhintl.com^
+||vendor.diblast.com^
 ||verbenergybar.com^
 ||visithowardcounty.com^
+||vistarresorts.com^
 ||viva.co.id^
 ||washington.org^
 ||wendiartit.com^
