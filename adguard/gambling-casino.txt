@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-15 22:54:44
+! Last Updated: 2024-11-15 23:00:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 81
+! Number of unique domains: 91
 !
 
 ||agoda.com^
@@ -15,15 +15,19 @@
 ||beijinggreenbeltmd.com^
 ||bendosari.desa.id^
 ||blackhawkbbqandcoffeeshop.com^
+||bombayclub.com^
 ||carolinadumpstersllc.com^
 ||caseyforcongressri.com^
+||cdcgaming.com^
 ||cherokeelodgenc.com^
 ||cms-gb.com^
 ||cnnindonesia.com^
 ||coingabbar.com^
 ||columbiapacificuniversity.com^
+||cordish.com^
 ||corporeacompanhiadecorpos.com^
 ||coy99.net^
+||creedroomz.com^
 ||deviantart.com^
 ||elizas.co.nz^
 ||esperancepharma.com^
@@ -35,10 +39,12 @@
 ||id.quora.com^
 ||id.scribd.com^
 ||ihubtc.com^
+||imaginelive.com^
 ||imunisasi-tambahan.kemkes.go.id^
 ||incharafamilygardenrestaurant.com^
 ||informaticsglobal.com^
 ||instituteforpr.org^
+||jazzmidlands.org^
 ||jenniferellision.com^
 ||journalofmedula.com^
 ||jti.respati.ac.id^
@@ -49,6 +55,7 @@
 ||live-casino.smpn2kotadumai.sch.id^
 ||lrcr.com^
 ||lubukbangkar.desa.id^
+||maderasboulevard.com^
 ||man12jakarta.id^
 ||mexicanrestaurantspringfield.com^
 ||mumbaicoworking.com^
@@ -67,6 +74,7 @@
 ||rajacasino.travel^
 ||senator.hr^
 ||sierradesanfrancisco.inah.gob.mx^
+||simon.com^
 ||sogoarts.com^
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
@@ -83,5 +91,7 @@
 ||tripadvisor.co.id^
 ||ttelt.org^
 ||verbenergybar.com^
+||visithowardcounty.com^
 ||viva.co.id^
+||washington.org^
 ||wendiartit.com^

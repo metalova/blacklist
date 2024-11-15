@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 22:54:44",
+  "updated": "2024-11-15 23:00:01",
   "categories": {
     "slot": {
-      "count": 4740,
+      "count": 4746,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28443,11 +28443,47 @@
           "raw_url": "https://www.airpaz.com/id/hotel/grand-jp-international.2982201",
           "found_time": "2024-11-15 15:54:44",
           "status": "active"
+        },
+        {
+          "domain": "en.shippingchina.com",
+          "raw_url": "http://en.shippingchina.com/companys/index/detail/id/16159.html",
+          "found_time": "2024-11-15 15:54:44",
+          "status": "active"
+        },
+        {
+          "domain": "kayak.co.id",
+          "raw_url": "https://www.kayak.co.id/Bangalore-Hotels-FabHotel-Grand-JP-Nagar.2604207.ksp",
+          "found_time": "2024-11-15 15:56:46",
+          "status": "active"
+        },
+        {
+          "domain": "aftr-school.com",
+          "raw_url": "https://aftr-school.com/",
+          "found_time": "2024-11-15 15:56:46",
+          "status": "active"
+        },
+        {
+          "domain": "thepyramidclub.com",
+          "raw_url": "https://www.thepyramidclub.com/",
+          "found_time": "2024-11-15 15:57:47",
+          "status": "active"
+        },
+        {
+          "domain": "cb-slot777.pages.dev",
+          "raw_url": "https://cb-slot777.pages.dev/",
+          "found_time": "2024-11-15 15:58:49",
+          "status": "active"
+        },
+        {
+          "domain": "tpid.sumenepkab.go.id",
+          "raw_url": "https://tpid.sumenepkab.go.id/daftar/?page=situswin",
+          "found_time": "2024-11-15 15:58:49",
+          "status": "active"
         }
       ]
     },
     "casino": {
-      "count": 81,
+      "count": 91,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -28933,6 +28969,66 @@
           "domain": "sogoarts.com",
           "raw_url": "https://sogoarts.com/",
           "found_time": "2024-11-06 15:39:48",
+          "status": "active"
+        },
+        {
+          "domain": "visithowardcounty.com",
+          "raw_url": "https://www.visithowardcounty.com/listings/live!-casino/228/",
+          "found_time": "2024-11-15 15:59:59",
+          "status": "active"
+        },
+        {
+          "domain": "bombayclub.com",
+          "raw_url": "https://bombayclub.com/",
+          "found_time": "2024-11-15 15:59:59",
+          "status": "active"
+        },
+        {
+          "domain": "jazzmidlands.org",
+          "raw_url": "https://jazzmidlands.org/js/Situswin/",
+          "found_time": "2024-11-15 15:59:59",
+          "status": "active"
+        },
+        {
+          "domain": "maderasboulevard.com",
+          "raw_url": "https://maderasboulevard.com/amp/",
+          "found_time": "2024-11-15 15:59:59",
+          "status": "active"
+        },
+        {
+          "domain": "creedroomz.com",
+          "raw_url": "https://www.creedroomz.com/",
+          "found_time": "2024-11-15 15:59:59",
+          "status": "active"
+        },
+        {
+          "domain": "imaginelive.com",
+          "raw_url": "https://imaginelive.com/",
+          "found_time": "2024-11-15 16:00:00",
+          "status": "active"
+        },
+        {
+          "domain": "washington.org",
+          "raw_url": "https://washington.org/find-dc-listings/live-casino-hotel",
+          "found_time": "2024-11-15 16:00:00",
+          "status": "active"
+        },
+        {
+          "domain": "cordish.com",
+          "raw_url": "https://www.cordish.com/live",
+          "found_time": "2024-11-15 16:00:00",
+          "status": "active"
+        },
+        {
+          "domain": "simon.com",
+          "raw_url": "https://www.simon.com/mall/arundel-mills/stores/live-casino-hotel",
+          "found_time": "2024-11-15 16:00:00",
+          "status": "active"
+        },
+        {
+          "domain": "cdcgaming.com",
+          "raw_url": "https://cdcgaming.com/brief/cordish-proposes-15m-entertainment-complex-outside-live-casino-philadelphia/",
+          "found_time": "2024-11-15 16:00:00",
           "status": "active"
         }
       ]

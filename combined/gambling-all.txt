@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 22:54:44
+! Last Updated: 2024-11-15 23:00:01
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5190
+! Number of domains: 5206
 !
 
 ! Category: SLOT
@@ -4746,6 +4746,12 @@
 ||28hse.com^
 ||theonemilano.com^
 ||airpaz.com^
+||en.shippingchina.com^
+||kayak.co.id^
+||aftr-school.com^
+||thepyramidclub.com^
+||cb-slot777.pages.dev^
+||tpid.sumenepkab.go.id^
 
 ! Category: CASINO
 ||newszechuan.com^
@@ -4829,6 +4835,16 @@
 ||jti.respati.ac.id^
 ||take23.org^
 ||sogoarts.com^
+||visithowardcounty.com^
+||bombayclub.com^
+||jazzmidlands.org^
+||maderasboulevard.com^
+||creedroomz.com^
+||imaginelive.com^
+||washington.org^
+||cordish.com^
+||simon.com^
+||cdcgaming.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
