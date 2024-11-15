@@ -1,13 +1,14 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 03:59:26
+! Last Updated: 2024-11-16 04:04:42
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 105
+! Number of unique domains: 124
 !
 
 ||1xbet.id.uptodown.com^
 ||34d-nude-run.id.uptodown.com^
 ||80rae.com^
 ||aboutsemarang.id^
+||asciimo.com^
 ||bernama.com^
 ||bet365.id.uptodown.com^
 ||beta-pubg-mobile.en.uptodown.com^
@@ -17,6 +18,7 @@
 ||blix.gg^
 ||brg.ina-sdi.or.id^
 ||britadao.com^
+||businessresearchinsights.com^
 ||cakrawalajabar.com^
 ||canadiangamingbusiness.com^
 ||cbssports.com^
@@ -38,22 +40,29 @@
 ||esportsportal.net^
 ||esportsvikings.com^
 ||exactitudeconsultancy.com^
+||faktakalbar.id^
 ||fedmvz.com^
 ||financialpost.com^
 ||friendly-wounds.com^
+||gamebrott.com^
 ||games.grid.id^
 ||gaming.net^
 ||garena.co.id^
 ||garudaku.com^
 ||globalbiofest.com^
 ||gosugamers.net^
+||grid.id^
 ||hatredspeaks.com^
+||hippu.lppm.ulb.ac.id^
 ||huddle.tech^
+||idncitizen.com^
 ||igi-global.com^
 ||ijcst.com.pk^
 ||infomase.id^
+||intipseleb.com^
 ||issacyber.com^
 ||jakp.fisip.unand.ac.id^
+||jaringnews.co.id^
 ||journal.stkippamanetalino.ac.id^
 ||jurnal.stkippgritulungagung.ac.id^
 ||kabarpalu.net^
@@ -61,12 +70,17 @@
 ||klamathcampercorral.com^
 ||la-fermette.net^
 ||lab-test.id^
+||lambeturah.co.id^
 ||legal-esport.com^
+||lensabanten.co.id^
 ||lensaone.id^
 ||linkidntogel.com^
 ||listvox.com^
 ||lj.maharashtra.gov.in^
+||main.aov.garena.co.id^
+||malang.jatimtimes.com^
 ||mapapgeorgia.org^
+||martinlutherschooldodoma.sc.tz^
 ||metaco.gg^
 ||microbesociety.org^
 ||mobilenation.id^
@@ -78,6 +92,7 @@
 ||pandascore.co^
 ||play.mobilelegends.com^
 ||playvalorant.com^
+||plinko1win.com^
 ||podiumesports.com^
 ||ponlix.wordpress.com^
 ||popline.id^
@@ -99,10 +114,14 @@
 ||sportlinknews.com^
 ||statista.com^
 ||steemit.com^
+||strategi.id^
+||stripesgamer.com^
 ||sunnybraegolfcourse.com^
 ||szpitalpraski.pl^
 ||taruhan-mobile-legend.dadventure.ca^
 ||taruhan-mobile-legend.gblog.co.za^
+||tintahijau.com^
+||tv.tag-cyber.com^
 ||ungkap.co.id^
 ||valorant.fandom.com^
 ||valorantesports.com^
