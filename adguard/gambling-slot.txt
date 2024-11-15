@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 10:19:15
+! Last Updated: 2024-11-15 10:24:27
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4273
+! Number of unique domains: 4287
 !
 
 ||103.115.28.6^
@@ -132,6 +132,7 @@
 ||adellescoffeehouse.com^
 ||adihadean.ro^
 ||admi.or.id^
+||admin-globalslot.imgix.net^
 ||administrator.masa.sch.id^
 ||adoositalia.com^
 ||adoquinecuestre.com^
@@ -550,6 +551,7 @@
 ||blog.bankmega.com^
 ||blog.gandengtangan.co.id^
 ||blog.siep.be^
+||blog.ulifestyle.com.hk^
 ||blogger.com^
 ||bloombergtechnoz.com^
 ||blud.co.id^
@@ -1203,6 +1205,7 @@
 ||environmentalist.co.ke^
 ||epbb.cilacapkab.go.id^
 ||epdeskel.binapemdes.kemendagri.go.id^
+||epfologinportal.com^
 ||epintar.elearning-pintar.com^
 ||eplanning.asahankab.go.id^
 ||equineteurope.org^
@@ -1777,6 +1780,7 @@
 ||jalanpu.semarangkota.go.id^
 ||jalantikus.com^
 ||jalin.co.id^
+||jamsosindonesia.com^
 ||janda4dsip.com^
 ||japaknimen.xyz^
 ||japri138.online^
@@ -2119,6 +2123,7 @@
 ||leiaisso.net^
 ||lemontree520.com^
 ||lemontreeofcentereach.com^
+||lenospizza.com^
 ||lenterakalimantan.com^
 ||lenterauniska.id^
 ||leonaxrocks.com^
@@ -2496,6 +2501,8 @@
 ||momoguro.com^
 ||moneyandtheruleoflaw.com^
 ||monkeyscrubs.com^
+||monocliffsinn.com^
+||moodle2021.tiranus.ac.id^
 ||mooncup.com^
 ||mooretransport.com^
 ||moov-scooters.com^
@@ -2571,6 +2578,7 @@
 ||mulansakti.com^
 ||muniwanchaq.gob.pe^
 ||munsifdaily.com^
+||murfreesborotnheatingandcooling.com^
 ||murraycareerinstitute.com^
 ||musirawaskab.go.id^
 ||muslim.or.id^
@@ -2789,6 +2797,7 @@
 ||paintball-ociorioja.com^
 ||pakarjudi8.com^
 ||pakarydelperu.com^
+||pakuasport.com^
 ||palatkadowntown.com^
 ||pam.edesaku.org^
 ||pampapizza.com^
@@ -2810,6 +2819,7 @@
 ||parepristizu.com^
 ||paritkebumen.desa.id^
 ||pariwisata.visitblitar.com^
+||parkridgelawyer.net^
 ||parrucchieredemartis.com^
 ||partaitogel124.com^
 ||pasangan-aktortogel.com^
@@ -2877,6 +2887,7 @@
 ||phase1salads.com^
 ||philippeatienzabottier.com^
 ||philomenasbar.com^
+||philomenecafe.com^
 ||phluck.com.ph^
 ||pho78florida.com^
 ||phobacdallas.com^
@@ -2965,6 +2976,7 @@
 ||porwilriau2023.com^
 ||pos4dtototogel04.com^
 ||poshpizza.com^
+||possumman.com.au^
 ||potretterkini.id^
 ||poupluche.com^
 ||pousadadocapitao.net^
@@ -3070,6 +3082,7 @@
 ||quaker007.com^
 ||quasinovi.com^
 ||quaywestrestaurant.com^
+||queenofshebamarket.com^
 ||queensfashion.be^
 ||quericosfmk.com^
 ||questexchange.org^
@@ -3729,6 +3742,7 @@
 ||talktotucker.com^
 ||tallerstavern.com^
 ||tamanasri.id^
+||tamigrass.com^
 ||tampapooldecks.com^
 ||tanahdatar.go.id^
 ||tangselxpress.com^
