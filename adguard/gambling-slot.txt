@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 09:29:48
+! Last Updated: 2024-11-15 09:33:54
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4251
+! Number of unique domains: 4255
 !
 
 ||103.115.28.6^
@@ -524,6 +524,7 @@
 ||bistro17hiltonhead.com^
 ||bit.ly^
 ||bjfs.org^
+||bk.min1kotamadiun.sch.id^
 ||bkad.sumbabaratkab.go.id^
 ||bkd.nttprov.go.id^
 ||bkdkabsolok.com^
@@ -1967,6 +1968,7 @@
 ||kendarinews.com^
 ||kennebunkport.org^
 ||kenyapharmtech.com^
+||keralacobank.com^
 ||kesbang.ngawikab.go.id^
 ||kesbangpol.tanjabbarkab.go.id^
 ||kesmas.kemkes.go.id^
@@ -2241,6 +2243,7 @@
 ||maa.ac.in^
 ||maalfreekaa.in^
 ||mabaotips.co.ke^
+||mabar69x.pages.dev^
 ||mabuktogel.photos^
 ||macaroncoffeebar.com^
 ||macau-888.co^
@@ -2630,6 +2633,7 @@
 ||nguyetminhlam.com^
 ||nickharttattoo.com^
 ||nickolswhitelaw.com^
+||nicosmxpizzeria.com^
 ||nikoscafeandbar.com^
 ||ninewayredmond.com^
 ||nizwa.om^

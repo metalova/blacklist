@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 09:29:48",
+  "updated": "2024-11-15 09:33:54",
   "categories": {
     "slot": {
-      "count": 4251,
+      "count": 4255,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25508,6 +25508,30 @@
           "domain": "roxy.cz",
           "raw_url": "https://www.roxy.cz/",
           "found_time": "2024-11-15 09:28:47",
+          "status": "active"
+        },
+        {
+          "domain": "bk.min1kotamadiun.sch.id",
+          "raw_url": "https://bk.min1kotamadiun.sch.id/guru-olahraga/",
+          "found_time": "2024-11-15 09:29:48",
+          "status": "active"
+        },
+        {
+          "domain": "nicosmxpizzeria.com",
+          "raw_url": "https://nicosmxpizzeria.com/",
+          "found_time": "2024-11-15 09:30:49",
+          "status": "active"
+        },
+        {
+          "domain": "mabar69x.pages.dev",
+          "raw_url": "https://mabar69x.pages.dev/",
+          "found_time": "2024-11-15 09:31:50",
+          "status": "active"
+        },
+        {
+          "domain": "keralacobank.com",
+          "raw_url": "https://www.keralacobank.com/amp/",
+          "found_time": "2024-11-15 09:33:53",
           "status": "active"
         }
       ]
