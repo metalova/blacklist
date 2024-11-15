@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:09:28
+! Last Updated: 2024-11-15 21:14:47
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4535
+! Number of unique domains: 4548
 !
 
 ||103.115.28.6^
@@ -62,6 +62,7 @@
 ||24sgo777.com^
 ||25sgo777.com^
 ||2engenheiros.com^
+||304axatogel.com^
 ||36.95.86.26:8080^
 ||360.parquesnacionales.gob.ar^
 ||365raja338.vip^
@@ -113,6 +114,7 @@
 ||absoluteflooringwyo.com^
 ||academia.edu^
 ||academic.stfi.ac.id^
+||academicareview.com^
 ||acasadocaminho.org.br^
 ||aceh.polri.go.id^
 ||aciasf.com.br^
@@ -908,6 +910,7 @@
 ||corona.gunungmaskab.go.id^
 ||coronadeolivo.com^
 ||corpamag.gov.co^
+||corsoecm.it^
 ||cortijoamaya.com^
 ||corygated.com^
 ||cosmospecialtyfibers.com^
@@ -1047,6 +1050,7 @@
 ||desapajahan.id^
 ||desapamulihan.com^
 ||desaprapattunggal.id^
+||desavanjaubijeljini.com^
 ||desawisatabudayatulusbesar.id^
 ||deschutesrivermontessori.com^
 ||destinynailsspa.com^
@@ -2118,6 +2122,7 @@
 ||kesmas.kemkes.go.id^
 ||kevinsorbo.net^
 ||kewirausahaan.umla.ac.id^
+||keyonary.com^
 ||khajuribazar.com^
 ||khaltamarplus.com^
 ||khwabsa.com^
@@ -2476,6 +2481,7 @@
 ||marshfieldbbq.com^
 ||marshmallowfestival.com^
 ||marymeyer.com^
+||masil-astro-imaging.com^
 ||maskinvestments.com^
 ||massamcrypto.com^
 ||master-big.com^
@@ -2631,6 +2637,7 @@
 ||mitrapost.com^
 ||mitrasehatjurnal.com^
 ||mitto.ch^
+||mitwpu-ncmj.com^
 ||mjolk.cz^
 ||mlbbhero.com^
 ||mlite.betking.co.ke^
@@ -3033,6 +3040,7 @@
 ||pembiayaan.id^
 ||pemdes.muktimakmur.desa.id^
 ||penadaran.id^
+||pend.fisika.unismuh.ac.id^
 ||pendampingdesa.com^
 ||pendleslotracing.co.uk^
 ||penerimaan.stpn.ac.id^
@@ -3110,6 +3118,7 @@
 ||pkkb.ac.id^
 ||pkkmbonline.ubpkarawang.ac.id^
 ||pkm-duhiadaa.pohuwatokab.go.id^
+||planeerijad.ee^
 ||planet.opennews.org^
 ||planetasanogentesana.com^
 ||planetavegetariano.com^
@@ -3968,6 +3977,7 @@
 ||tangselpos.id^
 ||tangselxpress.com^
 ||tanjungpura.sidesadigital.com^
+||tap.bio^
 ||taponmainst.com^
 ||taraboulsi.com^
 ||tarakanita.sch.id^
@@ -4305,6 +4315,7 @@
 ||vanguardngr.com^
 ||vaya.co.id^
 ||vc-wiesbaden.de^
+||vclbgent.be^
 ||vcsdata.com^
 ||vecteezy.com^
 ||vegacoffee.com^
@@ -4488,8 +4499,10 @@
 ||yangpentingdateng.pages.dev^
 ||yankes.kemkes.go.id^
 ||yaperti-gpm.org^
+||yashhospitalbgm.com^
 ||yeahyourightfest.com^
 ||yellowbrickfold.com^
+||yellowpages-aruba.com^
 ||yeschat.ai^
 ||yesplay.bet^
 ||yogasciencefoundation.org^

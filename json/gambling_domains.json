@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 21:09:28",
+  "updated": "2024-11-15 21:14:47",
   "categories": {
     "slot": {
-      "count": 4535,
+      "count": 4548,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -27212,6 +27212,84 @@
           "domain": "eadcadworks.com.br",
           "raw_url": "http://eadcadworks.com.br/availability/?pafi=jeep4d",
           "found_time": "2024-11-15 14:09:28",
+          "status": "active"
+        },
+        {
+          "domain": "corsoecm.it",
+          "raw_url": "https://www.corsoecm.it/page/?pafi=jeep4d",
+          "found_time": "2024-11-15 14:09:28",
+          "status": "active"
+        },
+        {
+          "domain": "planeerijad.ee",
+          "raw_url": "https://www.planeerijad.ee/",
+          "found_time": "2024-11-15 14:11:41",
+          "status": "active"
+        },
+        {
+          "domain": "pend.fisika.unismuh.ac.id",
+          "raw_url": "https://pend.fisika.unismuh.ac.id/toto/",
+          "found_time": "2024-11-15 14:11:41",
+          "status": "active"
+        },
+        {
+          "domain": "vclbgent.be",
+          "raw_url": "https://www.vclbgent.be/",
+          "found_time": "2024-11-15 14:11:41",
+          "status": "active"
+        },
+        {
+          "domain": "yellowpages-aruba.com",
+          "raw_url": "https://www.yellowpages-aruba.com/",
+          "found_time": "2024-11-15 14:11:41",
+          "status": "active"
+        },
+        {
+          "domain": "academicareview.com",
+          "raw_url": "https://academicareview.com/files/",
+          "found_time": "2024-11-15 14:11:41",
+          "status": "active"
+        },
+        {
+          "domain": "desavanjaubijeljini.com",
+          "raw_url": "https://desavanjaubijeljini.com/selak-prijatelj-sam-sa-djokicevim-ljudima-nisam-partner-sa-draskom/165788/",
+          "found_time": "2024-11-15 14:11:42",
+          "status": "active"
+        },
+        {
+          "domain": "yashhospitalbgm.com",
+          "raw_url": "https://www.yashhospitalbgm.com/",
+          "found_time": "2024-11-15 14:11:42",
+          "status": "active"
+        },
+        {
+          "domain": "mitwpu-ncmj.com",
+          "raw_url": "https://www.mitwpu-ncmj.com/",
+          "found_time": "2024-11-15 14:12:44",
+          "status": "active"
+        },
+        {
+          "domain": "masil-astro-imaging.com",
+          "raw_url": "https://www.masil-astro-imaging.com/",
+          "found_time": "2024-11-15 14:12:44",
+          "status": "active"
+        },
+        {
+          "domain": "304axatogel.com",
+          "raw_url": "https://304axatogel.com/",
+          "found_time": "2024-11-15 14:12:45",
+          "status": "active"
+        },
+        {
+          "domain": "keyonary.com",
+          "raw_url": "https://www.keyonary.com/",
+          "found_time": "2024-11-15 14:13:46",
+          "status": "active"
+        },
+        {
+          "domain": "tap.bio",
+          "raw_url": "https://tap.bio/@elitetogel",
+          "found_time": "2024-11-15 14:13:46",
           "status": "active"
         }
       ]
