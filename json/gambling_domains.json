@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 00:34:29",
+  "updated": "2024-11-16 00:35:39",
   "categories": {
     "slot": {
       "count": 4746,
@@ -32704,7 +32704,7 @@
       ]
     },
     "sportsbook": {
-      "count": 124,
+      "count": 135,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -33448,6 +33448,72 @@
           "domain": "aerotravelindo.co.id",
           "raw_url": "https://aerotravelindo.co.id/icon/file/",
           "found_time": "2024-11-15 17:34:28",
+          "status": "active"
+        },
+        {
+          "domain": "tamanramadenpasar.sch.id",
+          "raw_url": "https://tamanramadenpasar.sch.id/pages/",
+          "found_time": "2024-11-15 17:34:28",
+          "status": "active"
+        },
+        {
+          "domain": "remotehub.com",
+          "raw_url": "https://www.remotehub.com/portfolios/details/parlay88-agen-taruhan-judi-bola-mix-parlay-665827aaedae3a21fb31d04a",
+          "found_time": "2024-11-15 17:35:37",
+          "status": "active"
+        },
+        {
+          "domain": "tekateki.org",
+          "raw_url": "https://tekateki.org/",
+          "found_time": "2024-11-15 17:35:37",
+          "status": "active"
+        },
+        {
+          "domain": "thesushibyjin.com",
+          "raw_url": "https://thesushibyjin.com/",
+          "found_time": "2024-11-15 17:35:37",
+          "status": "active"
+        },
+        {
+          "domain": "wisechurch.com",
+          "raw_url": "https://www.wisechurch.com/",
+          "found_time": "2024-11-15 17:35:37",
+          "status": "active"
+        },
+        {
+          "domain": "lartsana.com",
+          "raw_url": "https://lartsana.com/en/",
+          "found_time": "2024-11-15 17:35:38",
+          "status": "active"
+        },
+        {
+          "domain": "btcollectiblesstore.com",
+          "raw_url": "https://btcollectiblesstore.com/",
+          "found_time": "2024-11-15 17:35:38",
+          "status": "active"
+        },
+        {
+          "domain": "carnesfinasortiz.com",
+          "raw_url": "https://carnesfinasortiz.com/",
+          "found_time": "2024-11-15 17:35:38",
+          "status": "active"
+        },
+        {
+          "domain": "universe.com",
+          "raw_url": "https://www.universe.com/users/banbol-situs-judi-bola-online-resmi-dan-terpercaya-dengan-pilihan-bet-sportbook-terlengkap-CW31R7",
+          "found_time": "2024-11-15 17:35:38",
+          "status": "active"
+        },
+        {
+          "domain": "naumc.org",
+          "raw_url": "https://naumc.org/",
+          "found_time": "2024-11-15 17:35:39",
+          "status": "active"
+        },
+        {
+          "domain": "darasaletu.com",
+          "raw_url": "https://www.darasaletu.com/",
+          "found_time": "2024-11-15 17:35:39",
           "status": "active"
         }
       ]
