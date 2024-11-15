@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 18:28:51",
+  "updated": "2024-11-15 18:34:08",
   "categories": {
     "slot": {
-      "count": 4388,
+      "count": 4396,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26330,6 +26330,54 @@
           "domain": "southwaleschronicle.co.uk",
           "raw_url": "https://southwaleschronicle.co.uk/blog/2024/09/03/how-to-win-big-playing-pg-soft-games/",
           "found_time": "2024-11-15 11:26:48",
+          "status": "active"
+        },
+        {
+          "domain": "career.habr.com",
+          "raw_url": "https://career.habr.com/joker-123",
+          "found_time": "2024-11-15 11:28:51",
+          "status": "active"
+        },
+        {
+          "domain": "juliangayarre.com",
+          "raw_url": "https://www.juliangayarre.com/",
+          "found_time": "2024-11-15 11:32:02",
+          "status": "active"
+        },
+        {
+          "domain": "wbac.com",
+          "raw_url": "https://www.wbac.com/",
+          "found_time": "2024-11-15 11:32:02",
+          "status": "active"
+        },
+        {
+          "domain": "maisconsultoria.com.br",
+          "raw_url": "https://maisconsultoria.com.br/",
+          "found_time": "2024-11-15 11:32:02",
+          "status": "active"
+        },
+        {
+          "domain": "commonsenseamerican.org",
+          "raw_url": "https://www.commonsenseamerican.org/",
+          "found_time": "2024-11-15 11:33:03",
+          "status": "active"
+        },
+        {
+          "domain": "jointsolution.in",
+          "raw_url": "https://jointsolution.in/",
+          "found_time": "2024-11-15 11:33:03",
+          "status": "active"
+        },
+        {
+          "domain": "dev-amp.vercel.app",
+          "raw_url": "https://dev-amp.vercel.app/maritimeacademy.html",
+          "found_time": "2024-11-15 11:34:07",
+          "status": "active"
+        },
+        {
+          "domain": "tele-tubbies.firebaseapp.com",
+          "raw_url": "https://tele-tubbies.firebaseapp.com/",
+          "found_time": "2024-11-15 11:34:08",
           "status": "active"
         }
       ]

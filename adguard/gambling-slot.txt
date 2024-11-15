@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:28:51
+! Last Updated: 2024-11-15 18:34:08
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4388
+! Number of unique domains: 4396
 !
 
 ||103.115.28.6^
@@ -693,6 +693,7 @@
 ||caravaninn.com^
 ||carbontcc.com^
 ||cardlinx.org^
+||career.habr.com^
 ||carefreecolors.com^
 ||carminhomusic.com^
 ||carolinacornholeco.com^
@@ -849,6 +850,7 @@
 ||combinespaces.com^
 ||comenius.de^
 ||comicdish.com^
+||commonsenseamerican.org^
 ||community.m5stack.com^
 ||community.victronenergy.com^
 ||compass.com^
@@ -1015,6 +1017,7 @@
 ||deschutesrivermontessori.com^
 ||destinynailsspa.com^
 ||dethaikitchen.com^
+||dev-amp.vercel.app^
 ||dev.spklu.pertamina.com^
 ||devdojo.com^
 ||dewanarsitek.id^
@@ -1896,6 +1899,7 @@
 ||johnnypappagallo.com^
 ||johnsonsoe.org^
 ||johnstehrformayor.com^
+||jointsolution.in^
 ||joker.lv^
 ||joker123.net^
 ||jomjohor.my^
@@ -1940,6 +1944,7 @@
 ||jtgreat.shop^
 ||juicybrewhawaii.com^
 ||julia-forster.com^
+||juliangayarre.com^
 ||julianthayn.com^
 ||junkremovalspokane.org^
 ||jupendik.or.id^
@@ -2341,6 +2346,7 @@
 ||maindemogratis.wordpress.com^
 ||mainuno.com^
 ||mairamediterranean.com^
+||maisconsultoria.com.br^
 ||maiyet.com^
 ||majukumbang.xyz^
 ||makassar.basarnas.go.id^
@@ -3877,6 +3883,7 @@
 ||teknologi.bisnis.com^
 ||telagakahuripan-idn.com^
 ||telcotitans.com^
+||tele-tubbies.firebaseapp.com^
 ||telelab.aids.gov.br^
 ||telemetr.io^
 ||telkomsel.com^
@@ -4242,6 +4249,7 @@
 ||watershed440.com^
 ||wattpad.com^
 ||wazdan.com^
+||wbac.com^
 ||wbnc.in^
 ||web.arcasia.org^
 ||web.pohotels.co.id^
