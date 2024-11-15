@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 01:14:47
+! Last Updated: 2024-11-16 01:19:16
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 197
+! Number of unique domains: 224
 !
 
 ||abseits.at^
@@ -18,6 +18,7 @@
 ||ayokgaspol.pages.dev^
 ||babmrjournal.org^
 ||balipost.com^
+||bandarjuditerpercaya88.wordpress.com^
 ||basketballsphere.com^
 ||bengkulutoday.com^
 ||bestczechcasinos.cz^
@@ -31,8 +32,10 @@
 ||bolasport.com^
 ||btcollectiblesstore.com^
 ||bwhimsy.com^
+||calameo.com^
 ||carnesfinasortiz.com^
 ||ciamiskabwede.pages.dev^
+||citygardensflowershop.com^
 ||commerceops.uat2.petsuppliesplus.com^
 ||community.endnote.com^
 ||conference.untag-sby.ac.id^
@@ -64,22 +67,27 @@
 ||faktanasional.id^
 ||fkip-binggris.umb.ac.id^
 ||flalandscape.com^
+||footlockerwest.com^
+||forum.fanatec.com^
 ||ft95soundersfc.pages.dev^
 ||ftp.dbd.puc-rio.br^
 ||geiptest.org^
 ||gilabola.com^
+||givegab.com^
 ||goalmedia.co^
 ||greenticgov.pages.dev^
 ||gsicorp.co.id^
 ||gudangpn.kemkes.go.id^
 ||halodoc.com^
 ||halofkmusu.or.id^
+||hancau.net^
 ||harnessbred.com^
 ||idsitusbola.pages.dev^
 ||iicosteam.unkhair.ac.id^
 ||indonesiakini.go.id^
 ||indonesiaplant.com^
 ||infopurwakarta.id^
+||informasijuditerlengkap.wordpress.com^
 ||insitudigital.com^
 ||intrend.id^
 ||investortrust.id^
@@ -93,11 +101,13 @@
 ||jendralmaya.pages.dev^
 ||jflspk.com^
 ||joynailsbarrowlett.com^
+||kamunanya.net^
 ||kaptenmaya.pages.dev^
 ||kezkaprinting.com^
 ||kliklegal.com^
 ||koma.id^
 ||kominfo.go.id^
+||kucingbola.wordpress.com^
 ||labula-dining.com^
 ||laloika.desa.id^
 ||lartsana.com^
@@ -114,8 +124,10 @@
 ||m.panditfootball.com^
 ||madiun.disnakertrans.jatimprov.go.id^
 ||maxbet855soundersfc.pages.dev^
+||maytechcr.com^
 ||media.diblast.com^
 ||media.neliti.com^
+||mediaaceh.co.id^
 ||mespharmacy.org^
 ||metooo.io^
 ||migranberdaulat.org^
@@ -126,6 +138,7 @@
 ||n1info.rs^
 ||naumc.org^
 ||neliti.com^
+||new.pa-maumere.go.id^
 ||nft.borneofc.id^
 ||nobartvpro.com^
 ||novobrew.com^
@@ -138,21 +151,30 @@
 ||os.mbed.com^
 ||padelgoin.com^
 ||parcosimone.it^
+||parganz.pages.dev^
 ||parlay855bet.pages.dev^
 ||pdi-perjuangan.pages.dev^
+||pendidikan.malangkab.go.id:8099^
 ||perpustakaan.pa-kotamadiun.go.id^
 ||perspektif.ppj.unp.ac.id^
+||petitesoulshop.com^
 ||pharmaciedesmazades.fr^
 ||pinjamdulu500.com^
 ||pmb.akperkesdam6tpr.ac.id^
 ||ppdb.maskara.sch.id^
 ||ppdi.ciamiskab.go.id^
+||prediksibola33blog.wordpress.com^
+||prediksiboladewa.net^
+||prediksibolajitu88.wordpress.com^
+||prediksijitu.quora.com^
+||prediksiskorbolajitu.quora.com^
 ||professores.uff.br^
 ||property-lippocikarang.com^
 ||provenexpert.com^
 ||psb.alhasan.co.id^
 ||pssi.org^
 ||publicrepo.geaviation.com^
+||qiuqiujurnal.wordpress.com^
 ||rbtv.disway.id^
 ||redcircle.com^
 ||rejosari-kangkung.desa.id^
@@ -166,6 +188,7 @@
 ||saiwalks.com^
 ||sararamedia.net^
 ||sariminkenx.quora.com^
+||satyabeautywellness.com^
 ||sdn34bandaaceh.sch.id^
 ||seohaji.pages.dev^
 ||serenesophro.fr^
@@ -191,11 +214,15 @@
 ||theplaidhorse.com^
 ||therightsfuture.com^
 ||thesushibyjin.com^
+||tikustikuskantor.pages.dev^
 ||tlcautomachineshop.com^
+||topscore.id^
 ||tribratanewsntt.com^
 ||ucosigtau.com^
 ||uni.xyz^
+||unicone.id^
 ||universe.com^
+||view.publitas.com^
 ||wartatransparansi.com^
 ||wisechurch.com^
 ||xolabit.co.id^

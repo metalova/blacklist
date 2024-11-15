@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:14:47
+! Last Updated: 2024-11-16 01:19:16
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5644
+! Number of domains: 5671
 !
 
 ! Category: SLOT
@@ -5658,4 +5658,31 @@
 ||ejournal.amertamedia.co.id^
 ||oceanrenewable.com^
 ||nusantara-post.com^
+||hancau.net^
+||topscore.id^
+||footlockerwest.com^
+||unicone.id^
+||pendidikan.malangkab.go.id:8099^
+||forum.fanatec.com^
+||kucingbola.wordpress.com^
+||calameo.com^
+||prediksiskorbolajitu.quora.com^
+||mediaaceh.co.id^
+||prediksibolajitu88.wordpress.com^
+||kamunanya.net^
+||prediksibola33blog.wordpress.com^
+||prediksijitu.quora.com^
+||satyabeautywellness.com^
+||givegab.com^
+||prediksiboladewa.net^
+||maytechcr.com^
+||qiuqiujurnal.wordpress.com^
+||tikustikuskantor.pages.dev^
+||new.pa-maumere.go.id^
+||bandarjuditerpercaya88.wordpress.com^
+||informasijuditerlengkap.wordpress.com^
+||parganz.pages.dev^
+||citygardensflowershop.com^
+||view.publitas.com^
+||petitesoulshop.com^
 
