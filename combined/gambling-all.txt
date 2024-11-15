@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:30:01
+! Last Updated: 2024-11-16 01:34:19
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5719
+! Number of domains: 5746
 !
 
 ! Category: SLOT
@@ -5733,4 +5733,31 @@
 ||plus.bisnis.com^
 ||journal.uinsgd.ac.id^
 ||fkip.uika-bogor.ac.id^
+||gloriascoiffure.com^
+||bola808.org^
+||ictdemy.com^
+||bonebolangokab.ina-sdi.or.id^
+||docdroid.net^
+||interbankwholesale.com^
+||guitareserian.fr^
+||desafiocreativo.com^
+||mercermuseum.org^
+||gites-ville-seran.com^
+||rg-leotard.com^
+||uijar.com^
+||dlhk.inhilkab.go.id^
+||mightydreamforum.com^
+||salgadoalimentos.com^
+||thenorth--face.co.uk^
+||pabrikbola.com^
+||bola888.mystrikingly.com^
+||zotero.org^
+||finansial.bisnis.com^
+||rumah123.com^
+||cuingles.com^
+||decathlon.co.id^
+||espace-client.autobilan-systems.com^
+||olx.co.id^
+||chatsports.com^
+||pretermalin.fr^
 
