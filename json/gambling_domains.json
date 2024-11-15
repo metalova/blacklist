@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 22:37:58",
+  "updated": "2024-11-15 22:44:03",
   "categories": {
     "slot": {
-      "count": 4699,
+      "count": 4704,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28196,6 +28196,36 @@
           "domain": "unsri.ac.id",
           "raw_url": "https://unsri.ac.id/wisuda/wisuda/?raden=megawin",
           "found_time": "2024-11-15 15:37:58",
+          "status": "active"
+        },
+        {
+          "domain": "heavethehawk.com",
+          "raw_url": "https://heavethehawk.com/",
+          "found_time": "2024-11-15 15:37:58",
+          "status": "active"
+        },
+        {
+          "domain": "halalinstitute.id",
+          "raw_url": "https://halalinstitute.id/registrasi/?narcos=SULTANJP",
+          "found_time": "2024-11-15 15:43:01",
+          "status": "active"
+        },
+        {
+          "domain": "solotecnologia.net",
+          "raw_url": "https://solotecnologia.net/",
+          "found_time": "2024-11-15 15:43:01",
+          "status": "active"
+        },
+        {
+          "domain": "disciplinaenpositivo.com",
+          "raw_url": "https://disciplinaenpositivo.com/",
+          "found_time": "2024-11-15 15:44:03",
+          "status": "active"
+        },
+        {
+          "domain": "pnuecos.org",
+          "raw_url": "https://pnuecos.org/royal88-login-9/",
+          "found_time": "2024-11-15 15:44:03",
           "status": "active"
         }
       ]

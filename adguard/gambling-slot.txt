@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 22:37:58
+! Last Updated: 2024-11-15 22:44:03
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4699
+! Number of unique domains: 4704
 !
 
 ||103.115.28.6^
@@ -1129,6 +1129,7 @@
 ||dirdosen.budiluhur.ac.id^
 ||direct.me^
 ||disasterbunkers.com^
+||disciplinaenpositivo.com^
 ||discourse.mozilla.org^
 ||discover-otocac.com^
 ||discoveryinterschools.co.za^
@@ -1657,6 +1658,7 @@
 ||hahahihihuhu.my.id^
 ||hahnextremefitness.com^
 ||haka.by^
+||halalinstitute.id^
 ||haleiwasurfandyoga.com^
 ||halfmoonfarm.co^
 ||halfordbar.com.au^
@@ -1695,6 +1697,7 @@
 ||heartofrocknrollbway.com^
 ||heatherrandell.com^
 ||heathrow.com^
+||heavethehawk.com^
 ||helicopter4you.com^
 ||hellasforum.no^
 ||hellococonutclub.com^
@@ -3241,6 +3244,7 @@
 ||pn-sidrap.go.id^
 ||pneumatiky.heureka.cz^
 ||pneumatiky.heureka.sk^
+||pnuecos.org^
 ||pogo88.com^
 ||pojoksatu.id^
 ||pokeriomokykla.com^
@@ -3913,6 +3917,7 @@
 ||softorb.co.id^
 ||soinsdepiedsmarthe.com^
 ||solagodoorcounty.com^
+||solotecnologia.net^
 ||solve.mit.edu^
 ||somos.pangeia.eco^
 ||songgolangit.pikiran-rakyat.com^
