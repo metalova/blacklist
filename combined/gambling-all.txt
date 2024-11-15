@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 04:04:42
+! Last Updated: 2024-11-16 04:09:59
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6300
+! Number of domains: 6321
 !
 
 ! Category: SLOT
@@ -6316,4 +6316,25 @@
 ||malang.jatimtimes.com^
 ||plinko1win.com^
 ||martinlutherschooldodoma.sc.tz^
+||troc35.fr^
+||profilerr.net^
+||pressreader.com^
+||morshedworx.com^
+||splatoonwiki.org^
+||dotesports.com^
+||news.stthom.edu^
+||betwing88search.com^
+||icebb.net^
+||gamesindustry.biz^
+||esports.clashroyale.com^
+||pulsar.gg^
+||upstation.media^
+||fantech.id^
+||maestrojersey.com^
+||genpi.co^
+||okinews.disway.id^
+||villa-melanie-martinique.com^
+||cerdasbelanja.grid.id^
+||maxsi.id^
+||speedcash.co.id^
 
