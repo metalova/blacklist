@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 22:34:54",
+  "updated": "2024-11-15 22:37:58",
   "categories": {
     "slot": {
-      "count": 4695,
+      "count": 4699,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28172,6 +28172,30 @@
           "domain": "tipsterbattle.com",
           "raw_url": "https://www.tipsterbattle.com/bookmakers/betmaster",
           "found_time": "2024-11-15 15:33:52",
+          "status": "active"
+        },
+        {
+          "domain": "russellstreetreport.com",
+          "raw_url": "https://russellstreetreport.com/2024/11/12/sports-betting/betmgm-bonus-code-rsr200-win-200-bonus-on-10-nba-bet/",
+          "found_time": "2024-11-15 15:34:53",
+          "status": "active"
+        },
+        {
+          "domain": "ar.aliexpress.com",
+          "raw_url": "https://ar.aliexpress.com/i/1005005783856522.html",
+          "found_time": "2024-11-15 15:37:57",
+          "status": "active"
+        },
+        {
+          "domain": "siakad.ummat.ac.id",
+          "raw_url": "https://siakad.ummat.ac.id/asset/gosok/?gas=MEGAWIN",
+          "found_time": "2024-11-15 15:37:57",
+          "status": "active"
+        },
+        {
+          "domain": "unsri.ac.id",
+          "raw_url": "https://unsri.ac.id/wisuda/wisuda/?raden=megawin",
+          "found_time": "2024-11-15 15:37:58",
           "status": "active"
         }
       ]
