@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 23:43:31
+! Last Updated: 2024-11-15 23:49:53
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5312
+! Number of domains: 5332
 !
 
 ! Category: SLOT
@@ -4951,6 +4951,26 @@
 ||bappeda.jatengprov.go.id^
 ||cachecreek.com^
 ||mojadipro.com^
+||pulsagacor99.com^
+||id.uptodown.com^
+||ignotzsristorante.com^
+||burpple.com^
+||tiposderobot.com^
+||caremedicalcollegebd.com^
+||gotravelly.com^
+||jacobsforsenate.com^
+||amodiva.com^
+||kbivirtual.id^
+||portal.careerguidancecollege.com^
+||pa-bengkulukota.go.id^
+||cc.iift.ac.in^
+||teknik.widyakarya.ac.id^
+||majesticpride.in^
+||dpmptspp.belitung.go.id^
+||livedealer21.com^
+||know.nsmtltd.co.uk^
+||gamblingcounting.com^
+||eastbayexpress.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-15 23:43:31
+! Last Updated: 2024-11-15 23:49:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 197
+! Number of unique domains: 217
 !
 
 ||24liveblog.com^
@@ -14,6 +14,7 @@
 ||alwaysthaichicago.com^
 ||alx1top.org^
 ||amazon.de^
+||amodiva.com^
 ||arlingtonyouthfootball.com^
 ||ascentinternationalschool.com^
 ||ashevilledatenight.com^
@@ -34,11 +35,14 @@
 ||bombayclub.com^
 ||bossaction.com^
 ||brsoftech.com^
+||burpple.com^
 ||cachecreek.com^
+||caremedicalcollegebd.com^
 ||carolinadumpstersllc.com^
 ||caseyforcongressri.com^
 ||casino-terrestre.com^
 ||cbsnews.com^
+||cc.iift.ac.in^
 ||cdcgaming.com^
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
@@ -56,7 +60,9 @@
 ||dellagoresort.com^
 ||deviantart.com^
 ||dolby.io^
+||dpmptspp.belitung.go.id^
 ||e-statistik.temanggungkab.go.id^
+||eastbayexpress.com^
 ||ebelanja.id^
 ||elizas.co.nz^
 ||empiremetrorental.com^
@@ -67,12 +73,14 @@
 ||familydentalrockville.com^
 ||forbes.com^
 ||fpmipa.ikip-saraswati.ac.id^
+||gamblingcounting.com^
 ||games.washingtonpost.com^
 ||gdqpan.udn.vn^
 ||ggbmagazine.com^
 ||golaurelhighlands.com^
 ||goldenmesa.com^
 ||goldensteersteakhouse.com^
+||gotravelly.com^
 ||grandcasino-bern.ch^
 ||grasz.id^
 ||greatcanadian.com^
@@ -82,7 +90,9 @@
 ||id.piliapp.com^
 ||id.quora.com^
 ||id.scribd.com^
+||id.uptodown.com^
 ||id.y8.com^
+||ignotzsristorante.com^
 ||ihubtc.com^
 ||imaginelive.com^
 ||imunisasi-tambahan.kemkes.go.id^
@@ -90,21 +100,26 @@
 ||informaticsglobal.com^
 ||instituteforpr.org^
 ||it.piliapp.com^
+||jacobsforsenate.com^
 ||jazzmidlands.org^
 ||jenniferellision.com^
 ||jmet.itr.ac.id^
 ||jollywowsbbq.com^
 ||journalofmedula.com^
 ||jti.respati.ac.id^
+||kbivirtual.id^
 ||kick.com^
+||know.nsmtltd.co.uk^
 ||kputulungagung.com^
 ||krakatauinternationalport.co.id^
 ||lanerosacasino.wordpress.com^
 ||lanyardkilat.co.id^
 ||live-casino.smpn2kotadumai.sch.id^
+||livedealer21.com^
 ||lrcr.com^
 ||lubukbangkar.desa.id^
 ||maderasboulevard.com^
+||majesticpride.in^
 ||man12jakarta.id^
 ||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
@@ -128,6 +143,7 @@
 ||olinda.pe.gov.br^
 ||online-stopwatch.com^
 ||organisasi.koltimkab.com^
+||pa-bengkulukota.go.id^
 ||pafinatuna.org^
 ||paoyouth.org^
 ||paysbig.com^
@@ -137,6 +153,8 @@
 ||philadelphia.livecasinohotel.com^
 ||playgon.com^
 ||policarbonatoecuador.com^
+||portal.careerguidancecollege.com^
+||pulsagacor99.com^
 ||rajacasino.travel^
 ||rajawali.ac.id^
 ||rawonsurabaya.com^
@@ -171,6 +189,7 @@
 ||sycuan.com^
 ||take23.org^
 ||tastyvintage.com^
+||teknik.widyakarya.ac.id^
 ||thecircuslife.com^
 ||theexpendables2film.com^
 ||thefosterfarm.org^
@@ -180,6 +199,7 @@
 ||thrivemedicalaesthetics.ca^
 ||tib.co.id^
 ||tiki-talk.com^
+||tiposderobot.com^
 ||tnrscakesncookiesgalore.com^
 ||topmassageandspallc.com^
 ||torosclubcelaya.com^
