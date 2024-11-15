@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 04:19:37",
+  "updated": "2024-11-16 04:24:44",
   "categories": {
     "slot": {
       "count": 4746,
@@ -38144,7 +38144,7 @@
       ]
     },
     "others": {
-      "count": 25,
+      "count": 31,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -38294,6 +38294,42 @@
           "domain": "ojashospitalbhopal.com",
           "raw_url": "https://ojashospitalbhopal.com/",
           "found_time": "2024-11-15 21:19:37",
+          "status": "active"
+        },
+        {
+          "domain": "morbeachcafe.com",
+          "raw_url": "https://www.morbeachcafe.com/",
+          "found_time": "2024-11-15 21:19:37",
+          "status": "active"
+        },
+        {
+          "domain": "reviewaspg.com",
+          "raw_url": "https://reviewaspg.com/maxbet138/",
+          "found_time": "2024-11-15 21:20:39",
+          "status": "active"
+        },
+        {
+          "domain": "transifex.com",
+          "raw_url": "https://www.transifex.com/beerlian168/agen-judi-online-terpercaya-di-indonesia/",
+          "found_time": "2024-11-15 21:21:40",
+          "status": "active"
+        },
+        {
+          "domain": "transformingcenter.org",
+          "raw_url": "https://transformingcenter.org/2016/11/ciri-situs-agen-judi-online-dominoqq-terunggul-serta-dapat-dipercaya/",
+          "found_time": "2024-11-15 21:21:40",
+          "status": "active"
+        },
+        {
+          "domain": "judiresmiofficial.com",
+          "raw_url": "https://judiresmiofficial.com/",
+          "found_time": "2024-11-15 21:22:41",
+          "status": "active"
+        },
+        {
+          "domain": "id.advantaseeds.com",
+          "raw_url": "https://id.advantaseeds.com/socials/bandarqq/",
+          "found_time": "2024-11-15 21:23:42",
           "status": "active"
         }
       ]
