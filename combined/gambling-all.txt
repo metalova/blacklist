@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 04:24:44
+! Last Updated: 2024-11-16 04:29:05
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6383
+! Number of domains: 6408
 !
 
 ! Category: SLOT
@@ -6401,4 +6401,29 @@
 ||transformingcenter.org^
 ||judiresmiofficial.com^
 ||id.advantaseeds.com^
+||abc.net.au^
+||repository.upbatam.ac.id^
+||fajarsatu.com^
+||m.harianjogja.com^
+||alinea.id^
+||lbhpengayoman.unpar.ac.id^
+||vidio.com^
+||era.id^
+||akurasi.id^
+||disway.id^
+||jurnalplazahukum.com^
+||aspek.id^
+||dkisp.tarakankota.go.id^
+||inanews.co.id^
+||nomorsatukaltim.disway.id^
+||asatuonline.id^
+||tennismag.com.ua^
+||keuangan.kontan.co.id^
+||mediajustitia.com^
+||supremetoys.ca^
+||mantapkerangwin.us^
+||kabarpapua.co^
+||mudahjackpot.wordpress.com^
+||fokus.kontan.co.id^
+||pervasivedatarush.com^
 
