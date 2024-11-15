@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 00:29:26
+! Last Updated: 2024-11-16 00:34:29
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5528
+! Number of domains: 5571
 !
 
 ! Category: SLOT
@@ -5542,4 +5542,47 @@
 ||pssi.org^
 ||arti.info^
 ||labula-dining.com^
+||indonesiaplant.com^
+||morningdough.com^
+||uni.xyz^
+||os.mbed.com^
+||m.panditfootball.com^
+||bolakita.farm^
+||arenadelrio.com^
+||sipp.pn-meureudu.go.id^
+||letrachuecapress.com^
+||shutterbug.com^
+||repository.unpra.ac.id^
+||staging.arbusa.com^
+||therightsfuture.com^
+||novobrew.com^
+||bfreshgigi.com^
+||digilib.ptiq.ac.id^
+||goalmedia.co^
+||smkn3banyumas.sch.id^
+||commerceops.uat2.petsuppliesplus.com^
+||pmb.akperkesdam6tpr.ac.id^
+||provenexpert.com^
+||sdn34bandaaceh.sch.id^
+||seohaji.pages.dev^
+||kaptenmaya.pages.dev^
+||izinnaikmas.pages.dev^
+||siaku.akperkesdam6tpr.ac.id^
+||absensi-musirawaskab.pages.dev^
+||simantaprsud.padangpanjang.go.id^
+||greenticgov.pages.dev^
+||izinngacakmas.pages.dev^
+||ayokgaspol.pages.dev^
+||iwalletslotgacor.pages.dev^
+||ft95soundersfc.pages.dev^
+||lms.sibestari.com^
+||autos.cbslocal.com^
+||nft.borneofc.id^
+||discoveriesinamericanart.com^
+||corpgovnigeria.org^
+||madiun.disnakertrans.jatimprov.go.id^
+||apollo.io^
+||devpost.com^
+||migranberdaulat.org^
+||aerotravelindo.co.id^
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 00:29:26",
+  "updated": "2024-11-16 00:34:29",
   "categories": {
     "slot": {
       "count": 4746,
@@ -32704,7 +32704,7 @@
       ]
     },
     "sportsbook": {
-      "count": 81,
+      "count": 124,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -33190,6 +33190,264 @@
           "domain": "labula-dining.com",
           "raw_url": "https://labula-dining.com/amp",
           "found_time": "2024-11-15 17:29:25",
+          "status": "active"
+        },
+        {
+          "domain": "indonesiaplant.com",
+          "raw_url": "https://www.indonesiaplant.com/amp/",
+          "found_time": "2024-11-15 17:29:25",
+          "status": "active"
+        },
+        {
+          "domain": "morningdough.com",
+          "raw_url": "https://www.morningdough.com/id/ai-tools/best-ai-soccer-prediction/",
+          "found_time": "2024-11-15 17:30:28",
+          "status": "active"
+        },
+        {
+          "domain": "uni.xyz",
+          "raw_url": "https://uni.xyz/profile/prediksi/",
+          "found_time": "2024-11-15 17:30:28",
+          "status": "active"
+        },
+        {
+          "domain": "os.mbed.com",
+          "raw_url": "https://os.mbed.com/teams/Berita-Prediksi-Bola/",
+          "found_time": "2024-11-15 17:30:29",
+          "status": "active"
+        },
+        {
+          "domain": "m.panditfootball.com",
+          "raw_url": "https://m.panditfootball.com/169951/cara-melakukan-prediksi-pertandingan-lewat-sains",
+          "found_time": "2024-11-15 17:30:29",
+          "status": "active"
+        },
+        {
+          "domain": "bolakita.farm",
+          "raw_url": "https://bolakita.farm/",
+          "found_time": "2024-11-15 17:31:52",
+          "status": "active"
+        },
+        {
+          "domain": "arenadelrio.com",
+          "raw_url": "https://arenadelrio.com/",
+          "found_time": "2024-11-15 17:31:52",
+          "status": "active"
+        },
+        {
+          "domain": "sipp.pn-meureudu.go.id",
+          "raw_url": "https://sipp.pn-meureudu.go.id/pages/sbobet/",
+          "found_time": "2024-11-15 17:31:52",
+          "status": "active"
+        },
+        {
+          "domain": "letrachuecapress.com",
+          "raw_url": "https://letrachuecapress.com/",
+          "found_time": "2024-11-15 17:31:52",
+          "status": "active"
+        },
+        {
+          "domain": "shutterbug.com",
+          "raw_url": "https://www.shutterbug.com/content/berita-prediksi-bola",
+          "found_time": "2024-11-15 17:31:53",
+          "status": "active"
+        },
+        {
+          "domain": "repository.unpra.ac.id",
+          "raw_url": "https://www.repository.unpra.ac.id/prlay/",
+          "found_time": "2024-11-15 17:31:53",
+          "status": "active"
+        },
+        {
+          "domain": "staging.arbusa.com",
+          "raw_url": "https://staging.arbusa.com/",
+          "found_time": "2024-11-15 17:31:53",
+          "status": "active"
+        },
+        {
+          "domain": "therightsfuture.com",
+          "raw_url": "https://therightsfuture.com/",
+          "found_time": "2024-11-15 17:31:53",
+          "status": "active"
+        },
+        {
+          "domain": "novobrew.com",
+          "raw_url": "https://www.novobrew.com/wp-includes/js/parlay/",
+          "found_time": "2024-11-15 17:31:53",
+          "status": "active"
+        },
+        {
+          "domain": "bfreshgigi.com",
+          "raw_url": "https://bfreshgigi.com/wp-includes/images/mix-parlay/",
+          "found_time": "2024-11-15 17:31:54",
+          "status": "active"
+        },
+        {
+          "domain": "digilib.ptiq.ac.id",
+          "raw_url": "https://digilib.ptiq.ac.id/install/?gelar=CARA-MEMILIH-PARLAY-BOLA",
+          "found_time": "2024-11-15 17:31:54",
+          "status": "active"
+        },
+        {
+          "domain": "goalmedia.co",
+          "raw_url": "https://goalmedia.co/",
+          "found_time": "2024-11-15 17:31:54",
+          "status": "active"
+        },
+        {
+          "domain": "smkn3banyumas.sch.id",
+          "raw_url": "https://smkn3banyumas.sch.id/PARLAY-BOLA-356/",
+          "found_time": "2024-11-15 17:31:54",
+          "status": "active"
+        },
+        {
+          "domain": "commerceops.uat2.petsuppliesplus.com",
+          "raw_url": "https://commerceops.uat2.petsuppliesplus.com/",
+          "found_time": "2024-11-15 17:33:01",
+          "status": "active"
+        },
+        {
+          "domain": "pmb.akperkesdam6tpr.ac.id",
+          "raw_url": "https://pmb.akperkesdam6tpr.ac.id/js/akun-pro-malaysia/",
+          "found_time": "2024-11-15 17:33:01",
+          "status": "active"
+        },
+        {
+          "domain": "provenexpert.com",
+          "raw_url": "https://www.provenexpert.com/en-us/mix-parlay-sbobet-euro/",
+          "found_time": "2024-11-15 17:33:01",
+          "status": "active"
+        },
+        {
+          "domain": "sdn34bandaaceh.sch.id",
+          "raw_url": "https://sdn34bandaaceh.sch.id/ujangburhan/",
+          "found_time": "2024-11-15 17:33:01",
+          "status": "active"
+        },
+        {
+          "domain": "seohaji.pages.dev",
+          "raw_url": "https://seohaji.pages.dev/mixparlay/",
+          "found_time": "2024-11-15 17:33:01",
+          "status": "active"
+        },
+        {
+          "domain": "kaptenmaya.pages.dev",
+          "raw_url": "https://kaptenmaya.pages.dev/mix-parlay/",
+          "found_time": "2024-11-15 17:33:02",
+          "status": "active"
+        },
+        {
+          "domain": "izinnaikmas.pages.dev",
+          "raw_url": "https://izinnaikmas.pages.dev/?bmw_f30i=MIX%20PARLAY",
+          "found_time": "2024-11-15 17:33:02",
+          "status": "active"
+        },
+        {
+          "domain": "siaku.akperkesdam6tpr.ac.id",
+          "raw_url": "https://siaku.akperkesdam6tpr.ac.id/js/akun-mahjong/",
+          "found_time": "2024-11-15 17:33:02",
+          "status": "active"
+        },
+        {
+          "domain": "absensi-musirawaskab.pages.dev",
+          "raw_url": "https://absensi-musirawaskab.pages.dev/?pg=CARA%20MAIN%20COMBO%20MIX%20PARLAY",
+          "found_time": "2024-11-15 17:33:02",
+          "status": "active"
+        },
+        {
+          "domain": "simantaprsud.padangpanjang.go.id",
+          "raw_url": "https://simantaprsud.padangpanjang.go.id/pengumuman/sbo-terpercaya/",
+          "found_time": "2024-11-15 17:33:03",
+          "status": "active"
+        },
+        {
+          "domain": "greenticgov.pages.dev",
+          "raw_url": "https://greenticgov.pages.dev/parlay/",
+          "found_time": "2024-11-15 17:33:03",
+          "status": "active"
+        },
+        {
+          "domain": "izinngacakmas.pages.dev",
+          "raw_url": "https://izinngacakmas.pages.dev/?bmw_f30i=CARA%20PASANG%20MIX%20PARLAY",
+          "found_time": "2024-11-15 17:33:03",
+          "status": "active"
+        },
+        {
+          "domain": "ayokgaspol.pages.dev",
+          "raw_url": "https://ayokgaspol.pages.dev/?bmw_f30i=CARA%20BERMAIN%20MIX%20PARLAY",
+          "found_time": "2024-11-15 17:33:03",
+          "status": "active"
+        },
+        {
+          "domain": "iwalletslotgacor.pages.dev",
+          "raw_url": "https://iwalletslotgacor.pages.dev/update/parlay/",
+          "found_time": "2024-11-15 17:33:03",
+          "status": "active"
+        },
+        {
+          "domain": "ft95soundersfc.pages.dev",
+          "raw_url": "https://ft95soundersfc.pages.dev/go/",
+          "found_time": "2024-11-15 17:33:04",
+          "status": "active"
+        },
+        {
+          "domain": "lms.sibestari.com",
+          "raw_url": "https://lms.sibestari.com/auth/home/",
+          "found_time": "2024-11-15 17:34:26",
+          "status": "active"
+        },
+        {
+          "domain": "autos.cbslocal.com",
+          "raw_url": "http://autos.cbslocal.com/",
+          "found_time": "2024-11-15 17:34:26",
+          "status": "active"
+        },
+        {
+          "domain": "nft.borneofc.id",
+          "raw_url": "https://nft.borneofc.id/content/",
+          "found_time": "2024-11-15 17:34:27",
+          "status": "active"
+        },
+        {
+          "domain": "discoveriesinamericanart.com",
+          "raw_url": "https://discoveriesinamericanart.com/taruhan-judi-bola-online-terbaik-dari-agen-sbobet88-resmi/",
+          "found_time": "2024-11-15 17:34:27",
+          "status": "active"
+        },
+        {
+          "domain": "corpgovnigeria.org",
+          "raw_url": "https://corpgovnigeria.org/",
+          "found_time": "2024-11-15 17:34:27",
+          "status": "active"
+        },
+        {
+          "domain": "madiun.disnakertrans.jatimprov.go.id",
+          "raw_url": "https://madiun.disnakertrans.jatimprov.go.id/bola/",
+          "found_time": "2024-11-15 17:34:27",
+          "status": "active"
+        },
+        {
+          "domain": "apollo.io",
+          "raw_url": "https://www.apollo.io/companies/Judi-Bola-Terpercaya--Situs-Judi-Bola-Resmi--Judi-Bola-Online--Baliplay--Hak-Cipta-Dilindungi/5fd8603a5d3b3700018b0f8f",
+          "found_time": "2024-11-15 17:34:27",
+          "status": "active"
+        },
+        {
+          "domain": "devpost.com",
+          "raw_url": "https://devpost.com/software/situs-judi-bola-resmi-terbaik-dan-terpercaya",
+          "found_time": "2024-11-15 17:34:28",
+          "status": "active"
+        },
+        {
+          "domain": "migranberdaulat.org",
+          "raw_url": "https://migranberdaulat.org/httdir/judi-bola/",
+          "found_time": "2024-11-15 17:34:28",
+          "status": "active"
+        },
+        {
+          "domain": "aerotravelindo.co.id",
+          "raw_url": "https://aerotravelindo.co.id/icon/file/",
+          "found_time": "2024-11-15 17:34:28",
           "status": "active"
         }
       ]
