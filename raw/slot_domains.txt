@@ -1102,6 +1102,7 @@ dukcapil.tapinkab.go.id
 dukcapilmakassar.site
 dukesmenu.com
 dumkamenu.cz
+dungeondefenders.fandom.com
 duproprio.com
 dutchflatrealty.com
 dvusa.org
@@ -1425,6 +1426,7 @@ globenewswire.com
 gloria-oita.com
 glos.live
 gmea.net
+goal.com
 godtube.com
 gogetterfoods.com
 gojackpot.com.ph
@@ -1796,6 +1798,7 @@ jasaberdikari.co.id
 jasminenuneaton.com
 jaspermorello.com
 jatim.jpnn.com
+javis.co.id
 jaya4d.my
 jayafun.com
 jayatogel-88.com
@@ -1869,11 +1872,13 @@ journal.poltekpelaceh.ac.id
 journal.stiba.ac.id
 journal.stitaf.ac.id
 journal.ubl.ac.id
+journal.unisnu.ac.id
 journal.univawalbros.ac.id
 journal.unjani.ac.id
 journal.unpar.ac.id
 journal.uns.ac.id
 journal.wima.ac.id
+journal0.pages.dev
 journal1.uad.ac.id
 journalpublicspace.org
 journalpublicspace.pages.dev

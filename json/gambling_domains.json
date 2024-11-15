@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 10:34:54",
+  "updated": "2024-11-15 10:39:01",
   "categories": {
     "slot": {
-      "count": 4313,
+      "count": 4318,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25880,6 +25880,36 @@
           "domain": "samsung.com",
           "raw_url": "https://www.samsung.com/id/smartphones/galaxy-z-flip6/buy/",
           "found_time": "2024-11-15 10:33:54",
+          "status": "active"
+        },
+        {
+          "domain": "goal.com",
+          "raw_url": "https://www.goal.com/en-in/betting/stake-promo-code/blt214e7c8bf3f342dc",
+          "found_time": "2024-11-15 10:34:54",
+          "status": "active"
+        },
+        {
+          "domain": "journal0.pages.dev",
+          "raw_url": "https://journal0.pages.dev/",
+          "found_time": "2024-11-15 10:35:56",
+          "status": "active"
+        },
+        {
+          "domain": "dungeondefenders.fandom.com",
+          "raw_url": "https://dungeondefenders.fandom.com/wiki/User_blog:Bermainaja/BOY99_DAFTAR_SLOT_LANGSUNG_DAPAT_SALDO_GRATIS_TANPA_DEPOSIT",
+          "found_time": "2024-11-15 10:35:56",
+          "status": "active"
+        },
+        {
+          "domain": "javis.co.id",
+          "raw_url": "https://javis.co.id/",
+          "found_time": "2024-11-15 10:39:00",
+          "status": "active"
+        },
+        {
+          "domain": "journal.unisnu.ac.id",
+          "raw_url": "https://journal.unisnu.ac.id/tos/",
+          "found_time": "2024-11-15 10:39:01",
           "status": "active"
         }
       ]

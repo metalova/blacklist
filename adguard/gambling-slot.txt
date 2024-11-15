@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 10:34:54
+! Last Updated: 2024-11-15 10:39:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4313
+! Number of unique domains: 4318
 !
 
 ||103.115.28.6^
@@ -1108,6 +1108,7 @@
 ||dukcapilmakassar.site^
 ||dukesmenu.com^
 ||dumkamenu.cz^
+||dungeondefenders.fandom.com^
 ||duproprio.com^
 ||dutchflatrealty.com^
 ||dvusa.org^
@@ -1431,6 +1432,7 @@
 ||gloria-oita.com^
 ||glos.live^
 ||gmea.net^
+||goal.com^
 ||godtube.com^
 ||gogetterfoods.com^
 ||gojackpot.com.ph^
@@ -1802,6 +1804,7 @@
 ||jasminenuneaton.com^
 ||jaspermorello.com^
 ||jatim.jpnn.com^
+||javis.co.id^
 ||jaya4d.my^
 ||jayafun.com^
 ||jayatogel-88.com^
@@ -1875,11 +1878,13 @@
 ||journal.stiba.ac.id^
 ||journal.stitaf.ac.id^
 ||journal.ubl.ac.id^
+||journal.unisnu.ac.id^
 ||journal.univawalbros.ac.id^
 ||journal.unjani.ac.id^
 ||journal.unpar.ac.id^
 ||journal.uns.ac.id^
 ||journal.wima.ac.id^
+||journal0.pages.dev^
 ||journal1.uad.ac.id^
 ||journalpublicspace.org^
 ||journalpublicspace.pages.dev^
