@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 20:01:12",
+  "updated": "2024-11-15 20:09:23",
   "categories": {
     "slot": {
-      "count": 4481,
+      "count": 4489,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26888,6 +26888,54 @@
           "domain": "rrdigital.id",
           "raw_url": "https://rrdigital.id/",
           "found_time": "2024-11-15 13:00:11",
+          "status": "active"
+        },
+        {
+          "domain": "kaskamping.com",
+          "raw_url": "https://www.kaskamping.com/",
+          "found_time": "2024-11-15 13:01:12",
+          "status": "active"
+        },
+        {
+          "domain": "eastsidetavernaustin.com",
+          "raw_url": "https://eastsidetavernaustin.com/",
+          "found_time": "2024-11-15 13:05:16",
+          "status": "active"
+        },
+        {
+          "domain": "gamedaim.com",
+          "raw_url": "https://gamedaim.com/tips/cheat-slot-jp-engine/",
+          "found_time": "2024-11-15 13:07:19",
+          "status": "active"
+        },
+        {
+          "domain": "bejo500.com",
+          "raw_url": "https://bejo500.com/megah138/",
+          "found_time": "2024-11-15 13:08:21",
+          "status": "active"
+        },
+        {
+          "domain": "cariyuk.com",
+          "raw_url": "https://cariyuk.com/amp/slot-gacor.html",
+          "found_time": "2024-11-15 13:08:21",
+          "status": "active"
+        },
+        {
+          "domain": "randolpharchives.pages.dev",
+          "raw_url": "https://randolpharchives.pages.dev/",
+          "found_time": "2024-11-15 13:08:22",
+          "status": "active"
+        },
+        {
+          "domain": "hujanapi.online",
+          "raw_url": "https://hujanapi.online/amp/",
+          "found_time": "2024-11-15 13:08:22",
+          "status": "active"
+        },
+        {
+          "domain": "pisangbet-cvi.pages.dev",
+          "raw_url": "https://pisangbet-cvi.pages.dev/",
+          "found_time": "2024-11-15 13:08:22",
           "status": "active"
         }
       ]
