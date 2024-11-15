@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:57:12
+! Last Updated: 2024-11-15 19:39:35
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4444
+! Number of unique domains: 4457
 !
 
 ||103.115.28.6^
@@ -281,6 +281,7 @@
 ||appi.or.id^
 ||appleblossombrewing.com^
 ||apps.merakjaya.co.id^
+||apps.ytpsnukhadijah.sch.id^
 ||apptopia.com^
 ||aptika.kominfo.go.id^
 ||aptitude.gunadarma.ac.id^
@@ -394,6 +395,7 @@
 ||bangorsuites.com^
 ||bangsamakmur.click^
 ||baniarbitration.org^
+||banjarmasinkota.com^
 ||bantuan.penjalin.desa.id^
 ||bantupori.com^
 ||banyantreats.com^
@@ -445,6 +447,7 @@
 ||beemuadi.com^
 ||beeplushive.com^
 ||behance.net^
+||bei-bd.org^
 ||belibis.poltekkeskupang.ac.id^
 ||bellavancestudio.com^
 ||bellavidanatick.com^
@@ -1071,6 +1074,7 @@
 ||diskominfo.grobogan.go.id^
 ||diskop.tulangbawangkab.go.id^
 ||disparpora.ngawikab.go.id^
+||disperindag.endekab.go.id^
 ||disperkim.kaurkab.go.id^
 ||dispora.bogorkab.go.id^
 ||ditreskrimsus.poldakalbar.net^
@@ -1107,6 +1111,7 @@
 ||dortmevsimekoloji.org^
 ||doruktip.com^
 ||dottyrhino.com^
+||downeprimary.com^
 ||doyoudothatathome.com^
 ||doyouknowclarence.com^
 ||dpcorgandakotasemarang.com^
@@ -1876,6 +1881,7 @@
 ||jcvdcme.com^
 ||jdih-prokum.magetan.go.id^
 ||jdih.djsn.go.id^
+||jdih.kominfo.go.id^
 ||jdih.komnasham.go.id^
 ||jdih.pa-fakfak.go.id^
 ||jdih.pa-ngamprah.go.id^
@@ -1974,6 +1980,7 @@
 ||jurnal-ekonomi.uho.ac.id^
 ||jurnal-id.com^
 ||jurnal-iski.or.id^
+||jurnal.feb.unila.ac.id^
 ||jurnal.fisip.budiluhur.ac.id^
 ||jurnal.kemendag.go.id^
 ||jurnal.larisma.or.id^
@@ -2827,6 +2834,7 @@
 ||online.wrexham.ac.uk^
 ||onlinejfi.org^
 ||onlinemuebles.com^
+||onlineradio.jatengprov.go.id^
 ||onramps.org^
 ||onsnaiset.com^
 ||oouc.rnu.tn^
@@ -3043,6 +3051,7 @@
 ||pixelhub.me^
 ||pkbmibadurrahman.sch.id^
 ||pkkb.ac.id^
+||pkkmbonline.ubpkarawang.ac.id^
 ||pkm-duhiadaa.pohuwatokab.go.id^
 ||planet.opennews.org^
 ||planetasanogentesana.com^
@@ -3118,6 +3127,7 @@
 ||pragmaticplay.com^
 ||pragmaticplaycareers.com^
 ||pragmaticplayslot.id^
+||pram.polinema.ac.id^
 ||pratama.co.id^
 ||pratititech.com^
 ||precisionappliancework.com^
@@ -4011,6 +4021,7 @@
 ||theonlinedepotph.net^
 ||theoriginalgoombas.com^
 ||theoriginaltoptomato.com^
+||theouterlimitssacramento.com^
 ||thepetitionsite.com^
 ||thepurecareclinic.com^
 ||thequesotruck.com^
@@ -4265,6 +4276,7 @@
 ||vitalmtb.com^
 ||vittajob.com.br^
 ||vivamanaus.com^
+||vktr.id^
 ||vladimirvaclavek.com^
 ||vmrabogados.com^
 ||voi.id^
@@ -4412,6 +4424,7 @@
 ||yourcupcakequeen.com^
 ||yoursecretcode.com^
 ||yourturninc.com^
+||yphn.ac.id^
 ||yukikonishimura.com^
 ||yum.co.id^
 ||yumasianfusionandsushi.com^
