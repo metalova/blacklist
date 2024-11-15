@@ -1,10 +1,11 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 00:01:42
+! Last Updated: 2024-11-16 00:09:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 255
+! Number of unique domains: 272
 !
 
 ||24liveblog.com^
+||365retail.co.uk^
 ||6abc.com^
 ||aacc.edu^
 ||abzorba-live-blackjack-21-pro.id.uptodown.com^
@@ -30,12 +31,14 @@
 ||beijinggreenbeltmd.com^
 ||bendosari.desa.id^
 ||beritakriminalkepri.com^
+||betblocker.org^
 ||bicyclecards.com^
 ||bizhare.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||blockonomi.com^
 ||bolavip.com^
 ||bombayclub.com^
+||bos1.xyz^
 ||bossaction.com^
 ||brsoftech.com^
 ||burnaby.grandvillacasino.ca^
@@ -53,6 +56,7 @@
 ||cdcgaming.com^
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
+||cjmambala.in^
 ||cms-gb.com^
 ||cnnindonesia.com^
 ||coingabbar.com^
@@ -84,6 +88,7 @@
 ||familydentalrockville.com^
 ||forbes.com^
 ||fpmipa.ikip-saraswati.ac.id^
+||gambleaware.nsw.gov.au^
 ||gamblingcounting.com^
 ||games.washingtonpost.com^
 ||gdqpan.udn.vn^
@@ -99,9 +104,12 @@
 ||grandtreasurecasino.com^
 ||grasz.id^
 ||greatcanadian.com^
+||haldynglass.com^
 ||hardrock.bet^
 ||harrahspoolac.com^
+||hazrestaurant.co.uk^
 ||herminahospitals.com^
+||hindcompo.com^
 ||id.made-in-china.com^
 ||id.marinabaysands.com^
 ||id.piliapp.com^
@@ -133,6 +141,8 @@
 ||krakatauinternationalport.co.id^
 ||lanerosacasino.wordpress.com^
 ||lanyardkilat.co.id^
+||lib.stiqisykarima.ac.id^
+||littleangelschool.edu.in^
 ||live-casino.smpn2kotadumai.sch.id^
 ||livedealer21.com^
 ||lrcr.com^
@@ -145,6 +155,7 @@
 ||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
 ||mikeklubnika.itch.io^
+||millelacs.com^
 ||mindilbeachcasinoresort.com.au^
 ||mojadipro.com^
 ||moovitapp.com^
@@ -165,6 +176,7 @@
 ||olinda.pe.gov.br^
 ||online-stopwatch.com^
 ||organisasi.koltimkab.com^
+||ourladyoffatimapatiala.com^
 ||pa-bengkulukota.go.id^
 ||pafinatuna.org^
 ||paoyouth.org^
@@ -178,11 +190,13 @@
 ||plazatirana.com^
 ||policarbonatoecuador.com^
 ||portal.careerguidancecollege.com^
+||ppdb.darulhidayah.ponpes.id^
 ||pulsagacor99.com^
 ||rajacasino.travel^
 ||rajawali.ac.id^
 ||rawonsurabaya.com^
 ||reku.id^
+||revpanda.com^
 ||rockymountainrep.com^
 ||roulette-online.id.uptodown.com^
 ||roulette-simulator.info^
@@ -200,6 +214,7 @@
 ||simpadupakfarmasi.kemkes.go.id^
 ||sippn.menpan.go.id^
 ||situswin.com^
+||sjsnaini.org^
 ||skycityadelaide.com.au^
 ||skycityauckland.co.nz^
 ||slotgacorocean88.com^
@@ -211,6 +226,7 @@
 ||spilnosylno.in.ua^
 ||star.com.au^
 ||steveabrown.com^
+||stkarensmontessorischool.com^
 ||suninternational.com^
 ||sunsetranchptc.org^
 ||swearandshake.com^
@@ -225,6 +241,7 @@
 ||thegolfbusiness.co.uk^
 ||thehypemagazine.com^
 ||theresortatsummerlin.com^
+||thirdmonkeysports.com^
 ||thrivemedicalaesthetics.ca^
 ||tib.co.id^
 ||tickets.riverspirittulsa.com^

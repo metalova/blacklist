@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 00:01:42
+! Last Updated: 2024-11-16 00:09:59
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5370
+! Number of domains: 5387
 !
 
 ! Category: SLOT
@@ -5009,6 +5009,23 @@
 ||grandtreasurecasino.com^
 ||plazatirana.com^
 ||blockonomi.com^
+||millelacs.com^
+||365retail.co.uk^
+||lib.stiqisykarima.ac.id^
+||thirdmonkeysports.com^
+||revpanda.com^
+||bos1.xyz^
+||hazrestaurant.co.uk^
+||haldynglass.com^
+||betblocker.org^
+||hindcompo.com^
+||stkarensmontessorischool.com^
+||cjmambala.in^
+||ourladyoffatimapatiala.com^
+||ppdb.darulhidayah.ponpes.id^
+||littleangelschool.edu.in^
+||gambleaware.nsw.gov.au^
+||sjsnaini.org^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
