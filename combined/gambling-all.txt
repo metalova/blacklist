@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:59:31
+! Last Updated: 2024-11-16 02:01:41
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5985
+! Number of domains: 6002
 !
 
 ! Category: SLOT
@@ -5542,6 +5542,23 @@
 ||aitcoconferences.org^
 ||thepearltaunton.com^
 ||prospectmotorgroup.co.id^
+||ap3kni.or.id^
+||uptownavenue7.com^
+||manucciwinery.com^
+||salemharvestfest.com^
+||amfacilities.com^
+||palqueensartstudio.com^
+||caseyaustinmusic.com^
+||unizikentrepjournal.com^
+||nationalityforall.org^
+||smallcakesofsurprise.com^
+||gigisalonspa.com^
+||phyllisforcongress.com^
+||tribratanews.sulut.polri.go.id^
+||mlvintagemeet.com^
+||crownfootandankle.com^
+||bridgeporthealthcarecenter.com^
+||e-journal.sastra-unes.com^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^

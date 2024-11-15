@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 01:59:31
+! Last Updated: 2024-11-16 02:01:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 454
+! Number of unique domains: 471
 !
 
 ||087ina.com^
@@ -25,7 +25,9 @@
 ||alcmke.org^
 ||allaboutsaws.com^
 ||altegrity.com^
+||amfacilities.com^
 ||amigo.vet^
+||ap3kni.or.id^
 ||apgicl.com^
 ||arpegediamonds.com^
 ||arraialresort.com.br^
@@ -54,6 +56,7 @@
 ||bkd.kalteng.go.id^
 ||boucherienotredamechartrain.fr^
 ||brentschmidgallauction.com^
+||bridgeporthealthcarecenter.com^
 ||burlapandlacemetterga.com^
 ||cactustefl.com^
 ||cajts.ablaikhan.kz^
@@ -61,6 +64,7 @@
 ||camcomit.bg^
 ||campus.fahce.unlp.edu.ar^
 ||canadafile.vn^
+||caseyaustinmusic.com^
 ||casonaquesada.com^
 ||cecileparkmedia.com^
 ||cemgh.org^
@@ -79,6 +83,7 @@
 ||conference.eka-prasetya.ac.id^
 ||covidvih.org^
 ||crownbakery.sl^
+||crownfootandankle.com^
 ||culturedellasostenibilita.it^
 ||danabijak.com^
 ||dancingtomatoes.com^
@@ -106,6 +111,7 @@
 ||drtyctacna.gob.pe^
 ||dsvrtlagos.org^
 ||e-centrica.org^
+||e-journal.sastra-unes.com^
 ||e-relawan.kemkes.go.id^
 ||eaconperu.net^
 ||eadsenai.com.br^
@@ -150,6 +156,7 @@
 ||gatling-tool.org^
 ||geraldinebeautysalon.com^
 ||getageheight.com^
+||gigisalonspa.com^
 ||gites-spa-cotedopale.fr^
 ||glafidsya.co.id^
 ||gluckconstructionservices.com^
@@ -244,6 +251,7 @@
 ||makado.pages.dev^
 ||manigua.co^
 ||manoirdelesperance.fr^
+||manucciwinery.com^
 ||marches-publics.info^
 ||marine-biodiversity.org^
 ||maruyama-kodomo.com^
@@ -261,6 +269,7 @@
 ||millerlbr.com^
 ||millesima-technologies.com^
 ||mindscapeketamine.com^
+||mlvintagemeet.com^
 ||mountainwildlifemuseum.com^
 ||mrlucky.pages.dev^
 ||mudbonegrown.com^
@@ -268,6 +277,7 @@
 ||munimaynas.gob.pe^
 ||muralsoflascruces.com^
 ||nasarri.go.ug^
+||nationalityforall.org^
 ||neighborhoodwraps.com^
 ||neurona-ba.com^
 ||nexthotel.id^
@@ -288,6 +298,7 @@
 ||pa-martapuraokut.go.id^
 ||pactodeproductividad.com^
 ||paintedbrain.org^
+||palqueensartstudio.com^
 ||pantaiindah.pages.dev^
 ||papuanewsonline.com^
 ||parahybamall.com.br^
@@ -297,6 +308,7 @@
 ||peakschool.org^
 ||pennstateupac.org^
 ||phantomthailand.com^
+||phyllisforcongress.com^
 ||pixels.com^
 ||playking88sunday.com^
 ||politicayeducacion.com^
@@ -355,6 +367,7 @@
 ||sage-tx.com^
 ||sakip.kedirikota.go.id^
 ||saku.bpkad.mesujikab.go.id^
+||salemharvestfest.com^
 ||sansparti.org^
 ||satunurani.com^
 ||scet.in^
@@ -375,6 +388,7 @@
 ||sipnap.kemkes.go.id^
 ||sipp.pn-sukamakmue.go.id^
 ||skpi.univrab.ac.id^
+||smallcakesofsurprise.com^
 ||smksyanuristonjong.com^
 ||society4romanianstudies.org^
 ||soloasi.mx^
@@ -423,6 +437,7 @@
 ||tribratanews.jateng.polri.go.id^
 ||tribratanews.maluku.polri.go.id^
 ||tribratanews.polreskotamobagu.com^
+||tribratanews.sulut.polri.go.id^
 ||tribratanews.sumsel.polri.go.id^
 ||triplercomposites.com^
 ||tualnews.com^
@@ -433,6 +448,8 @@
 ||uin-alauddin.ac.id^
 ||ukbipa.id^
 ||umi.ac.ug^
+||unizikentrepjournal.com^
+||uptownavenue7.com^
 ||valormmanyc.com^
 ||vermellagrandwisata.co.id^
 ||vetdiags.com^
