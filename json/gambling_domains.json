@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 05:54:15",
+  "updated": "2024-11-16 05:59:25",
   "categories": {
     "slot": {
-      "count": 4785,
+      "count": 4791,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28712,6 +28712,42 @@
           "domain": "casagraciabcn.com",
           "raw_url": "https://casagraciabcn.com/",
           "found_time": "2024-11-15 22:53:14",
+          "status": "active"
+        },
+        {
+          "domain": "dyclinics.com",
+          "raw_url": "https://www.dyclinics.com/",
+          "found_time": "2024-11-15 22:54:15",
+          "status": "active"
+        },
+        {
+          "domain": "jakemartinforpima.com",
+          "raw_url": "https://jakemartinforpima.com/",
+          "found_time": "2024-11-15 22:55:16",
+          "status": "active"
+        },
+        {
+          "domain": "practicalsavvy.com",
+          "raw_url": "https://practicalsavvy.com/",
+          "found_time": "2024-11-15 22:57:19",
+          "status": "active"
+        },
+        {
+          "domain": "blog.rumahberkat.com",
+          "raw_url": "https://blog.rumahberkat.com/",
+          "found_time": "2024-11-15 22:57:20",
+          "status": "active"
+        },
+        {
+          "domain": "morningstar.com",
+          "raw_url": "https://www.morningstar.com/news/pr-newswire/20241115ph58558/lorraine-bencivengo-ziff-the-goddess-of-slots-takes-gaming-world-by-storm-with-major-milestones-and-new-ventures",
+          "found_time": "2024-11-15 22:58:24",
+          "status": "active"
+        },
+        {
+          "domain": "f1exhibition.com",
+          "raw_url": "https://f1exhibition.com/london/",
+          "found_time": "2024-11-15 22:58:24",
           "status": "active"
         }
       ]

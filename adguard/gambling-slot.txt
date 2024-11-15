@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 05:54:15
+! Last Updated: 2024-11-16 05:59:25
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4785
+! Number of unique domains: 4791
 !
 
 ||103.115.28.6^
@@ -622,6 +622,7 @@
 ||blog.arfadia.com^
 ||blog.bankmega.com^
 ||blog.gandengtangan.co.id^
+||blog.rumahberkat.com^
 ||blog.siep.be^
 ||blog.ulifestyle.com.hk^
 ||blogger.com^
@@ -1253,6 +1254,7 @@
 ||dvusa.org^
 ||dw.com^
 ||dwtruss.co.za^
+||dyclinics.com^
 ||dynotune.biz^
 ||e-bagor.sitarokab.go.id^
 ||e-journal-dharmaagung.sttsabdaagung.ac.id^
@@ -1404,6 +1406,7 @@
 ||exwifesfamouschicken.com^
 ||ezeperfumes.com^
 ||ezsport.no^
+||f1exhibition.com^
 ||f4a.pt^
 ||fabledsilvergoldcorp.com^
 ||faborit.com^
@@ -1994,6 +1997,7 @@
 ||jackpotjunction.com^
 ||jahetoto5.cyou^
 ||jakartamuaythai.com^
+||jakemartinforpima.com^
 ||jakmall.com^
 ||jalanpu.semarangkota.go.id^
 ||jalantikus.com^
@@ -2813,6 +2817,7 @@
 ||moov-scooters.com^
 ||moreramblingsofamarinewife.com^
 ||morningnewsindia.com^
+||morningstar.com^
 ||morningstar.org.sg^
 ||morse.hu^
 ||mothersrestaurant.net^
@@ -3352,6 +3357,7 @@
 ||ppqodratullah.com^
 ||ppsdml.bpsdm.dephub.go.id^
 ||pptqalazzaam.org^
+||practicalsavvy.com^
 ||pragmatic-slot-gacor-pro.en.softonic.com^
 ||pragmatic.solutions^
 ||pragmatic218.cz^
