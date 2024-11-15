@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 00:35:39
+! Last Updated: 2024-11-16 01:09:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 135
+! Number of unique domains: 160
 !
 
 ||abseits.at^
@@ -9,6 +9,7 @@
 ||aerotravelindo.co.id^
 ||aliyahalbadriyah.sch.id^
 ||altctrlgamejam.com^
+||amphola88.com^
 ||apollo.io^
 ||app.timesofmalta.com^
 ||arenadelrio.com^
@@ -31,6 +32,7 @@
 ||commerceops.uat2.petsuppliesplus.com^
 ||conference.untag-sby.ac.id^
 ||corpgovnigeria.org^
+||cuttari.quora.com^
 ||cyberthreat.id^
 ||darasaletu.com^
 ||dempelrejo-ngampel.desa.id^
@@ -38,12 +40,19 @@
 ||digilib.ptiq.ac.id^
 ||digilibadmin.unismuh.ac.id^
 ||discoveriesinamericanart.com^
+||dv.deliserdangkab.com^
 ||e-proc.pamjaya.co.id^
 ||ecodrive.org^
 ||ejournal.ps.fisip-unmul.ac.id^
 ||ejurnal.stiewidyapersada.id^
 ||ekorantt.com^
+||eminhaqverdiyev.com^
+||eportfolio.unideb.hu^
 ||erty.ee^
+||eventbrite.com^
+||faktanasional.id^
+||fkip-binggris.umb.ac.id^
+||flalandscape.com^
 ||ft95soundersfc.pages.dev^
 ||ftp.dbd.puc-rio.br^
 ||gilabola.com^
@@ -51,10 +60,13 @@
 ||greenticgov.pages.dev^
 ||gsicorp.co.id^
 ||halodoc.com^
+||halofkmusu.or.id^
 ||harnessbred.com^
 ||idsitusbola.pages.dev^
+||iicosteam.unkhair.ac.id^
 ||indonesiakini.go.id^
 ||indonesiaplant.com^
+||infopurwakarta.id^
 ||investortrust.id^
 ||itworks.id^
 ||iwalletslotgacor.pages.dev^
@@ -73,11 +85,13 @@
 ||laloika.desa.id^
 ||lartsana.com^
 ||lartsana.pages.dev^
+||leban.desa.id^
 ||letrachuecapress.com^
 ||ligaolahraga.com^
 ||lisboabelemopen.com^
 ||lms.sibestari.com^
 ||loket.com^
+||lotus33amp-s.pro^
 ||m.panditfootball.com^
 ||madiun.disnakertrans.jatimprov.go.id^
 ||maxbet855soundersfc.pages.dev^
@@ -96,6 +110,7 @@
 ||padelgoin.com^
 ||parcosimone.it^
 ||pdi-perjuangan.pages.dev^
+||perpustakaan.pa-kotamadiun.go.id^
 ||perspektif.ppj.unp.ac.id^
 ||pinjamdulu500.com^
 ||pmb.akperkesdam6tpr.ac.id^
@@ -112,14 +127,20 @@
 ||repository.uksw.edu^
 ||repository.unpra.ac.id^
 ||rumah-jurnal.com^
+||s3-sa-east-1.amazonaws.com^
+||saiwalks.com^
+||sararamedia.net^
 ||sdn34bandaaceh.sch.id^
 ||seohaji.pages.dev^
+||serenesophro.fr^
+||sharinori.com^
 ||shutterbug.com^
 ||siaku.akperkesdam6tpr.ac.id^
 ||sidesa.dpmd.sukabumikab.go.id^
 ||simantaprsud.padangpanjang.go.id^
 ||sipp.pn-meureudu.go.id^
 ||slbnaciteureupcimahi.sch.id^
+||sman1sigi.sch.id^
 ||smkn1sukadana.sch.id^
 ||smkn3banyumas.sch.id^
 ||smkpasundanmalangbong.com^
@@ -129,13 +150,17 @@
 ||superball.bolasport.com^
 ||tamanramadenpasar.sch.id^
 ||tekateki.org^
+||thenewsportseconomy.com^
 ||theplaidhorse.com^
 ||therightsfuture.com^
 ||thesushibyjin.com^
+||tlcautomachineshop.com^
 ||tribratanewsntt.com^
 ||ucosigtau.com^
 ||uni.xyz^
 ||universe.com^
 ||wartatransparansi.com^
 ||wisechurch.com^
+||xolabit.co.id^
 ||ydsf.org^
+||yukmainsbobet.pages.dev^
