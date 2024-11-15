@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 21:19:59",
+  "updated": "2024-11-15 21:24:19",
   "categories": {
     "slot": {
-      "count": 4570,
+      "count": 4577,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -27422,6 +27422,48 @@
           "domain": "jurnal.stebankislam.ac.id",
           "raw_url": "https://jurnal.stebankislam.ac.id/TOGELCC/",
           "found_time": "2024-11-15 14:18:59",
+          "status": "active"
+        },
+        {
+          "domain": "amaracisadane.co.id",
+          "raw_url": "https://amaracisadane.co.id/perusahaan/TOGELCC/",
+          "found_time": "2024-11-15 14:19:59",
+          "status": "active"
+        },
+        {
+          "domain": "utahautoglassallstars.com",
+          "raw_url": "https://utahautoglassallstars.com/",
+          "found_time": "2024-11-15 14:21:01",
+          "status": "active"
+        },
+        {
+          "domain": "valleystreamfoodtruck.com",
+          "raw_url": "https://valleystreamfoodtruck.com/",
+          "found_time": "2024-11-15 14:21:01",
+          "status": "active"
+        },
+        {
+          "domain": "haleiwasurfandyoga.com",
+          "raw_url": "https://www.haleiwasurfandyoga.com/",
+          "found_time": "2024-11-15 14:22:16",
+          "status": "active"
+        },
+        {
+          "domain": "jounieh.org",
+          "raw_url": "https://jounieh.org/",
+          "found_time": "2024-11-15 14:22:16",
+          "status": "active"
+        },
+        {
+          "domain": "dinkes.kaurkab.go.id",
+          "raw_url": "https://dinkes.kaurkab.go.id/?imun=luxury777%20wap",
+          "found_time": "2024-11-15 14:22:16",
+          "status": "active"
+        },
+        {
+          "domain": "uinib.ac.id",
+          "raw_url": "https://uinib.ac.id/",
+          "found_time": "2024-11-15 14:23:18",
           "status": "active"
         }
       ]

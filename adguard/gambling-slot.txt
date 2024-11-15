@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:19:59
+! Last Updated: 2024-11-15 21:24:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4570
+! Number of unique domains: 4577
 !
 
 ||103.115.28.6^
@@ -226,6 +226,7 @@
 ||altahospicecare.com^
 ||alukola.cz^
 ||aluminio.siscam.com.br^
+||amaracisadane.co.id^
 ||amazon.ca^
 ||amazon.co.uk^
 ||ambototo.company^
@@ -1085,6 +1086,7 @@
 ||diner-spectacle-lepetitcasino.com^
 ||dingdongtogel127.com^
 ||dinkes.brebeskab.go.id^
+||dinkes.kaurkab.go.id^
 ||dinkes.padangpanjang.go.id^
 ||dinkes.sumselprov.go.id^
 ||dinsos.bangka.go.id^
@@ -1608,6 +1610,7 @@
 ||hahahihihuhu.my.id^
 ||hahnextremefitness.com^
 ||haka.by^
+||haleiwasurfandyoga.com^
 ||halfmoonfarm.co^
 ||halfordbar.com.au^
 ||halopotatodonuts.com^
@@ -1983,6 +1986,7 @@
 ||jomkiss9.com^
 ||jonny-hill.info^
 ||joseyofficial.com^
+||jounieh.org^
 ||journal.almuslim.ac.id^
 ||journal.eng.unila.ac.id^
 ||journal.fsei.unikamamuju.ac.id^
@@ -4283,6 +4287,7 @@
 ||ugslot900-5.org^
 ||ui.ac.id^
 ||uin-suska.ac.id^
+||uinib.ac.id^
 ||ujian.stiki.ac.id^
 ||uk.jackpot.com^
 ||ukitoraja.ac.id^
@@ -4323,12 +4328,14 @@
 ||urownstory-iqbal.org^
 ||us-parks.com^
 ||usbpascasarjana.com^
+||utahautoglassallstars.com^
 ||utahsenate.org^
 ||utelx.io^
 ||uttaradit.prd.go.th^
 ||v8sleuth.com.au^
 ||vaccine-info.com^
 ||vaccine.medparkhospital.com^
+||valleystreamfoodtruck.com^
 ||valleyviewmotel.info^
 ||valoremresources.com^
 ||vancouverimc.org^
