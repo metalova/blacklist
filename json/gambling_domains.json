@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 06:09:49",
+  "updated": "2024-11-16 06:10:52",
   "categories": {
     "slot": {
-      "count": 4814,
+      "count": 4815,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28885,6 +28885,12 @@
         {
           "domain": "nasa4d1.id",
           "raw_url": "https://nasa4d1.id/",
+          "found_time": "2024-11-15 23:09:49",
+          "status": "active"
+        },
+        {
+          "domain": "fiftotoonline.com",
+          "raw_url": "https://fiftotoonline.com/?content=sabung",
           "found_time": "2024-11-15 23:09:49",
           "status": "active"
         }

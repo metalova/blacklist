@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 06:09:49
+! Last Updated: 2024-11-16 06:10:52
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4814
+! Number of unique domains: 4815
 !
 
 ||103.115.28.6^
@@ -1462,6 +1462,7 @@
 ||fiahomefoods.com^
 ||fib.unkhair.ac.id^
 ||fifthmariandogma.com^
+||fiftotoonline.com^
 ||figmmg.unmsm.edu.pe^
 ||financialfreedomnow.org^
 ||find-and-update.company-information.service.gov.uk^
