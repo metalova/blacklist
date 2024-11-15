@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 09:33:54",
+  "updated": "2024-11-15 10:10:00",
   "categories": {
     "slot": {
-      "count": 4255,
+      "count": 4261,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25532,6 +25532,42 @@
           "domain": "keralacobank.com",
           "raw_url": "https://www.keralacobank.com/amp/",
           "found_time": "2024-11-15 09:33:53",
+          "status": "active"
+        },
+        {
+          "domain": "powercream.pages.dev",
+          "raw_url": "https://powercream.pages.dev/",
+          "found_time": "2024-11-15 09:33:53",
+          "status": "active"
+        },
+        {
+          "domain": "menang303official.com",
+          "raw_url": "https://menang303official.com/amp",
+          "found_time": "2024-11-15 10:05:56",
+          "status": "active"
+        },
+        {
+          "domain": "ampsakti.ivermectinytab.com",
+          "raw_url": "https://ampsakti.ivermectinytab.com/",
+          "found_time": "2024-11-15 10:05:56",
+          "status": "active"
+        },
+        {
+          "domain": "blogger.com",
+          "raw_url": "https://www.blogger.com/profile/05984662490551730104",
+          "found_time": "2024-11-15 10:05:56",
+          "status": "active"
+        },
+        {
+          "domain": "quasinovi.com",
+          "raw_url": "https://quasinovi.com/",
+          "found_time": "2024-11-15 10:09:59",
+          "status": "active"
+        },
+        {
+          "domain": "halopotatodonuts.com",
+          "raw_url": "https://www.halopotatodonuts.com/",
+          "found_time": "2024-11-15 10:09:59",
           "status": "active"
         }
       ]

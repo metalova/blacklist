@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 09:33:54
+! Last Updated: 2024-11-15 10:10:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4255
+! Number of unique domains: 4261
 !
 
 ||103.115.28.6^
@@ -223,6 +223,7 @@
 ||amp-jackpotgacor.pages.dev^
 ||amp-rtp.b-cdn.net^
 ||amp-spacemanslot.com^
+||ampsakti.ivermectinytab.com^
 ||amrut.mohua.gov.in^
 ||anakshaleh.org^
 ||anambaskab.go.id^
@@ -546,6 +547,7 @@
 ||blog.bankmega.com^
 ||blog.gandengtangan.co.id^
 ||blog.siep.be^
+||blogger.com^
 ||bloombergtechnoz.com^
 ||blud.co.id^
 ||bluejaysnation.com^
@@ -1492,6 +1494,7 @@
 ||hahnextremefitness.com^
 ||haka.by^
 ||halfordbar.com.au^
+||halopotatodonuts.com^
 ||halsbarandgrill.com^
 ||hanannet.id^
 ||handsofhealingtouch.com^
@@ -2398,6 +2401,7 @@
 ||member.fisika.or.id^
 ||memoriaambiental.org^
 ||memuplay.com^
+||menang303official.com^
 ||menangmamen123.us^
 ||mendocinocountybusiness.org^
 ||menta88.gr^
@@ -2958,6 +2962,7 @@
 ||potretterkini.id^
 ||poupluche.com^
 ||pousadadocapitao.net^
+||powercream.pages.dev^
 ||powercreamer.com^
 ||powerfitnessevents.com^
 ||ppdb.prospak.id^
@@ -3057,6 +3062,7 @@
 ||qqvioslots.io^
 ||qqwin88.co^
 ||quaker007.com^
+||quasinovi.com^
 ||quaywestrestaurant.com^
 ||queensfashion.be^
 ||quericosfmk.com^
