@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:49:38
+! Last Updated: 2024-11-16 01:54:45
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5849
+! Number of domains: 5935
 !
 
 ! Category: SLOT
@@ -5406,6 +5406,92 @@
 ||cecileparkmedia.com^
 ||abdxcv.b-cdn.net^
 ||pantaiindah.pages.dev^
+||goldenscapetreeafrica.org^
+||rangkiang.agamkab.go.id^
+||seogrey.xyz^
+||seo-bonau.b-cdn.net^
+||mrlucky.pages.dev^
+||priaidaman.xyz^
+||inlislite.kamparkab.go.id^
+||4sehat5sekarat.xyz^
+||becakgalon.com^
+||bisuteriaryr.com^
+||lyricbuscentre.com^
+||precisionlogisticsnj.com^
+||womenscenterbc.com^
+||leshemshinui.org^
+||cleanocd.com^
+||replicationmarkets.com^
+||tplu.org^
+||lphd.s-desa.id^
+||muralsoflascruces.com^
+||aarthuniversalschool.org^
+||stanleypean.com^
+||alcmke.org^
+||retrorewinddanceparty.com^
+||coastalgeorgiacouncil.org^
+||artistsbooksmiami.org^
+||60by25.org^
+||co.tehama.ca.us^
+||coffee-dojo.com^
+||ayicc.org^
+||leadonclimate.org^
+||sakip.kedirikota.go.id^
+||ijcdr.net^
+||melbourne-free-university.org^
+||schamuellsart.com^
+||kawasakisurabaya.com^
+||midwestfh.com^
+||valormmanyc.com^
+||sundazedla.com^
+||brentschmidgallauction.com^
+||dentistoftijuana.com^
+||mindscapeketamine.com^
+||veteranstee.org^
+||sillasv.com^
+||mountainwildlifemuseum.com^
+||justiceforbruce.com^
+||cherryparkcreativecorner.com^
+||lubbockintegrative.com^
+||remingtongr.com^
+||rockinghamcountymiddle.org^
+||vetdiags.com^
+||makado.pages.dev^
+||ralleslaw.com^
+||rec-room.com^
+||covidvih.org^
+||esbiomech2022.org^
+||jamestowndds.com^
+||elpipiripau.com^
+||neighborhoodwraps.com^
+||agadiragreement.org^
+||jenn-wagner.com^
+||hietec-conference.org^
+||nexthotel.id^
+||ericrockwell.com^
+||iicweb.org^
+||lifestepscouncil.org^
+||goodfoodbarnsley.org^
+||barneschirocolorado.com^
+||marysmedkitchen.com^
+||kelumac.com^
+||elamigolawndale.com^
+||kelarikairmali.pages.dev^
+||vermellagrandwisata.co.id^
+||rsdbagaswaras.id^
+||sdykastoto.pages.dev^
+||isobm2016congress.com^
+||scienceoflearning.jhu.edu^
+||casonaquesada.com^
+||bizshakalaka.com^
+||tribratanews.jateng.polri.go.id^
+||sinatrarestaurant.com^
+||burlapandlacemetterga.com^
+||diabetescareguide.com^
+||coliseumrenovation.com^
+||w27.angkapaito.net^
+||oswegobeatsandeats.com^
+||putusan3.mahkamahagung.go.id^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^
