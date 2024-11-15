@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 20:19:37",
+  "updated": "2024-11-15 20:22:48",
   "categories": {
     "slot": {
-      "count": 4497,
+      "count": 4501,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26984,6 +26984,30 @@
           "domain": "witchuniversity.com",
           "raw_url": "https://witchuniversity.com/",
           "found_time": "2024-11-15 13:16:33",
+          "status": "active"
+        },
+        {
+          "domain": "admin.darulquran.sch.id",
+          "raw_url": "https://admin.darulquran.sch.id/?view=PRAGMATIC%20PLAY%20DEMO%20MAXWIN",
+          "found_time": "2024-11-15 13:19:37",
+          "status": "active"
+        },
+        {
+          "domain": "propertypal.com",
+          "raw_url": "https://www.propertypal.com/138-balfour-avenue-belfast/980860",
+          "found_time": "2024-11-15 13:20:44",
+          "status": "active"
+        },
+        {
+          "domain": "zillow.com",
+          "raw_url": "https://www.zillow.com/homedetails/138-Ivy-Vine-Dr-Toney-AL-35773/2053071007_zpid/",
+          "found_time": "2024-11-15 13:20:44",
+          "status": "active"
+        },
+        {
+          "domain": "theankler.com",
+          "raw_url": "https://theankler.com/p/ari-taking-control-of-endeavor-gambling",
+          "found_time": "2024-11-15 13:20:44",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 20:19:37
+! Last Updated: 2024-11-15 20:22:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4497
+! Number of unique domains: 4501
 !
 
 ||103.115.28.6^
@@ -135,6 +135,7 @@
 ||adihadean.ro^
 ||admi.or.id^
 ||admin-globalslot.imgix.net^
+||admin.darulquran.sch.id^
 ||administrator.masa.sch.id^
 ||adoositalia.com^
 ||adoquinecuestre.com^
@@ -3193,6 +3194,7 @@
 ||prolegalnews.id^
 ||promo-hyundai-jakarta.com^
 ||propertyneedsyou.com^
+||propertypal.com^
 ||properwing.com^
 ||prosiding.pasca.uniska-kediri.ac.id^
 ||prosiding.uit-lirboyo.ac.id^
@@ -3995,6 +3997,7 @@
 ||thailiciousms.com^
 ||thanksgivingpoint.org^
 ||the-bluewagyu.com^
+||theankler.com^
 ||theatlantadisabilitylawyer.com^
 ||theatrepittsburgh.com^
 ||thebambooveneer.com^
@@ -4486,6 +4489,7 @@
 ||zeuskusina.com^
 ||ziggyoficialbr.com^
 ||zikoko.com^
+||zillow.com^
 ||zima-sisters.net^
 ||zoeann.net^
 ||zoko-moko.com^
