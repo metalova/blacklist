@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 03:09:59
+! Last Updated: 2024-11-16 03:14:22
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6190
+! Number of domains: 6219
 !
 
 ! Category: SLOT
@@ -6206,4 +6206,33 @@
 ||ciremainews.com^
 ||issacyber.com^
 ||lensaone.id^
+||popline.id^
+||esic.gg^
+||oddin.gg^
+||statista.com^
+||responsiblegambling.vic.gov.au^
+||kabarpalu.net^
+||repository.law.miami.edu^
+||mapapgeorgia.org^
+||playvalorant.com^
+||sportlinknews.com^
+||enterkomputer.com^
+||valorantesports.com^
+||garudaku.com^
+||decoracionessolecuador.com^
+||garena.co.id^
+||sis.tv^
+||prodigy-agency.gg^
+||kelaskita.com^
+||journal.stkippamanetalino.ac.id^
+||80rae.com^
+||mobilenation.id^
+||esportsacademy.id^
+||esportsagent.gg^
+||esportsportal.net^
+||klamathcampercorral.com^
+||ptbsb.id^
+||sactr.com^
+||metaco.gg^
+||la-fermette.net^
 
