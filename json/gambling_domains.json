@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 22:18:41",
+  "updated": "2024-11-15 22:24:09",
   "categories": {
     "slot": {
-      "count": 4648,
+      "count": 4661,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -27890,6 +27890,84 @@
           "domain": "lovedisfigure.com",
           "raw_url": "https://www.lovedisfigure.com/",
           "found_time": "2024-11-15 15:17:40",
+          "status": "active"
+        },
+        {
+          "domain": "gcsec.org",
+          "raw_url": "https://www.gcsec.org/",
+          "found_time": "2024-11-15 15:18:41",
+          "status": "active"
+        },
+        {
+          "domain": "forumcsr.klaten.go.id",
+          "raw_url": "https://forumcsr.klaten.go.id/vendor/live/",
+          "found_time": "2024-11-15 15:20:02",
+          "status": "active"
+        },
+        {
+          "domain": "air-sdp.dephub.go.id",
+          "raw_url": "https://air-sdp.dephub.go.id/api/runtime/togel/",
+          "found_time": "2024-11-15 15:20:02",
+          "status": "active"
+        },
+        {
+          "domain": "sipintar.sulselprov.go.id",
+          "raw_url": "https://sipintar.sulselprov.go.id/one/index.php?cola=togel+kl",
+          "found_time": "2024-11-15 15:20:02",
+          "status": "active"
+        },
+        {
+          "domain": "shalit-law.com",
+          "raw_url": "https://shalit-law.com/",
+          "found_time": "2024-11-15 15:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "millerjonesinc.com",
+          "raw_url": "https://www.millerjonesinc.com/",
+          "found_time": "2024-11-15 15:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "tabaloglamping.com",
+          "raw_url": "https://tabaloglamping.com/",
+          "found_time": "2024-11-15 15:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "jilliansconeyislandgrille.com",
+          "raw_url": "https://jilliansconeyislandgrille.com/",
+          "found_time": "2024-11-15 15:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "newsway.id",
+          "raw_url": "https://www.newsway.id/.well-known/link/?id=agen+togel+resmi",
+          "found_time": "2024-11-15 15:20:04",
+          "status": "active"
+        },
+        {
+          "domain": "saripacificasibuisland.com",
+          "raw_url": "https://www.saripacificasibuisland.com/",
+          "found_time": "2024-11-15 15:20:04",
+          "status": "active"
+        },
+        {
+          "domain": "bluelotusmind.com",
+          "raw_url": "https://www.bluelotusmind.com/",
+          "found_time": "2024-11-15 15:23:07",
+          "status": "active"
+        },
+        {
+          "domain": "inlislite.bekasikab.go.id",
+          "raw_url": "http://inlislite.bekasikab.go.id/backend/assets/dcac/?golong=depo4d",
+          "found_time": "2024-11-15 15:24:08",
+          "status": "active"
+        },
+        {
+          "domain": "refaccionariamario.com",
+          "raw_url": "https://refaccionariamario.com/categorias/1361-jetta?p=38",
+          "found_time": "2024-11-15 15:24:08",
           "status": "active"
         }
       ]
