@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 08:45:41
+! Last Updated: 2024-11-15 08:48:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4123
+! Number of unique domains: 4126
 !
 
 ||103.115.28.6^
@@ -215,6 +215,7 @@
 ||ami.uinsgd.ac.id^
 ||amirharb.com^
 ||amoxicillinnrd.com^
+||amp-jackpotgacor.pages.dev^
 ||amrut.mohua.gov.in^
 ||anakshaleh.org^
 ||anambaskab.go.id^
@@ -1819,6 +1820,7 @@
 ||jurnal-id.com^
 ||jurnal-iski.or.id^
 ||jurnal.fisip.budiluhur.ac.id^
+||jurnal.kemendag.go.id^
 ||jurnal.larisma.or.id^
 ||jurnal.law.uniba-bpn.ac.id^
 ||jurnal.peneliti.net^
@@ -4003,6 +4005,7 @@
 ||wellingtonvillagedental.com^
 ||wendyandwilson.com^
 ||wendypark.org^
+||westenberg.net^
 ||westernrockinghammiddle.org^
 ||westerntransportationinstitute.org^
 ||westtexasoilgas.com^

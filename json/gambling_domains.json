@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 08:45:41",
+  "updated": "2024-11-15 08:48:19",
   "categories": {
     "slot": {
-      "count": 4123,
+      "count": 4126,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -24740,6 +24740,24 @@
           "domain": "kabayan-pendukungmaxwin.pages.dev",
           "raw_url": "https://kabayan-pendukungmaxwin.pages.dev/",
           "found_time": "2024-11-15 08:45:40",
+          "status": "active"
+        },
+        {
+          "domain": "amp-jackpotgacor.pages.dev",
+          "raw_url": "https://amp-jackpotgacor.pages.dev/",
+          "found_time": "2024-11-15 08:45:41",
+          "status": "active"
+        },
+        {
+          "domain": "westenberg.net",
+          "raw_url": "https://www.westenberg.net/",
+          "found_time": "2024-11-15 08:47:17",
+          "status": "active"
+        },
+        {
+          "domain": "jurnal.kemendag.go.id",
+          "raw_url": "https://jurnal.kemendag.go.id/TPJ/OnlineSubmission",
+          "found_time": "2024-11-15 08:47:17",
           "status": "active"
         }
       ]
