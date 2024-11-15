@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 09:18:20",
+  "updated": "2024-11-15 09:24:37",
   "categories": {
     "slot": {
-      "count": 4227,
+      "count": 4235,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25364,6 +25364,54 @@
           "domain": "ccae.amucontrollerexams.com",
           "raw_url": "https://ccae.amucontrollerexams.com/img/",
           "found_time": "2024-11-15 09:18:20",
+          "status": "active"
+        },
+        {
+          "domain": "indotruck-utama.co.id",
+          "raw_url": "https://www.indotruck-utama.co.id/",
+          "found_time": "2024-11-15 09:18:20",
+          "status": "active"
+        },
+        {
+          "domain": "cuti.wikaikon.co.id",
+          "raw_url": "http://cuti.wikaikon.co.id/xpulsa/",
+          "found_time": "2024-11-15 09:20:23",
+          "status": "active"
+        },
+        {
+          "domain": "fancypicnicshouston.com",
+          "raw_url": "https://fancypicnicshouston.com/",
+          "found_time": "2024-11-15 09:22:25",
+          "status": "active"
+        },
+        {
+          "domain": "m.aptirmik.or.id",
+          "raw_url": "https://m.aptirmik.or.id/?medic=Pandemi99",
+          "found_time": "2024-11-15 09:23:35",
+          "status": "active"
+        },
+        {
+          "domain": "adamsbreezyhillfarm.com",
+          "raw_url": "https://www.adamsbreezyhillfarm.com/",
+          "found_time": "2024-11-15 09:23:35",
+          "status": "active"
+        },
+        {
+          "domain": "ppkmindonesia.com",
+          "raw_url": "https://www.ppkmindonesia.com/",
+          "found_time": "2024-11-15 09:23:35",
+          "status": "active"
+        },
+        {
+          "domain": "tischool.org",
+          "raw_url": "https://tischool.org/cart",
+          "found_time": "2024-11-15 09:23:35",
+          "status": "active"
+        },
+        {
+          "domain": "fekreabi.net",
+          "raw_url": "https://fekreabi.net/judi-slot-online-jackpot-terbesar-17/",
+          "found_time": "2024-11-15 09:23:35",
           "status": "active"
         }
       ]

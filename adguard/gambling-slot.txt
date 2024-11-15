@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 09:18:20
+! Last Updated: 2024-11-15 09:24:37
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4227
+! Number of unique domains: 4235
 !
 
 ||103.115.28.6^
@@ -122,6 +122,7 @@
 ||active20-30.com^
 ||adacta.regione.calabria.it^
 ||adai.or.id^
+||adamsbreezyhillfarm.com^
 ||adamsobel.org^
 ||adamtratner.com^
 ||adapt-free.com^
@@ -895,6 +896,7 @@
 ||cuponation.co.id^
 ||cuspe.org^
 ||customcakesvb.com^
+||cuti.wikaikon.co.id^
 ||cutriathlon.com^
 ||cxomedia.id^
 ||cyklostezkabecva.cz^
@@ -1242,6 +1244,7 @@
 ||fallout4buzz.com^
 ||familyvisioncarelagrange.com^
 ||famous50sdiner.com^
+||fancypicnicshouston.com^
 ||fanduel.com^
 ||fanslashfic.com^
 ||fanta55.co^
@@ -1264,6 +1267,7 @@
 ||feb.nuol.edu.la^
 ||federalinsubd.com^
 ||feelhomeqatar.com^
+||fekreabi.net^
 ||femalehumananimal.com^
 ||fenderanddonisch.com^
 ||fernandofranco.asdakota.com^
@@ -1676,6 +1680,7 @@
 ||indotogelku.com^
 ||indotogelmania.com^
 ||indotogelzeus.com^
+||indotruck-utama.co.id^
 ||indratogel124.com^
 ||industrialrevelation.org^
 ||inews.id^
@@ -2212,6 +2217,7 @@
 ||m-masterbet188.com^
 ||m-pussy888.com^
 ||m.aliexpress.com^
+||m.aptirmik.or.id^
 ||m.betking.com^
 ||m.betwinwins.net^
 ||m.jpnn.com^
@@ -2946,6 +2952,7 @@
 ||ppid.pandeglangkab.go.id^
 ||ppid.surakarta.go.id^
 ||ppk.ac.th^
+||ppkmindonesia.com^
 ||ppnijateng.org^
 ||ppnikaltim.org^
 ||ppsdml.bpsdm.dephub.go.id^
@@ -3857,6 +3864,7 @@
 ||tipsynailclub.com^
 ||tiptopdata.com^
 ||tirto.id^
+||tischool.org^
 ||titusvillegardenclub.com^
 ||tkc.co.id^
 ||tm-town.com^
