@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 10:24:27",
+  "updated": "2024-11-15 10:29:39",
   "categories": {
     "slot": {
-      "count": 4287,
+      "count": 4299,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25724,6 +25724,78 @@
           "domain": "parkridgelawyer.net",
           "raw_url": "https://parkridgelawyer.net/",
           "found_time": "2024-11-15 10:24:27",
+          "status": "active"
+        },
+        {
+          "domain": "tim.kbkalbar.id",
+          "raw_url": "https://tim.kbkalbar.id/",
+          "found_time": "2024-11-15 10:24:27",
+          "status": "active"
+        },
+        {
+          "domain": "sibilinaflamenca.es",
+          "raw_url": "https://sibilinaflamenca.es/",
+          "found_time": "2024-11-15 10:26:29",
+          "status": "active"
+        },
+        {
+          "domain": "perpus.man2padangpanjang.sch.id",
+          "raw_url": "https://perpus.man2padangpanjang.sch.id/akademis/reset/",
+          "found_time": "2024-11-15 10:27:32",
+          "status": "active"
+        },
+        {
+          "domain": "moodle.org",
+          "raw_url": "https://moodle.org/mod/glossary/view.php?id=2828",
+          "found_time": "2024-11-15 10:27:32",
+          "status": "active"
+        },
+        {
+          "domain": "irlenegypt.com",
+          "raw_url": "https://www.irlenegypt.com/",
+          "found_time": "2024-11-15 10:28:33",
+          "status": "active"
+        },
+        {
+          "domain": "sonoraindustrial.com.mx",
+          "raw_url": "https://sonoraindustrial.com.mx/",
+          "found_time": "2024-11-15 10:28:33",
+          "status": "active"
+        },
+        {
+          "domain": "techniquetuesday.com",
+          "raw_url": "https://www.techniquetuesday.com/",
+          "found_time": "2024-11-15 10:29:38",
+          "status": "active"
+        },
+        {
+          "domain": "roofing-fredericksburg.com",
+          "raw_url": "https://www.roofing-fredericksburg.com/",
+          "found_time": "2024-11-15 10:29:38",
+          "status": "active"
+        },
+        {
+          "domain": "fst-usmba.ac.ma",
+          "raw_url": "https://fst-usmba.ac.ma/",
+          "found_time": "2024-11-15 10:29:38",
+          "status": "active"
+        },
+        {
+          "domain": "intoscreens.com",
+          "raw_url": "https://intoscreens.com/",
+          "found_time": "2024-11-15 10:29:38",
+          "status": "active"
+        },
+        {
+          "domain": "gonzalorodriguez.org",
+          "raw_url": "https://www.gonzalorodriguez.org/gonchi/",
+          "found_time": "2024-11-15 10:29:38",
+          "status": "active"
+        },
+        {
+          "domain": "anapan.ro",
+          "raw_url": "https://www.anapan.ro/",
+          "found_time": "2024-11-15 10:29:39",
           "status": "active"
         }
       ]
