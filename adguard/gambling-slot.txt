@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 05:48:44
+! Last Updated: 2024-11-16 05:54:15
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4777
+! Number of unique domains: 4785
 !
 
 ||103.115.28.6^
@@ -771,6 +771,7 @@
 ||carstensz.co.id^
 ||cartersvilleuc.com^
 ||casadosenhor.com.br^
+||casagraciabcn.com^
 ||casalagolondrinacafe.com^
 ||casamodena.net^
 ||casarestaurantnyc.com^
@@ -1090,6 +1091,7 @@
 ||dencarik.edesaku.org^
 ||denpost.id^
 ||dentalimplantsgoshenny.com^
+||dentallaspalmas.com^
 ||depo138.blog^
 ||depo138.org^
 ||deposit4d.net^
@@ -1619,6 +1621,7 @@
 ||goodburgeruae.com^
 ||goodchefrestaurant.com^
 ||goodvybzrestaurant.com^
+||googletod.tubaba.go.id^
 ||gopay.co.id^
 ||gopay.geo.polgeta.ac.id^
 ||gopay178-okgas.com^
@@ -1876,6 +1879,7 @@
 ||ikinciel.vsbgrup.com.tr^
 ||ikoyo-nishiizu.jp^
 ||ilmadika.org^
+||iloveshells.com^
 ||iluvphosnellville.com^
 ||im3ooredoo.com^
 ||imigrasi-tasikmalaya.com^
@@ -2444,6 +2448,7 @@
 ||livechat.com^
 ||livejpslot388.com^
 ||livemobile55.com^
+||livevitalife.com^
 ||livingstonatlanta.com^
 ||livinup.id^
 ||llaollao.com^
@@ -3978,6 +3983,7 @@
 ||socialtournaments.com^
 ||sofascore.com^
 ||softalconstruction.com^
+||softalconstruction.pages.dev^
 ||softorb.co.id^
 ||soinsdepiedsmarthe.com^
 ||solagodoorcounty.com^
@@ -4469,6 +4475,7 @@
 ||uanativenet.com^
 ||uatom.org^
 ||ubiblog-jp.com^
+||ubudrayaresort.com^
 ||udalah.diblast.com^
 ||uglinkbaru.com^
 ||ugochan.com^
@@ -4596,6 +4603,7 @@
 ||vukunet.com^
 ||w3topper.com^
 ||wa-schoolcounselor.org^
+||wabashrivergreenway.com^
 ||wac2023bangkok.com^
 ||wacana.stkipahsingaraja.ac.id^
 ||waddensea-forum.org^

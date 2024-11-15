@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 05:48:44",
+  "updated": "2024-11-16 05:54:15",
   "categories": {
     "slot": {
-      "count": 4777,
+      "count": 4785,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28664,6 +28664,54 @@
           "domain": "swissconsultinggroup.com",
           "raw_url": "https://www.swissconsultinggroup.com/amp",
           "found_time": "2024-11-15 22:46:42",
+          "status": "active"
+        },
+        {
+          "domain": "wabashrivergreenway.com",
+          "raw_url": "https://www.wabashrivergreenway.com/amp",
+          "found_time": "2024-11-15 22:48:44",
+          "status": "active"
+        },
+        {
+          "domain": "ubudrayaresort.com",
+          "raw_url": "https://ubudrayaresort.com/",
+          "found_time": "2024-11-15 22:51:07",
+          "status": "active"
+        },
+        {
+          "domain": "livevitalife.com",
+          "raw_url": "https://livevitalife.com/",
+          "found_time": "2024-11-15 22:51:07",
+          "status": "active"
+        },
+        {
+          "domain": "iloveshells.com",
+          "raw_url": "https://iloveshells.com/mahjong/",
+          "found_time": "2024-11-15 22:52:11",
+          "status": "active"
+        },
+        {
+          "domain": "dentallaspalmas.com",
+          "raw_url": "https://dentallaspalmas.com/amp/",
+          "found_time": "2024-11-15 22:52:12",
+          "status": "active"
+        },
+        {
+          "domain": "googletod.tubaba.go.id",
+          "raw_url": "https://googletod.tubaba.go.id/2.html",
+          "found_time": "2024-11-15 22:52:12",
+          "status": "active"
+        },
+        {
+          "domain": "softalconstruction.pages.dev",
+          "raw_url": "https://softalconstruction.pages.dev/",
+          "found_time": "2024-11-15 22:52:12",
+          "status": "active"
+        },
+        {
+          "domain": "casagraciabcn.com",
+          "raw_url": "https://casagraciabcn.com/",
+          "found_time": "2024-11-15 22:53:14",
           "status": "active"
         }
       ]
