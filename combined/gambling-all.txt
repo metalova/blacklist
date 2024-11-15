@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:45:01
+! Last Updated: 2024-11-16 01:49:38
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5791
+! Number of domains: 5849
 !
 
 ! Category: SLOT
@@ -5357,6 +5357,55 @@
 ||thononalpesradio.com^
 ||portal-flexp.orsted.com^
 ||nasarri.go.ug^
+||kachadoorian.com^
+||tubmilltroutclub.org^
+||gluckconstructionservices.com^
+||smksyanuristonjong.com^
+||e-centrica.org^
+||neurona-ba.com^
+||cajts.ablaikhan.kz^
+||rakyatmaluku.fajar.co.id^
+||liputanbolafox.wordpress.com^
+||tribratanews.polreskotamobagu.com^
+||sipnap.kemkes.go.id^
+||tomsanford.com^
+||ittelkom.ac.id^
+||zaoan.id^
+||servicemanagementfusion.com^
+||katyaassouadtraboulsi.com^
+||tribratanews.sumsel.polri.go.id^
+||bkd.kalteng.go.id^
+||halosekolah.id^
+||rmoljawatengah.id^
+||sumateraekspres.bacakoran.co^
+||tualnews.com^
+||spheeha.org^
+||runwaytofreedom.org^
+||ejurnal.ung.ac.id^
+||lintasjatimnews.com^
+||satunurani.com^
+||journalstih.amsir.ac.id^
+||papuanewsonline.com^
+||uin-alauddin.ac.id^
+||b2babq.com^
+||sinpo.id^
+||kompas86.id^
+||resilient-together.org^
+||eprints.ums.ac.id^
+||polrestagorontalokota.com^
+||amigo.vet^
+||lantastabanan.net^
+||balpos.com^
+||fajarcirebon.com^
+||go-pena.id^
+||tribratanews.maluku.polri.go.id^
+||gvscolombia.com^
+||princes1000.com^
+||wooktiup2.pages.dev^
+||kabar.sanggau.go.id^
+||cecileparkmedia.com^
+||abdxcv.b-cdn.net^
+||pantaiindah.pages.dev^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^
@@ -5805,4 +5854,13 @@
 ||parlaycsbola.com^
 ||amp-dewawin365.com^
 ||bola365g.pages.dev^
+||halimiconsulting.fr^
+||adatah.com^
+||cincoquinas.net^
+||doyanbola.warislabel.com^
+||ruangharian.com^
+||innalar.com^
+||spinidn.org^
+||cronosanluis.com^
+||neosoftservices.in^
 
