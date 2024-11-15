@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 05:59:25",
+  "updated": "2024-11-16 06:04:40",
   "categories": {
     "slot": {
-      "count": 4791,
+      "count": 4804,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28748,6 +28748,84 @@
           "domain": "f1exhibition.com",
           "raw_url": "https://f1exhibition.com/london/",
           "found_time": "2024-11-15 22:58:24",
+          "status": "active"
+        },
+        {
+          "domain": "dublinairport.com",
+          "raw_url": "https://www.dublinairport.com/enhance-your-journey/fast-track",
+          "found_time": "2024-11-15 22:59:25",
+          "status": "active"
+        },
+        {
+          "domain": "smtimakassar.sch.id",
+          "raw_url": "https://smtimakassar.sch.id/",
+          "found_time": "2024-11-15 23:01:28",
+          "status": "active"
+        },
+        {
+          "domain": "baarjournal.org",
+          "raw_url": "https://baarjournal.org/styles/",
+          "found_time": "2024-11-15 23:03:32",
+          "status": "active"
+        },
+        {
+          "domain": "cocotfyma.com.pe",
+          "raw_url": "https://cocotfyma.com.pe/bralette/",
+          "found_time": "2024-11-15 23:03:32",
+          "status": "active"
+        },
+        {
+          "domain": "admin.ticketline.rs",
+          "raw_url": "https://admin.ticketline.rs/cms/tinymce/filemanager/source/aditi/slot-gacor-hari-ini-pragmatic.html",
+          "found_time": "2024-11-15 23:03:33",
+          "status": "active"
+        },
+        {
+          "domain": "lewis.unimus.ac.id",
+          "raw_url": "https://lewis.unimus.ac.id/",
+          "found_time": "2024-11-15 23:03:33",
+          "status": "active"
+        },
+        {
+          "domain": "eism.web.id",
+          "raw_url": "https://eism.web.id/",
+          "found_time": "2024-11-15 23:03:33",
+          "status": "active"
+        },
+        {
+          "domain": "alfalahjkt.sch.id",
+          "raw_url": "https://alfalahjkt.sch.id/",
+          "found_time": "2024-11-15 23:04:39",
+          "status": "active"
+        },
+        {
+          "domain": "mim.fekonubt.net",
+          "raw_url": "https://mim.fekonubt.net/situs/",
+          "found_time": "2024-11-15 23:04:39",
+          "status": "active"
+        },
+        {
+          "domain": "repository.stmikprofesional.ac.id",
+          "raw_url": "https://repository.stmikprofesional.ac.id/",
+          "found_time": "2024-11-15 23:04:39",
+          "status": "active"
+        },
+        {
+          "domain": "kelurahan.bangka.go.id",
+          "raw_url": "https://kelurahan.bangka.go.id/",
+          "found_time": "2024-11-15 23:04:39",
+          "status": "active"
+        },
+        {
+          "domain": "smpn4singkawang.sch.id",
+          "raw_url": "https://www.smpn4singkawang.sch.id/",
+          "found_time": "2024-11-15 23:04:40",
+          "status": "active"
+        },
+        {
+          "domain": "persi.or.id",
+          "raw_url": "https://www.persi.or.id/file/?jasa=judi+inline",
+          "found_time": "2024-11-15 23:04:40",
           "status": "active"
         }
       ]
