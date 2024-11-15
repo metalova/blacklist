@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 03:24:11",
+  "updated": "2024-11-16 03:26:17",
   "categories": {
     "slot": {
       "count": 4746,
@@ -37083,7 +37083,7 @@
       ]
     },
     "esports": {
-      "count": 89,
+      "count": 96,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -37617,6 +37617,48 @@
           "domain": "listvox.com",
           "raw_url": "https://listvox.com/",
           "found_time": "2024-11-15 20:24:11",
+          "status": "active"
+        },
+        {
+          "domain": "snowchateaux.com",
+          "raw_url": "https://snowchateaux.com/",
+          "found_time": "2024-11-15 20:24:11",
+          "status": "active"
+        },
+        {
+          "domain": "gosugamers.net",
+          "raw_url": "https://www.gosugamers.net/pages/394-how-to-do-item-betting-on-gosugamers",
+          "found_time": "2024-11-15 20:25:13",
+          "status": "active"
+        },
+        {
+          "domain": "igi-global.com",
+          "raw_url": "https://www.igi-global.com/viewtitle.aspx?TitleId=281922&isxn=9781799873006",
+          "found_time": "2024-11-15 20:25:13",
+          "status": "active"
+        },
+        {
+          "domain": "sky123menang.com",
+          "raw_url": "https://sky123menang.com/",
+          "found_time": "2024-11-15 20:25:13",
+          "status": "active"
+        },
+        {
+          "domain": "globalbiofest.com",
+          "raw_url": "https://globalbiofest.com/dota-2-betting-sites/",
+          "found_time": "2024-11-15 20:26:16",
+          "status": "active"
+        },
+        {
+          "domain": "play.mobilelegends.com",
+          "raw_url": "https://play.mobilelegends.com/thirdpartytournament/apply?lang=en",
+          "found_time": "2024-11-15 20:26:16",
+          "status": "active"
+        },
+        {
+          "domain": "dota2-betting.com",
+          "raw_url": "https://dota2-betting.com/",
+          "found_time": "2024-11-15 20:26:17",
           "status": "active"
         }
       ]
