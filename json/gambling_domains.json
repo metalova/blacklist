@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 19:39:35",
+  "updated": "2024-11-15 19:41:37",
   "categories": {
     "slot": {
-      "count": 4457,
+      "count": 4458,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26743,6 +26743,12 @@
         {
           "domain": "jurnal.feb.unila.ac.id",
           "raw_url": "http://jurnal.feb.unila.ac.id/gacor/",
+          "found_time": "2024-11-15 12:39:35",
+          "status": "active"
+        },
+        {
+          "domain": "siakad.stai-muafi.ac.id",
+          "raw_url": "https://siakad.stai-muafi.ac.id/products/assets/logo-bar/track-order/common/reqwest/index",
           "found_time": "2024-11-15 12:39:35",
           "status": "active"
         }

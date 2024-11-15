@@ -3554,6 +3554,7 @@ sia.poltas.ac.id
 siagasanemi.com
 siahforsenate.com
 siakad.poltekesos.ac.id
+siakad.stai-muafi.ac.id
 siakad.unkriswina.ac.id
 siakadm.htp.ac.id
 siapadia.riau.go.id
