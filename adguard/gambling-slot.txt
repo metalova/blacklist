@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 10:29:39
+! Last Updated: 2024-11-15 10:34:54
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4299
+! Number of unique domains: 4313
 !
 
 ||103.115.28.6^
@@ -174,6 +174,7 @@
 ||ahyujournal.org^
 ||aik.uhamka.ac.id^
 ||airassaults.com^
+||airdays.co.kr^
 ||airmet.pt^
 ||airpurifierguide.org^
 ||ajemjournal.com^
@@ -232,6 +233,7 @@
 ||anambaskab.go.id^
 ||ananatural.com^
 ||anapan.ro^
+||andipublisher.com^
 ||androidout.com^
 ||androidwave.com^
 ||anfieldwatch.co.uk^
@@ -947,6 +949,7 @@
 ||datafinancial.com^
 ||datajitu24.lol^
 ||datarenbang.bappenas.go.id^
+||davidduchovny.com^
 ||davidsamericandeli.com^
 ||dayaasri.desa.id^
 ||daysbetweenfest.com^
@@ -1376,6 +1379,7 @@
 ||gamepix.com^
 ||gamepro-cbr4d.org^
 ||gamereactor.no^
+||gamereactor.se^
 ||gamers-loft.com^
 ||gamestationhouse.com^
 ||gardenbarphx.com^
@@ -1430,6 +1434,7 @@
 ||godtube.com^
 ||gogetterfoods.com^
 ||gojackpot.com.ph^
+||goldbergsfamousbagelsnj.com^
 ||goldenagevintagehomedecor.com^
 ||goldenbarcelona.zthotels.com^
 ||goldenpalmshotels.com^
@@ -1466,6 +1471,7 @@
 ||grandwin.id.uptodown.com^
 ||grandwinlegal.com.au^
 ||granitoscabanillas.com^
+||granthdwar.com^
 ||grasshopperhill.net^
 ||greatpyramidllc.com^
 ||green-royal-jakarta.com^
@@ -1584,6 +1590,7 @@
 ||hotelakshayathrissur.com^
 ||hotelchitrapark.com^
 ||hoteldarshannaroda.com^
+||hotelfortunaperugia.com^
 ||hotelispat.com^
 ||hotelmumbaiinternational.com^
 ||hotelnewbaybrighton.com^
@@ -2690,6 +2697,7 @@
 ||nured.uowm.gr^
 ||nusaggbromo.com^
 ||nvlandman.org^
+||nyataberjuang.org^
 ||nycdoorrepairinstall.com^
 ||nytqro.com.mx^
 ||oabes.org.br^
@@ -2744,6 +2752,7 @@
 ||orizon-digital.fr^
 ||orori.com^
 ||ortizdental.com^
+||os-jo.com^
 ||osakabowlinggreen.com^
 ||otiumcoldpress.com^
 ||otx.alienvault.com^
@@ -2854,6 +2863,7 @@
 ||peake-endurance.com^
 ||peasoupeats.com^
 ||pecah77a60.site^
+||pechanga.com^
 ||pedalroom.com^
 ||pedro-id.ptkcg.co.id^
 ||pedudi.com^
@@ -3199,6 +3209,7 @@
 ||restinghare.com^
 ||resturahayu-desa.id^
 ||retro-synthwave.com^
+||reutilizak.org^
 ||reverbnation.com^
 ||revistafraude.ufba.br^
 ||revistapsipro.com^
@@ -3322,6 +3333,7 @@
 ||sambas.go.id^
 ||samchan700.com^
 ||samep.net^
+||samsung.com^
 ||samuelvartan.com^
 ||sandwich-mafia.com^
 ||sandylikethebeachblog.com^
@@ -3875,6 +3887,7 @@
 ||thenextreal.net^
 ||thenorthcampus.org^
 ||thenorthcarolinapoultryjubilee.com^
+||theonlinedepotph.net^
 ||theoriginalgoombas.com^
 ||theoriginaltoptomato.com^
 ||thepetitionsite.com^
@@ -3930,6 +3943,7 @@
 ||tmtk.syekhnurjati.ac.id^
 ||tnumc.com^
 ||toastonmarket.com^
+||toastwhittierca.com^
 ||tobacco-on-trial.com^
 ||tobymotte.com^
 ||todaymatchprediction.com^
