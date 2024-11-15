@@ -1,0 +1,31 @@
+! Title: Gambling Domain Blocklist - OTHERS
+! Last Updated: 2024-11-16 04:19:37
+! Description: Automatically generated gambling domain blocklist
+! Number of unique domains: 25
+!
+
+||ameg.disway.id^
+||bakorwilbojonegoro.jatimprov.go.id^
+||beritaseruyan.com^
+||cloud.wg.ugm.ac.id^
+||djkn.kemenkeu.go.id^
+||djpb.kemenkeu.go.id^
+||forums.autodesk.com^
+||geraifastpay.co.id^
+||iblam.ac.id^
+||itjen.menlhk.go.id^
+||jabarprov.go.id^
+||jdih.acehprov.go.id^
+||kepaniteraan.mahkamahagung.go.id^
+||komdigi.go.id^
+||mahkamahagung.go.id^
+||man2serang.sch.id^
+||menpan.go.id^
+||ojashospitalbhopal.com^
+||poscyber.com^
+||ppatk.go.id^
+||ppid.lampungprov.go.id^
+||selular.id^
+||setneg.go.id^
+||ugm.ac.id^
+||voaindonesia.com^

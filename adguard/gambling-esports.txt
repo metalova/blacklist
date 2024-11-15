@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 04:14:14
+! Last Updated: 2024-11-16 04:19:37
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 165
+! Number of unique domains: 176
 !
 
 ||1xbet.id.uptodown.com^
@@ -22,6 +22,7 @@
 ||betwinner.co.zm^
 ||bilibili.tv^
 ||blix.gg^
+||blog.tribunjualbeli.com^
 ||brg.ina-sdi.or.id^
 ||britadao.com^
 ||businessresearchinsights.com^
@@ -33,10 +34,13 @@
 ||daftaresports.com^
 ||dailypost.id^
 ||decoracionessolecuador.com^
+||digitek.id^
 ||discord.com^
 ||dkiplay88.pages.dev^
 ||dota2-betting.com^
 ||dotesports.com^
+||ejurnal.warmadewa.ac.id^
+||endeus.tv^
 ||enterkomputer.com^
 ||esic.gg^
 ||esport-my.com^
@@ -54,6 +58,7 @@
 ||fantech.id^
 ||fedmvz.com^
 ||financialpost.com^
+||firstmedia.com^
 ||friendly-wounds.com^
 ||gamebrott.com^
 ||games.grid.id^
@@ -71,6 +76,7 @@
 ||hippu.lppm.ulb.ac.id^
 ||huddle.tech^
 ||icebb.net^
+||id.mashable.com^
 ||idncitizen.com^
 ||igi-global.com^
 ||ijcst.com.pk^
@@ -96,6 +102,7 @@
 ||linkidntogel.com^
 ||listvox.com^
 ||lj.maharashtra.gov.in^
+||m.rctiplus.com^
 ||maestrojersey.com^
 ||main.aov.garena.co.id^
 ||malang.jatimtimes.com^
@@ -106,10 +113,12 @@
 ||microbesociety.org^
 ||mobilenation.id^
 ||morshedworx.com^
+||musicmanamps.com^
 ||mybrandnewlogo.com^
 ||neraca.co.id^
 ||newberrycountyhistory.com^
 ||news.stthom.edu^
+||nsiautostore.com^
 ||nwmontessori.net^
 ||oddin.gg^
 ||okinews.disway.id^
@@ -132,9 +141,11 @@
 ||pulsar.gg^
 ||repository.law.miami.edu^
 ||repository.uinsi.ac.id^
+||repository.uir.ac.id^
 ||responsiblegambling.vic.gov.au^
 ||sactr.com^
 ||sbobetesports.wordpress.com^
+||schmu.id^
 ||sentracomputer.com^
 ||seru.indsaiko.com^
 ||seru88light.com^
