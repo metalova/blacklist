@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 18:14:37",
+  "updated": "2024-11-15 18:24:45",
   "categories": {
     "slot": {
-      "count": 4380,
+      "count": 4385,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26282,6 +26282,36 @@
           "domain": "absensionline.triasmitra.com",
           "raw_url": "https://absensionline.triasmitra.com/ampxxx/",
           "found_time": "2024-11-15 11:14:36",
+          "status": "active"
+        },
+        {
+          "domain": "qqemascd.freeampsite.xyz",
+          "raw_url": "https://qqemascd.freeampsite.xyz/",
+          "found_time": "2024-11-15 11:14:36",
+          "status": "active"
+        },
+        {
+          "domain": "nola.com",
+          "raw_url": "https://www.nola.com/news/business/beau-rivage-biloxi-ms-jackpot/article_5ec2648c-a2be-11ef-a61e-ab57609d0c5b.html",
+          "found_time": "2024-11-15 11:20:37",
+          "status": "active"
+        },
+        {
+          "domain": "dkips.sumbabaratkab.go.id",
+          "raw_url": "https://dkips.sumbabaratkab.go.id/wp-includes/dir/",
+          "found_time": "2024-11-15 11:22:42",
+          "status": "active"
+        },
+        {
+          "domain": "seattlebengals.com",
+          "raw_url": "https://www.seattlebengals.com/",
+          "found_time": "2024-11-15 11:22:42",
+          "status": "active"
+        },
+        {
+          "domain": "kymua.com",
+          "raw_url": "https://www.kymua.com/",
+          "found_time": "2024-11-15 11:23:44",
           "status": "active"
         }
       ]

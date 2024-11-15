@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:14:37
+! Last Updated: 2024-11-15 18:24:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4380
+! Number of unique domains: 4385
 !
 
 ||103.115.28.6^
@@ -1063,6 +1063,7 @@
 ||diykitchenguide.com^
 ||djppi.kominfo.go.id^
 ||djtogel.com^
+||dkips.sumbabaratkab.go.id^
 ||dksvirginia.com^
 ||dlh.ngawikab.go.id^
 ||dmc.herminahospitals.com^
@@ -2116,6 +2117,7 @@
 ||kwu.feb.unimal.ac.id^
 ||ky-manimarley.com^
 ||kyjovsky-pivovar.cz^
+||kymua.com^
 ||kyrgyzaero.com^
 ||la-rock.com^
 ||laaunch.org^
@@ -2718,6 +2720,7 @@
 ||no.tripadvisor.com^
 ||nobleblu.com^
 ||nococellrepair.com^
+||nola.com^
 ||nomorpaito.net^
 ||nona88maksimum.xyz^
 ||nonlinedirect.com^
@@ -3142,6 +3145,7 @@
 ||puskesmaspadasuka.id^
 ||pussy88.app^
 ||qbuzz.qnet.net^
+||qqemascd.freeampsite.xyz^
 ||qqmaster88.com^
 ||qqolesuper.com^
 ||qqvictorywin3.net^
@@ -3439,6 +3443,7 @@
 ||sdmuhkauman.sch.id^
 ||seahipaj.org^
 ||searchtcc1000.shop^
+||seattlebengals.com^
 ||sebaran.apsidoarjo.ac.id^
 ||sedapgasbos.com^
 ||segment.kaboki.go.id^
