@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:24:45
+! Last Updated: 2024-11-15 18:28:51
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4385
+! Number of unique domains: 4388
 !
 
 ||103.115.28.6^
@@ -322,6 +322,7 @@
 ||astoriaskitchen.com^
 ||astrapay.com^
 ||astrophotographie-lorraine.com^
+||astroslot.freeampsite.xyz^
 ||asus.com^
 ||asw.asean.org^
 ||athaanginfra.in^
@@ -2525,6 +2526,7 @@
 ||minicasheg.com^
 ||mio777vip.pics^
 ||miragenailspafortmyers.com^
+||mirrorreview.com^
 ||misapps.com.co^
 ||misosushilondon.com^
 ||missliterati.com^
@@ -3677,6 +3679,7 @@
 ||southernhillsanimalclinic.com^
 ||southernrailaz.com^
 ||southshorepress.net^
+||southwaleschronicle.co.uk^
 ||soykb.org^
 ||sp.rumahkepemimpinan.org^
 ||spacafeonbroadway.com^

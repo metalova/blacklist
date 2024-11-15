@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 18:24:45",
+  "updated": "2024-11-15 18:28:51",
   "categories": {
     "slot": {
-      "count": 4385,
+      "count": 4388,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26312,6 +26312,24 @@
           "domain": "kymua.com",
           "raw_url": "https://www.kymua.com/",
           "found_time": "2024-11-15 11:23:44",
+          "status": "active"
+        },
+        {
+          "domain": "mirrorreview.com",
+          "raw_url": "https://www.mirrorreview.com/pragmatic-play-slot-games/",
+          "found_time": "2024-11-15 11:24:45",
+          "status": "active"
+        },
+        {
+          "domain": "astroslot.freeampsite.xyz",
+          "raw_url": "https://astroslot.freeampsite.xyz/",
+          "found_time": "2024-11-15 11:25:47",
+          "status": "active"
+        },
+        {
+          "domain": "southwaleschronicle.co.uk",
+          "raw_url": "https://southwaleschronicle.co.uk/blog/2024/09/03/how-to-win-big-playing-pg-soft-games/",
+          "found_time": "2024-11-15 11:26:48",
           "status": "active"
         }
       ]
