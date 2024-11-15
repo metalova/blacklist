@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 04:29:05
+! Last Updated: 2024-11-16 04:34:21
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6408
+! Number of domains: 6427
 !
 
 ! Category: SLOT
@@ -6426,4 +6426,23 @@
 ||mudahjackpot.wordpress.com^
 ||fokus.kontan.co.id^
 ||pervasivedatarush.com^
+||lokapalanews.com^
+||faktualnews.co^
+||jurnal.stisummulayman.ac.id^
+||ejournal.warunayama.org^
+||heylaw.id^
+||medanbisnisdaily.com^
+||voxyouths.com^
+||onesearch.id^
+||journal2.um.ac.id^
+||theedadvocate.org^
+||republika.id^
+||malangposcomedia.id^
+||agenda.pinamar.gob.ar^
+||ntthits.com^
+||infoindonesia.id^
+||tatarmedia.id^
+||media24.id^
+||qualityplushseq.ca^
+||cantz.or.tz^
 
