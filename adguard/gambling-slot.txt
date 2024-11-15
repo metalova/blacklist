@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 19:41:37
+! Last Updated: 2024-11-15 19:49:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4458
+! Number of unique domains: 4467
 !
 
 ||103.115.28.6^
@@ -153,6 +153,7 @@
 ||agen365a.com^
 ||agen365daftar.com^
 ||agen365slot.org^
+||agenagenagen.pages.dev^
 ||agenda.htp.ac.id^
 ||agenda.tebingtinggikota.go.id^
 ||agenhebat.vip^
@@ -250,6 +251,7 @@
 ||angelospizzanpasta.com^
 ||angelschristianacademy.com^
 ||angelstarch.com^
+||angkasa.coop^
 ||angkasaonline.co.id^
 ||animalhospitalwesterville.com^
 ||animaltrial.com^
@@ -1331,6 +1333,7 @@
 ||feelhomeqatar.com^
 ||fekreabi.net^
 ||femalehumananimal.com^
+||feministaa.com^
 ||fenderanddonisch.com^
 ||fernandofranco.asdakota.com^
 ||fernandofranco.com^
@@ -1510,6 +1513,7 @@
 ||gourmetworldmarket.com^
 ||gr8.tech^
 ||grabcad.com^
+||gradec.hr^
 ||gramedia.com^
 ||grand-win.com^
 ||grand88games.com^
@@ -2012,6 +2016,7 @@
 ||kaboki.ina-sdi.or.id^
 ||kadinkaranganyar.id^
 ||kadokado.id^
+||kagato.net^
 ||kaikabgresik.org^
 ||kaikotasurabaya.org^
 ||kainratu.co.id^
@@ -2950,6 +2955,7 @@
 ||patikab.go.id^
 ||patroli-indonesia.com^
 ||pattoninbloom.com^
+||pauca-katana4d.pages.dev^
 ||paulofreire.org^
 ||paulstirecarrolltonky.com^
 ||paulwidmer.com^
@@ -3469,6 +3475,7 @@
 ||sapos.co.id^
 ||sarahhospital.com^
 ||sarahkeyhealthvacations.com^
+||sariasih.com^
 ||sariroti.com^
 ||sasing.unkhair.ac.id^
 ||saspjournals.com^
@@ -3610,6 +3617,7 @@
 ||sipenwaru.assalaam.or.id^
 ||siperitani.kendalkab.go.id^
 ||sipim.unisri.ac.id^
+||sipintar.pa-jayapura.go.id^
 ||sipita.dishub.riau.go.id^
 ||sipp.ms-lhokseumawe.go.id^
 ||sipp.pa-kotamadiun.go.id^
@@ -4388,6 +4396,7 @@
 ||woodspoon.com^
 ||wookmark.com^
 ||worcesterskittles.com^
+||world2systems.com^
 ||worldsnowboardtour.com^
 ||worldveganday.org^
 ||wortlautruhr.com^

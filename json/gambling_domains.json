@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 19:41:37",
+  "updated": "2024-11-15 19:49:53",
   "categories": {
     "slot": {
-      "count": 4458,
+      "count": 4467,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26750,6 +26750,60 @@
           "domain": "siakad.stai-muafi.ac.id",
           "raw_url": "https://siakad.stai-muafi.ac.id/products/assets/logo-bar/track-order/common/reqwest/index",
           "found_time": "2024-11-15 12:39:35",
+          "status": "active"
+        },
+        {
+          "domain": "gradec.hr",
+          "raw_url": "https://gradec.hr/",
+          "found_time": "2024-11-15 12:41:37",
+          "status": "active"
+        },
+        {
+          "domain": "kagato.net",
+          "raw_url": "https://kagato.net/amp/01/",
+          "found_time": "2024-11-15 12:45:43",
+          "status": "active"
+        },
+        {
+          "domain": "world2systems.com",
+          "raw_url": "https://world2systems.com/amp/amp-455895.html",
+          "found_time": "2024-11-15 12:45:43",
+          "status": "active"
+        },
+        {
+          "domain": "pauca-katana4d.pages.dev",
+          "raw_url": "https://pauca-katana4d.pages.dev/",
+          "found_time": "2024-11-15 12:45:43",
+          "status": "active"
+        },
+        {
+          "domain": "agenagenagen.pages.dev",
+          "raw_url": "https://agenagenagen.pages.dev/",
+          "found_time": "2024-11-15 12:45:43",
+          "status": "active"
+        },
+        {
+          "domain": "angkasa.coop",
+          "raw_url": "http://angkasa.coop/bm/index.php",
+          "found_time": "2024-11-15 12:48:46",
+          "status": "active"
+        },
+        {
+          "domain": "sipintar.pa-jayapura.go.id",
+          "raw_url": "https://sipintar.pa-jayapura.go.id/",
+          "found_time": "2024-11-15 12:49:52",
+          "status": "active"
+        },
+        {
+          "domain": "feministaa.com",
+          "raw_url": "https://feministaa.com/",
+          "found_time": "2024-11-15 12:49:52",
+          "status": "active"
+        },
+        {
+          "domain": "sariasih.com",
+          "raw_url": "https://www.sariasih.com/",
+          "found_time": "2024-11-15 12:49:52",
           "status": "active"
         }
       ]
