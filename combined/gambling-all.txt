@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 22:49:22
+! Last Updated: 2024-11-15 22:54:44
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5167
+! Number of domains: 5190
 !
 
 ! Category: SLOT
@@ -4723,6 +4723,29 @@
 ||bethanychurchpec.ca^
 ||masterbet288.com^
 ||sarnia4rent.com^
+||bartolinaathletics.com^
+||kozykennelsjoliet.com^
+||masterbettingg.com^
+||cuan-com.pages.dev^
+||sibasodara.banggaikab.go.id^
+||suzyshier.com^
+||mexicanxpro.mex.com^
+||grandslot777.com^
+||krypto-oddsen.com^
+||nrhm.maharashtra.gov.in^
+||m.indiamart.com^
+||kevinxia2009.en.made-in-china.com^
+||midpoint-center.eu^
+||grandwinscasino.com^
+||dnb.com^
+||aliexpress.com^
+||sourcing.hktdc.com^
+||ct-interactive.com^
+||nicholasmanellapa.com^
+||download.cnet.com^
+||28hse.com^
+||theonemilano.com^
+||airpaz.com^
 
 ! Category: CASINO
 ||newszechuan.com^

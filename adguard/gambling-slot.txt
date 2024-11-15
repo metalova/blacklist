@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 22:49:22
+! Last Updated: 2024-11-15 22:54:44
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4717
+! Number of unique domains: 4740
 !
 
 ||103.115.28.6^
@@ -61,6 +61,7 @@
 ||23forum-bahis.com^
 ||24sgo777.com^
 ||25sgo777.com^
+||28hse.com^
 ||2engenheiros.com^
 ||304axatogel.com^
 ||36.95.86.26:8080^
@@ -189,6 +190,7 @@
 ||airassaults.com^
 ||airdays.co.kr^
 ||airmet.pt^
+||airpaz.com^
 ||airpurifierguide.org^
 ||ajef.net^
 ||ajemjournal.com^
@@ -207,6 +209,7 @@
 ||albertina.academy^
 ||alexanderchristie.pages.dev^
 ||algomaveterans.pages.dev^
+||aliexpress.com^
 ||alinari.it^
 ||alirsyadpwt.or.id^
 ||allaboutbookpublishing.com^
@@ -445,6 +448,7 @@
 ||baronda.malutprov.go.id^
 ||baronessen-shop.dk^
 ||barryprice.net.cdn.cloudflare.net^
+||bartolinaathletics.com^
 ||basikadermotienda.com^
 ||basis.cash^
 ||bata4done.id^
@@ -998,8 +1002,10 @@
 ||csirt.bmkg.go.id^
 ||csirt.grobogan.go.id^
 ||csr.cianjurkab.go.id^
+||ct-interactive.com^
 ||ctcfsa.org^
 ||ctprovisions.com^
+||cuan-com.pages.dev^
 ||cuckoorestaurant.com.au^
 ||cumbremedical.net^
 ||cuponation.co.id^
@@ -1165,6 +1171,7 @@
 ||dmtconference.com^
 ||dmucu.org^
 ||dnaberita.com^
+||dnb.com^
 ||do-it.org^
 ||doaibu-project.pages.dev^
 ||doc420.com^
@@ -1188,6 +1195,7 @@
 ||doruktip.com^
 ||dottyrhino.com^
 ||downeprimary.com^
+||download.cnet.com^
 ||doyoudothatathome.com^
 ||doyouknowclarence.com^
 ||dpcorgandakotasemarang.com^
@@ -1614,10 +1622,12 @@
 ||grandjp101.com^
 ||grandlakemariners.com^
 ||grandnailssalons.com^
+||grandslot777.com^
 ||grandwin-casino.en.softonic.com^
 ||grandwin.ca^
 ||grandwin.id.uptodown.com^
 ||grandwinlegal.com.au^
+||grandwinscasino.com^
 ||granitoscabanillas.com^
 ||granthdwar.com^
 ||grasshopperhill.net^
@@ -2201,6 +2211,7 @@
 ||kesbangpol.tanjabbarkab.go.id^
 ||kesmas.kemkes.go.id^
 ||kevinsorbo.net^
+||kevinxia2009.en.made-in-china.com^
 ||kewirausahaan.umla.ac.id^
 ||keyonary.com^
 ||khajuribazar.com^
@@ -2255,6 +2266,7 @@
 ||koreansteakhouse.com^
 ||kosawit.net^
 ||kosmos.ch^
+||kozykennelsjoliet.com^
 ||kp.ac.rw^
 ||kpi.uad.iaincurup.ac.id^
 ||kpid.sumbarprov.go.id^
@@ -2265,6 +2277,7 @@
 ||krishnapuramatha.org^
 ||kristinabachrach.com^
 ||kronotrop.com.tr^
+||krypto-oddsen.com^
 ||kteamit.com^
 ||kuatbaca.com^
 ||kubancoffeeroasters.com^
@@ -2481,6 +2494,7 @@
 ||m.aptirmik.or.id^
 ||m.betking.com^
 ||m.betwinwins.net^
+||m.indiamart.com^
 ||m.jpnn.com^
 ||m.memuplay.com^
 ||m.royalbet33.com^
@@ -2587,6 +2601,7 @@
 ||masterbet99.org^
 ||masterbetitalia.it^
 ||masterbetslot.com^
+||masterbettingg.com^
 ||masterfixedmatch.com^
 ||mastermpoapp.com^
 ||masterslot88ce.com^
@@ -2686,6 +2701,7 @@
 ||metropolis.id^
 ||metrorakyat.com^
 ||mewah89gucci.com^
+||mexicanxpro.mex.com^
 ||mexikingsgrill.com^
 ||mexiqnow.com^
 ||mez.ink^
@@ -2703,6 +2719,7 @@
 ||micultura.gob.pa^
 ||midmodandmore.com^
 ||midor.co^
+||midpoint-center.eu^
 ||migop.org^
 ||milenialindonesia.id^
 ||miliarmpoina.net^
@@ -2916,6 +2933,7 @@
 ||ngertihukum.id^
 ||ngopibareng.id^
 ||nguyetminhlam.com^
+||nicholasmanellapa.com^
 ||nickharttattoo.com^
 ||nickolswhitelaw.com^
 ||nicosmxpizzeria.com^
@@ -2946,6 +2964,7 @@
 ||nothingfancybar.com^
 ||nphi.go.ke^
 ||nrctt.org^
+||nrhm.maharashtra.gov.in^
 ||nrsmc.edu.in^
 ||nttbersuara.com^
 ||nu.or.id^
@@ -3771,6 +3790,7 @@
 ||siapadia.riau.go.id^
 ||siaptek.pesisirbaratkab.go.id^
 ||sib4sib.org^
+||sibasodara.banggaikab.go.id^
 ||siber.ekaakarjati.id^
 ||sibilinaflamenca.es^
 ||sicph.fkm.unsri.ac.id^
@@ -3944,6 +3964,7 @@
 ||soundcloud.com^
 ||soupscoopmediterranean.com^
 ||source-fashion.com^
+||sourcing.hktdc.com^
 ||southbaysportbikerentals.com^
 ||southernhillsanimalclinic.com^
 ||southernrailaz.com^
@@ -4078,6 +4099,7 @@
 ||sustainabilitydriven.info^
 ||sustainablewaterloo.org^
 ||sustercb.com^
+||suzyshier.com^
 ||svak.cz^
 ||svps17huda.com^
 ||swamijuicetampa.com^
@@ -4248,6 +4270,7 @@
 ||thenextreal.net^
 ||thenorthcampus.org^
 ||thenorthcarolinapoultryjubilee.com^
+||theonemilano.com^
 ||theonlinedepotph.net^
 ||theoriginalgoombas.com^
 ||theoriginaltoptomato.com^
