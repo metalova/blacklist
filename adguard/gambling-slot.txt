@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 22:44:03
+! Last Updated: 2024-11-15 22:49:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4704
+! Number of unique domains: 4717
 !
 
 ||103.115.28.6^
@@ -320,6 +320,7 @@
 ||arnet-media.pages.dev^
 ||artcenter-slovenia.org^
 ||artegrafica.cl^
+||arthageo.id^
 ||arthapuspamega.com^
 ||arthasetia.co.id^
 ||artofproblemsolving.com^
@@ -506,6 +507,7 @@
 ||beta.vr.is^
 ||betalent-steam.com^
 ||betclan.com^
+||bethanychurchpec.ca^
 ||bethelparkfarmersmarket.com^
 ||bethsadahospital.com^
 ||betking-mobile.id.uptodown.com^
@@ -1123,6 +1125,7 @@
 ||dinkes.kaurkab.go.id^
 ||dinkes.padangpanjang.go.id^
 ||dinkes.sumselprov.go.id^
+||dinkeskaurkab.pages.dev^
 ||dinsos.bangka.go.id^
 ||dinsos.bombanakab.go.id^
 ||dinsos.gresikkab.go.id^
@@ -1498,6 +1501,7 @@
 ||fst-usmba.ac.ma^
 ||ft.unsri.ac.id^
 ||ftbprimetime.com^
+||funnytime.live^
 ||fupchurch.org^
 ||futurefirsttech.io^
 ||futurehwy210brainerd.com^
@@ -1986,6 +1990,7 @@
 ||jbms360.com^
 ||jcsd.org^
 ||jcvdcme.com^
+||jdc.edu.co^
 ||jdih-prokum.magetan.go.id^
 ||jdih.djsn.go.id^
 ||jdih.kominfo.go.id^
@@ -2074,6 +2079,7 @@
 ||joy.link^
 ||joyohalo.com^
 ||joyosuara.xyz^
+||jpenmas.bundadelima.ac.id^
 ||jpk.poltekkesdepkes-sby.ac.id^
 ||jpschauffage.fr^
 ||jpyuk77bro.bond^
@@ -2358,6 +2364,7 @@
 ||lgobola004.com^
 ||lgurjcsit.lgu.edu.pk^
 ||lib.iaincurup.ac.id^
+||liberationny.com^
 ||libramemoria.com^
 ||library.ien.bg.ac.rs^
 ||library.sttal.ac.id^
@@ -2544,6 +2551,7 @@
 ||many.link^
 ||mapbiomas.nusantara.earth^
 ||mapolyng.com^
+||mappsys.rima.co.id^
 ||marathonga.com^
 ||marciasmunchies.com^
 ||marcoligi.com^
@@ -2573,6 +2581,7 @@
 ||master88zz.lol^
 ||master88zz.net^
 ||masterbet.ru^
+||masterbet288.com^
 ||masterbet99.info^
 ||masterbet99.net^
 ||masterbet99.org^
@@ -3163,6 +3172,7 @@
 ||pgsoftgames.com^
 ||pgsoftslot.com^
 ||pgsoftslotsdemo.com^
+||pgyer.com^
 ||phase1salads.com^
 ||philippeatienzabottier.com^
 ||philomenasbar.com^
@@ -3375,6 +3385,7 @@
 ||puskesmasmariat.info^
 ||puskesmaspadasuka.id^
 ||pussy88.app^
+||qanda.digipres.org^
 ||qbuzz.qnet.net^
 ||qqemascd.freeampsite.xyz^
 ||qqmaster88.com^
@@ -3659,6 +3670,7 @@
 ||sariasih.com^
 ||saripacificasibuisland.com^
 ||sariroti.com^
+||sarnia4rent.com^
 ||sasing.unkhair.ac.id^
 ||saspjournals.com^
 ||satamasn.babelprov.go.id^
@@ -3735,6 +3747,7 @@
 ||shelbyprosecutor.com^
 ||shermanluxurygroup.com^
 ||shestel.com^
+||shiksha365cloud.com^
 ||shincastella.com^
 ||shirleybriceheath.net^
 ||shivajicollegetimetable.in^
