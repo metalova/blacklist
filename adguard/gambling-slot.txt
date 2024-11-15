@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 06:44:57
+! Last Updated: 2024-11-16 06:49:06
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4816
+! Number of unique domains: 4823
 !
 
 ||103.115.28.6^
@@ -127,6 +127,7 @@
 ||acmrl.org^
 ||acookiebeforedinner.com^
 ||acp-it.com^
+||acsty2024.org^
 ||actionjaxjunkremoval.com^
 ||actionnetwork.com^
 ||active20-30.com^
@@ -804,6 +805,7 @@
 ||cbt.smkdhkjg.sch.id^
 ||ccae.amucontrollerexams.com^
 ||ccusalmona.com^
+||cdg29.bzh^
 ||cdhsinc.com^
 ||cdlaredo.com^
 ||cdr.saude.sp.gov.br^
@@ -975,6 +977,7 @@
 ||cougar.com.tw^
 ||counselorswithoutborders.org^
 ||counterwin88pro.com^
+||courses-kpi.com^
 ||courses.uet.vnu.edu.vn^
 ||coushattacasinoresort.com^
 ||covaledafest.com^
@@ -1501,6 +1504,7 @@
 ||folkloresque.net^
 ||fontanadistribution.com^
 ||foodpandatw.com^
+||foodtrucksarasota.com^
 ||foothillsstanddown.com^
 ||forbali.org^
 ||forda-mof.org^
@@ -1850,6 +1854,7 @@
 ||ichirin-coffee.com^
 ||ichm-fkunpatti.akademisi.co.id^
 ||ichthusfestival.org^
+||iconova.com.tr^
 ||icospac.untagsmg.ac.id^
 ||icossdi.pasca.unand.ac.id^
 ||icpe2019.org^
@@ -3006,6 +3011,7 @@
 ||norcalpulse.com^
 ||normandie-luge.com^
 ||norshunch.com^
+||northchinagardenwa.com^
 ||northernexpress.com^
 ||northernsistercity.org^
 ||northkoreapools.com^
@@ -4087,6 +4093,7 @@
 ||stevenbermanphd.com^
 ||stevenpearlman.com^
 ||stie-wikara.ac.id^
+||stiekasihbangsa.ac.id^
 ||stieyapibone.id^
 ||stikara.ac.id^
 ||stikespasapua.ac.id^

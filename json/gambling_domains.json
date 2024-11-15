@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 06:44:57",
+  "updated": "2024-11-16 06:49:06",
   "categories": {
     "slot": {
-      "count": 4816,
+      "count": 4823,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28898,6 +28898,48 @@
           "domain": "sumut24.co",
           "raw_url": "https://www.sumut24.co/hukum-kriminal/263569/bareskrim-kembali-blokir-aset-rp-368-miliar-terkait-judol-jaringan-internasional/",
           "found_time": "2024-11-15 23:10:52",
+          "status": "active"
+        },
+        {
+          "domain": "cdg29.bzh",
+          "raw_url": "https://www.cdg29.bzh/",
+          "found_time": "2024-11-15 23:44:56",
+          "status": "active"
+        },
+        {
+          "domain": "foodtrucksarasota.com",
+          "raw_url": "https://www.foodtrucksarasota.com/",
+          "found_time": "2024-11-15 23:48:01",
+          "status": "active"
+        },
+        {
+          "domain": "iconova.com.tr",
+          "raw_url": "https://www.iconova.com.tr/konut-tipleri/41",
+          "found_time": "2024-11-15 23:49:05",
+          "status": "active"
+        },
+        {
+          "domain": "stiekasihbangsa.ac.id",
+          "raw_url": "https://stiekasihbangsa.ac.id/pages/pgsoft/",
+          "found_time": "2024-11-15 23:49:05",
+          "status": "active"
+        },
+        {
+          "domain": "courses-kpi.com",
+          "raw_url": "https://courses-kpi.com/plugins/uploads/source/MAXWIN/pragmatic.html",
+          "found_time": "2024-11-15 23:49:05",
+          "status": "active"
+        },
+        {
+          "domain": "acsty2024.org",
+          "raw_url": "https://acsty2024.org/",
+          "found_time": "2024-11-15 23:49:05",
+          "status": "active"
+        },
+        {
+          "domain": "northchinagardenwa.com",
+          "raw_url": "https://www.northchinagardenwa.com/",
+          "found_time": "2024-11-15 23:49:06",
           "status": "active"
         }
       ]
