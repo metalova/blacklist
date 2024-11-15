@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-15 23:10:16",
+  "updated": "2024-11-15 23:43:31",
   "categories": {
     "slot": {
       "count": 4746,
@@ -28483,7 +28483,7 @@
       ]
     },
     "casino": {
-      "count": 186,
+      "count": 197,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -29599,6 +29599,72 @@
           "domain": "turningstoneenterprises.com",
           "raw_url": "https://www.turningstoneenterprises.com/careers/dealer-school",
           "found_time": "2024-11-15 16:10:16",
+          "status": "active"
+        },
+        {
+          "domain": "id.y8.com",
+          "raw_url": "https://id.y8.com/games/casino_blackjack",
+          "found_time": "2024-11-15 16:10:16",
+          "status": "active"
+        },
+        {
+          "domain": "theresortatsummerlin.com",
+          "raw_url": "https://theresortatsummerlin.com/las-vegas-casino/jackpot-winners/",
+          "found_time": "2024-11-15 16:41:24",
+          "status": "active"
+        },
+        {
+          "domain": "mindilbeachcasinoresort.com.au",
+          "raw_url": "https://www.mindilbeachcasinoresort.com.au/casino/table-games/blackjack",
+          "found_time": "2024-11-15 16:41:24",
+          "status": "active"
+        },
+        {
+          "domain": "bearrivercasino.com",
+          "raw_url": "https://bearrivercasino.com/recentwinners/",
+          "found_time": "2024-11-15 16:41:24",
+          "status": "active"
+        },
+        {
+          "domain": "goldenmesa.com",
+          "raw_url": "https://goldenmesa.com/jackpots/",
+          "found_time": "2024-11-15 16:41:24",
+          "status": "active"
+        },
+        {
+          "domain": "6abc.com",
+          "raw_url": "https://6abc.com/post/woman-says-ballys-casino-in-atlantic-city-refuses-to-pay-seven-figure-jackpot--action-news-investigation/14827493/",
+          "found_time": "2024-11-15 16:41:24",
+          "status": "active"
+        },
+        {
+          "domain": "dellagoresort.com",
+          "raw_url": "https://dellagoresort.com/jackpot-winners/",
+          "found_time": "2024-11-15 16:41:25",
+          "status": "active"
+        },
+        {
+          "domain": "silverstar.co.za",
+          "raw_url": "https://www.silverstar.co.za/gaming/slots/slots-payout/",
+          "found_time": "2024-11-15 16:42:29",
+          "status": "active"
+        },
+        {
+          "domain": "bappeda.jatengprov.go.id",
+          "raw_url": "https://bappeda.jatengprov.go.id/",
+          "found_time": "2024-11-15 16:42:29",
+          "status": "active"
+        },
+        {
+          "domain": "cachecreek.com",
+          "raw_url": "https://www.cachecreek.com/winners",
+          "found_time": "2024-11-15 16:42:29",
+          "status": "active"
+        },
+        {
+          "domain": "mojadipro.com",
+          "raw_url": "https://mojadipro.com/",
+          "found_time": "2024-11-15 16:43:31",
           "status": "active"
         }
       ]

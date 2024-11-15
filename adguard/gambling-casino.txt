@@ -1,10 +1,11 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-15 23:10:16
+! Last Updated: 2024-11-15 23:43:31
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 186
+! Number of unique domains: 197
 !
 
 ||24liveblog.com^
+||6abc.com^
 ||aacc.edu^
 ||affpapa.com^
 ||agen-casino.online^
@@ -21,6 +22,8 @@
 ||baccarat.com^
 ||ballislife.com^
 ||ballycasino.com^
+||bappeda.jatengprov.go.id^
+||bearrivercasino.com^
 ||beijinggreenbeltmd.com^
 ||bendosari.desa.id^
 ||beritakriminalkepri.com^
@@ -31,6 +34,7 @@
 ||bombayclub.com^
 ||bossaction.com^
 ||brsoftech.com^
+||cachecreek.com^
 ||carolinadumpstersllc.com^
 ||caseyforcongressri.com^
 ||casino-terrestre.com^
@@ -49,6 +53,7 @@
 ||creedroomz.com^
 ||crownmelbourne.com.au^
 ||crownperth.com.au^
+||dellagoresort.com^
 ||deviantart.com^
 ||dolby.io^
 ||e-statistik.temanggungkab.go.id^
@@ -66,6 +71,7 @@
 ||gdqpan.udn.vn^
 ||ggbmagazine.com^
 ||golaurelhighlands.com^
+||goldenmesa.com^
 ||goldensteersteakhouse.com^
 ||grandcasino-bern.ch^
 ||grasz.id^
@@ -76,6 +82,7 @@
 ||id.piliapp.com^
 ||id.quora.com^
 ||id.scribd.com^
+||id.y8.com^
 ||ihubtc.com^
 ||imaginelive.com^
 ||imunisasi-tambahan.kemkes.go.id^
@@ -102,6 +109,8 @@
 ||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
 ||mikeklubnika.itch.io^
+||mindilbeachcasinoresort.com.au^
+||mojadipro.com^
 ||moovitapp.com^
 ||mshairco.com^
 ||mudbidrijaintemple.com^
@@ -142,6 +151,7 @@
 ||siadak.stikesalifah.ac.id^
 ||sierradesanfrancisco.inah.gob.mx^
 ||silvergames.com^
+||silverstar.co.za^
 ||simon.com^
 ||simpadupakfarmasi.kemkes.go.id^
 ||sippn.menpan.go.id^
@@ -166,6 +176,7 @@
 ||thefosterfarm.org^
 ||thegamer.com^
 ||thehypemagazine.com^
+||theresortatsummerlin.com^
 ||thrivemedicalaesthetics.ca^
 ||tib.co.id^
 ||tiki-talk.com^

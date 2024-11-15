@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 23:10:16
+! Last Updated: 2024-11-15 23:43:31
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5301
+! Number of domains: 5312
 !
 
 ! Category: SLOT
@@ -4940,6 +4940,17 @@
 ||northstarcasinoresort.com^
 ||virginvoyages.com^
 ||turningstoneenterprises.com^
+||id.y8.com^
+||theresortatsummerlin.com^
+||mindilbeachcasinoresort.com.au^
+||bearrivercasino.com^
+||goldenmesa.com^
+||6abc.com^
+||dellagoresort.com^
+||silverstar.co.za^
+||bappeda.jatengprov.go.id^
+||cachecreek.com^
+||mojadipro.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
