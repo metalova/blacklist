@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 03:14:22
+! Last Updated: 2024-11-16 03:19:48
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6219
+! Number of domains: 6247
 !
 
 ! Category: SLOT
@@ -6235,4 +6235,32 @@
 ||sactr.com^
 ||metaco.gg^
 ||la-fermette.net^
+||betwinner.co.zm^
+||taruhan-mobile-legend.dadventure.ca^
+||sbobetesports.wordpress.com^
+||vcgamers.com^
+||jurnal.stkippgritulungagung.ac.id^
+||linkidntogel.com^
+||taruhan-mobile-legend.gblog.co.za^
+||34d-nude-run.id.uptodown.com^
+||probolinggo.jatimtimes.com^
+||esportsvikings.com^
+||pubgesports.com^
+||esportsbettingranker.in^
+||blix.gg^
+||beta-pubg-mobile.en.uptodown.com^
+||legal-esport.com^
+||lj.maharashtra.gov.in^
+||valorant.fandom.com^
+||daftaresports.com^
+||podiumesports.com^
+||newberrycountyhistory.com^
+||ponlix.wordpress.com^
+||sunnybraegolfcourse.com^
+||microbesociety.org^
+||hatredspeaks.com^
+||szpitalpraski.pl^
+||esportsgrizzly.com^
+||aboutsemarang.id^
+||dailypost.id^
 

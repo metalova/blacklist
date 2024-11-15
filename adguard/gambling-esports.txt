@@ -1,49 +1,77 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 03:14:22
+! Last Updated: 2024-11-16 03:19:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 43
+! Number of unique domains: 71
 !
 
+||34d-nude-run.id.uptodown.com^
 ||80rae.com^
+||aboutsemarang.id^
+||beta-pubg-mobile.en.uptodown.com^
+||betwinner.co.zm^
+||blix.gg^
 ||brg.ina-sdi.or.id^
 ||cakrawalajabar.com^
 ||ciremainews.com^
+||daftaresports.com^
+||dailypost.id^
 ||decoracionessolecuador.com^
 ||enterkomputer.com^
 ||esic.gg^
 ||esports.id^
 ||esportsacademy.id^
 ||esportsagent.gg^
+||esportsbettingranker.in^
+||esportsgrizzly.com^
 ||esportsportal.net^
+||esportsvikings.com^
 ||exactitudeconsultancy.com^
 ||games.grid.id^
 ||gaming.net^
 ||garena.co.id^
 ||garudaku.com^
+||hatredspeaks.com^
 ||ijcst.com.pk^
 ||issacyber.com^
 ||journal.stkippamanetalino.ac.id^
+||jurnal.stkippgritulungagung.ac.id^
 ||kabarpalu.net^
 ||kelaskita.com^
 ||klamathcampercorral.com^
 ||la-fermette.net^
+||legal-esport.com^
 ||lensaone.id^
+||linkidntogel.com^
+||lj.maharashtra.gov.in^
 ||mapapgeorgia.org^
 ||metaco.gg^
+||microbesociety.org^
 ||mobilenation.id^
+||newberrycountyhistory.com^
 ||oddin.gg^
 ||oneesports.id^
 ||playvalorant.com^
+||podiumesports.com^
+||ponlix.wordpress.com^
 ||popline.id^
 ||ppid.belitung.go.id^
+||probolinggo.jatimtimes.com^
 ||prodigy-agency.gg^
 ||ptbsb.id^
+||pubgesports.com^
 ||repository.law.miami.edu^
 ||responsiblegambling.vic.gov.au^
 ||sactr.com^
+||sbobetesports.wordpress.com^
 ||sis.tv^
 ||sockit2pp.com^
 ||sportlinknews.com^
 ||statista.com^
+||sunnybraegolfcourse.com^
+||szpitalpraski.pl^
+||taruhan-mobile-legend.dadventure.ca^
+||taruhan-mobile-legend.gblog.co.za^
 ||ungkap.co.id^
+||valorant.fandom.com^
 ||valorantesports.com^
+||vcgamers.com^
