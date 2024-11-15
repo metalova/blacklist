@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 10:10:00
+! Last Updated: 2024-11-15 10:13:08
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4261
+! Number of unique domains: 4268
 !
 
 ||103.115.28.6^
@@ -344,6 +344,7 @@
 ||ayukbet9.bond^
 ||azbalanceandhearing.com^
 ||b.hatena.ne.jp^
+||babakama.co.il^
 ||babysteals.com^
 ||backbayhardware.com^
 ||backyardsites.com^
@@ -692,6 +693,7 @@
 ||caulfieldsdancefitness.com^
 ||cavaswinelodge.com^
 ||cavorestaurant.com^
+||caxangagolf.com.br^
 ||cbart.dk^
 ||cbasanjosegranada.com^
 ||cbctransit.com^
@@ -3133,6 +3135,7 @@
 ||realtor.ca^
 ||realtor.com^
 ||rebruspirits.com^
+||reciamuc.com^
 ||reciklanservices.cl^
 ||reclaimingthecrown.com^
 ||red.infd.edu.ar^
@@ -3154,6 +3157,7 @@
 ||rentalmobiljogja.co.id^
 ||repmarron.com^
 ||repo-mhs.ulm.ac.id^
+||repodez.zacatecas.gob.mx^
 ||repository.unikastpaulus.ac.id^
 ||repository.unpas.ac.id^
 ||repository.unsri.ac.id^
@@ -3381,6 +3385,7 @@
 ||shestel.com^
 ||shincastella.com^
 ||shirleybriceheath.net^
+||shivajicollegetimetable.in^
 ||shophoavina.com^
 ||shorehillcapital.com^
 ||shotsofrock.com^
@@ -3906,6 +3911,7 @@
 ||tokenramenatlakenona.com^
 ||tokeslot88-bvt.site^
 ||tokeslot88-ysd.site^
+||tokogame.com^
 ||tomleechicago.com^
 ||tomonet.co.id^
 ||tonicgreensbuynow.com^
@@ -4206,6 +4212,7 @@
 ||www2.gerdau.com.br^
 ||wxlgt.com^
 ||x.com^
+||xbox.com^
 ||xelagrillandrestaurant.com^
 ||xfragilpaisvasco.org^
 ||xianghotpot.com^

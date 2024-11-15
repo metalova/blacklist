@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 10:10:00",
+  "updated": "2024-11-15 10:13:08",
   "categories": {
     "slot": {
-      "count": 4261,
+      "count": 4268,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25568,6 +25568,48 @@
           "domain": "halopotatodonuts.com",
           "raw_url": "https://www.halopotatodonuts.com/",
           "found_time": "2024-11-15 10:09:59",
+          "status": "active"
+        },
+        {
+          "domain": "shivajicollegetimetable.in",
+          "raw_url": "http://shivajicollegetimetable.in/",
+          "found_time": "2024-11-15 10:10:00",
+          "status": "active"
+        },
+        {
+          "domain": "caxangagolf.com.br",
+          "raw_url": "https://www.caxangagolf.com.br/",
+          "found_time": "2024-11-15 10:11:05",
+          "status": "active"
+        },
+        {
+          "domain": "babakama.co.il",
+          "raw_url": "https://www.babakama.co.il/",
+          "found_time": "2024-11-15 10:11:05",
+          "status": "active"
+        },
+        {
+          "domain": "reciamuc.com",
+          "raw_url": "https://reciamuc.com/public/",
+          "found_time": "2024-11-15 10:11:05",
+          "status": "active"
+        },
+        {
+          "domain": "repodez.zacatecas.gob.mx",
+          "raw_url": "https://repodez.zacatecas.gob.mx/",
+          "found_time": "2024-11-15 10:11:06",
+          "status": "active"
+        },
+        {
+          "domain": "xbox.com",
+          "raw_url": "https://www.xbox.com/id-ID/xbox-game-pass/pc-game-pass",
+          "found_time": "2024-11-15 10:11:06",
+          "status": "active"
+        },
+        {
+          "domain": "tokogame.com",
+          "raw_url": "https://www.tokogame.com/id-id/digital/higgs-domino-koin-emas",
+          "found_time": "2024-11-15 10:11:06",
           "status": "active"
         }
       ]
