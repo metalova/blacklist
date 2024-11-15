@@ -1,15 +1,17 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 01:19:16
+! Last Updated: 2024-11-16 01:24:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 224
+! Number of unique domains: 251
 !
 
 ||abseits.at^
 ||absensi-musirawaskab.pages.dev^
 ||aerotravelindo.co.id^
+||afifecafe.com^
 ||aliyahalbadriyah.sch.id^
 ||altctrlgamejam.com^
 ||amphola88.com^
+||apaituamp.com^
 ||apollo.io^
 ||app.timesofmalta.com^
 ||arenadelrio.com^
@@ -30,11 +32,14 @@
 ||bolakita.farm^
 ||bolakita5.pages.dev^
 ||bolasport.com^
+||bppsdm.kkp.go.id^
 ||btcollectiblesstore.com^
 ||bwhimsy.com^
+||cac.bme.bridgestone.eu^
 ||calameo.com^
 ||carnesfinasortiz.com^
 ||ciamiskabwede.pages.dev^
+||citydeliva.com^
 ||citygardensflowershop.com^
 ||commerceops.uat2.petsuppliesplus.com^
 ||community.endnote.com^
@@ -67,6 +72,7 @@
 ||faktanasional.id^
 ||fkip-binggris.umb.ac.id^
 ||flalandscape.com^
+||focus-cinema.com^
 ||footlockerwest.com^
 ||forum.fanatec.com^
 ||ft95soundersfc.pages.dev^
@@ -91,27 +97,34 @@
 ||insitudigital.com^
 ||intrend.id^
 ||investortrust.id^
+||itd.imss.gob.mx^
 ||itiahaiti.org^
 ||itworks.id^
 ||iwalletslotgacor.pages.dev^
 ||izinnaikmas.pages.dev^
 ||izinngacakmas.pages.dev^
 ||jateng.jpnn.com^
+||jdih.sampangkab.go.id^
 ||jektvnews.disway.id^
 ||jendralmaya.pages.dev^
 ||jflspk.com^
+||jill2016.com^
 ||joynailsbarrowlett.com^
 ||kamunanya.net^
 ||kaptenmaya.pages.dev^
+||kayabola6.pages.dev^
 ||kezkaprinting.com^
 ||kliklegal.com^
 ||koma.id^
 ||kominfo.go.id^
+||koranbatam.com^
 ||kucingbola.wordpress.com^
+||kumarrobotics.org^
 ||labula-dining.com^
 ||laloika.desa.id^
 ||lartsana.com^
 ||lartsana.pages.dev^
+||lashdoll.ca^
 ||leban.desa.id^
 ||letrachuecapress.com^
 ||library.iahn-gdepudja.ac.id^
@@ -121,8 +134,10 @@
 ||lms.sibestari.com^
 ||loket.com^
 ||lotus33amp-s.pro^
+||lucie-gomez.fr^
 ||m.panditfootball.com^
 ||madiun.disnakertrans.jatimprov.go.id^
+||maxbet855com.pages.dev^
 ||maxbet855soundersfc.pages.dev^
 ||maytechcr.com^
 ||media.diblast.com^
@@ -139,6 +154,7 @@
 ||naumc.org^
 ||neliti.com^
 ||new.pa-maumere.go.id^
+||newsroom.id^
 ||nft.borneofc.id^
 ||nobartvpro.com^
 ||novobrew.com^
@@ -147,6 +163,7 @@
 ||nusalogistics.com^
 ||nusantara-post.com^
 ||oceanrenewable.com^
+||office.scicell.org^
 ||onefootball.com^
 ||os.mbed.com^
 ||padelgoin.com^
@@ -157,6 +174,7 @@
 ||pendidikan.malangkab.go.id:8099^
 ||perpustakaan.pa-kotamadiun.go.id^
 ||perspektif.ppj.unp.ac.id^
+||perwiranusantara.com^
 ||petitesoulshop.com^
 ||pharmaciedesmazades.fr^
 ||pinjamdulu500.com^
@@ -173,17 +191,22 @@
 ||provenexpert.com^
 ||psb.alhasan.co.id^
 ||pssi.org^
+||ptwsdbola88.cc^
 ||publicrepo.geaviation.com^
 ||qiuqiujurnal.wordpress.com^
 ||rbtv.disway.id^
+||recigreen.com.br^
 ||redcircle.com^
 ||rejosari-kangkung.desa.id^
 ||remotehub.com^
 ||repository.uksw.edu^
 ||repository.unair.ac.id^
 ||repository.unpra.ac.id^
+||revistas.ufpi.br^
 ||rondiskey.ca^
 ||rumah-jurnal.com^
+||rumahbiru.id^
+||rumahbolahdp.org^
 ||s3-sa-east-1.amazonaws.com^
 ||saiwalks.com^
 ||sararamedia.net^
@@ -194,6 +217,7 @@
 ||serenesophro.fr^
 ||sharinori.com^
 ||shutterbug.com^
+||siakad.nmcgroup.co.id^
 ||siaku.akperkesdam6tpr.ac.id^
 ||sidesa.dpmd.sukabumikab.go.id^
 ||simantaprsud.padangpanjang.go.id^
@@ -205,6 +229,7 @@
 ||smkpasundanmalangbong.com^
 ||soccer.indozone.id^
 ||sorongselatankab.ina-sdi.or.id^
+||specs.id^
 ||spmi.stttekstil.ac.id^
 ||staging.arbusa.com^
 ||superball.bolasport.com^
@@ -222,9 +247,11 @@
 ||uni.xyz^
 ||unicone.id^
 ||universe.com^
+||utprw2.com^
 ||view.publitas.com^
 ||wartatransparansi.com^
 ||wisechurch.com^
+||x500id-judi-bola-1.pages.dev^
 ||xolabit.co.id^
 ||ydsf.org^
 ||yukmainsbobet.pages.dev^

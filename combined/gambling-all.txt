@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:19:16
+! Last Updated: 2024-11-16 01:24:38
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5671
+! Number of domains: 5698
 !
 
 ! Category: SLOT
@@ -5685,4 +5685,31 @@
 ||citygardensflowershop.com^
 ||view.publitas.com^
 ||petitesoulshop.com^
+||revistas.ufpi.br^
+||jill2016.com^
+||kumarrobotics.org^
+||koranbatam.com^
+||afifecafe.com^
+||recigreen.com.br^
+||specs.id^
+||newsroom.id^
+||lashdoll.ca^
+||apaituamp.com^
+||lucie-gomez.fr^
+||kayabola6.pages.dev^
+||x500id-judi-bola-1.pages.dev^
+||rumahbiru.id^
+||focus-cinema.com^
+||siakad.nmcgroup.co.id^
+||perwiranusantara.com^
+||cac.bme.bridgestone.eu^
+||bppsdm.kkp.go.id^
+||ptwsdbola88.cc^
+||maxbet855com.pages.dev^
+||citydeliva.com^
+||utprw2.com^
+||jdih.sampangkab.go.id^
+||itd.imss.gob.mx^
+||rumahbolahdp.org^
+||office.scicell.org^
 
