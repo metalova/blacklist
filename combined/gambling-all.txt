@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:54:45
+! Last Updated: 2024-11-16 01:59:31
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5935
+! Number of domains: 5985
 !
 
 ! Category: SLOT
@@ -5492,6 +5492,56 @@
 ||w27.angkapaito.net^
 ||oswegobeatsandeats.com^
 ||putusan3.mahkamahagung.go.id^
+||districtattorney10.com^
+||tribratanews-reslampungtengah.lampung.polri.go.id^
+||dfe.cucea.udg.mx^
+||marine-biodiversity.org^
+||eaconperu.net^
+||soloasi.mx^
+||rubid.pages.dev^
+||kaila.id^
+||theknot.com^
+||protectnepa.org^
+||eroselevators.com^
+||calibrite.com^
+||desasulangai.id^
+||leeon.id^
+||inm.org.bd^
+||parahybamall.com.br^
+||claudiaeberger.com^
+||denv.gouv.sn^
+||massarosestate.com.au^
+||asgardia.joomlatema.net^
+||cirdap.org^
+||cemgh.org^
+||drtyctacna.gob.pe^
+||manoirdelesperance.fr^
+||lartdetretousensemble.org^
+||arraialresort.com.br^
+||paintedbrain.org^
+||erbilfair.com^
+||bertz-fischer.de^
+||winterprideuk.com^
+||akademi-tr.agu.edu.tr^
+||lab.lumut.id^
+||fileacademy.id^
+||agroteknologi.unpal.ac.id^
+||skpi.univrab.ac.id^
+||srikaton.id^
+||excellentones.com^
+||jawaharlalcolleges.com^
+||writerslife.org^
+||megaarvia.com^
+||takaha-japan.com^
+||magisteragribisnisuinjkt.id^
+||stmikumelmandiri.ac.id^
+||rad-online.org.ar^
+||banksuryakencana.com^
+||aweinclusive.com^
+||dma-arch.com^
+||aitcoconferences.org^
+||thepearltaunton.com^
+||prospectmotorgroup.co.id^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^
