@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 06:10:52
+! Last Updated: 2024-11-16 06:44:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4815
+! Number of unique domains: 4816
 !
 
 ||103.115.28.6^
@@ -4142,6 +4142,7 @@
 ||sumsel.akurat.co^
 ||sumut.antaranews.com^
 ||sumut.suara.com^
+||sumut24.co^
 ||sumutpost.id^
 ||sunat123.com^
 ||sunenergy.id^

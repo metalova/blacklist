@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 06:10:52",
+  "updated": "2024-11-16 06:44:57",
   "categories": {
     "slot": {
-      "count": 4815,
+      "count": 4816,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28892,6 +28892,12 @@
           "domain": "fiftotoonline.com",
           "raw_url": "https://fiftotoonline.com/?content=sabung",
           "found_time": "2024-11-15 23:09:49",
+          "status": "active"
+        },
+        {
+          "domain": "sumut24.co",
+          "raw_url": "https://www.sumut24.co/hukum-kriminal/263569/bareskrim-kembali-blokir-aset-rp-368-miliar-terkait-judol-jaringan-internasional/",
+          "found_time": "2024-11-15 23:10:52",
           "status": "active"
         }
       ]
