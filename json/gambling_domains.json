@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 05:24:44",
+  "updated": "2024-11-16 05:29:53",
   "categories": {
     "slot": {
       "count": 4746,
@@ -34355,7 +34355,7 @@
       ]
     },
     "poker": {
-      "count": 100,
+      "count": 111,
       "domains": [
         {
           "domain": "goodshepherdshawnee.org",
@@ -34955,6 +34955,72 @@
           "domain": "bestheadlightbulbs.net",
           "raw_url": "https://bestheadlightbulbs.net/",
           "found_time": "2024-11-06 15:48:40",
+          "status": "active"
+        },
+        {
+          "domain": "endtcm21.com",
+          "raw_url": "https://www.endtcm21.com/",
+          "found_time": "2024-11-15 22:27:48",
+          "status": "active"
+        },
+        {
+          "domain": "coldplaysantaclara.com",
+          "raw_url": "https://www.coldplaysantaclara.com/amp-MP/",
+          "found_time": "2024-11-15 22:27:49",
+          "status": "active"
+        },
+        {
+          "domain": "cuanluber.xyz",
+          "raw_url": "https://cuanluber.xyz/amp/",
+          "found_time": "2024-11-15 22:27:49",
+          "status": "active"
+        },
+        {
+          "domain": "growingresilience.org",
+          "raw_url": "https://growingresilience.org/",
+          "found_time": "2024-11-15 22:27:49",
+          "status": "active"
+        },
+        {
+          "domain": "massachusettshearing.com",
+          "raw_url": "https://massachusettshearing.com/",
+          "found_time": "2024-11-15 22:27:49",
+          "status": "active"
+        },
+        {
+          "domain": "asiklimciu.pages.dev",
+          "raw_url": "https://asiklimciu.pages.dev/asiklimciu",
+          "found_time": "2024-11-15 22:27:50",
+          "status": "active"
+        },
+        {
+          "domain": "ampmsoundersfc.pages.dev",
+          "raw_url": "https://ampmsoundersfc.pages.dev/pkv/",
+          "found_time": "2024-11-15 22:27:50",
+          "status": "active"
+        },
+        {
+          "domain": "pkrbos.com",
+          "raw_url": "https://pkrbos.com/amp/",
+          "found_time": "2024-11-15 22:27:50",
+          "status": "active"
+        },
+        {
+          "domain": "rcdtdogtraining.com",
+          "raw_url": "https://rcdtdogtraining.com/amp/",
+          "found_time": "2024-11-15 22:27:51",
+          "status": "active"
+        },
+        {
+          "domain": "magellanic-cloud.com",
+          "raw_url": "https://magellanic-cloud.com/bandar-judi-bola-deposit-murah",
+          "found_time": "2024-11-15 22:27:51",
+          "status": "active"
+        },
+        {
+          "domain": "winningboxingequipment.com",
+          "raw_url": "https://www.winningboxingequipment.com/amp/",
+          "found_time": "2024-11-15 22:29:52",
           "status": "active"
         }
       ]
@@ -38144,7 +38210,7 @@
       ]
     },
     "others": {
-      "count": 182,
+      "count": 184,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -39236,6 +39302,18 @@
           "domain": "timesindonesia.co.id",
           "raw_url": "https://timesindonesia.co.id/peristiwa-daerah/297631/awas-jeratan-judi-online-deposit-murah-dan-bisa-bayar-pakai-aplikasi",
           "found_time": "2024-11-15 22:24:43",
+          "status": "active"
+        },
+        {
+          "domain": "klikbantuan.com",
+          "raw_url": "https://www.klikbantuan.com/nasional/amp/103913955802/bri-blokir-lebih-dari-3-ribu-rekening-aksi-nyata-lawan-judi-online",
+          "found_time": "2024-11-15 22:24:43",
+          "status": "active"
+        },
+        {
+          "domain": "setwan.jogjakota.go.id",
+          "raw_url": "https://setwan.jogjakota.go.id/detail/index/35217",
+          "found_time": "2024-11-15 22:25:44",
           "status": "active"
         }
       ]

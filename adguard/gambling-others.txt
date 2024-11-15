@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-16 05:24:44
+! Last Updated: 2024-11-16 05:29:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 182
+! Number of unique domains: 184
 !
 
 ||abatanews.com^
@@ -88,6 +88,7 @@
 ||katakini.com^
 ||kepaniteraan.mahkamahagung.go.id^
 ||keuangan.kontan.co.id^
+||klikbantuan.com^
 ||komdigi.go.id^
 ||kpdsabah.com^
 ||krusial.com^
@@ -158,6 +159,7 @@
 ||selingkarwilis.com^
 ||selular.id^
 ||setneg.go.id^
+||setwan.jogjakota.go.id^
 ||sfcv.org^
 ||suaradewata.com^
 ||sukabumiupdate.com^
