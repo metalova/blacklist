@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 19:59:07
+! Last Updated: 2024-11-15 20:01:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4477
+! Number of unique domains: 4481
 !
 
 ||103.115.28.6^
@@ -977,6 +977,7 @@
 ||dandemutande.africa^
 ||danieledawes.com^
 ||dapurumami.com^
+||darcysrestaurantandspirits.com^
 ||darepontianak.com^
 ||darmasari.id^
 ||darrenturner.net^
@@ -2993,6 +2994,7 @@
 ||pembiayaan.id^
 ||pemdes.muktimakmur.desa.id^
 ||penadaran.id^
+||pendampingdesa.com^
 ||pendleslotracing.co.uk^
 ||penerimaan.stpn.ac.id^
 ||penjalin.desa.id^
@@ -3407,6 +3409,7 @@
 ||royallepage.ca^
 ||royalpaintsnepal.com^
 ||rpg.co.id^
+||rrdigital.id^
 ||rrhetf.com^
 ||rri.co.id^
 ||rrimataram.com^
@@ -3998,6 +4001,7 @@
 ||thecitymanado.com^
 ||thecoddlingmovie.substack.com^
 ||theconversation.com^
+||thecrabbarrack.com^
 ||thecurvyspoon.com^
 ||thed.com^
 ||thedigitalabolitionist.com^

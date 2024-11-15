@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 19:59:07",
+  "updated": "2024-11-15 20:01:12",
   "categories": {
     "slot": {
-      "count": 4477,
+      "count": 4481,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26864,6 +26864,30 @@
           "domain": "chodska.cz",
           "raw_url": "https://www.chodska.cz/",
           "found_time": "2024-11-15 12:57:05",
+          "status": "active"
+        },
+        {
+          "domain": "pendampingdesa.com",
+          "raw_url": "https://pendampingdesa.com/",
+          "found_time": "2024-11-15 12:59:07",
+          "status": "active"
+        },
+        {
+          "domain": "darcysrestaurantandspirits.com",
+          "raw_url": "https://darcysrestaurantandspirits.com/darcysrestaurantandspirits.com/",
+          "found_time": "2024-11-15 13:00:11",
+          "status": "active"
+        },
+        {
+          "domain": "thecrabbarrack.com",
+          "raw_url": "https://www.thecrabbarrack.com/",
+          "found_time": "2024-11-15 13:00:11",
+          "status": "active"
+        },
+        {
+          "domain": "rrdigital.id",
+          "raw_url": "https://rrdigital.id/",
+          "found_time": "2024-11-15 13:00:11",
           "status": "active"
         }
       ]
