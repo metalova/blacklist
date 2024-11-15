@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 20:09:23
+! Last Updated: 2024-11-15 20:12:27
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4489
+! Number of unique domains: 4492
 !
 
 ||103.115.28.6^
@@ -1647,6 +1647,7 @@
 ||hoki77amp.com^
 ||hokiwonjackpot.com^
 ||hollywoodburbankairport.com^
+||holybet777amp.pages.dev^
 ||home.smartsch.id^
 ||homecare4u.pt^
 ||homemaidbakery.com^
@@ -1741,6 +1742,7 @@
 ||idtfull.com^
 ||idtperform.com^
 ||idxchannel.com^
+||ifameb.org^
 ||igamingaffiliateprograms.com^
 ||igamingfuture.com^
 ||igarss2016.org^
@@ -3017,6 +3019,7 @@
 ||petainvestasi.samarindakota.go.id^
 ||petaokupasi.bappenas.go.id^
 ||peterlonard.com^
+||peterpaige.net^
 ||peterpause.com^
 ||petritegi.com^
 ||pewarta.org^

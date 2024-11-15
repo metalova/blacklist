@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 20:09:23",
+  "updated": "2024-11-15 20:12:27",
   "categories": {
     "slot": {
-      "count": 4489,
+      "count": 4492,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26936,6 +26936,24 @@
           "domain": "pisangbet-cvi.pages.dev",
           "raw_url": "https://pisangbet-cvi.pages.dev/",
           "found_time": "2024-11-15 13:08:22",
+          "status": "active"
+        },
+        {
+          "domain": "holybet777amp.pages.dev",
+          "raw_url": "https://holybet777amp.pages.dev/",
+          "found_time": "2024-11-15 13:09:23",
+          "status": "active"
+        },
+        {
+          "domain": "ifameb.org",
+          "raw_url": "https://ifameb.org/",
+          "found_time": "2024-11-15 13:12:27",
+          "status": "active"
+        },
+        {
+          "domain": "peterpaige.net",
+          "raw_url": "https://peterpaige.net/",
+          "found_time": "2024-11-15 13:12:27",
           "status": "active"
         }
       ]
