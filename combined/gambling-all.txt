@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 04:44:02
+! Last Updated: 2024-11-16 04:49:35
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6485
+! Number of domains: 6525
 !
 
 ! Category: SLOT
@@ -6503,4 +6503,44 @@
 ||mediabanten.com^
 ||sfcv.org^
 ||pulsaaxis.net^
+||id.glosbe.com^
+||zadna.org.za^
+||lppl.purwakartakab.go.id^
+||krusial.com^
+||banjarkota.go.id^
+||curupekspress.bacakoran.co^
+||acehprov.go.id^
+||portal.akademik.trinita.ac.id^
+||melihatindonesia.id^
+||makassarinsight.com^
+||jernih.co^
+||melintas.id^
+||victorynews.id^
+||gorajuara.com^
+||wartaekonomi.co.id^
+||prabumulihpos.bacakoran.co^
+||hulondalo.id^
+||kudureti.com^
+||prabunews.com^
+||nusantara62.com^
+||waspadaaceh.com^
+||abatanews.com^
+||babad.id^
+||purwokertoinsight.com^
+||thebestsryxxx.com^
+||pojokbaca.id^
+||runningguild.com^
+||bspjimedan.kemenperin.go.id^
+||ruanganinfo.com^
+||selingkarwilis.com^
+||tvrisumbar.co.id^
+||radarindramayu.disway.id^
+||kudus.ayoindonesia.com^
+||momsmoney.kontan.co.id^
+||lampost.co^
+||jogjapolitan.harianjogja.com^
+||indonews.id^
+||kabarfajar.com^
+||sukabumiupdate.com^
+||kalselpos.com^
 
