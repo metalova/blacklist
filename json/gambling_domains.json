@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 21:44:37",
+  "updated": "2024-11-15 21:46:39",
   "categories": {
     "slot": {
-      "count": 4645,
+      "count": 4646,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -27872,6 +27872,12 @@
           "domain": "gundar-slot.web.app",
           "raw_url": "https://gundar-slot.web.app/?gundar=RAJA365",
           "found_time": "2024-11-15 14:44:36",
+          "status": "active"
+        },
+        {
+          "domain": "akm.smam4gempol.sch.id",
+          "raw_url": "https://akm.smam4gempol.sch.id/files/?menari=raja365",
+          "found_time": "2024-11-15 14:44:37",
           "status": "active"
         }
       ]

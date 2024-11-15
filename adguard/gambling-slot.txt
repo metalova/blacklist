@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:44:37
+! Last Updated: 2024-11-15 21:46:39
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4645
+! Number of unique domains: 4646
 !
 
 ||103.115.28.6^
@@ -194,6 +194,7 @@
 ||ajsonthegreen.com^
 ||akakce.com^
 ||akdp.abb.co.id^
+||akm.smam4gempol.sch.id^
 ||akses.tubaba.go.id^
 ||aksesjambi.com^
 ||akumusangwin.us^
