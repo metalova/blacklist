@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:44:37
+! Last Updated: 2024-11-15 18:49:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4420
+! Number of unique domains: 4441
 !
 
 ||103.115.28.6^
@@ -234,6 +234,7 @@
 ||amp-rtp.b-cdn.net^
 ||amp-spacemanslot.com^
 ||amp.kontan.co.id^
+||ampfiftoto.com^
 ||ampsakti.ivermectinytab.com^
 ||ampt4d.pages.dev^
 ||ampv99.pages.dev^
@@ -455,6 +456,7 @@
 ||berita.99.co^
 ||beritagambar.com^
 ||beritamorut.com^
+||beritanasional.com^
 ||beritasatu.com^
 ||bernsteinsfashions.com^
 ||besadu.belitung.go.id^
@@ -1337,6 +1339,7 @@
 ||figmmg.unmsm.edu.pe^
 ||financialfreedomnow.org^
 ||find-and-update.company-information.service.gov.uk^
+||findelectricianonline.com^
 ||findinglostangeles.com^
 ||fineartamerica.com^
 ||finkomodo.com^
@@ -1379,8 +1382,10 @@
 ||forum.centos-webpanel.com^
 ||forum.eset.com^
 ||forum.samdroid.net^
+||forum.websitebaker.org^
 ||forums.bohemia.net^
 ||forums.ftbwiki.org^
+||forums.opera.com^
 ||foundationeast.org^
 ||foundrywellington.com^
 ||foxbusiness.com^
@@ -1413,6 +1418,7 @@
 ||galleryshab.com^
 ||gambling.com^
 ||gamblinginsider.com^
+||gamenos4d.com^
 ||gamepix.com^
 ||gamepro-cbr4d.org^
 ||gamereactor.no^
@@ -1530,6 +1536,7 @@
 ||grrrl.net^
 ||gsis-accra.org^
 ||gta-homes.com^
+||gtailored.com^
 ||gteamalaysia.com^
 ||guadalminagolf.com^
 ||guardian.ng^
@@ -1662,6 +1669,7 @@
 ||humaneforpets.com^
 ||humas.smkn1-bangil.sch.id^
 ||humoscience.com^
+||humoscience.pages.dev^
 ||huntington.fr^
 ||hvac-trainingschools.com^
 ||i.cemacyc.org^
@@ -1987,6 +1995,7 @@
 ||justiceformurderedchildren.org^
 ||justinfordfuneralhome.com^
 ||justpaste.it^
+||kabar24.bisnis.com^
 ||kabarindoraya.com^
 ||kabarjawatimur.com^
 ||kabayan-pendukungmaxwin.pages.dev^
@@ -2167,6 +2176,7 @@
 ||lancesilverfalls.com^
 ||landandseaindustries.com^
 ||landsearch.com^
+||langitqiu.pages.dev^
 ||lannacuisine.com^
 ||lapakgaming.com^
 ||lapaspematangsiantar.com^
@@ -2518,6 +2528,7 @@
 ||metro7.co.id^
 ||metrologi.sijunjung.go.id^
 ||metropolis.id^
+||metrorakyat.com^
 ||mewah89gucci.com^
 ||mexikingsgrill.com^
 ||mexiqnow.com^
@@ -2656,6 +2667,7 @@
 ||ms-kualasimpang.go.id^
 ||msn.com^
 ||msp.upr.ac.id^
+||mstokekwin.pages.dev^
 ||mtecenergia.com^
 ||mtsalmukarromah.sch.id^
 ||mtsn7kediri.sch.id^
@@ -2803,6 +2815,7 @@
 ||omahmikir.id^
 ||ombak123-link10.com^
 ||ombakparadise.com^
+||omo777-745f1.web.app^
 ||ompethospital.com^
 ||onebag.com^
 ||onekeymls.com^
@@ -3047,6 +3060,7 @@
 ||pmb.unaki.ac.id^
 ||pmbet.co.tz^
 ||pmexpressng.com^
+||pmjnews.com^
 ||pn-bajawa.go.id^
 ||pn-bangko.go.id^
 ||pn-karawang.go.id^
@@ -3146,6 +3160,7 @@
 ||proxyium.com^
 ||proyecto-orunmila.org^
 ||psb.kaumanpp.com^
+||psicoterapiaparalgbts.com.br^
 ||psp.pertanian.go.id^
 ||psuicelionshockey.com^
 ||pta-palembang.go.id^
@@ -3157,6 +3172,7 @@
 ||ptir.org^
 ||puasan.rsupleimena.co.id^
 ||publica-news.com^
+||pulsakota.dev^
 ||pulse.ng^
 ||pulsesports.ng^
 ||punjabi-sweet-house-restaurant.com^
@@ -3864,6 +3880,7 @@
 ||tamigrass.com^
 ||tampapooldecks.com^
 ||tanahdatar.go.id^
+||tangselpos.id^
 ||tangselxpress.com^
 ||tanjungpura.sidesadigital.com^
 ||taponmainst.com^
@@ -4090,6 +4107,7 @@
 ||transfermarkt.co.id^
 ||transfermarkt.com^
 ||transformatif.bbpmpjateng.id^
+||transparansi.co.id^
 ||transpublika.co.id^
 ||travelgossip.co.uk^
 ||travelinginmykitchen.com^
@@ -4179,6 +4197,7 @@
 ||upaaa.net^
 ||upb.iainkendari.ac.id^
 ||upcycleafrica.org^
+||uppmaccinibaji.org^
 ||urbanoctober.unhabitat.org^
 ||urigroup.vn^
 ||urownstory-iqbal.org^
@@ -4245,6 +4264,7 @@
 ||vivamanaus.com^
 ||vladimirvaclavek.com^
 ||vmrabogados.com^
+||voi.id^
 ||vokasi.uki.ac.id^
 ||voyageencrete.com^
 ||vpct.utad.pt^
@@ -4275,6 +4295,7 @@
 ||wazdan.com^
 ||wbac.com^
 ||wbnc.in^
+||wealthcreatorsuniverse.pages.dev^
 ||web.arcasia.org^
 ||web.pohotels.co.id^
 ||web101.co.id^
