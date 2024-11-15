@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 10:52:44
+! Last Updated: 2024-11-15 18:14:37
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4373
+! Number of unique domains: 4380
 !
 
 ||103.115.28.6^
@@ -84,6 +84,7 @@
 ||55kbet.jp.net^
 ||55kbet.org^
 ||55kbetvip.com^
+||55kfbet.net^
 ||56diner.com^
 ||5sdentalcare.com^
 ||614now.com^
@@ -108,6 +109,7 @@
 ||about.me^
 ||aboutdoggies.net^
 ||absensi-wfh.iaincurup.ac.id^
+||absensionline.triasmitra.com^
 ||absoluteflooringwyo.com^
 ||academia.edu^
 ||academic.stfi.ac.id^
@@ -227,6 +229,7 @@
 ||amp-jackpotgacor.pages.dev^
 ||amp-rtp.b-cdn.net^
 ||amp-spacemanslot.com^
+||amp.kontan.co.id^
 ||ampsakti.ivermectinytab.com^
 ||ampt4d.pages.dev^
 ||ampv99.pages.dev^
@@ -1456,6 +1459,7 @@
 ||godtube.com^
 ||gogetterfoods.com^
 ||gojackpot.com.ph^
+||gokhanmankara.com^
 ||goldbergsfamousbagelsnj.com^
 ||goldenagevintagehomedecor.com^
 ||goldenbarcelona.zthotels.com^
@@ -2246,6 +2250,7 @@
 ||lonepinecafe.com^
 ||lonestarplc.com^
 ||longandfoster.com^
+||lonsuit.unismuhluwuk.ac.id^
 ||lookoutnews.it^
 ||lopinyol.com^
 ||loretoasansol.in^
@@ -3450,6 +3455,7 @@
 ||semiaccurate.com^
 ||senegrill.com^
 ||senggol138a.click^
+||seopisanggrg.pages.dev^
 ||seputarcibubur.pikiran-rakyat.com^
 ||seputarperak.com^
 ||serafood.id^
@@ -3557,6 +3563,7 @@
 ||sitaktik.fisip.unsulbar.ac.id^
 ||sitarida.tapselkab.go.id^
 ||site-web-florence-wemaere.fr^
+||situbondokab-1nspektorat.vercel.app^
 ||situs777.co^
 ||situs777.com^
 ||situs88.co^
