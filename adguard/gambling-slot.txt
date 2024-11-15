@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 19:55:00
+! Last Updated: 2024-11-15 19:59:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4473
+! Number of unique domains: 4477
 !
 
 ||103.115.28.6^
@@ -181,6 +181,7 @@
 ||airdays.co.kr^
 ||airmet.pt^
 ||airpurifierguide.org^
+||ajef.net^
 ||ajemjournal.com^
 ||ajotembung.pages.dev^
 ||ajsonthegreen.com^
@@ -787,6 +788,7 @@
 ||chiufairestaurant.com^
 ||chocolateonamission.com^
 ||chocomatcha.pro^
+||chodska.cz^
 ||chopperssalon.com^
 ||chopstixasianbistrocasper.com^
 ||chr.by^
@@ -1589,6 +1591,7 @@
 ||harrisforwisconsin.com^
 ||harvardintechseattle.com^
 ||harvestqc.com^
+||haute-edition.com^
 ||hawaiwaterpark.com^
 ||hawkinshouseevents.com^
 ||hawndev.org^
@@ -3105,6 +3108,7 @@
 ||poptens.com^
 ||portal-flexp-test.orsted.com^
 ||portal.stienusantara.ac.id^
+||portal.ubk.ac.id^
 ||portal.ubs-ppni.ac.id^
 ||portaly.cc^
 ||portloganfishpond.com^
