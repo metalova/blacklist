@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 02:49:44
+! Last Updated: 2024-11-16 02:54:04
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 567
+! Number of unique domains: 590
 !
 
 ||087ina.com^
@@ -9,12 +9,14 @@
 ||4sehat5sekarat.xyz^
 ||60by25.org^
 ||aaaplattestorage.com^
+||aaascreening.com^
 ||aarthuniversalschool.org^
 ||abdxcv.b-cdn.net^
 ||accesss.net^
 ||adamelements.com^
 ||adktla.com^
 ||admin.internity.smkn1cibinong.sch.id^
+||adventistunity2017.com^
 ||agadiragreement.org^
 ||agroteknologi.unpal.ac.id^
 ||airudsumbar.id^
@@ -55,6 +57,7 @@
 ||bbfurnitureshowroom.com^
 ||bdsindonesia.id^
 ||becakgalon.com^
+||benadamslaw.com^
 ||bengkuluakses.pro^
 ||berasanmakmur.desa.id^
 ||bertz-fischer.de^
@@ -68,6 +71,7 @@
 ||bkd.kalteng.go.id^
 ||blackfacts.com^
 ||bluestacks.com^
+||bmcjms.org^
 ||boucherienotredamechartrain.fr^
 ||breederiverqueen.com^
 ||brentschmidgallauction.com^
@@ -101,6 +105,7 @@
 ||co.tehama.ca.us^
 ||coastalgeorgiacouncil.org^
 ||coberconstrucciones.com.pe^
+||cocinerosmxporelmundo.com^
 ||coffee-dojo.com^
 ||coliseumrenovation.com^
 ||conference.eka-prasetya.ac.id^
@@ -118,6 +123,7 @@
 ||dccourts.gov^
 ||ddpu.edu.ua^
 ||deborafoundation.org^
+||denneyforidaho.com^
 ||dentistoftijuana.com^
 ||denv.gouv.sn^
 ||desakwagean.com^
@@ -132,6 +138,7 @@
 ||diskominfo.dompukab.go.id^
 ||districtattorney10.com^
 ||dma-arch.com^
+||dorpsbelang.eu^
 ||dpmptsp.tanatorajakab.go.id^
 ||dprint.id^
 ||drtusharbhatt.com^
@@ -167,6 +174,7 @@
 ||evettamadeit.com^
 ||evobiolab.biol.amu.edu.pl^
 ||excellentones.com^
+||exoticosysalvajes.com^
 ||eyeforeyewestern.com^
 ||fadaslsalerno.talete.net^
 ||fajarcirebon.com^
@@ -228,6 +236,7 @@
 ||inlislite.kamparkab.go.id^
 ||inm.org.bd^
 ||inside-global.com^
+||institutoparanaodontologia.com.br^
 ||insurance.tsue.uz^
 ||insyt.esoko.com^
 ||interimhospitality.com^
@@ -250,11 +259,13 @@
 ||just5moreminutes.com^
 ||justiceforbruce.com^
 ||kabar.sanggau.go.id^
+||kabarsulsel-indonesia.com^
 ||kachadoorian.com^
 ||kaila.id^
 ||katyaassouadtraboulsi.com^
 ||kawasakisurabaya.com^
 ||kelarikairmali.pages.dev^
+||kelasilmuproyek.co.id^
 ||kelumac.com^
 ||kentuckyopry.com^
 ||kepritoto.koni.or.id^
@@ -265,6 +276,7 @@
 ||knitandcrochetnow.com^
 ||kompas86.id^
 ||kopokopo.co.ke^
+||kozyblanket.com^
 ||kronosalud.es^
 ||lab.lumut.id^
 ||labaraquettemaisondamis.com^
@@ -327,13 +339,17 @@
 ||morrisfarm.org^
 ||mountainwildlifemuseum.com^
 ||mrlucky.pages.dev^
+||mszana.pl^
+||mtsn6hst.sch.id^
 ||mudbonegrown.com^
 ||munihualqui.cl^
 ||munimaynas.gob.pe^
 ||muralsoflascruces.com^
 ||myfortworthpodiatrist.com^
+||mylandmunchkins.io^
 ||nasarri.go.ug^
 ||nationalityforall.org^
+||navaparkbsdcity.com^
 ||neighborhoodwraps.com^
 ||netizen303amp.pages.dev^
 ||neurona-ba.com^
@@ -347,6 +363,7 @@
 ||nqiegypt.org^
 ||nwkansascatholics.com^
 ||oceannord.org^
+||oganilir.disway.id^
 ||olimpohotel.com^
 ||onegift.io^
 ||oraldrive.com^
@@ -420,10 +437,12 @@
 ||restaurant-labdh-lehavre.com^
 ||retrorewinddanceparty.com^
 ||reue.org^
+||rfconnect.com^
 ||rgonside.com^
 ||ricetteamericane.com^
 ||rineranimalhospital.com^
 ||ritchiesmarketplace.net^
+||ritelo.id^
 ||riungburger.id^
 ||rmoljawatengah.id^
 ||rockinghamcountymiddle.org^
@@ -486,12 +505,14 @@
 ||suerth.com^
 ||sugarshop.hu^
 ||sulphurassociation.com^
+||sultani.id^
 ||sumateraekspres.bacakoran.co^
 ||sundazedla.com^
 ||sundollarenergy.com^
 ||survei-ikm-polri.id^
 ||takaha-japan.com^
 ||tasteofshanghai.com.au^
+||tecjobs.net^
 ||tedxavenuedespepinieres.com^
 ||tenisplaya.com^
 ||theenamelproject.com^
@@ -538,6 +559,7 @@
 ||uin-alauddin.ac.id^
 ||ukbipa.id^
 ||umi.ac.ug^
+||universaleco.id^
 ||unizikentrepjournal.com^
 ||uptownavenue7.com^
 ||valormmanyc.com^
@@ -555,6 +577,7 @@
 ||wasabiplano.com^
 ||webportal.bangkok.go.th^
 ||wibu69ol.vercel.app^
+||wileyedsolutions.com^
 ||winterprideuk.com^
 ||wiswriters.org^
 ||witmena.org^
