@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 04:09:59
+! Last Updated: 2024-11-16 04:14:14
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6321
+! Number of domains: 6341
 !
 
 ! Category: SLOT
@@ -6337,4 +6337,24 @@
 ||cerdasbelanja.grid.id^
 ||maxsi.id^
 ||speedcash.co.id^
+||nwmontessori.net^
+||ampsatria888.pages.dev^
+||ampnuke.pages.dev^
+||iniampolympus88.com^
+||googleapp.help^
+||sentracomputer.com^
+||j8s.amphtml.online^
+||dkiplay88.pages.dev^
+||mybrandnewlogo.com^
+||himpol.com^
+||amp-twitspin.pages.dev^
+||seru.indsaiko.com^
+||serverthailandmain.pages.dev^
+||jurnal.fti.umi.ac.id^
+||acolherio.rio.rj.gov.br^
+||zeonslot.amphtml.org^
+||zipzapslot.amphtml.org^
+||wokaslot.amphtml.org^
+||seru88light.com^
+||akaislot.amphtml.org^
 
