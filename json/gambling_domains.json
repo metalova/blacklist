@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-15 23:09:03",
+  "updated": "2024-11-15 23:10:16",
   "categories": {
     "slot": {
       "count": 4746,
@@ -28483,7 +28483,7 @@
       ]
     },
     "casino": {
-      "count": 172,
+      "count": 186,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -29515,6 +29515,90 @@
           "domain": "rajawali.ac.id",
           "raw_url": "https://rajawali.ac.id/?view=EUROPEAN%20ROULETTE%20ONLINE",
           "found_time": "2024-11-15 16:09:02",
+          "status": "active"
+        },
+        {
+          "domain": "solidsmack.com",
+          "raw_url": "https://www.solidsmack.com/id/beginners/the-beginners-guide-to-online-roulette/",
+          "found_time": "2024-11-15 16:09:03",
+          "status": "active"
+        },
+        {
+          "domain": "cbsnews.com",
+          "raw_url": "https://www.cbsnews.com/pittsburgh/news/rivers-casino-pittsburgh-table-games-dealer-fraudulent-blackjack-charges/",
+          "found_time": "2024-11-15 16:10:13",
+          "status": "active"
+        },
+        {
+          "domain": "wtae.com",
+          "raw_url": "https://www.wtae.com/article/table-games-dealer-at-rivers-casino-accused-of-dealing-nearly-200-fraudulent-hands-of-blackjack/62867609",
+          "found_time": "2024-11-15 16:10:13",
+          "status": "active"
+        },
+        {
+          "domain": "oag.ca.gov",
+          "raw_url": "https://oag.ca.gov/sites/all/files/agweb/pdfs/gambling/crystal-no-bust-21st-cent-blackjack-perfect-pairs-rules.pdf",
+          "found_time": "2024-11-15 16:10:13",
+          "status": "active"
+        },
+        {
+          "domain": "games.washingtonpost.com",
+          "raw_url": "https://games.washingtonpost.com/games/blackjack",
+          "found_time": "2024-11-15 16:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "grandcasino-bern.ch",
+          "raw_url": "https://www.grandcasino-bern.ch/en/game/blackjack",
+          "found_time": "2024-11-15 16:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "bicyclecards.com",
+          "raw_url": "https://bicyclecards.com/how-to-play/blackjack",
+          "found_time": "2024-11-15 16:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "paysbig.com",
+          "raw_url": "https://www.paysbig.com/casino/how-to-play/blackjack",
+          "found_time": "2024-11-15 16:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "thehypemagazine.com",
+          "raw_url": "https://www.thehypemagazine.com/2024/11/online-roulette-how-to-find-the-best-roulette-online-casinos/roulette-2/",
+          "found_time": "2024-11-15 16:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "peppermillreno.com",
+          "raw_url": "https://www.peppermillreno.com/gaming/table-games",
+          "found_time": "2024-11-15 16:10:15",
+          "status": "active"
+        },
+        {
+          "domain": "oaklawn.com",
+          "raw_url": "https://oaklawn.com/casino/table-games/blackjack/",
+          "found_time": "2024-11-15 16:10:15",
+          "status": "active"
+        },
+        {
+          "domain": "northstarcasinoresort.com",
+          "raw_url": "https://www.northstarcasinoresort.com/play/blackjack/",
+          "found_time": "2024-11-15 16:10:15",
+          "status": "active"
+        },
+        {
+          "domain": "virginvoyages.com",
+          "raw_url": "https://www.virginvoyages.com/casino",
+          "found_time": "2024-11-15 16:10:15",
+          "status": "active"
+        },
+        {
+          "domain": "turningstoneenterprises.com",
+          "raw_url": "https://www.turningstoneenterprises.com/careers/dealer-school",
+          "found_time": "2024-11-15 16:10:16",
           "status": "active"
         }
       ]

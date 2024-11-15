@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 23:09:03
+! Last Updated: 2024-11-15 23:10:16
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5287
+! Number of domains: 5301
 !
 
 ! Category: SLOT
@@ -4926,6 +4926,20 @@
 ||silvergames.com^
 ||ocs.upnvj.ac.id^
 ||rajawali.ac.id^
+||solidsmack.com^
+||cbsnews.com^
+||wtae.com^
+||oag.ca.gov^
+||games.washingtonpost.com^
+||grandcasino-bern.ch^
+||bicyclecards.com^
+||paysbig.com^
+||thehypemagazine.com^
+||peppermillreno.com^
+||oaklawn.com^
+||northstarcasinoresort.com^
+||virginvoyages.com^
+||turningstoneenterprises.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^

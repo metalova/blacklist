@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-15 23:09:03
+! Last Updated: 2024-11-15 23:10:16
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 172
+! Number of unique domains: 186
 !
 
 ||24liveblog.com^
@@ -24,6 +24,7 @@
 ||beijinggreenbeltmd.com^
 ||bendosari.desa.id^
 ||beritakriminalkepri.com^
+||bicyclecards.com^
 ||bizhare.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||bolavip.com^
@@ -33,6 +34,7 @@
 ||carolinadumpstersllc.com^
 ||caseyforcongressri.com^
 ||casino-terrestre.com^
+||cbsnews.com^
 ||cdcgaming.com^
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
@@ -60,10 +62,12 @@
 ||familydentalrockville.com^
 ||forbes.com^
 ||fpmipa.ikip-saraswati.ac.id^
+||games.washingtonpost.com^
 ||gdqpan.udn.vn^
 ||ggbmagazine.com^
 ||golaurelhighlands.com^
 ||goldensteersteakhouse.com^
+||grandcasino-bern.ch^
 ||grasz.id^
 ||greatcanadian.com^
 ||hardrock.bet^
@@ -106,7 +110,10 @@
 ||nelsonheller.com^
 ||newszechuan.com^
 ||nflgaziabad.fssai.gov.in^
+||northstarcasinoresort.com^
 ||notosb362.org^
+||oag.ca.gov^
+||oaklawn.com^
 ||ocs.upnvj.ac.id^
 ||ojs.stieprasetiyamandiri.ac.id^
 ||olinda.pe.gov.br^
@@ -114,7 +121,9 @@
 ||organisasi.koltimkab.com^
 ||pafinatuna.org^
 ||paoyouth.org^
+||paysbig.com^
 ||pelajarmu.id^
+||peppermillreno.com^
 ||phatphilsfireworks.com^
 ||philadelphia.livecasinohotel.com^
 ||playgon.com^
@@ -141,6 +150,7 @@
 ||slotgacorocean88.com^
 ||sociabuzz.com^
 ||sogoarts.com^
+||solidsmack.com^
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
 ||star.com.au^
@@ -155,6 +165,7 @@
 ||theexpendables2film.com^
 ||thefosterfarm.org^
 ||thegamer.com^
+||thehypemagazine.com^
 ||thrivemedicalaesthetics.ca^
 ||tib.co.id^
 ||tiki-talk.com^
@@ -166,13 +177,16 @@
 ||tripadvisor.co.id^
 ||tripadvisor.com.tr^
 ||ttelt.org^
+||turningstoneenterprises.com^
 ||tuyendungacbh.com^
 ||uhintl.com^
 ||vendor.diblast.com^
 ||verbenergybar.com^
+||virginvoyages.com^
 ||visithowardcounty.com^
 ||vistarresorts.com^
 ||viva.co.id^
 ||washington.org^
 ||wendiartit.com^
 ||wordwall.net^
+||wtae.com^
