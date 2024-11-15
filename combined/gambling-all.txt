@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 02:32:44
+! Last Updated: 2024-11-16 02:39:45
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6006
+! Number of domains: 6040
 !
 
 ! Category: SLOT
@@ -5563,6 +5563,40 @@
 ||dundeesurgsoc.com^
 ||bjmpmpc.org^
 ||dpmptsp.tanatorajakab.go.id^
+||btklppbatam.pages.dev^
+||suerth.com^
+||shreepadgroup.com^
+||impactmobiledental.com^
+||pmb.itbriau.ac.id^
+||totosgelgroup.wordpress.com^
+||bluestacks.com^
+||sentrillion.com^
+||mainefoodstrategy.org^
+||wscts2023.com^
+||cafebazaar.ir^
+||stage32.com^
+||bbfurnitureshowroom.com^
+||ganadosdelrey.com^
+||breederiverqueen.com^
+||jeffsbowlorama.com^
+||sulphurassociation.com^
+||hello-europe.org^
+||bisariset.id^
+||aivon.io^
+||angkaitc63.my.id^
+||youtu.be^
+||prediksijitu.id^
+||liquimarcas.co^
+||evobiolab.biol.amu.edu.pl^
+||hoppa.co.za^
+||just5moreminutes.com^
+||prediksiabujitu.com^
+||lhboghraschool.org^
+||maarifah.sch.id^
+||fimela.com^
+||toggle3d.com^
+||sharpeisavers.com^
+||thomasstorck.org^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^

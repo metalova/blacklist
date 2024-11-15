@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 02:32:44
+! Last Updated: 2024-11-16 02:39:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 475
+! Number of unique domains: 509
 !
 
 ||087ina.com^
@@ -19,6 +19,7 @@
 ||agroteknologi.unpal.ac.id^
 ||airudsumbar.id^
 ||aitcoconferences.org^
+||aivon.io^
 ||ajulianalvarez.com.ar^
 ||akademi-tr.agu.edu.tr^
 ||alberghierotermoli.edu.it^
@@ -27,6 +28,7 @@
 ||altegrity.com^
 ||amfacilities.com^
 ||amigo.vet^
+||angkaitc63.my.id^
 ||ap3kni.or.id^
 ||apgicl.com^
 ||arpegediamonds.com^
@@ -44,22 +46,28 @@
 ||barneschirocolorado.com^
 ||batman88pro.com^
 ||baznaslangkat.org^
+||bbfurnitureshowroom.com^
 ||becakgalon.com^
 ||bengkuluakses.pro^
 ||berasanmakmur.desa.id^
 ||bertz-fischer.de^
 ||bicentenariochile.cl^
 ||bigwaterbrewery.net^
+||bisariset.id^
 ||bisuteriaryr.com^
 ||bizshakalaka.com^
 ||bjmpmpc.org^
 ||bkbceramics.com^
 ||bkd.kalteng.go.id^
+||bluestacks.com^
 ||boucherienotredamechartrain.fr^
+||breederiverqueen.com^
 ||brentschmidgallauction.com^
 ||bridgeporthealthcarecenter.com^
+||btklppbatam.pages.dev^
 ||burlapandlacemetterga.com^
 ||cactustefl.com^
+||cafebazaar.ir^
 ||cajts.ablaikhan.kz^
 ||calibrite.com^
 ||camcomit.bg^
@@ -139,6 +147,7 @@
 ||esbiomech2022.org^
 ||escarpmentvillage.com^
 ||evettamadeit.com^
+||evobiolab.biol.amu.edu.pl^
 ||excellentones.com^
 ||eyeforeyewestern.com^
 ||fadaslsalerno.talete.net^
@@ -150,12 +159,14 @@
 ||fcai.cu.edu.eg^
 ||fileacademy.id^
 ||fimarspa.it^
+||fimela.com^
 ||fisherbren.com^
 ||flooringshermanoaks.com^
 ||forgettherules.com^
 ||furnitureworldgalleries.com^
 ||future-summit.org^
 ||galmaq.com.br^
+||ganadosdelrey.com^
 ||gatling-tool.org^
 ||geraldinebeautysalon.com^
 ||getageheight.com^
@@ -169,11 +180,13 @@
 ||gvscolombia.com^
 ||halosekolah.id^
 ||hantogel.indonesianet.co.id^
+||hello-europe.org^
 ||hietec-conference.org^
 ||hifivecafe.com^
 ||hofstetter-sports.ch^
 ||holywin88sunday.com^
 ||hometeamconstruction.ca^
+||hoppa.co.za^
 ||hpps.com.hr^
 ||hris.pgn-perkasa.co.id^
 ||hucksstumpgrinding.com^
@@ -185,6 +198,7 @@
 ||iicweb.org^
 ||ijcdr.net^
 ||ijcl.nalsar.ac.in^
+||impactmobiledental.com^
 ||industrialcontroles.com.ar^
 ||infintechnologies.com^
 ||inlislite.kamparkab.go.id^
@@ -199,6 +213,7 @@
 ||jamaicanfoodsouthdaytona.com^
 ||jamestowndds.com^
 ||jawaharlalcolleges.com^
+||jeffsbowlorama.com^
 ||jenn-wagner.com^
 ||joie-animale.fr^
 ||joinanswerable.com^
@@ -206,6 +221,7 @@
 ||journalstih.amsir.ac.id^
 ||jphelleniccenter.com^
 ||jurnal.stiedarulfalahmojokerto.ac.id^
+||just5moreminutes.com^
 ||justiceforbruce.com^
 ||kabar.sanggau.go.id^
 ||kachadoorian.com^
@@ -236,10 +252,12 @@
 ||leeon.id^
 ||lesanimauxetnous.fr^
 ||leshemshinui.org^
+||lhboghraschool.org^
 ||lifestepscouncil.org^
 ||lily.fi^
 ||lintasjatimnews.com^
 ||liputanbolafox.wordpress.com^
+||liquimarcas.co^
 ||literasispenda.id^
 ||locardslab.com^
 ||louthcms.org^
@@ -248,9 +266,11 @@
 ||lubbockintegrative.com^
 ||lumerestaurante.com^
 ||lyricbuscentre.com^
+||maarifah.sch.id^
 ||madridtoto-w.xyz^
 ||magisteragribisnisuinjkt.id^
 ||mahoyaku-stage.com^
+||mainefoodstrategy.org^
 ||majalahindonesia.id^
 ||makado.pages.dev^
 ||manigua.co^
@@ -315,12 +335,15 @@
 ||phyllisforcongress.com^
 ||pixels.com^
 ||playking88sunday.com^
+||pmb.itbriau.ac.id^
 ||politicayeducacion.com^
 ||polrestagorontalokota.com^
 ||polyuprotec.com^
 ||portal-flexp.orsted.com^
 ||pos4dtototogel02.com^
 ||precisionlogisticsnj.com^
+||prediksiabujitu.com^
+||prediksijitu.id^
 ||premier333vv.com^
 ||premiumdentalmedellin.com^
 ||prettyvalley.com^
@@ -378,11 +401,14 @@
 ||schamuellsart.com^
 ||scienceoflearning.jhu.edu^
 ||sdykastoto.pages.dev^
+||sentrillion.com^
 ||seo-bonau.b-cdn.net^
 ||seogrey.xyz^
 ||servicemanagementfusion.com^
 ||servotogo.com^
 ||shadowdbc.org^
+||sharpeisavers.com^
+||shreepadgroup.com^
 ||sikupat.kabngawi.id^
 ||sillasv.com^
 ||silverstallionstable.com^
@@ -404,10 +430,13 @@
 ||sqidiagnostics.com^
 ||srikaton.id^
 ||stag.self-point.com^
+||stage32.com^
 ||stanleypean.com^
 ||steppingstonesnh.org^
 ||stmikumelmandiri.ac.id^
+||suerth.com^
 ||sugarshop.hu^
+||sulphurassociation.com^
 ||sumateraekspres.bacakoran.co^
 ||sundazedla.com^
 ||sundollarenergy.com^
@@ -425,13 +454,16 @@
 ||therusticpig.com^
 ||thesptt.com^
 ||thewatersidebnb.com^
+||thomasstorck.org^
 ||thononalpesradio.com^
 ||tkwahdah.sch.id^
 ||togel9nagax25.com^
 ||togelonline88.cloud^
+||toggle3d.com^
 ||tomsanford.com^
 ||torontocentre.org^
 ||totaltool.it^
+||totosgelgroup.wordpress.com^
 ||totovip2.bio^
 ||towneonallen.com^
 ||tplu.org^
@@ -472,7 +504,9 @@
 ||womenscenterbc.com^
 ||wooktiup2.pages.dev^
 ||writerslife.org^
+||wscts2023.com^
 ||yardofale.com^
+||youtu.be^
 ||ypacjakarta.org^
 ||zafoundation.org^
 ||zainiproducts.com^
