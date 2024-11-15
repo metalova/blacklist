@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:09:01
+! Last Updated: 2024-11-16 01:14:47
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5607
+! Number of domains: 5644
 !
 
 ! Category: SLOT
@@ -5621,4 +5621,41 @@
 ||yukmainsbobet.pages.dev^
 ||dv.deliserdangkab.com^
 ||fkip-binggris.umb.ac.id^
+||mspbaseball.com^
+||n1info.rs^
+||novosti.rs^
+||nobartvpro.com^
+||kezkaprinting.com^
+||basketballsphere.com^
+||bkk.smkn1kotabekasi.sch.id^
+||pharmaciedesmazades.fr^
+||media.diblast.com^
+||ligaibc.pages.dev^
+||bolakita5.pages.dev^
+||parlay855bet.pages.dev^
+||crictez.com^
+||insitudigital.com^
+||gudangpn.kemkes.go.id^
+||library.iahn-gdepudja.ac.id^
+||mespharmacy.org^
+||ppdi.ciamiskab.go.id^
+||drdladladentist.co.za^
+||drmanishachopra.in^
+||enterthemetaverse.io^
+||millenniumparkwaymedical.ca^
+||rondiskey.ca^
+||intrend.id^
+||ntnucamp.sce.ntnu.edu.tw^
+||geiptest.org^
+||community.endnote.com^
+||betaon338.info^
+||sariminkenx.quora.com^
+||itiahaiti.org^
+||redcircle.com^
+||darulmaarif.net^
+||repository.unair.ac.id^
+||sorongselatankab.ina-sdi.or.id^
+||ejournal.amertamedia.co.id^
+||oceanrenewable.com^
+||nusantara-post.com^
 
