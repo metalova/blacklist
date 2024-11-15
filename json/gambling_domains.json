@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 21:46:39",
+  "updated": "2024-11-15 22:18:41",
   "categories": {
     "slot": {
-      "count": 4646,
+      "count": 4648,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -27878,6 +27878,18 @@
           "domain": "akm.smam4gempol.sch.id",
           "raw_url": "https://akm.smam4gempol.sch.id/files/?menari=raja365",
           "found_time": "2024-11-15 14:44:37",
+          "status": "active"
+        },
+        {
+          "domain": "cafereveriebkk.com",
+          "raw_url": "https://www.cafereveriebkk.com/",
+          "found_time": "2024-11-15 14:46:39",
+          "status": "active"
+        },
+        {
+          "domain": "lovedisfigure.com",
+          "raw_url": "https://www.lovedisfigure.com/",
+          "found_time": "2024-11-15 15:17:40",
           "status": "active"
         }
       ]
