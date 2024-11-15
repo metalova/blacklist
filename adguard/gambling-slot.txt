@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 20:22:48
+! Last Updated: 2024-11-15 20:59:10
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4501
+! Number of unique domains: 4518
 !
 
 ||103.115.28.6^
@@ -147,6 +147,7 @@
 ||africa.espn.com^
 ||afrik-foot.com^
 ||agbos1.com^
+||agen-v2.pages.dev^
 ||agen.pafi-acehbarat.org^
 ||agen138.asia^
 ||agen138.life^
@@ -387,6 +388,7 @@
 ||baliyonepal.com^
 ||balme-avocat.com^
 ||balochistan.gov.pk^
+||balonudara.pages.dev^
 ||baltimorebeerbaron.com^
 ||bambu99x.com^
 ||bandarjayagacor.net^
@@ -454,6 +456,7 @@
 ||behance.net^
 ||bei-bd.org^
 ||bejo500.com^
+||belalangsembahpetruk303.pages.dev^
 ||belibis.poltekkeskupang.ac.id^
 ||bellavancestudio.com^
 ||bellavidanatick.com^
@@ -819,6 +822,7 @@
 ||cityofdreamsmanila.com^
 ||citywidecourier.com^
 ||cjspubweedsport.com^
+||claremontpiefestival.com^
 ||clarfon.ro^
 ||clarynthelabel.com^
 ||clashofslots.com^
@@ -1803,6 +1807,7 @@
 ||infinityhairsalonandspa.com^
 ||info.betflag.it^
 ||infobanknews.com^
+||infocaras.ro^
 ||infogarut.id^
 ||infohoax.badungkab.go.id^
 ||infokomputer.grid.id^
@@ -1929,6 +1934,7 @@
 ||jimera-manca.quora.com^
 ||jingga888idn.store^
 ||jip.fk.unand.ac.id^
+||jipp.sulselprov.go.id^
 ||jittertime.com^
 ||jivs.net^
 ||jjsgrillandcatering.com^
@@ -2021,6 +2027,7 @@
 ||jurnalpuitika.fib.unand.ac.id^
 ||jurnalstkip-weetebula.ac.id^
 ||jurnalsukabumi.com^
+||justdial.com^
 ||justhorseracing.com.au^
 ||justiceformurderedchildren.org^
 ||justinfordfuneralhome.com^
@@ -2028,6 +2035,7 @@
 ||kabar24.bisnis.com^
 ||kabarindoraya.com^
 ||kabarjawatimur.com^
+||kabarpas.com^
 ||kabayan-pendukungmaxwin.pages.dev^
 ||kabblora.id^
 ||kaboki.ina-sdi.or.id^
@@ -2039,6 +2047,7 @@
 ||kainratu.co.id^
 ||kakheti.gov.ge^
 ||kaldiscafema.com^
+||kalisatkidul.id^
 ||kampungbocor.pages.dev^
 ||kanalkalimantan.com^
 ||kanayell.shop^
@@ -2060,6 +2069,7 @@
 ||kaskamping.com^
 ||kaskus.co.id^
 ||katadata.co.id^
+||katamaluku.id^
 ||katarsisuib.no^
 ||kauveryhospital.com^
 ||kawanmenangbig.store^
@@ -2265,6 +2275,7 @@
 ||librinova.com^
 ||librolibre.net^
 ||lifespringhomehealth.com^
+||lifetraces.org^
 ||liftandhoistaustralasia.com^
 ||ligabandar4.com^
 ||ligacuantogel.com^
@@ -2290,6 +2301,7 @@
 ||lionhub.net^
 ||lippomallpuri.com^
 ||liputankita.com^
+||liquidclubs.com^
 ||lisasfamilypizzeria.com^
 ||lit.link^
 ||littletags.com^
@@ -2483,7 +2495,9 @@
 ||mawarmpo.co^
 ||max855my.net^
 ||maxiladentalvalencia.com^
+||maxwin.jp^
 ||maxwin138.ac^
+||maxwinhealthcare.com^
 ||mayfairapartmenthomes.com^
 ||mbahmurtala.xyz^
 ||mbj.wisnuwardhana.ac.id^
@@ -2644,6 +2658,7 @@
 ||morse.hu^
 ||mothersrestaurant.net^
 ||motionvehicles.com^
+||motor138.com^
 ||motostrano.com^
 ||movegroupfitnessaz.com^
 ||mpi-bogor.darunnajah.ac.id^
@@ -2902,6 +2917,7 @@
 ||pa-ngamprah.go.id^
 ||pa-sukadana.go.id^
 ||pabriktempe.id^
+||pac-4.com^
 ||pacetrial.org^
 ||padanglawaskab.go.id^
 ||padas.ngawikab.go.id^
@@ -3842,6 +3858,7 @@
 ||stroke2023.org^
 ||sttbaptis-medan.ac.id^
 ||sttbi.info^
+||sttpk-medan.ac.id^
 ||students.stfi.ac.id^
 ||studyx.ai^
 ||styleteamlighting.com^
