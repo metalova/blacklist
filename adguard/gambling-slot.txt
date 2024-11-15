@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:24:19
+! Last Updated: 2024-11-15 21:29:26
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4577
+! Number of unique domains: 4587
 !
 
 ||103.115.28.6^
@@ -485,6 +485,7 @@
 ||besadu.belitung.go.id^
 ||best-hashtags.com^
 ||bestmedicalwv.com^
+||bestprofit-futures.co.id^
 ||bet-master.in^
 ||bet365.es^
 ||beta.uym.ac.id^
@@ -640,6 +641,7 @@
 ||bpmpbanten.kemdikbud.go.id^
 ||bpmppa.org^
 ||bprbkktemanggung.co.id^
+||bprbkkwonosobo.co.id^
 ||bprkotapasuruan.com^
 ||bprmitrakopjaya.com^
 ||bprsahabattata.co.id^
@@ -976,6 +978,7 @@
 ||cutriathlon.com^
 ||cxomedia.id^
 ||cyklostezkabecva.cz^
+||cypruscompaniesregister.com^
 ||cyprusonlinestore.com^
 ||d-fly.com^
 ||daft.ie^
@@ -1572,6 +1575,7 @@
 ||granitoscabanillas.com^
 ||granthdwar.com^
 ||grasshopperhill.net^
+||greateryellowstonemigrations.com^
 ||greatpyramidllc.com^
 ||green-royal-jakarta.com^
 ||greenteethpress.com^
@@ -2738,6 +2742,7 @@
 ||mpowin77.co^
 ||mpowin77.info^
 ||mpowin777.co^
+||mpowin77slot.net^
 ||mpowin88.co^
 ||mpowin88.online^
 ||mpp.batangkab.go.id^
@@ -3131,6 +3136,7 @@
 ||pipsqueaking.com^
 ||pisangbet-cvi.pages.dev^
 ||pisanglailiau.com^
+||pissjar.com^
 ||pitchbook.com^
 ||pixabay.com^
 ||pixelhub.me^
@@ -4006,6 +4012,7 @@
 ||taralakeshow.com^
 ||targetpakde.site^
 ||tarjetavalenciaon.com^
+||tarotouinon.com^
 ||tasmanmiddle.co.za^
 ||tastyhouseco.com^
 ||tastyofphofl.com^
@@ -4264,6 +4271,7 @@
 ||tsmo.cz^
 ||tsubaki-hg.com^
 ||tto.nust.edu.pk^
+||tubosdeled.com^
 ||tuffstuffitness.com^
 ||tulangkuat.com^
 ||tumblr.com^
@@ -4472,6 +4480,7 @@
 ||wildchildworld.com^
 ||wildfirerdc.com^
 ||willchamplin.com^
+||williamwalkerrespectingcountry.com^
 ||willowbrooksbehavioralhealth.com^
 ||willowglencreameryca.com^
 ||winbet.ro^
@@ -4494,6 +4503,7 @@
 ||wisdomtoto.co^
 ||wisdomtoto.com^
 ||wisdomtoto.my.id^
+||wisma-sukajadi.kemkes.go.id^
 ||wisuda.umt.ac.id^
 ||witchuniversity.com^
 ||witny.org^

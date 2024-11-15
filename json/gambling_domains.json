@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 21:24:19",
+  "updated": "2024-11-15 21:29:26",
   "categories": {
     "slot": {
-      "count": 4577,
+      "count": 4587,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -27464,6 +27464,66 @@
           "domain": "uinib.ac.id",
           "raw_url": "https://uinib.ac.id/",
           "found_time": "2024-11-15 14:23:18",
+          "status": "active"
+        },
+        {
+          "domain": "pissjar.com",
+          "raw_url": "https://pissjar.com/",
+          "found_time": "2024-11-15 14:24:19",
+          "status": "active"
+        },
+        {
+          "domain": "bestprofit-futures.co.id",
+          "raw_url": "https://www.bestprofit-futures.co.id/index.php/id/",
+          "found_time": "2024-11-15 14:25:19",
+          "status": "active"
+        },
+        {
+          "domain": "williamwalkerrespectingcountry.com",
+          "raw_url": "https://williamwalkerrespectingcountry.com/",
+          "found_time": "2024-11-15 14:26:21",
+          "status": "active"
+        },
+        {
+          "domain": "wisma-sukajadi.kemkes.go.id",
+          "raw_url": "http://wisma-sukajadi.kemkes.go.id/sikat/?angkor=mpo888",
+          "found_time": "2024-11-15 14:26:21",
+          "status": "active"
+        },
+        {
+          "domain": "tarotouinon.com",
+          "raw_url": "https://tarotouinon.com/",
+          "found_time": "2024-11-15 14:26:22",
+          "status": "active"
+        },
+        {
+          "domain": "greateryellowstonemigrations.com",
+          "raw_url": "https://www.greateryellowstonemigrations.com/",
+          "found_time": "2024-11-15 14:27:23",
+          "status": "active"
+        },
+        {
+          "domain": "bprbkkwonosobo.co.id",
+          "raw_url": "https://bprbkkwonosobo.co.id/public/api/?bray=MPOWIN",
+          "found_time": "2024-11-15 14:27:23",
+          "status": "active"
+        },
+        {
+          "domain": "mpowin77slot.net",
+          "raw_url": "https://mpowin77slot.net/",
+          "found_time": "2024-11-15 14:28:24",
+          "status": "active"
+        },
+        {
+          "domain": "tubosdeled.com",
+          "raw_url": "https://tubosdeled.com/",
+          "found_time": "2024-11-15 14:28:25",
+          "status": "active"
+        },
+        {
+          "domain": "cypruscompaniesregister.com",
+          "raw_url": "https://www.cypruscompaniesregister.com/",
+          "found_time": "2024-11-15 14:29:25",
           "status": "active"
         }
       ]
