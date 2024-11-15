@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 09:03:28
+! Last Updated: 2024-11-15 09:09:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4180
+! Number of unique domains: 4197
 !
 
 ||103.115.28.6^
@@ -232,6 +232,7 @@
 ||angelstarch.com^
 ||angkasaonline.co.id^
 ||animaltrial.com^
+||animation-groupe-jazz.com^
 ||anjajimbaran.com^
 ||annatxpolice.org^
 ||annieland.id^
@@ -335,6 +336,7 @@
 ||avifischeri.com^
 ||ayamjpcore.com^
 ||ayobandung.com^
+||ayodhyacity.co.in^
 ||ayukbet9.bond^
 ||azbalanceandhearing.com^
 ||b.hatena.ne.jp^
@@ -737,6 +739,7 @@
 ||chopstixasianbistrocasper.com^
 ||chr.by^
 ||christ-rock.com^
+||christelleisflabbergasting.com^
 ||churchofsatan.com^
 ||churrocoaustin.com^
 ||ciagicompressori.it^
@@ -1075,6 +1078,7 @@
 ||dukcapil.padangpanjang.go.id^
 ||dukcapil.tapinkab.go.id^
 ||dukcapilmakassar.site^
+||dukesmenu.com^
 ||dumkamenu.cz^
 ||duproprio.com^
 ||dutchflatrealty.com^
@@ -1496,6 +1500,7 @@
 ||heartofrocknrollbway.com^
 ||heatherrandell.com^
 ||heathrow.com^
+||helicopter4you.com^
 ||hellasforum.no^
 ||hellococonutclub.com^
 ||hellocrime.itch.io^
@@ -1787,6 +1792,7 @@
 ||jivs.net^
 ||jjsgrillandcatering.com^
 ||jklpk-indonesia.org^
+||jlk.fib.unand.ac.id^
 ||jobeeny.com^
 ||jobs.dou.ua^
 ||joecuppas.com^
@@ -2056,6 +2062,7 @@
 ||lasax.org^
 ||laseleccion.com.co^
 ||lashandnailbarwestplano.com^
+||lasvegaskoreanbbq.com^
 ||laughingfishisfield.com^
 ||launch.pictureinbottle.com^
 ||lavawowx.com^
@@ -2235,6 +2242,7 @@
 ||majukumbang.xyz^
 ||makassar.basarnas.go.id^
 ||makingthecomplexcompelling.com^
+||malamgacor.com^
 ||malang.times.co.id^
 ||malikdeenarhospital.com^
 ||mamagloriafilm.com^
@@ -2298,6 +2306,7 @@
 ||mataerdigital.com^
 ||mateohonten.com^
 ||maternitateagiulesti.ro^
+||mateshipandbayanihan.com^
 ||mawarmpo.co^
 ||max855my.net^
 ||maxiladentalvalencia.com^
@@ -2987,6 +2996,7 @@
 ||publica-news.com^
 ||pulse.ng^
 ||pulsesports.ng^
+||punjabi-sweet-house-restaurant.com^
 ||purefloyogasomerville.com^
 ||purespeedracing.com^
 ||purikauhanubud.org^
@@ -3081,6 +3091,7 @@
 ||reciklanservices.cl^
 ||reclaimingthecrown.com^
 ||red.infd.edu.ar^
+||redbarnfeedandpet.com^
 ||redflamenyc.com^
 ||redonionaspen.com^
 ||redrabbitfarm.com^
@@ -3110,6 +3121,7 @@
 ||restaurantepelayo.com^
 ||restauranteranda.com^
 ||restaurantesantamonica.com^
+||restaurantezebramaria.com^
 ||restinghare.com^
 ||resturahayu-desa.id^
 ||retro-synthwave.com^
@@ -3356,6 +3368,7 @@
 ||sima.mec.gob.ar^
 ||simasi.lppmbinabangsa.id^
 ||simbaja.kapuashulukab.go.id^
+||simelati.lampungtimurkab.go.id^
 ||simenangpaten.com^
 ||simenangseru.com^
 ||simiakrsjd.babelprov.go.id^
@@ -3766,6 +3779,7 @@
 ||thenationalforum.org^
 ||thenationonlineng.net^
 ||thenewltr.com^
+||thenewmain.com^
 ||thenextreal.net^
 ||thenorthcampus.org^
 ||thenorthcarolinapoultryjubilee.com^
@@ -3846,6 +3860,7 @@
 ||torne-craftbeer.com^
 ||toscabronx.com^
 ||totalrowfitness.com^
+||totalvision2020.com^
 ||touchofclassmobileautospa.com^
 ||tourea-sports.com^
 ||tournesolenschede.nl^
@@ -4022,10 +4037,12 @@
 ||wacana.stkipahsingaraja.ac.id^
 ||waddensea-forum.org^
 ||wagyurooftopsteakhouse.com^
+||wagyusteakhouseli.com^
 ||waiwhetuautoservices.com^
 ||wakuda-dental.com^
 ||wallstreetent.com^
 ||wardscottfiles.com^
+||waringinjaya-desa.id^
 ||warta.darunnajah.ac.id^
 ||wartabromo.com^
 ||wartadesaku.com^
