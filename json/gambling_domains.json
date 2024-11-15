@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 18:53:06",
+  "updated": "2024-11-15 18:57:12",
   "categories": {
     "slot": {
-      "count": 4443,
+      "count": 4444,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26660,6 +26660,12 @@
           "domain": "journall.org",
           "raw_url": "https://journall.org/",
           "found_time": "2024-11-15 11:52:04",
+          "status": "active"
+        },
+        {
+          "domain": "proinoslogos.gr",
+          "raw_url": "https://www.proinoslogos.gr/epikairotita/42-koinonia/88698-%CE%B5%CE%BF%CE%B4%CF%85-%CE%BC%CE%B9%CE%BA%CF%81%CE%AE-%CE%BC%CE%B5%CE%AF%CF%89%CF%83%CE%B7-%CF%84%CE%B7%CF%82-%CE%B8%CE%B5%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82-%CF%83%CF%84%CE%BF%CE%BD-covid",
+          "found_time": "2024-11-15 11:53:05",
           "status": "active"
         }
       ]

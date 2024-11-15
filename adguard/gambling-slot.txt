@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:53:06
+! Last Updated: 2024-11-15 18:57:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4443
+! Number of unique domains: 4444
 !
 
 ||103.115.28.6^
@@ -3146,6 +3146,7 @@
 ||progettoipazia.com^
 ||progracy.com^
 ||program.penjalin.desa.id^
+||proinoslogos.gr^
 ||projectyogarichmond.org^
 ||prokal.co^
 ||prolegalnews.co.id^
