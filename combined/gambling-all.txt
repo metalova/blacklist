@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 10:49:30
+! Last Updated: 2024-11-15 10:52:44
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 4807
+! Number of domains: 4823
 !
 
 ! Category: SLOT
@@ -4363,6 +4363,22 @@
 ||johnavoli.com^
 ||icegaming.com^
 ||habanero188amp.xyz^
+||hulatruck408.com^
+||hothotfruithabanero.co.za^
+||apk-wb403-4.vercel.app^
+||gbatemp.net^
+||raja168a.pages.dev^
+||apk-wb403-3.vercel.app^
+||theserenityresidence.com^
+||test-smon.cez.cz^
+||halfmoonfarm.co^
+||capitoltrades.com^
+||apk-wb403-2.vercel.app^
+||mediaindonesia.com^
+||menangmenangnya.pages.dev^
+||domain.com.au^
+||beyondgame.id^
+||harcourts.net^
 
 ! Category: CASINO
 ||newszechuan.com^
