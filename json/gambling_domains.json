@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 08:54:01",
+  "updated": "2024-11-15 08:59:13",
   "categories": {
     "slot": {
-      "count": 4143,
+      "count": 4157,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -24860,6 +24860,90 @@
           "domain": "icospac.untagsmg.ac.id",
           "raw_url": "https://icospac.untagsmg.ac.id/falk/",
           "found_time": "2024-11-15 08:54:01",
+          "status": "active"
+        },
+        {
+          "domain": "indocore.co.id",
+          "raw_url": "https://indocore.co.id/pages/?seo303_id=LINK-SLOT-DEPOSIT-OVO",
+          "found_time": "2024-11-15 08:54:01",
+          "status": "active"
+        },
+        {
+          "domain": "guttercapflorida.com",
+          "raw_url": "https://www.guttercapflorida.com/amp",
+          "found_time": "2024-11-15 08:55:04",
+          "status": "active"
+        },
+        {
+          "domain": "pragmatic218.cz",
+          "raw_url": "https://pragmatic218.cz/amp",
+          "found_time": "2024-11-15 08:55:04",
+          "status": "active"
+        },
+        {
+          "domain": "nvlandman.org",
+          "raw_url": "https://www.nvlandman.org/amp/",
+          "found_time": "2024-11-15 08:55:04",
+          "status": "active"
+        },
+        {
+          "domain": "gicm.org",
+          "raw_url": "https://gicm.org/",
+          "found_time": "2024-11-15 08:55:04",
+          "status": "active"
+        },
+        {
+          "domain": "shelbyprosecutor.com",
+          "raw_url": "https://www.shelbyprosecutor.com/",
+          "found_time": "2024-11-15 08:55:04",
+          "status": "active"
+        },
+        {
+          "domain": "amp-rtp.b-cdn.net",
+          "raw_url": "https://amp-rtp.b-cdn.net/",
+          "found_time": "2024-11-15 08:55:05",
+          "status": "active"
+        },
+        {
+          "domain": "fifthmariandogma.com",
+          "raw_url": "https://www.fifthmariandogma.com/",
+          "found_time": "2024-11-15 08:57:08",
+          "status": "active"
+        },
+        {
+          "domain": "ihcdayspa.com",
+          "raw_url": "https://ihcdayspa.com/",
+          "found_time": "2024-11-15 08:57:08",
+          "status": "active"
+        },
+        {
+          "domain": "deezer.com",
+          "raw_url": "https://www.deezer.com/us/show/5400217",
+          "found_time": "2024-11-15 08:57:08",
+          "status": "active"
+        },
+        {
+          "domain": "diykitchenguide.com",
+          "raw_url": "https://diykitchenguide.com/",
+          "found_time": "2024-11-15 08:57:09",
+          "status": "active"
+        },
+        {
+          "domain": "thedressshopsa.com",
+          "raw_url": "https://thedressshopsa.com/",
+          "found_time": "2024-11-15 08:57:09",
+          "status": "active"
+        },
+        {
+          "domain": "serenitynow-massage.com",
+          "raw_url": "https://www.serenitynow-massage.com/",
+          "found_time": "2024-11-15 08:58:10",
+          "status": "active"
+        },
+        {
+          "domain": "2engenheiros.com",
+          "raw_url": "https://2engenheiros.com/",
+          "found_time": "2024-11-15 08:59:12",
           "status": "active"
         }
       ]

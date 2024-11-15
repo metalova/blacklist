@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 08:54:01
+! Last Updated: 2024-11-15 08:59:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4143
+! Number of unique domains: 4157
 !
 
 ||103.115.28.6^
@@ -61,6 +61,7 @@
 ||23forum-bahis.com^
 ||24sgo777.com^
 ||25sgo777.com^
+||2engenheiros.com^
 ||36.95.86.26:8080^
 ||360.parquesnacionales.gob.ar^
 ||365raja338.vip^
@@ -216,6 +217,7 @@
 ||amirharb.com^
 ||amoxicillinnrd.com^
 ||amp-jackpotgacor.pages.dev^
+||amp-rtp.b-cdn.net^
 ||amrut.mohua.gov.in^
 ||anakshaleh.org^
 ||anambaskab.go.id^
@@ -925,6 +927,7 @@
 ||ddisdehradun.com^
 ||debilevine.com^
 ||debit777area.com^
+||deezer.com^
 ||defato.com^
 ||degruyter.com^
 ||delavegabar.com^
@@ -1001,6 +1004,7 @@
 ||diversitydashboard.org^
 ||divlearn.undipa.ac.id^
 ||diyezmedia.com^
+||diykitchenguide.com^
 ||djppi.kominfo.go.id^
 ||djtogel.com^
 ||dksvirginia.com^
@@ -1246,6 +1250,7 @@
 ||fh.uika-bogor.ac.id^
 ||fiahomefoods.com^
 ||fib.unkhair.ac.id^
+||fifthmariandogma.com^
 ||figmmg.unmsm.edu.pe^
 ||financialfreedomnow.org^
 ||find-and-update.company-information.service.gov.uk^
@@ -1358,6 +1363,7 @@
 ||ggitalia.com^
 ||ghhandyman.com^
 ||ghousiagroup.com^
+||gicm.org^
 ||gifyu.com^
 ||ginzabuffet.com^
 ||gioadinatura.fr^
@@ -1439,6 +1445,7 @@
 ||gunjamgame.com^
 ||gurjone.com^
 ||guruvayurdevaswom.in^
+||guttercapflorida.com^
 ||h4hmcgill.ca^
 ||habaneroslot.pro^
 ||habanerosystems.com^
@@ -1599,6 +1606,7 @@
 ||igamingfuture.com^
 ||igca2023.com^
 ||igtjackpots.com^
+||ihcdayspa.com^
 ||ihmgwalior.net^
 ||iias-seapp-dohaconference2023.org^
 ||iii.cemacyc.org^
@@ -1626,6 +1634,7 @@
 ||indiantrust.com^
 ||indigenousfloraldesign.com^
 ||indjaya.com^
+||indocore.co.id^
 ||indoggslot.net^
 ||indomaster88.giving^
 ||indonesiabaik.id^
@@ -2596,6 +2605,7 @@
 ||nu.or.id^
 ||nured.uowm.gr^
 ||nusaggbromo.com^
+||nvlandman.org^
 ||nycdoorrepairinstall.com^
 ||nytqro.com.mx^
 ||oabes.org.br^
@@ -2899,6 +2909,7 @@
 ||pptqalazzaam.org^
 ||pragmatic-slot-gacor-pro.en.softonic.com^
 ||pragmatic.solutions^
+||pragmatic218.cz^
 ||pragmaticplay.atlassian.net^
 ||pragmaticplay.com^
 ||pragmaticplaycareers.com^
@@ -3271,6 +3282,7 @@
 ||seputarcibubur.pikiran-rakyat.com^
 ||seputarperak.com^
 ||serafood.id^
+||serenitynow-massage.com^
 ||serespecial.org.br^
 ||server-luar.joyeriarosse.com^
 ||servingtop.com^
@@ -3287,6 +3299,7 @@
 ||shawarmafalafelshaq.com^
 ||shazzlemail.com^
 ||sheetmusicplus.com^
+||shelbyprosecutor.com^
 ||shermanluxurygroup.com^
 ||shestel.com^
 ||shincastella.com^
@@ -3703,6 +3716,7 @@
 ||thed.com^
 ||thedigitalabolitionist.com^
 ||thediywoodshop.com^
+||thedressshopsa.com^
 ||thedrivein.london^
 ||thefashionfabrique.com^
 ||thefleurdelys.com^

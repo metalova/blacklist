@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 08:54:01
+! Last Updated: 2024-11-15 08:59:13
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 4593
+! Number of domains: 4607
 !
 
 ! Category: SLOT
@@ -4149,6 +4149,20 @@
 ||sharkeysgrill.com^
 ||vhlcnetral.com^
 ||icospac.untagsmg.ac.id^
+||indocore.co.id^
+||guttercapflorida.com^
+||pragmatic218.cz^
+||nvlandman.org^
+||gicm.org^
+||shelbyprosecutor.com^
+||amp-rtp.b-cdn.net^
+||fifthmariandogma.com^
+||ihcdayspa.com^
+||deezer.com^
+||diykitchenguide.com^
+||thedressshopsa.com^
+||serenitynow-massage.com^
+||2engenheiros.com^
 
 ! Category: CASINO
 ||newszechuan.com^
