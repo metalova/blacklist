@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 22:24:09
+! Last Updated: 2024-11-15 22:29:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4661
+! Number of unique domains: 4670
 !
 
 ||103.115.28.6^
@@ -256,6 +256,7 @@
 ||anakshaleh.org^
 ||anambaskab.go.id^
 ||ananatural.com^
+||anandaislamicschool.com^
 ||anapan.ro^
 ||andipublisher.com^
 ||androidout.com^
@@ -972,6 +973,7 @@
 ||crobinsonmd.com^
 ||crossmag.it^
 ||crosswater.ch^
+||crowncommercial.gov.uk^
 ||crownweather.com^
 ||crunchbase.com^
 ||cryptonews.com^
@@ -1208,6 +1210,7 @@
 ||dulohupa.id^
 ||dumkamenu.cz^
 ||dungeondefenders.fandom.com^
+||dunnellonpumpkinpatch.com^
 ||duproprio.com^
 ||dutchflatrealty.com^
 ||dvusa.org^
@@ -1452,6 +1455,7 @@
 ||formula.eesc.usp.br^
 ||fortcollinsgraniterepair.com^
 ||fortheloveofgrad.com^
+||fortrougetravel.ca^
 ||forum.centos-webpanel.com^
 ||forum.eset.com^
 ||forum.samdroid.net^
@@ -1863,6 +1867,7 @@
 ||inews.id^
 ||infinitememorial.com^
 ||infinityhairsalonandspa.com^
+||influence.co^
 ||info.betflag.it^
 ||infobanknews.com^
 ||infocaras.ro^
@@ -3571,6 +3576,7 @@
 ||rtproyal138b.info^
 ||rtpsalaknew.info^
 ||rttackle.com^
+||ruangwinslot.quora.com^
 ||rudenimkupang.com^
 ||rudyrasmus.com^
 ||ruitoqueparkhouse.co^
@@ -3852,6 +3858,7 @@
 ||smiliegenerator.com^
 ||smithberrywinery.net^
 ||smithbridgeguam.com^
+||smk3berau.sch.id^
 ||smkbopkri2yogya.sch.id^
 ||smki-yogya.sch.id^
 ||smkmucirebon.sch.id^
@@ -4399,6 +4406,7 @@
 ||upb.iainkendari.ac.id^
 ||upcycleafrica.org^
 ||uppmaccinibaji.org^
+||upt-komputer.umk.ac.id^
 ||uptppwa.ummat.ac.id^
 ||urbanoctober.unhabitat.org^
 ||urigroup.vn^
@@ -4628,6 +4636,7 @@
 ||yoursecretcode.com^
 ||yourturninc.com^
 ||yphn.ac.id^
+||yspi-albadar.or.id^
 ||yukikonishimura.com^
 ||yum.co.id^
 ||yumasianfusionandsushi.com^
