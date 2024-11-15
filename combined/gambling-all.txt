@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 23:54:03
+! Last Updated: 2024-11-15 23:59:31
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5335
+! Number of domains: 5361
 !
 
 ! Category: SLOT
@@ -4974,6 +4974,32 @@
 ||abzorba-live-blackjack-21-pro.id.uptodown.com^
 ||reku.id^
 ||pencoeddental.com^
+||visitmississippi.org^
+||nuxgame.com^
+||ilaniresort.com^
+||travelandtourworld.com^
+||luxurylifestylemag.co.uk^
+||grandsierraresort.com^
+||edgewoodtahoe.com^
+||geoffreyparker.com^
+||jacobandco.com^
+||venetianmacao.com^
+||id.made-in-china.com^
+||vipcasinoevents.com^
+||afronation.com^
+||spilnosylno.in.ua^
+||vipchartercoaches.com^
+||businesswire.com^
+||burnaby.grandvillacasino.ca^
+||gettyimages.co.nz^
+||skycityauckland.co.nz^
+||harrahspoolac.com^
+||weirdal.com^
+||royalcaribbean.com^
+||vipgamblingtours.com^
+||casinoprideofficial.com^
+||tickets.riverspirittulsa.com^
+||vipcasinoservices.com.au^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
