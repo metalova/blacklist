@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 02:58:26
+! Last Updated: 2024-11-16 03:04:44
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 622
+! Number of unique domains: 642
 !
 
 ||087ina.com^
@@ -75,6 +75,7 @@
 ||blackinclusionassociation.org^
 ||bluestacks.com^
 ||bmcjms.org^
+||bostoto7.com^
 ||boucherienotredamechartrain.fr^
 ||breederiverqueen.com^
 ||brentschmidgallauction.com^
@@ -112,10 +113,12 @@
 ||coberconstrucciones.com.pe^
 ||cocinerosmxporelmundo.com^
 ||coffee-dojo.com^
+||coffeecounty-tn.com^
 ||coliseumrenovation.com^
 ||como-son.net^
 ||compound13.org^
 ||conference.eka-prasetya.ac.id^
+||contigosinfronteras.org^
 ||corinne-demarest-lepretre.fr^
 ||covidvih.org^
 ||crownbakery.sl^
@@ -163,6 +166,7 @@
 ||eatmarinos.com^
 ||ecoledeski360.com^
 ||eiderstedter-kultursaison.de^
+||ejprarediseases.org^
 ||ejurnal.ung.ac.id^
 ||eksoy.com^
 ||elamigolawndale.com^
@@ -194,6 +198,7 @@
 ||fashionhairshop.com^
 ||fb.pelitaindonesia.ac.id^
 ||fcai.cu.edu.eg^
+||fezmangal.com^
 ||fileacademy.id^
 ||fimarspa.it^
 ||fimela.com^
@@ -241,6 +246,7 @@
 ||iamchairbox.com^
 ||ibiclass.com^
 ||ies9021.mendoza.edu.ar^
+||ihospital.rsudaws.co.id^
 ||iicweb.org^
 ||ijcdr.net^
 ||ijcl.nalsar.ac.in^
@@ -322,6 +328,7 @@
 ||locardslab.com^
 ||louthcms.org^
 ||lphd.s-desa.id^
+||lrlab.com.ar^
 ||lsp-daimaru.id^
 ||lubbockintegrative.com^
 ||lumerestaurante.com^
@@ -389,6 +396,7 @@
 ||oganilir.disway.id^
 ||olimpohotel.com^
 ||onegift.io^
+||onlinegreetings.net^
 ||oraldrive.com^
 ||orosf.com^
 ||ortax.org^
@@ -428,6 +436,7 @@
 ||prediksiabujitu.com^
 ||prediksijitu.id^
 ||premier333vv.com^
+||premierenglishmadrid.com^
 ||premiumdentalmedellin.com^
 ||prettyvalley.com^
 ||priaidaman.xyz^
@@ -436,6 +445,7 @@
 ||prospectmotorgroup.co.id^
 ||protectnepa.org^
 ||provalenslearning.com^
+||proyek-besar.pages.dev^
 ||psy-peujard.fr^
 ||ptat.org^
 ||puela.gob.ec^
@@ -465,6 +475,7 @@
 ||restaurant-labdh-lehavre.com^
 ||retrorewinddanceparty.com^
 ||reue.org^
+||reynoldsburgumc.com^
 ||rfconnect.com^
 ||rgonside.com^
 ||ricetteamericane.com^
@@ -474,6 +485,7 @@
 ||ritelo.id^
 ||riungburger.id^
 ||rmoljawatengah.id^
+||rmolsumsel.id^
 ||rockinghamcountymiddle.org^
 ||rotibengkak.com^
 ||rsdbagaswaras.id^
@@ -481,6 +493,7 @@
 ||rubid.pages.dev^
 ||runwaytofreedom.org^
 ||ruralniparlament.com^
+||safeharbormi.org^
 ||sage-tx.com^
 ||sakip.kedirikota.go.id^
 ||saku.bpkad.mesujikab.go.id^
@@ -489,16 +502,19 @@
 ||satelliteisland.com.au^
 ||satunurani.com^
 ||saveraitcastle.org^
+||sbimbo.pages.dev^
 ||scet.in^
 ||schamuellsart.com^
 ||scienceoflearning.jhu.edu^
 ||sdgaccord.org^
 ||sdykastoto.pages.dev^
+||seededprojects.co.za^
 ||sentrillion.com^
 ||seo-bonau.b-cdn.net^
 ||seogrey.xyz^
 ||servicemanagementfusion.com^
 ||servotogo.com^
+||sevagroupfoundation.org^
 ||shadowdbc.org^
 ||sharpeisavers.com^
 ||shreepadgroup.com^
@@ -518,10 +534,12 @@
 ||smksyanuristonjong.com^
 ||snox365.com^
 ||society4romanianstudies.org^
+||sodogeo.org^
 ||soloasi.mx^
 ||somanyroadsbrewery.com^
 ||soteunionsprings.com^
 ||soundbetter.com^
+||sourceeatfit.com^
 ||spada.untirta.ac.id^
 ||sparkassenstiftung-turkey.org^
 ||spheeha.org^
@@ -586,6 +604,7 @@
 ||tubmilltroutclub.org^
 ||tupac-berlin.com^
 ||turkishost.com^
+||tytco.ir^
 ||ugahockeyd3.com^
 ||ugf.academy^
 ||uin-alauddin.ac.id^
@@ -593,6 +612,7 @@
 ||umi.ac.ug^
 ||universaleco.id^
 ||unizikentrepjournal.com^
+||uoz.edu.krd^
 ||uptownavenue7.com^
 ||valormmanyc.com^
 ||vegantouchfoods.com^
