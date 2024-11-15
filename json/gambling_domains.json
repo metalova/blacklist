@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 06:49:06",
+  "updated": "2024-11-16 06:50:07",
   "categories": {
     "slot": {
-      "count": 4823,
+      "count": 4824,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28939,6 +28939,12 @@
         {
           "domain": "northchinagardenwa.com",
           "raw_url": "https://www.northchinagardenwa.com/",
+          "found_time": "2024-11-15 23:49:06",
+          "status": "active"
+        },
+        {
+          "domain": "utmalang.com",
+          "raw_url": "https://utmalang.com/",
           "found_time": "2024-11-15 23:49:06",
           "status": "active"
         }
