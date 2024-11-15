@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 01:34:19
+! Last Updated: 2024-11-16 01:39:39
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5746
+! Number of domains: 5774
 !
 
 ! Category: SLOT
@@ -5760,4 +5760,32 @@
 ||olx.co.id^
 ||chatsports.com^
 ||pretermalin.fr^
+||eafrica.co.za^
+||smpitim8.sch.id^
+||paketnusapenida.com^
+||tanjuangalai.solokkab.go.id^
+||seojahad-masbroh.web.app^
+||monitoring-siasn.bkn.go.id^
+||persissolo.id^
+||zenbutoh.com^
+||dafunda.com^
+||kamikamikinss.com^
+||adidas.co.id^
+||liverpoolfc.com^
+||bikeshark.in^
+||taruhanbola99.wordpress.com^
+||rsproklamasi.co.id^
+||spiceandall.co.za^
+||pricebook.co.id^
+||firehousepizzamenu.com^
+||sdn11bandaaceh.sch.id^
+||pme.uddpmi.or.id^
+||usgbc.org^
+||gdlite.saint-gobain.com^
+||albufeiragolf.com^
+||parisgame.bola1.net^
+||dorukhospital.com^
+||agensedekah.com^
+||theatredelarchipel.org^
+||peraturanpedia.com^
 

@@ -1,13 +1,16 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 01:34:19
+! Last Updated: 2024-11-16 01:39:39
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 299
+! Number of unique domains: 327
 !
 
 ||abseits.at^
 ||absensi-musirawaskab.pages.dev^
+||adidas.co.id^
 ||aerotravelindo.co.id^
 ||afifecafe.com^
+||agensedekah.com^
+||albufeiragolf.com^
 ||aliyahalbadriyah.sch.id^
 ||altctrlgamejam.com^
 ||amphola88.com^
@@ -26,6 +29,7 @@
 ||bestczechcasinos.cz^
 ||betaon338.info^
 ||bfreshgigi.com^
+||bikeshark.in^
 ||bisik.id^
 ||bisnis.com^
 ||bkk.smkn1kotabekasi.sch.id^
@@ -55,6 +59,7 @@
 ||cuingles.com^
 ||cuttari.quora.com^
 ||cyberthreat.id^
+||dafunda.com^
 ||darasaletu.com^
 ||darulmaarif.net^
 ||decathlon.co.id^
@@ -66,10 +71,12 @@
 ||discoveriesinamericanart.com^
 ||dlhk.inhilkab.go.id^
 ||docdroid.net^
+||dorukhospital.com^
 ||drdladladentist.co.za^
 ||drmanishachopra.in^
 ||dv.deliserdangkab.com^
 ||e-proc.pamjaya.co.id^
+||eafrica.co.za^
 ||ecodrive.org^
 ||ejournal.amertamedia.co.id^
 ||ejournal.ps.fisip-unmul.ac.id^
@@ -83,6 +90,7 @@
 ||eventbrite.com^
 ||faktanasional.id^
 ||finansial.bisnis.com^
+||firehousepizzamenu.com^
 ||fkip-binggris.umb.ac.id^
 ||fkip.uika-bogor.ac.id^
 ||flalandscape.com^
@@ -91,6 +99,7 @@
 ||forum.fanatec.com^
 ||ft95soundersfc.pages.dev^
 ||ftp.dbd.puc-rio.br^
+||gdlite.saint-gobain.com^
 ||geiptest.org^
 ||gilabola.com^
 ||gites-ville-seran.com^
@@ -136,6 +145,7 @@
 ||jill2016.com^
 ||journal.uinsgd.ac.id^
 ||joynailsbarrowlett.com^
+||kamikamikinss.com^
 ||kamunanya.net^
 ||kaptenmaya.pages.dev^
 ||kayabola6.pages.dev^
@@ -158,6 +168,7 @@
 ||ligaibc.pages.dev^
 ||ligaolahraga.com^
 ||lisboabelemopen.com^
+||liverpoolfc.com^
 ||lms.sibestari.com^
 ||locent.com^
 ||login.poc.la.gov^
@@ -178,6 +189,7 @@
 ||mightydreamforum.com^
 ||migranberdaulat.org^
 ||millenniumparkwaymedical.ca^
+||monitoring-siasn.bkn.go.id^
 ||morningdough.com^
 ||msoundersfc.pages.dev^
 ||mspbaseball.com^
@@ -201,14 +213,18 @@
 ||os.mbed.com^
 ||pabrikbola.com^
 ||padelgoin.com^
+||paketnusapenida.com^
 ||parcosimone.it^
 ||parganz.pages.dev^
+||parisgame.bola1.net^
 ||parlay855bet.pages.dev^
 ||pdi-perjuangan.pages.dev^
 ||pendidikan.malangkab.go.id:8099^
 ||pepnews.com^
+||peraturanpedia.com^
 ||perpajakan.fansolahraga.com^
 ||perpustakaan.pa-kotamadiun.go.id^
+||persissolo.id^
 ||perspektif.ppj.unp.ac.id^
 ||perwiranusantara.com^
 ||petitesoulshop.com^
@@ -216,6 +232,7 @@
 ||pinjamdulu500.com^
 ||plus.bisnis.com^
 ||pmb.akperkesdam6tpr.ac.id^
+||pme.uddpmi.or.id^
 ||portalgurupi.com.br^
 ||ppdb.maskara.sch.id^
 ||ppdi.ciamiskab.go.id^
@@ -225,6 +242,7 @@
 ||prediksijitu.quora.com^
 ||prediksiskorbolajitu.quora.com^
 ||pretermalin.fr^
+||pricebook.co.id^
 ||professores.uff.br^
 ||property-lippocikarang.com^
 ||provenexpert.com^
@@ -245,6 +263,7 @@
 ||revistas.ufpi.br^
 ||rg-leotard.com^
 ||rondiskey.ca^
+||rsproklamasi.co.id^
 ||rumah-jurnal.com^
 ||rumah123.com^
 ||rumahbiru.id^
@@ -255,9 +274,11 @@
 ||sararamedia.net^
 ||sariminkenx.quora.com^
 ||satyabeautywellness.com^
+||sdn11bandaaceh.sch.id^
 ||sdn28bandaaceh.sch.id^
 ||sdn34bandaaceh.sch.id^
 ||seohaji.pages.dev^
+||seojahad-masbroh.web.app^
 ||serenesophro.fr^
 ||sharinori.com^
 ||shutterbug.com^
@@ -271,14 +292,19 @@
 ||smkn1sukadana.sch.id^
 ||smkn3banyumas.sch.id^
 ||smkpasundanmalangbong.com^
+||smpitim8.sch.id^
 ||soccer.indozone.id^
 ||sorongselatankab.ina-sdi.or.id^
 ||specs.id^
+||spiceandall.co.za^
 ||spmi.stttekstil.ac.id^
 ||staging.arbusa.com^
 ||superball.bolasport.com^
 ||tamanramadenpasar.sch.id^
+||tanjuangalai.solokkab.go.id^
+||taruhanbola99.wordpress.com^
 ||tekateki.org^
+||theatredelarchipel.org^
 ||thenewsportseconomy.com^
 ||thenorth--face.co.uk^
 ||theplaidhorse.com^
@@ -293,6 +319,7 @@
 ||uni.xyz^
 ||unicone.id^
 ||universe.com^
+||usgbc.org^
 ||utprw2.com^
 ||view.publitas.com^
 ||wartatransparansi.com^
@@ -302,4 +329,5 @@
 ||xolabit.co.id^
 ||ydsf.org^
 ||yukmainsbobet.pages.dev^
+||zenbutoh.com^
 ||zotero.org^
