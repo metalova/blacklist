@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 02:54:04
+! Last Updated: 2024-11-16 02:58:26
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6121
+! Number of domains: 6153
 !
 
 ! Category: SLOT
@@ -5678,6 +5678,38 @@
 ||mszana.pl^
 ||rfconnect.com^
 ||institutoparanaodontologia.com.br^
+||siakad.staimlumajang.ac.id^
+||bigboil.it.com^
+||ddviagens.com^
+||tennisadsales.com^
+||milknroll.com^
+||jazzclublarose.com^
+||lms.itsijamaica.com^
+||geminiresort.com.au^
+||mywin.pages.dev^
+||litshovhuhigh.co.za^
+||bybs.org^
+||pgp4d.co^
+||bitrstudio.com^
+||givensjohnston.com^
+||compound13.org^
+||playtogrowmd.com^
+||redalianzalatina.org^
+||pmblapemba.umt.ac.id^
+||laluzresort.com^
+||flatironcolumbus.com^
+||holistickitchenacademy.com^
+||sscmt.org^
+||piramidamister.pages.dev^
+||millenniumsaloninc.com^
+||ipgmyproperty.com^
+||clankeithusa.org^
+||dishserve.com^
+||middletownjamaicanrestaurant.com^
+||blackinclusionassociation.org^
+||dwdav.com^
+||como-son.net^
+||rickmk.com^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^
