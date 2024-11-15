@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 08:48:19
+! Last Updated: 2024-11-15 08:54:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4126
+! Number of unique domains: 4143
 !
 
 ||103.115.28.6^
@@ -336,6 +336,7 @@
 ||b.hatena.ne.jp^
 ||babysteals.com^
 ||backbayhardware.com^
+||backyardsites.com^
 ||badakslo7.top^
 ||bahamabreezetan.com^
 ||bahresliquor.com^
@@ -892,6 +893,7 @@
 ||daikin.com.my^
 ||dailymotion.com^
 ||dailynous.com^
+||dailysia.com^
 ||dailytelegraph.com.au^
 ||daisysmexicanfood.com^
 ||daldukhalteng.id^
@@ -992,6 +994,7 @@
 ||disdukcapil.meranginkab.go.id^
 ||dishub.banjarbarukota.go.id^
 ||diskominfo.grobogan.go.id^
+||diskop.tulangbawangkab.go.id^
 ||disparpora.ngawikab.go.id^
 ||disperkim.kaurkab.go.id^
 ||ditreskrimsus.poldakalbar.net^
@@ -1542,6 +1545,7 @@
 ||hukum.tvrinews.com^
 ||hulahoopphotography.com^
 ||humas.smkn1-bangil.sch.id^
+||humoscience.com^
 ||huntington.fr^
 ||hvac-trainingschools.com^
 ||i.cemacyc.org^
@@ -1567,6 +1571,7 @@
 ||ichirin-coffee.com^
 ||ichm-fkunpatti.akademisi.co.id^
 ||ichthusfestival.org^
+||icospac.untagsmg.ac.id^
 ||icossdi.pasca.unand.ac.id^
 ||icpe2019.org^
 ||icps.riphah.edu.pk^
@@ -1600,6 +1605,7 @@
 ||ijisc.com.pk^
 ||ijmpr.org^
 ||ijsenchocolade.shop^
+||ikebanasushifusion.com^
 ||ikinciel.vsbgrup.com.tr^
 ||ikoyo-nishiizu.jp^
 ||ilmadika.org^
@@ -1836,6 +1842,7 @@
 ||jurnalkinanti.disdikkbb.org^
 ||jurnalpolri.com^
 ||jurnalpuitika.fib.unand.ac.id^
+||jurnalstkip-weetebula.ac.id^
 ||jurnalsukabumi.com^
 ||justhorseracing.com.au^
 ||justiceformurderedchildren.org^
@@ -2002,6 +2009,7 @@
 ||lakasi.banjarbarukota.go.id^
 ||lakecumberlandky.com^
 ||lakehealthconnect.org^
+||lakepointvillagema.com^
 ||lakerockbar.net^
 ||lakewindkennels.com^
 ||lakumedia.id^
@@ -2169,6 +2177,7 @@
 ||m.soundersfc.com^
 ||m.twitch.tv^
 ||m5.jayatogelabadi.com^
+||maa.ac.in^
 ||maalfreekaa.in^
 ||mabaotips.co.ke^
 ||mabuktogel.photos^
@@ -2405,6 +2414,7 @@
 ||mohitnarwalkabaddiacademy.com^
 ||mohsenalattar.org^
 ||mojok.co^
+||mollersna.com^
 ||mollyhatchet.com^
 ||momoguro.com^
 ||monkeyscrubs.com^
@@ -2562,6 +2572,7 @@
 ||nmu.co.id^
 ||no.tripadvisor.com^
 ||nobleblu.com^
+||nococellrepair.com^
 ||nomorpaito.net^
 ||nona88maksimum.xyz^
 ||nonlinedirect.com^
@@ -2705,6 +2716,7 @@
 ||pancawarna.desa.id^
 ||panchomexicanrestaurantva.com^
 ||pandao.eu^
+||pandeglangkab.go.id^
 ||panen338.shop^
 ||panganku.org^
 ||pangkalannyirih.desa.id^
@@ -3270,6 +3282,7 @@
 ||shabab3net.com^
 ||shaiavidan.org^
 ||shapercloud.com^
+||sharkeysgrill.com^
 ||sharmadhaba.com^
 ||shawarmafalafelshaq.com^
 ||shazzlemail.com^
@@ -3296,6 +3309,7 @@
 ||siaptek.pesisirbaratkab.go.id^
 ||sib4sib.org^
 ||siber.ekaakarjati.id^
+||sicph.fkm.unsri.ac.id^
 ||sidompu.id^
 ||siduta.dukcapil.baritoselatankab.go.id^
 ||sierrasfranklin.com^
@@ -3561,6 +3575,7 @@
 ||suntechind.com^
 ||suoguanji-yt.com^
 ||supermpoweb.com^
+||supervisi.relawanjurnal.id^
 ||suples.com^
 ||support.coinmastergame.com^
 ||surespot.me^
@@ -3928,6 +3943,7 @@
 ||vetsenergyproject.org^
 ||veyor.id^
 ||vfxmaximum.com^
+||vhlcnetral.com^
 ||viagrawithoutdoctorspres.com^
 ||viajeros-somos.com^
 ||viakem.com^
@@ -4080,6 +4096,7 @@
 ||yaamava.com^
 ||yagascafe.com^
 ||yakisoba-miura.com^
+||yankes.kemkes.go.id^
 ||yaperti-gpm.org^
 ||yeahyourightfest.com^
 ||yellowbrickfold.com^
