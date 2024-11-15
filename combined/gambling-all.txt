@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 00:24:49
+! Last Updated: 2024-11-16 00:29:26
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5479
+! Number of domains: 5528
 !
 
 ! Category: SLOT
@@ -5493,4 +5493,53 @@
 ||bestczechcasinos.cz^
 ||ejurnal.stiewidyapersada.id^
 ||repository.uksw.edu^
+||spmi.stttekstil.ac.id^
+||bisik.id^
+||kominfo.go.id^
+||lisboabelemopen.com^
+||ppdb.maskara.sch.id^
+||koma.id^
+||halodoc.com^
+||pinjamdulu500.com^
+||msoundersfc.pages.dev^
+||bengkulutoday.com^
+||abseits.at^
+||erty.ee^
+||itworks.id^
+||ciamiskabwede.pages.dev^
+||jendralmaya.pages.dev^
+||app.timesofmalta.com^
+||media.neliti.com^
+||pdi-perjuangan.pages.dev^
+||ecodrive.org^
+||lartsana.pages.dev^
+||parcosimone.it^
+||theplaidhorse.com^
+||maxbet855soundersfc.pages.dev^
+||gsicorp.co.id^
+||conference.untag-sby.ac.id^
+||jektvnews.disway.id^
+||bolasport.com^
+||indonesiakini.go.id^
+||slbnaciteureupcimahi.sch.id^
+||sidesa.dpmd.sukabumikab.go.id^
+||professores.uff.br^
+||loket.com^
+||gilabola.com^
+||ligaolahraga.com^
+||harnessbred.com^
+||publicrepo.geaviation.com^
+||jflspk.com^
+||aliyahalbadriyah.sch.id^
+||onefootball.com^
+||psb.alhasan.co.id^
+||idsitusbola.pages.dev^
+||nusalogistics.com^
+||bwhimsy.com^
+||altctrlgamejam.com^
+||ucosigtau.com^
+||ftp.dbd.puc-rio.br^
+||pssi.org^
+||arti.info^
+||labula-dining.com^
 
