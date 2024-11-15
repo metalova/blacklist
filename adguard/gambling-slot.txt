@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:34:08
+! Last Updated: 2024-11-15 18:38:18
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4396
+! Number of unique domains: 4401
 !
 
 ||103.115.28.6^
@@ -512,6 +512,7 @@
 ||bhgre.com^
 ||bi-lawfirm.com^
 ||biancahome.com^
+||bierwohl.com^
 ||bigbluecarwash.com^
 ||bigcatchlongbeach.com^
 ||bigfishgames.com^
@@ -2091,6 +2092,7 @@
 ||konstruksiindo.id^
 ||kontrasx.com^
 ||konzolbirodalom.hu^
+||kopimalam.online^
 ||koreansteakhouse.com^
 ||kosawit.net^
 ||kosmos.ch^
@@ -2201,7 +2203,9 @@
 ||lib.iaincurup.ac.id^
 ||libramemoria.com^
 ||library.ien.bg.ac.rs^
+||library.sttal.ac.id^
 ||library.upr.ac.id^
+||librinova-www.vercel.app^
 ||librinova.com^
 ||librolibre.net^
 ||lifespringhomehealth.com^
@@ -2806,6 +2810,7 @@
 ||orderredpigasiankitchen.com^
 ||orfo.ru^
 ||organicnailscdmx.com^
+||origenapartamentos.com^
 ||orizon-digital.fr^
 ||orori.com^
 ||ortizdental.com^

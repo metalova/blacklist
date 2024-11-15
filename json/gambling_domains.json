@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 18:34:08",
+  "updated": "2024-11-15 18:38:18",
   "categories": {
     "slot": {
-      "count": 4396,
+      "count": 4401,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26378,6 +26378,36 @@
           "domain": "tele-tubbies.firebaseapp.com",
           "raw_url": "https://tele-tubbies.firebaseapp.com/",
           "found_time": "2024-11-15 11:34:08",
+          "status": "active"
+        },
+        {
+          "domain": "librinova-www.vercel.app",
+          "raw_url": "https://librinova-www.vercel.app/web/",
+          "found_time": "2024-11-15 11:34:08",
+          "status": "active"
+        },
+        {
+          "domain": "library.sttal.ac.id",
+          "raw_url": "https://library.sttal.ac.id/",
+          "found_time": "2024-11-15 11:36:10",
+          "status": "active"
+        },
+        {
+          "domain": "origenapartamentos.com",
+          "raw_url": "https://origenapartamentos.com/",
+          "found_time": "2024-11-15 11:36:10",
+          "status": "active"
+        },
+        {
+          "domain": "bierwohl.com",
+          "raw_url": "https://bierwohl.com/?srsltid=AfmBOor57mgNI95JzbKNEgHEGQlQALmbIiNr6Q4EsMI10tPftMBF7RyZ",
+          "found_time": "2024-11-15 11:37:16",
+          "status": "active"
+        },
+        {
+          "domain": "kopimalam.online",
+          "raw_url": "https://kopimalam.online/yoga/",
+          "found_time": "2024-11-15 11:38:18",
           "status": "active"
         }
       ]
