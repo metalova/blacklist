@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:03:17
+! Last Updated: 2024-11-15 21:09:28
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4525
+! Number of unique domains: 4535
 !
 
 ||103.115.28.6^
@@ -178,6 +178,7 @@
 ||agry.se^
 ||ah01.pages.dev^
 ||ahyujournal.org^
+||aicte-india.org^
 ||aik.uhamka.ac.id^
 ||airassaults.com^
 ||airdays.co.kr^
@@ -1092,6 +1093,7 @@
 ||dishub.banjarbarukota.go.id^
 ||diskominfo.grobogan.go.id^
 ||diskop.tulangbawangkab.go.id^
+||disnakertrans.kepriprov.go.id^
 ||disparpora.ngawikab.go.id^
 ||disperindag.endekab.go.id^
 ||disperkim.kaurkab.go.id^
@@ -1107,6 +1109,7 @@
 ||dksvirginia.com^
 ||dlh.ngawikab.go.id^
 ||dmc.herminahospitals.com^
+||dmnq.id^
 ||dmtconference.com^
 ||dmucu.org^
 ||dnaberita.com^
@@ -1186,6 +1189,7 @@
 ||e-service.ocei.gov.bd^
 ||e-solar.tech^
 ||e.pendampingdesa.com^
+||eadcadworks.com.br^
 ||eadministrasi.untirta.ac.id^
 ||eadplus.com.br^
 ||eaglebusinessservices.com^
@@ -1281,6 +1285,7 @@
 ||erlangga.co.id^
 ||ernest-le-glacier.com^
 ||erniessteak.com^
+||erwinsmith.blog^
 ||erwo.hr^
 ||escenicos.com.mx^
 ||eschenbach.cz^
@@ -3039,6 +3044,7 @@
 ||perpustakaan.pa-kolaka.go.id^
 ||persbhayangkara.id^
 ||persefona.cz^
+||persib.co.id^
 ||perumnas.co.id^
 ||perusdambs.com^
 ||pesacrash.com^
@@ -3120,6 +3126,7 @@
 ||pma.bku.ac.id^
 ||pmb.ipbcirebon.ac.id^
 ||pmb.unaki.ac.id^
+||pmb.uniasman.ac.id^
 ||pmbet.co.tz^
 ||pmexpressng.com^
 ||pmjnews.com^
@@ -3146,6 +3153,7 @@
 ||poorrichardstogo.com^
 ||poptens.com^
 ||portal-flexp-test.orsted.com^
+||portal.mas-alkhairaat.sch.id^
 ||portal.stienusantara.ac.id^
 ||portal.ubk.ac.id^
 ||portal.ubs-ppni.ac.id^
@@ -3325,6 +3333,7 @@
 ||ranahkomunikasi.fisip.unand.ac.id^
 ||randolpharchives.pages.dev^
 ||ransjitunih.com^
+||raport.mas-alkhairaat.sch.id^
 ||ratumagelang.com^
 ||raywhitewagga.com.au^
 ||rc2groupcorporation.com^
@@ -3516,6 +3525,7 @@
 ||sandylikethebeachblog.com^
 ||sanfordvitrified.com^
 ||sangareepizza.com^
+||sansdreamscape.net^
 ||santacruzpacificdental.com^
 ||santas-wonderland.com^
 ||santeethaihouse.com^

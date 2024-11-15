@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 21:03:17",
+  "updated": "2024-11-15 21:09:28",
   "categories": {
     "slot": {
-      "count": 4525,
+      "count": 4535,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -27152,6 +27152,66 @@
           "domain": "berlinlog.com",
           "raw_url": "https://www.berlinlog.com/atom138rtp-50501",
           "found_time": "2024-11-15 14:03:17",
+          "status": "active"
+        },
+        {
+          "domain": "persib.co.id",
+          "raw_url": "https://persib.co.id/",
+          "found_time": "2024-11-15 14:03:17",
+          "status": "active"
+        },
+        {
+          "domain": "raport.mas-alkhairaat.sch.id",
+          "raw_url": "https://raport.mas-alkhairaat.sch.id/hasil/?APT=kapuas88",
+          "found_time": "2024-11-15 14:05:20",
+          "status": "active"
+        },
+        {
+          "domain": "dmnq.id",
+          "raw_url": "https://dmnq.id/wp-includes/images/?gunung=wisdomtoto+wap",
+          "found_time": "2024-11-15 14:05:21",
+          "status": "active"
+        },
+        {
+          "domain": "sansdreamscape.net",
+          "raw_url": "https://www.sansdreamscape.net/atom138-29306",
+          "found_time": "2024-11-15 14:05:21",
+          "status": "active"
+        },
+        {
+          "domain": "aicte-india.org",
+          "raw_url": "https://www.aicte-india.org/wpx/?rawr=kapuas88",
+          "found_time": "2024-11-15 14:07:23",
+          "status": "active"
+        },
+        {
+          "domain": "portal.mas-alkhairaat.sch.id",
+          "raw_url": "https://portal.mas-alkhairaat.sch.id/hanyaportal/?APT=kapuas88",
+          "found_time": "2024-11-15 14:07:23",
+          "status": "active"
+        },
+        {
+          "domain": "disnakertrans.kepriprov.go.id",
+          "raw_url": "https://disnakertrans.kepriprov.go.id/vendor/?id=zona4d",
+          "found_time": "2024-11-15 14:07:24",
+          "status": "active"
+        },
+        {
+          "domain": "pmb.uniasman.ac.id",
+          "raw_url": "https://pmb.uniasman.ac.id/?kalikong=zona4d",
+          "found_time": "2024-11-15 14:07:24",
+          "status": "active"
+        },
+        {
+          "domain": "erwinsmith.blog",
+          "raw_url": "https://erwinsmith.blog/JEEP4D-LINK",
+          "found_time": "2024-11-15 14:08:27",
+          "status": "active"
+        },
+        {
+          "domain": "eadcadworks.com.br",
+          "raw_url": "http://eadcadworks.com.br/availability/?pafi=jeep4d",
+          "found_time": "2024-11-15 14:09:28",
           "status": "active"
         }
       ]
