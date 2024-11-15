@@ -1,9 +1,10 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 03:19:48
+! Last Updated: 2024-11-16 03:24:11
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 71
+! Number of unique domains: 89
 !
 
+||1xbet.id.uptodown.com^
 ||34d-nude-run.id.uptodown.com^
 ||80rae.com^
 ||aboutsemarang.id^
@@ -11,13 +12,17 @@
 ||betwinner.co.zm^
 ||blix.gg^
 ||brg.ina-sdi.or.id^
+||britadao.com^
 ||cakrawalajabar.com^
+||canadiangamingbusiness.com^
 ||ciremainews.com^
 ||daftaresports.com^
 ||dailypost.id^
 ||decoracionessolecuador.com^
+||discord.com^
 ||enterkomputer.com^
 ||esic.gg^
+||esport-my.com^
 ||esports.id^
 ||esportsacademy.id^
 ||esportsagent.gg^
@@ -26,12 +31,17 @@
 ||esportsportal.net^
 ||esportsvikings.com^
 ||exactitudeconsultancy.com^
+||fedmvz.com^
+||financialpost.com^
+||friendly-wounds.com^
 ||games.grid.id^
 ||gaming.net^
 ||garena.co.id^
 ||garudaku.com^
 ||hatredspeaks.com^
+||huddle.tech^
 ||ijcst.com.pk^
+||infomase.id^
 ||issacyber.com^
 ||journal.stkippamanetalino.ac.id^
 ||jurnal.stkippgritulungagung.ac.id^
@@ -39,17 +49,22 @@
 ||kelaskita.com^
 ||klamathcampercorral.com^
 ||la-fermette.net^
+||lab-test.id^
 ||legal-esport.com^
 ||lensaone.id^
 ||linkidntogel.com^
+||listvox.com^
 ||lj.maharashtra.gov.in^
 ||mapapgeorgia.org^
 ||metaco.gg^
 ||microbesociety.org^
 ||mobilenation.id^
+||neraca.co.id^
 ||newberrycountyhistory.com^
 ||oddin.gg^
 ||oneesports.id^
+||otcmarkets.com^
+||pandascore.co^
 ||playvalorant.com^
 ||podiumesports.com^
 ||ponlix.wordpress.com^
@@ -63,10 +78,12 @@
 ||responsiblegambling.vic.gov.au^
 ||sactr.com^
 ||sbobetesports.wordpress.com^
+||sg.finance.yahoo.com^
 ||sis.tv^
 ||sockit2pp.com^
 ||sportlinknews.com^
 ||statista.com^
+||steemit.com^
 ||sunnybraegolfcourse.com^
 ||szpitalpraski.pl^
 ||taruhan-mobile-legend.dadventure.ca^
@@ -75,3 +92,4 @@
 ||valorant.fandom.com^
 ||valorantesports.com^
 ||vcgamers.com^
+||whop.com^

@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 03:19:48
+! Last Updated: 2024-11-16 03:24:11
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6247
+! Number of domains: 6265
 !
 
 ! Category: SLOT
@@ -6263,4 +6263,22 @@
 ||esportsgrizzly.com^
 ||aboutsemarang.id^
 ||dailypost.id^
+||friendly-wounds.com^
+||steemit.com^
+||britadao.com^
+||esport-my.com^
+||infomase.id^
+||neraca.co.id^
+||fedmvz.com^
+||pandascore.co^
+||otcmarkets.com^
+||lab-test.id^
+||whop.com^
+||discord.com^
+||canadiangamingbusiness.com^
+||1xbet.id.uptodown.com^
+||huddle.tech^
+||financialpost.com^
+||sg.finance.yahoo.com^
+||listvox.com^
 
