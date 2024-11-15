@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 04:34:21
+! Last Updated: 2024-11-16 04:39:53
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6427
+! Number of domains: 6474
 !
 
 ! Category: SLOT
@@ -6445,4 +6445,51 @@
 ||media24.id^
 ||qualityplushseq.ca^
 ||cantz.or.tz^
+||albantech.co.tz^
+||indonesia.go.id^
+||diskominfo.kaltimprov.go.id^
+||diskominfotik.lampungprov.go.id^
+||dprd-dkijakartaprov.go.id^
+||opini.harianjogja.com^
+||jurnal.unigo.ac.id^
+||belitongekspres.bacakoran.co^
+||ptindahkarya.com^
+||magdalene.co^
+||polresbanjarbaru.org^
+||mra-grant.com.sg^
+||gizmologi.id^
+||law.uii.ac.id^
+||didaktis.metaniskala.co.id^
+||mistar.id^
+||pasardana.id^
+||harianaceh.co.id^
+||ppid.ppatk.go.id^
+||kalimantanpost.com^
+||dataindonesia.id^
+||katakini.com^
+||people-qa.int.sap^
+||ariranews.com^
+||lensakini.com^
+||avantee.co.id^
+||pedomanrakyat.com^
+||suaradewata.com^
+||belasting.id^
+||j5newsroom.com^
+||lenteratoday.com^
+||detail.id^
+||herald.id^
+||indonesiainside.id^
+||swa.co.id^
+||kabarbursa.com^
+||nukilan.id^
+||azuralabs.id^
+||hukamanews.com^
+||owntalk.co.id^
+||transparannews.id^
+||teras.id^
+||kpdsabah.com^
+||fortuneidn.com^
+||bukamatanews.id^
+||sulbar.herald.id^
+||radarutara.bacakoran.co^
 
