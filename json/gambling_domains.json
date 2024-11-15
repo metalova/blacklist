@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 05:29:53",
+  "updated": "2024-11-16 05:32:00",
   "categories": {
     "slot": {
-      "count": 4746,
+      "count": 4749,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28479,6 +28479,24 @@
           "raw_url": "https://tpid.sumenepkab.go.id/daftar/?page=situswin",
           "found_time": "2024-11-15 15:58:49",
           "status": "active"
+        },
+        {
+          "domain": "bptvtest.bigpond.com",
+          "raw_url": "http://bptvtest.bigpond.com/",
+          "found_time": "2024-11-15 22:31:59",
+          "status": "active"
+        },
+        {
+          "domain": "findhelp.nurtijarah.com",
+          "raw_url": "https://findhelp.nurtijarah.com/",
+          "found_time": "2024-11-15 22:31:59",
+          "status": "active"
+        },
+        {
+          "domain": "hasinishelbroadway.com",
+          "raw_url": "https://hasinishelbroadway.com/",
+          "found_time": "2024-11-15 22:31:59",
+          "status": "active"
         }
       ]
     },
@@ -34355,7 +34373,7 @@
       ]
     },
     "poker": {
-      "count": 111,
+      "count": 115,
       "domains": [
         {
           "domain": "goodshepherdshawnee.org",
@@ -35021,6 +35039,30 @@
           "domain": "winningboxingequipment.com",
           "raw_url": "https://www.winningboxingequipment.com/amp/",
           "found_time": "2024-11-15 22:29:52",
+          "status": "active"
+        },
+        {
+          "domain": "niloa.net",
+          "raw_url": "https://niloa.net/",
+          "found_time": "2024-11-15 22:29:53",
+          "status": "active"
+        },
+        {
+          "domain": "suryoyonews.com",
+          "raw_url": "http://suryoyonews.com/",
+          "found_time": "2024-11-15 22:30:56",
+          "status": "active"
+        },
+        {
+          "domain": "djarum365ceria.org",
+          "raw_url": "https://djarum365ceria.org/",
+          "found_time": "2024-11-15 22:30:57",
+          "status": "active"
+        },
+        {
+          "domain": "selahattintulunay.com",
+          "raw_url": "https://www.selahattintulunay.com/",
+          "found_time": "2024-11-15 22:30:57",
           "status": "active"
         }
       ]

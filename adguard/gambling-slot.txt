@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 05:29:53
+! Last Updated: 2024-11-16 05:32:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4746
+! Number of unique domains: 4749
 !
 
 ||103.115.28.6^
@@ -671,6 +671,7 @@
 ||bprsahabattata.co.id^
 ||bprtaja.co.id^
 ||bpti.darunnajah.ac.id^
+||bptvtest.bigpond.com^
 ||br.888casino.com^
 ||brainly.co.id^
 ||brandfetch.com^
@@ -1444,6 +1445,7 @@
 ||financialfreedomnow.org^
 ||find-and-update.company-information.service.gov.uk^
 ||findelectricianonline.com^
+||findhelp.nurtijarah.com^
 ||findinglostangeles.com^
 ||fineartamerica.com^
 ||finkomodo.com^
@@ -1695,6 +1697,7 @@
 ||harrisforwisconsin.com^
 ||harvardintechseattle.com^
 ||harvestqc.com^
+||hasinishelbroadway.com^
 ||hassellcastle.com^
 ||haute-edition.com^
 ||hawaiwaterpark.com^

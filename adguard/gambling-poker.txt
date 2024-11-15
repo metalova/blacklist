@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-16 05:29:53
+! Last Updated: 2024-11-16 05:32:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 111
+! Number of unique domains: 115
 !
 
 ||63.142.240.221^
@@ -36,6 +36,7 @@
 ||d3w4pokerinv.com^
 ||developmetrics.org^
 ||districtmeasured.com^
+||djarum365ceria.org^
 ||ejournal.upgrisba.ac.id^
 ||endtcm21.com^
 ||eseiw2019.com^
@@ -71,6 +72,7 @@
 ||mountzionmedicalcollege.com^
 ||mutiarapackaging.com^
 ||news.bitcoin.com^
+||niloa.net^
 ||nordicultratune.com^
 ||orlandoalltrans.com^
 ||pafikabacehsingkil.org^
@@ -93,12 +95,14 @@
 ||rsudlamaddukkelleng.wajokab.go.id^
 ||says.com^
 ||sbnhc.org^
+||selahattintulunay.com^
 ||seo-charleston.com^
 ||sinarvegas328.com^
 ||singapokerjpterus.com^
 ||siteme.org^
 ||sns.sk^
 ||sociedadedobem.org^
+||suryoyonews.com^
 ||tedxgraphicerauniversity.com^
 ||terminaljatijajar.id^
 ||tessiecastillo.com^
