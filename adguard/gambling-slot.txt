@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 21:34:38
+! Last Updated: 2024-11-15 21:40:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4602
+! Number of unique domains: 4625
 !
 
 ||103.115.28.6^
@@ -646,6 +646,7 @@
 ||bprbkkwonosobo.co.id^
 ||bprkotapasuruan.com^
 ||bprmitrakopjaya.com^
+||bprphm.com^
 ||bprsahabattata.co.id^
 ||bprtaja.co.id^
 ||bpti.darunnajah.ac.id^
@@ -793,6 +794,7 @@
 ||cfppadugers.com^
 ||chambersforindiana.com^
 ||chameleonpr.com^
+||championschool.org^
 ||chargedretail.co.uk^
 ||charlesdemarcomd.com^
 ||charleskeith-id.ptkcg.co.id^
@@ -849,9 +851,11 @@
 ||claxindia.com^
 ||clearwatercasino.com^
 ||clermontseniors.com^
+||climateprotectioncampaign.org^
 ||clinicadelpradoestetica.com^
 ||clips.twitch.tv^
 ||clothingculture.in^
+||cloud9covers.com^
 ||club-cent.com^
 ||clubboxeogiovannijaramillo.com^
 ||clubebowla.com^
@@ -925,6 +929,7 @@
 ||corpamag.gov.co^
 ||corsoecm.it^
 ||cortijoamaya.com^
+||coruhturizm.com^
 ||corygated.com^
 ||cosmospecialtyfibers.com^
 ||cotewell.com.au^
@@ -936,6 +941,7 @@
 ||covaledafest.com^
 ||covid19gb.com^
 ||cowsend.com^
+||cowtribe.com^
 ||cpanel.akaun.com^
 ||cpanel.indagkop.kaltimprov.go.id^
 ||cpns.id^
@@ -1191,6 +1197,7 @@
 ||dukcapil.tapinkab.go.id^
 ||dukcapilmakassar.site^
 ||dukesmenu.com^
+||dulohupa.id^
 ||dumkamenu.cz^
 ||dungeondefenders.fandom.com^
 ||duproprio.com^
@@ -1261,6 +1268,7 @@
 ||elearning.unsri.ac.id^
 ||elearningmu.umla.ac.id^
 ||elearningsmpn4bantarbolang.com^
+||elearningust.info^
 ||electrocycle.gr^
 ||elektrony.sk^
 ||elespejomag.org^
@@ -1645,6 +1653,7 @@
 ||hb-hautsdefrance.com^
 ||hc-ant.com^
 ||hccon.id^
+||hccuonline.com^
 ||hcd.moreno.gob.ar^
 ||hcs777linksitus.id^
 ||healthpostcovid-19.org^
@@ -1920,6 +1929,7 @@
 ||jamsosindonesia.com^
 ||janda4dsip.com^
 ||japaknimen.xyz^
+||japanee.id^
 ||japri138.online^
 ||japri138slot.info^
 ||jardinoaxaca.mx^
@@ -1960,6 +1970,7 @@
 ||jennypennyphoto.com^
 ||jerryforcongress.com^
 ||jewellerymideast.com^
+||jewelrykind.com^
 ||jgs.ejournal.unri.ac.id^
 ||jhahanadas.com^
 ||jharanajunglelodge.com^
@@ -2561,6 +2572,7 @@
 ||mediacenter.temanggungkab.go.id^
 ||mediadelegasi.id^
 ||mediaindonesia.com^
+||mediakaltim.com^
 ||mediapolri.id^
 ||medicalnewstoday.com^
 ||medium.com^
@@ -2667,6 +2679,8 @@
 ||mitwpu-ncmj.com^
 ||mjolk.cz^
 ||mlbbhero.com^
+||mlbcollegegwalior.org^
+||mle.hu^
 ||mlite.betking.co.ke^
 ||mlive.com^
 ||mnh.gov.la^
@@ -3265,6 +3279,7 @@
 ||prokal.co^
 ||prolegalnews.co.id^
 ||prolegalnews.id^
+||prometheusgm.com^
 ||promo-hyundai-jakarta.com^
 ||propertyneedsyou.com^
 ||propertypal.com^
@@ -3463,6 +3478,7 @@
 ||rme.hpushimla.in^
 ||rmol.id^
 ||robinhoodstory.com^
+||robotavidnovlennya.org^
 ||rocketreach.co^
 ||rohkinokarten.com^
 ||romeospizzaandmore.com^
@@ -3645,6 +3661,7 @@
 ||setjen.kemkes.go.id^
 ||setkab.go.id^
 ||setsquaresolutions.com^
+||sfaaz.org^
 ||sfile.mobi^
 ||shabab3net.com^
 ||shaiavidan.org^
@@ -3755,6 +3772,7 @@
 ||situshoki777.shop^
 ||situsjp.net^
 ||sivajibuilders.com^
+||siwalimanews.com^
 ||sixlasvegas.com^
 ||sizi99petir.com^
 ||sizzlenightclub.com^
@@ -3950,6 +3968,7 @@
 ||sultansgrilllv.com^
 ||sumbartodaynews.com^
 ||sumbawanews.com^
+||sumeks.disway.id^
 ||summaedu.org^
 ||summitmidwestdrags.com^
 ||sumsel.akurat.co^
@@ -4282,6 +4301,7 @@
 ||trywebwall.com^
 ||tsblp.id^
 ||tsmo.cz^
+||tsncdnpunjabi.truescoopnews.com^
 ||tsubaki-hg.com^
 ||tto.nust.edu.pk^
 ||tubosdeled.com^
@@ -4345,6 +4365,7 @@
 ||upb.iainkendari.ac.id^
 ||upcycleafrica.org^
 ||uppmaccinibaji.org^
+||uptppwa.ummat.ac.id^
 ||urbanoctober.unhabitat.org^
 ||urigroup.vn^
 ||urownstory-iqbal.org^
@@ -4445,6 +4466,7 @@
 ||waspada.id^
 ||watershed440.com^
 ||wattpad.com^
+||wavepublication.com^
 ||wazdan.com^
 ||wbac.com^
 ||wbnc.in^
@@ -4469,6 +4491,7 @@
 ||wellingtonvillagedental.com^
 ||wendyandwilson.com^
 ||wendypark.org^
+||westbendsalspizza.com^
 ||westenberg.net^
 ||westernrockinghammiddle.org^
 ||westerntransportationinstitute.org^
