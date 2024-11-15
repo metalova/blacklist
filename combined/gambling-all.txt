@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 03:26:17
+! Last Updated: 2024-11-16 03:59:26
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6272
+! Number of domains: 6281
 !
 
 ! Category: SLOT
@@ -6288,4 +6288,13 @@
 ||globalbiofest.com^
 ||play.mobilelegends.com^
 ||dota2-betting.com^
+||bilibili.tv^
+||bernama.com^
+||bet365.id.uptodown.com^
+||repository.uinsi.ac.id^
+||jakp.fisip.unand.ac.id^
+||cbssports.com^
+||esports.pubgmobile.com^
+||betwinner.cm^
+||yumwiki.com^
 

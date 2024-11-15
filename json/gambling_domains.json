@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 03:26:17",
+  "updated": "2024-11-16 03:59:26",
   "categories": {
     "slot": {
       "count": 4746,
@@ -37083,7 +37083,7 @@
       ]
     },
     "esports": {
-      "count": 96,
+      "count": 105,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -37659,6 +37659,60 @@
           "domain": "dota2-betting.com",
           "raw_url": "https://dota2-betting.com/",
           "found_time": "2024-11-15 20:26:17",
+          "status": "active"
+        },
+        {
+          "domain": "bilibili.tv",
+          "raw_url": "https://www.bilibili.tv/id/video/4793194862350336",
+          "found_time": "2024-11-15 20:26:17",
+          "status": "active"
+        },
+        {
+          "domain": "bernama.com",
+          "raw_url": "https://www.bernama.com/misc/rss/news.php?id=2363833",
+          "found_time": "2024-11-15 20:57:22",
+          "status": "active"
+        },
+        {
+          "domain": "bet365.id.uptodown.com",
+          "raw_url": "https://bet365.id.uptodown.com/android",
+          "found_time": "2024-11-15 20:57:22",
+          "status": "active"
+        },
+        {
+          "domain": "repository.uinsi.ac.id",
+          "raw_url": "https://repository.uinsi.ac.id/handle/123456789/1393",
+          "found_time": "2024-11-15 20:57:22",
+          "status": "active"
+        },
+        {
+          "domain": "jakp.fisip.unand.ac.id",
+          "raw_url": "https://jakp.fisip.unand.ac.id/pages/-/?lib=Agen+taruhan+PUBG+Mobile",
+          "found_time": "2024-11-15 20:57:22",
+          "status": "active"
+        },
+        {
+          "domain": "cbssports.com",
+          "raw_url": "https://www.cbssports.com/mlb/scoreboard/",
+          "found_time": "2024-11-15 20:57:23",
+          "status": "active"
+        },
+        {
+          "domain": "esports.pubgmobile.com",
+          "raw_url": "https://esports.pubgmobile.com/",
+          "found_time": "2024-11-15 20:57:23",
+          "status": "active"
+        },
+        {
+          "domain": "betwinner.cm",
+          "raw_url": "https://betwinner.cm/id/line/esports/2590237-pubg-pgs-grand-finals-winner",
+          "found_time": "2024-11-15 20:58:24",
+          "status": "active"
+        },
+        {
+          "domain": "yumwiki.com",
+          "raw_url": "https://yumwiki.com/",
+          "found_time": "2024-11-15 20:59:26",
           "status": "active"
         }
       ]
