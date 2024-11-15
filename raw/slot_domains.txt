@@ -763,6 +763,7 @@ charlies-apples.com
 chaseliving.com
 chasenews.com.au
 chatgpt.com
+chatnews.id
 check4d.org
 checkanagent.com
 chefwesavila.com
@@ -1940,6 +1941,7 @@ journal.uns.ac.id
 journal.wima.ac.id
 journal0.pages.dev
 journal1.uad.ac.id
+journall.org
 journalpublicspace.org
 journalpublicspace.pages.dev
 journals.iarn.or.id

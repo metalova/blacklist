@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 18:49:57
+! Last Updated: 2024-11-15 18:53:06
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4441
+! Number of unique domains: 4443
 !
 
 ||103.115.28.6^
@@ -769,6 +769,7 @@
 ||chaseliving.com^
 ||chasenews.com.au^
 ||chatgpt.com^
+||chatnews.id^
 ||check4d.org^
 ||checkanagent.com^
 ||chefwesavila.com^
@@ -1946,6 +1947,7 @@
 ||journal.wima.ac.id^
 ||journal0.pages.dev^
 ||journal1.uad.ac.id^
+||journall.org^
 ||journalpublicspace.org^
 ||journalpublicspace.pages.dev^
 ||journals.iarn.or.id^

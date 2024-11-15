@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 18:49:57",
+  "updated": "2024-11-15 18:53:06",
   "categories": {
     "slot": {
-      "count": 4441,
+      "count": 4443,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26648,6 +26648,18 @@
           "domain": "psicoterapiaparalgbts.com.br",
           "raw_url": "https://psicoterapiaparalgbts.com.br/yacine-tv-login-tanpa-blokir",
           "found_time": "2024-11-15 11:49:57",
+          "status": "active"
+        },
+        {
+          "domain": "chatnews.id",
+          "raw_url": "https://chatnews.id/read/terlibat-judi-online-akun-instagram-dengan-puluhan-ribu-pengikut-di-blokir",
+          "found_time": "2024-11-15 11:49:57",
+          "status": "active"
+        },
+        {
+          "domain": "journall.org",
+          "raw_url": "https://journall.org/",
+          "found_time": "2024-11-15 11:52:04",
           "status": "active"
         }
       ]
