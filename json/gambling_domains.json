@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 10:39:01",
+  "updated": "2024-11-15 10:44:14",
   "categories": {
     "slot": {
-      "count": 4318,
+      "count": 4331,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25910,6 +25910,84 @@
           "domain": "journal.unisnu.ac.id",
           "raw_url": "https://journal.unisnu.ac.id/tos/",
           "found_time": "2024-11-15 10:39:01",
+          "status": "active"
+        },
+        {
+          "domain": "pannafoto.org",
+          "raw_url": "https://pannafoto.org/",
+          "found_time": "2024-11-15 10:39:01",
+          "status": "active"
+        },
+        {
+          "domain": "frkelly.com",
+          "raw_url": "https://www.frkelly.com/",
+          "found_time": "2024-11-15 10:40:06",
+          "status": "active"
+        },
+        {
+          "domain": "portaly.cc",
+          "raw_url": "https://portaly.cc/losari88",
+          "found_time": "2024-11-15 10:40:06",
+          "status": "active"
+        },
+        {
+          "domain": "catsaid.org",
+          "raw_url": "https://www.catsaid.org/",
+          "found_time": "2024-11-15 10:40:07",
+          "status": "active"
+        },
+        {
+          "domain": "lesjardinsdumontperthuis.com",
+          "raw_url": "http://www.lesjardinsdumontperthuis.com/",
+          "found_time": "2024-11-15 10:40:07",
+          "status": "active"
+        },
+        {
+          "domain": "the-bluewagyu.com",
+          "raw_url": "https://the-bluewagyu.com/",
+          "found_time": "2024-11-15 10:40:07",
+          "status": "active"
+        },
+        {
+          "domain": "igarss2016.org",
+          "raw_url": "https://www.igarss2016.org/",
+          "found_time": "2024-11-15 10:40:07",
+          "status": "active"
+        },
+        {
+          "domain": "plomberiemathieuparent.com",
+          "raw_url": "https://www.plomberiemathieuparent.com/",
+          "found_time": "2024-11-15 10:40:07",
+          "status": "active"
+        },
+        {
+          "domain": "fitcontasta.com",
+          "raw_url": "https://www.fitcontasta.com/",
+          "found_time": "2024-11-15 10:41:09",
+          "status": "active"
+        },
+        {
+          "domain": "rtp.gacorclouds.workers.dev",
+          "raw_url": "https://rtp.gacorclouds.workers.dev/",
+          "found_time": "2024-11-15 10:44:13",
+          "status": "active"
+        },
+        {
+          "domain": "issw2008.com",
+          "raw_url": "https://www.issw2008.com/",
+          "found_time": "2024-11-15 10:44:13",
+          "status": "active"
+        },
+        {
+          "domain": "animalhospitalwesterville.com",
+          "raw_url": "https://www.animalhospitalwesterville.com/",
+          "found_time": "2024-11-15 10:44:14",
+          "status": "active"
+        },
+        {
+          "domain": "oui-presse.com",
+          "raw_url": "https://oui-presse.com/",
+          "found_time": "2024-11-15 10:44:14",
           "status": "active"
         }
       ]

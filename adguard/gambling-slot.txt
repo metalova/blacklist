@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 10:39:01
+! Last Updated: 2024-11-15 10:44:14
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4318
+! Number of unique domains: 4331
 !
 
 ||103.115.28.6^
@@ -241,6 +241,7 @@
 ||angelschristianacademy.com^
 ||angelstarch.com^
 ||angkasaonline.co.id^
+||animalhospitalwesterville.com^
 ||animaltrial.com^
 ||animation-groupe-jazz.com^
 ||anjajimbaran.com^
@@ -697,6 +698,7 @@
 ||catering-delicious.com^
 ||caterpillar-indonesia.com^
 ||catholiccharities-sbc.org^
+||catsaid.org^
 ||caulfieldsdancefitness.com^
 ||cavaswinelodge.com^
 ||cavorestaurant.com^
@@ -1314,6 +1316,7 @@
 ||firstdoormarketing.com^
 ||firstsportukraine.com^
 ||fisipol.ummat.ac.id^
+||fitcontasta.com^
 ||fitnessfixpilates.com^
 ||fivealls.com^
 ||fivestarbar.com^
@@ -1361,6 +1364,7 @@
 ||freepik.com^
 ||freetips.com^
 ||frenchscope.com^
+||frkelly.com^
 ||fst-usmba.ac.ma^
 ||ft.unsri.ac.id^
 ||ftbprimetime.com^
@@ -1667,6 +1671,7 @@
 ||idxchannel.com^
 ||igamingaffiliateprograms.com^
 ||igamingfuture.com^
+||igarss2016.org^
 ||igca2023.com^
 ||igtjackpots.com^
 ||ihcdayspa.com^
@@ -1769,6 +1774,7 @@
 ||isgns2023.com^
 ||islekerart.org^
 ||isplima.edu.pe^
+||issw2008.com^
 ||istana138q.com^
 ||istiqlal.or.id^
 ||istrc.org^
@@ -2148,6 +2154,7 @@
 ||leovc.io^
 ||lesbateliersdelarade.com^
 ||lesemencierurbain.ca^
+||lesjardinsdumontperthuis.com^
 ||lesvendangesdelespoir.fr^
 ||leticiarae.com^
 ||letsmeatkbbq.com^
@@ -2761,6 +2768,7 @@
 ||osakabowlinggreen.com^
 ||otiumcoldpress.com^
 ||otx.alienvault.com^
+||oui-presse.com^
 ||oulandroyale.com^
 ||oulmes.org^
 ||outonalimbtreehouse.com^
@@ -2832,6 +2840,7 @@
 ||panganku.org^
 ||pangkalannyirih.desa.id^
 ||panjar.pa-sukoharjo.go.id^
+||pannafoto.org^
 ||papuaselatanprov.ina-sdi.or.id^
 ||paradisecoffeelaveta.com^
 ||paradisepizzacapecod.com^
@@ -2963,6 +2972,7 @@
 ||playhouseonthesquare.org^
 ||playmaster.co.ke^
 ||plcdetroit.com^
+||plomberiemathieuparent.com^
 ||ploufsf.com^
 ||pm.bmh.or.id^
 ||pma.bku.ac.id^
@@ -2994,6 +3004,7 @@
 ||portal-flexp-test.orsted.com^
 ||portal.stienusantara.ac.id^
 ||portal.ubs-ppni.ac.id^
+||portaly.cc^
 ||portloganfishpond.com^
 ||porwilriau2023.com^
 ||pos4dtototogel04.com^
@@ -3293,6 +3304,7 @@
 ||rsuppersahabatan.co.id^
 ||rtm.atmi.ac.id^
 ||rtp-semutwin.fun^
+||rtp.gacorclouds.workers.dev^
 ||rtpgacorcerutu4d.net^
 ||rtplaw.com^
 ||rtplivegbk77.com^
@@ -3833,6 +3845,7 @@
 ||tgseed.com^
 ||thailiciousms.com^
 ||thanksgivingpoint.org^
+||the-bluewagyu.com^
 ||theatlantadisabilitylawyer.com^
 ||theatrepittsburgh.com^
 ||thebambooveneer.com^
