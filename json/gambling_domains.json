@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-15 23:59:31",
+  "updated": "2024-11-16 00:01:42",
   "categories": {
     "slot": {
       "count": 4746,
@@ -28483,7 +28483,7 @@
       ]
     },
     "casino": {
-      "count": 246,
+      "count": 255,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -29959,6 +29959,60 @@
           "domain": "vipcasinoservices.com.au",
           "raw_url": "https://vipcasinoservices.com.au/",
           "found_time": "2024-11-15 16:59:31",
+          "status": "active"
+        },
+        {
+          "domain": "luckyvip.com",
+          "raw_url": "https://www.luckyvip.com/",
+          "found_time": "2024-11-15 16:59:31",
+          "status": "active"
+        },
+        {
+          "domain": "deinbaden.ch",
+          "raw_url": "https://deinbaden.ch/en/experience/eating-entertainment/grand-casino-baden-en",
+          "found_time": "2024-11-15 17:00:38",
+          "status": "active"
+        },
+        {
+          "domain": "downtowngrand.com",
+          "raw_url": "https://www.downtowngrand.com/",
+          "found_time": "2024-11-15 17:00:39",
+          "status": "active"
+        },
+        {
+          "domain": "casino-vip.com",
+          "raw_url": "https://www.casino-vip.com/",
+          "found_time": "2024-11-15 17:00:39",
+          "status": "active"
+        },
+        {
+          "domain": "thegolfbusiness.co.uk",
+          "raw_url": "https://www.thegolfbusiness.co.uk/2023/11/vip-and-loyalty-programs-maximising-casino-bonus-benefits/",
+          "found_time": "2024-11-15 17:00:39",
+          "status": "active"
+        },
+        {
+          "domain": "deadwoodmountaingrand.com",
+          "raw_url": "https://deadwoodmountaingrand.com/",
+          "found_time": "2024-11-15 17:00:39",
+          "status": "active"
+        },
+        {
+          "domain": "grandtreasurecasino.com",
+          "raw_url": "https://grandtreasurecasino.com/",
+          "found_time": "2024-11-15 17:00:39",
+          "status": "active"
+        },
+        {
+          "domain": "plazatirana.com",
+          "raw_url": "https://www.plazatirana.com/grand-casino/",
+          "found_time": "2024-11-15 17:00:40",
+          "status": "active"
+        },
+        {
+          "domain": "blockonomi.com",
+          "raw_url": "https://blockonomi.com/best-no-deposit-crypto-casino/",
+          "found_time": "2024-11-15 17:01:42",
           "status": "active"
         }
       ]

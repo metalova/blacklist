@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-15 23:59:31
+! Last Updated: 2024-11-16 00:01:42
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5361
+! Number of domains: 5370
 !
 
 ! Category: SLOT
@@ -5000,6 +5000,15 @@
 ||casinoprideofficial.com^
 ||tickets.riverspirittulsa.com^
 ||vipcasinoservices.com.au^
+||luckyvip.com^
+||deinbaden.ch^
+||downtowngrand.com^
+||casino-vip.com^
+||thegolfbusiness.co.uk^
+||deadwoodmountaingrand.com^
+||grandtreasurecasino.com^
+||plazatirana.com^
+||blockonomi.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-15 23:59:31
+! Last Updated: 2024-11-16 00:01:42
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 246
+! Number of unique domains: 255
 !
 
 ||24liveblog.com^
@@ -33,6 +33,7 @@
 ||bicyclecards.com^
 ||bizhare.id^
 ||blackhawkbbqandcoffeeshop.com^
+||blockonomi.com^
 ||bolavip.com^
 ||bombayclub.com^
 ||bossaction.com^
@@ -45,6 +46,7 @@
 ||carolinadumpstersllc.com^
 ||caseyforcongressri.com^
 ||casino-terrestre.com^
+||casino-vip.com^
 ||casinoprideofficial.com^
 ||cbsnews.com^
 ||cc.iift.ac.in^
@@ -62,9 +64,12 @@
 ||creedroomz.com^
 ||crownmelbourne.com.au^
 ||crownperth.com.au^
+||deadwoodmountaingrand.com^
+||deinbaden.ch^
 ||dellagoresort.com^
 ||deviantart.com^
 ||dolby.io^
+||downtowngrand.com^
 ||dpmptspp.belitung.go.id^
 ||e-statistik.temanggungkab.go.id^
 ||eastbayexpress.com^
@@ -91,6 +96,7 @@
 ||gotravelly.com^
 ||grandcasino-bern.ch^
 ||grandsierraresort.com^
+||grandtreasurecasino.com^
 ||grasz.id^
 ||greatcanadian.com^
 ||hardrock.bet^
@@ -131,6 +137,7 @@
 ||livedealer21.com^
 ||lrcr.com^
 ||lubukbangkar.desa.id^
+||luckyvip.com^
 ||luxurylifestylemag.co.uk^
 ||maderasboulevard.com^
 ||majesticpride.in^
@@ -168,6 +175,7 @@
 ||phatphilsfireworks.com^
 ||philadelphia.livecasinohotel.com^
 ||playgon.com^
+||plazatirana.com^
 ||policarbonatoecuador.com^
 ||portal.careerguidancecollege.com^
 ||pulsagacor99.com^
@@ -214,6 +222,7 @@
 ||theexpendables2film.com^
 ||thefosterfarm.org^
 ||thegamer.com^
+||thegolfbusiness.co.uk^
 ||thehypemagazine.com^
 ||theresortatsummerlin.com^
 ||thrivemedicalaesthetics.ca^
