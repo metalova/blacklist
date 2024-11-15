@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 05:32:00",
+  "updated": "2024-11-16 05:38:22",
   "categories": {
     "slot": {
-      "count": 4749,
+      "count": 4761,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28496,6 +28496,78 @@
           "domain": "hasinishelbroadway.com",
           "raw_url": "https://hasinishelbroadway.com/",
           "found_time": "2024-11-15 22:31:59",
+          "status": "active"
+        },
+        {
+          "domain": "kossmans.com",
+          "raw_url": "https://kossmans.com/",
+          "found_time": "2024-11-15 22:32:00",
+          "status": "active"
+        },
+        {
+          "domain": "rwaqalkotob.com",
+          "raw_url": "https://rwaqalkotob.com/",
+          "found_time": "2024-11-15 22:35:11",
+          "status": "active"
+        },
+        {
+          "domain": "prospect.institute",
+          "raw_url": "https://prospect.institute/mahjong/",
+          "found_time": "2024-11-15 22:35:11",
+          "status": "active"
+        },
+        {
+          "domain": "fortunecookieeauclaire.com",
+          "raw_url": "https://fortunecookieeauclaire.com/",
+          "found_time": "2024-11-15 22:35:12",
+          "status": "active"
+        },
+        {
+          "domain": "sosabecatering.com",
+          "raw_url": "https://sosabecatering.com/",
+          "found_time": "2024-11-15 22:35:12",
+          "status": "active"
+        },
+        {
+          "domain": "dpmptsp.sumbabaratkab.go.id",
+          "raw_url": "https://dpmptsp.sumbabaratkab.go.id/",
+          "found_time": "2024-11-15 22:35:12",
+          "status": "active"
+        },
+        {
+          "domain": "tripadvisor.nl",
+          "raw_url": "https://www.tripadvisor.nl/LocationPhotoDirectLink-g294229-d5964247-i648622402-Tatemukai-Jakarta_Java.html",
+          "found_time": "2024-11-15 22:35:12",
+          "status": "active"
+        },
+        {
+          "domain": "perumdatirtawening.co.id",
+          "raw_url": "https://perumdatirtawening.co.id/",
+          "found_time": "2024-11-15 22:35:13",
+          "status": "active"
+        },
+        {
+          "domain": "kamusslang.com",
+          "raw_url": "https://kamusslang.com/",
+          "found_time": "2024-11-15 22:36:14",
+          "status": "active"
+        },
+        {
+          "domain": "acclaimdriving.com",
+          "raw_url": "https://www.acclaimdriving.com/",
+          "found_time": "2024-11-15 22:37:18",
+          "status": "active"
+        },
+        {
+          "domain": "adcrypto.co.in",
+          "raw_url": "https://adcrypto.co.in/",
+          "found_time": "2024-11-15 22:37:19",
+          "status": "active"
+        },
+        {
+          "domain": "payd.gblgabung.com",
+          "raw_url": "https://payd.gblgabung.com/figmmg/1",
+          "found_time": "2024-11-15 22:38:22",
           "status": "active"
         }
       ]
