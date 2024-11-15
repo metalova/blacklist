@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-14 22:14:22
+! Last Updated: 2024-11-15 08:45:41
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 4535
+! Number of domains: 4573
 !
 
 ! Category: SLOT
@@ -4091,6 +4091,44 @@
 ||ww2.singoedan.xyz^
 ||gudeg.net^
 ||gioadinatura.fr^
+||souadnatech.fr^
+||ridea.org^
+||pcpafimojokerto.org^
+||thecitymanado.com^
+||frankespada.com^
+||heartofrocknrollbway.com^
+||wildays.com^
+||goldenbarcelona.zthotels.com^
+||keluaran-sdy.pa-tembilahan.go.id^
+||priestperformancehorses.com^
+||radar24.co.id^
+||jatim.jpnn.com^
+||seputarperak.com^
+||journalpublicspace.org^
+||spacafeonbroadway.com^
+||counselorswithoutborders.org^
+||thespreadfood.com^
+||journalpublicspace.pages.dev^
+||escenicos.com.mx^
+||marciasmunchies.com^
+||minduarembang.my.id^
+||kangtogelresmi.pages.dev^
+||pianetadessert.com^
+||agrinesia.co.id^
+||algomaveterans.pages.dev^
+||prediksihk.id^
+||hris.uai.ac.id^
+||bgo88.org^
+||newmamen.pages.dev^
+||agenmantep.pages.dev^
+||hoki77amp.com^
+||misteristiqlal.pages.dev^
+||slot88-wheat.vercel.app^
+||skilucifer.pages.dev^
+||jbgroup-salome.pages.dev^
+||fernandofranco.asdakota.com^
+||misterx500.pages.dev^
+||kabayan-pendukungmaxwin.pages.dev^
 
 ! Category: CASINO
 ||newszechuan.com^

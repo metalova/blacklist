@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-14 22:14:22
+! Last Updated: 2024-11-15 08:45:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4085
+! Number of unique domains: 4123
 !
 
 ||103.115.28.6^
@@ -149,6 +149,7 @@
 ||agenda.htp.ac.id^
 ||agenda.tebingtinggikota.go.id^
 ||agenhebat.vip^
+||agenmantep.pages.dev^
 ||agenolxfortune.com^
 ||agenolxpasti.com^
 ||agenslot.link^
@@ -162,6 +163,7 @@
 ||aglc.ca^
 ||agorarsc.org^
 ||agriculturaleducation.org^
+||agrinesia.co.id^
 ||agry.se^
 ||ahyujournal.org^
 ||aik.uhamka.ac.id^
@@ -180,6 +182,7 @@
 ||alatanindonesia.co.id^
 ||albeacon.com^
 ||albertina.academy^
+||algomaveterans.pages.dev^
 ||alinari.it^
 ||alirsyadpwt.or.id^
 ||allaboutbookpublishing.com^
@@ -473,6 +476,7 @@
 ||beyondhallyu.com^
 ||beyondmadisonavenue.com^
 ||bezhetsk.tv^
+||bgo88.org^
 ||bhgre.com^
 ||bi-lawfirm.com^
 ||biancahome.com^
@@ -828,6 +832,7 @@
 ||cosmospecialtyfibers.com^
 ||cotewell.com.au^
 ||cottonswonderbar.com^
+||counselorswithoutborders.org^
 ||courses.uet.vnu.edu.vn^
 ||coushattacasinoresort.com^
 ||covaledafest.com^
@@ -1164,6 +1169,7 @@
 ||ernest-le-glacier.com^
 ||erniessteak.com^
 ||erwo.hr^
+||escenicos.com.mx^
 ||eschenbach.cz^
 ||escuelademanejomonterrey.com^
 ||esicon2023hyd.com^
@@ -1229,6 +1235,7 @@
 ||feelhomeqatar.com^
 ||femalehumananimal.com^
 ||fenderanddonisch.com^
+||fernandofranco.asdakota.com^
 ||fernandofranco.com^
 ||ferrybuildingbikerentals.com^
 ||festivalsophia.it^
@@ -1284,6 +1291,7 @@
 ||foundationeast.org^
 ||foxbusiness.com^
 ||frankenforiowa.com^
+||frankespada.com^
 ||franksmarathon.com^
 ||frederickdouglassknowles.com^
 ||freecreditnodeposit.org^
@@ -1365,6 +1373,7 @@
 ||gogetterfoods.com^
 ||gojackpot.com.ph^
 ||goldenagevintagehomedecor.com^
+||goldenbarcelona.zthotels.com^
 ||goldenpalmshotels.com^
 ||goldenrace.com^
 ||goldentidebaseball.com^
@@ -1462,6 +1471,7 @@
 ||healthy-house.co.uk^
 ||hearthis.at^
 ||heartofeverywhere.com^
+||heartofrocknrollbway.com^
 ||heatherrandell.com^
 ||heathrow.com^
 ||hellasforum.no^
@@ -1492,6 +1502,7 @@
 ||hmpsars.id^
 ||hogardecristo.org.ar^
 ||hogriverbrewing.com^
+||hoki77amp.com^
 ||hokiwonjackpot.com^
 ||hollywoodburbankairport.com^
 ||home.smartsch.id^
@@ -1521,6 +1532,7 @@
 ||howtohelpinmaine.org^
 ||hpcbags.com^
 ||hrdinstitute.in^
+||hris.uai.ac.id^
 ||hub.docker.com^
 ||huc-hkh.org^
 ||hudsonmohawkpress.com^
@@ -1703,6 +1715,7 @@
 ||jasaberdikari.co.id^
 ||jasminenuneaton.com^
 ||jaspermorello.com^
+||jatim.jpnn.com^
 ||jaya4d.my^
 ||jayafun.com^
 ||jayatogel-88.com^
@@ -1710,6 +1723,7 @@
 ||jayatogelabadi.com^
 ||jazindia.com^
 ||jbeyecare.com^
+||jbgroup-salome.pages.dev^
 ||jbms360.com^
 ||jcsd.org^
 ||jcvdcme.com^
@@ -1780,6 +1794,8 @@
 ||journal.uns.ac.id^
 ||journal.wima.ac.id^
 ||journal1.uad.ac.id^
+||journalpublicspace.org^
+||journalpublicspace.pages.dev^
 ||journals.iarn.or.id^
 ||journals.prosciences.net^
 ||journals.scicell.org^
@@ -1825,6 +1841,7 @@
 ||justpaste.it^
 ||kabarindoraya.com^
 ||kabarjawatimur.com^
+||kabayan-pendukungmaxwin.pages.dev^
 ||kabblora.id^
 ||kaboki.ina-sdi.or.id^
 ||kadinkaranganyar.id^
@@ -1835,6 +1852,7 @@
 ||kaldiscafema.com^
 ||kanalkalimantan.com^
 ||kanayell.shop^
+||kangtogelresmi.pages.dev^
 ||kansasjayhawksbarchicago.com^
 ||kaokaogrill.com^
 ||kapuas88a.com^
@@ -1870,6 +1888,7 @@
 ||kejari-bondowoso.go.id^
 ||kelaspersonalia.id^
 ||kelmatras.bangka.go.id^
+||keluaran-sdy.pa-tembilahan.go.id^
 ||keluargahusada.co.id^
 ||kelulusan.sman20kabupatentangerang.sch.id^
 ||kelurahan-sukatani.id^
@@ -2205,6 +2224,7 @@
 ||many.link^
 ||mapolyng.com^
 ||marathonga.com^
+||marciasmunchies.com^
 ||marcoligi.com^
 ||maretsuper2.id^
 ||mariannestillings.com^
@@ -2348,6 +2368,7 @@
 ||milwaukeecoffeeservices.com^
 ||mindmeister.com^
 ||mindsincorporated.org^
+||minduarembang.my.id^
 ||mini-ielts.com^
 ||miniaussierescue.org^
 ||minicasheg.com^
@@ -2357,6 +2378,8 @@
 ||misosushilondon.com^
 ||missliterati.com^
 ||missmyrasmoonshiners.com^
+||misteristiqlal.pages.dev^
+||misterx500.pages.dev^
 ||mitramabes.com^
 ||mitrapost.com^
 ||mitrasehatjurnal.com^
@@ -2515,6 +2538,7 @@
 ||neumaticosdesegundamano.com^
 ||neurofitnessfoundation.org^
 ||newenglandmanagementgroup.com^
+||newmamen.pages.dev^
 ||newrmc.gov.sl^
 ||news.batampos.co.id^
 ||news.knowledia.com^
@@ -2709,6 +2733,7 @@
 ||pcifapia.org^
 ||pcpafikabmojokerto.org^
 ||pcpafikotaprobolinggo.org^
+||pcpafimojokerto.org^
 ||pcpafisingkawang.org^
 ||pcslibrary.ca^
 ||pd.kbjatim.id^
@@ -2763,6 +2788,7 @@
 ||phohasouthphiladelphia.com^
 ||photo.plain-me.com^
 ||photopoint.ee^
+||pianetadessert.com^
 ||pic.iwc.com^
 ||picincottage.com^
 ||pictureinbottle.com^
@@ -2866,6 +2892,7 @@
 ||pratama.co.id^
 ||pratititech.com^
 ||precisionappliancework.com^
+||prediksihk.id^
 ||prednisolone911.com^
 ||premiertrucks.net^
 ||premonitionspizza.com^
@@ -2876,6 +2903,7 @@
 ||prhospitalmathura.com^
 ||pria.org^
 ||pridesband.com^
+||priestperformancehorses.com^
 ||primetacogrille.com^
 ||primingscigar.com^
 ||pringsewukab.go.id^
@@ -2952,6 +2980,7 @@
 ||r365bos.art^
 ||r365vip.live^
 ||rackdoctor.net^
+||radar24.co.id^
 ||radarbanjarmasin.jawapos.com^
 ||radarmedan.com^
 ||radarsurabaya.jawapos.com^
@@ -3052,6 +3081,7 @@
 ||ricejournal.net^
 ||richardsachscyclocross.com^
 ||richardschicken.com^
+||ridea.org^
 ||rightmove.co.uk^
 ||rimcafd.com^
 ||ringoslakesidemarina.com^
@@ -3225,6 +3255,7 @@
 ||senegrill.com^
 ||senggol138a.click^
 ||seputarcibubur.pikiran-rakyat.com^
+||seputarperak.com^
 ||serafood.id^
 ||serespecial.org.br^
 ||server-luar.joyeriarosse.com^
@@ -3341,11 +3372,13 @@
 ||skbeveren.be^
 ||skckpolrespurworejo.com^
 ||skillslabcr.com^
+||skilucifer.pages.dev^
 ||skripsi.fk.uwks.ac.id^
 ||slinginginthesmokies.com^
 ||slot16c10.xyz^
 ||slot212zzzz.com^
 ||slot5000happy.com^
+||slot88-wheat.vercel.app^
 ||slot97agena.com^
 ||slot97sum.com^
 ||slotdepositdana.cc^
@@ -3410,6 +3443,7 @@
 ||songtradr.com^
 ||sonoscanhealthcare.com^
 ||sosgamers.com^
+||souadnatech.fr^
 ||souldoubtmagazine.com^
 ||soundbistroriverhead.com^
 ||soundcloud.com^
@@ -3421,6 +3455,7 @@
 ||southshorepress.net^
 ||soykb.org^
 ||sp.rumahkepemimpinan.org^
+||spacafeonbroadway.com^
 ||spada.setiabudi.ac.id^
 ||spada.uit.ac.id^
 ||sparc-website.org^
@@ -3644,6 +3679,7 @@
 ||theburnscourtcafe.com^
 ||thecable.ng^
 ||thecambuswallace.com.au^
+||thecitymanado.com^
 ||thecoddlingmovie.substack.com^
 ||theconversation.com^
 ||thecurvyspoon.com^
@@ -3695,6 +3731,7 @@
 ||thesixseattle.com^
 ||theskyvillage.com^
 ||thespiceguide.com^
+||thespreadfood.com^
 ||thetastestreets.com^
 ||thetimepiecegentleman.com^
 ||thetoollibrary.org^
@@ -3986,6 +4023,7 @@
 ||wickwarbrewing.com^
 ||wijaya-bos.com^
 ||wiki.dpconline.org^
+||wildays.com^
 ||wildcatcleaners.com^
 ||wildchildworld.com^
 ||wildfirerdc.com^
