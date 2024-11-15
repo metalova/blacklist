@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 20:12:27",
+  "updated": "2024-11-15 20:19:37",
   "categories": {
     "slot": {
-      "count": 4492,
+      "count": 4497,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -26954,6 +26954,36 @@
           "domain": "peterpaige.net",
           "raw_url": "https://peterpaige.net/",
           "found_time": "2024-11-15 13:12:27",
+          "status": "active"
+        },
+        {
+          "domain": "faithfulacademy.com",
+          "raw_url": "https://faithfulacademy.com/",
+          "found_time": "2024-11-15 13:12:27",
+          "status": "active"
+        },
+        {
+          "domain": "diner-spectacle-lepetitcasino.com",
+          "raw_url": "https://diner-spectacle-lepetitcasino.com/",
+          "found_time": "2024-11-15 13:15:31",
+          "status": "active"
+        },
+        {
+          "domain": "coolasicecreamery.com",
+          "raw_url": "https://coolasicecreamery.com/",
+          "found_time": "2024-11-15 13:15:31",
+          "status": "active"
+        },
+        {
+          "domain": "luckybrewgrille.com",
+          "raw_url": "https://luckybrewgrille.com/",
+          "found_time": "2024-11-15 13:16:33",
+          "status": "active"
+        },
+        {
+          "domain": "witchuniversity.com",
+          "raw_url": "https://witchuniversity.com/",
+          "found_time": "2024-11-15 13:16:33",
           "status": "active"
         }
       ]
