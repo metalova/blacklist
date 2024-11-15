@@ -1,0 +1,20 @@
+! Title: Gambling Domain Blocklist - ESPORTS
+! Last Updated: 2024-11-16 03:09:59
+! Description: Automatically generated gambling domain blocklist
+! Number of unique domains: 14
+!
+
+||brg.ina-sdi.or.id^
+||cakrawalajabar.com^
+||ciremainews.com^
+||esports.id^
+||exactitudeconsultancy.com^
+||games.grid.id^
+||gaming.net^
+||ijcst.com.pk^
+||issacyber.com^
+||lensaone.id^
+||oneesports.id^
+||ppid.belitung.go.id^
+||sockit2pp.com^
+||ungkap.co.id^

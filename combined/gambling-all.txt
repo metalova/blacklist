@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 03:04:44
+! Last Updated: 2024-11-16 03:09:59
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 6173
+! Number of domains: 6190
 !
 
 ! Category: SLOT
@@ -5730,6 +5730,9 @@
 ||tytco.ir^
 ||sourceeatfit.com^
 ||seededprojects.co.za^
+||christianlyricist.com^
+||gardenbakery.co.id^
+||mariatogel.koni.or.id^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^
@@ -6187,4 +6190,20 @@
 ||spinidn.org^
 ||cronosanluis.com^
 ||neosoftservices.in^
+
+! Category: ESPORTS
+||exactitudeconsultancy.com^
+||gaming.net^
+||oneesports.id^
+||cakrawalajabar.com^
+||ijcst.com.pk^
+||brg.ina-sdi.or.id^
+||ppid.belitung.go.id^
+||esports.id^
+||ungkap.co.id^
+||sockit2pp.com^
+||games.grid.id^
+||ciremainews.com^
+||issacyber.com^
+||lensaone.id^
 
