@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 01:39:39
+! Last Updated: 2024-11-16 01:45:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 327
+! Number of unique domains: 345
 !
 
 ||abseits.at^
@@ -9,10 +9,14 @@
 ||adidas.co.id^
 ||aerotravelindo.co.id^
 ||afifecafe.com^
+||agen-bola-deposit-pulsa.interdidactica.net^
 ||agensedekah.com^
 ||albufeiragolf.com^
 ||aliyahalbadriyah.sch.id^
 ||altctrlgamejam.com^
+||amp-dewawin365.com^
+||amp-utama-agenolx.pages.dev^
+||ampbp1-v2.bolapelangi.dev^
 ||amphola88.com^
 ||apaituamp.com^
 ||apollo.io^
@@ -23,6 +27,7 @@
 ||ayokgaspol.pages.dev^
 ||babmrjournal.org^
 ||balipost.com^
+||banchettomusicale.com^
 ||bandarjuditerpercaya88.wordpress.com^
 ||basketballsphere.com^
 ||bengkulutoday.com^
@@ -33,6 +38,8 @@
 ||bisik.id^
 ||bisnis.com^
 ||bkk.smkn1kotabekasi.sch.id^
+||bola1.pages.dev^
+||bola365g.pages.dev^
 ||bola808.org^
 ||bola888.mystrikingly.com^
 ||bolakita.farm^
@@ -45,6 +52,7 @@
 ||cac.bme.bridgestone.eu^
 ||calameo.com^
 ||carnesfinasortiz.com^
+||cbt-smk.pages.dev^
 ||chatsports.com^
 ||ciamiskabwede.pages.dev^
 ||citydeliva.com^
@@ -54,6 +62,7 @@
 ||community.endnote.com^
 ||conference.untag-sby.ac.id^
 ||corpgovnigeria.org^
+||cosumnes.org^
 ||cps.ctbc.edu.tw^
 ||crictez.com^
 ||cuingles.com^
@@ -99,6 +108,7 @@
 ||forum.fanatec.com^
 ||ft95soundersfc.pages.dev^
 ||ftp.dbd.puc-rio.br^
+||gb.rg-leotard.com^
 ||gdlite.saint-gobain.com^
 ||geiptest.org^
 ||gilabola.com^
@@ -111,6 +121,7 @@
 ||gsicorp.co.id^
 ||gudangpn.kemkes.go.id^
 ||guitareserian.fr^
+||halimiconsulting.fr^
 ||halodoc.com^
 ||halofkmusu.or.id^
 ||hancau.net^
@@ -119,6 +130,7 @@
 ||ictdemy.com^
 ||idsitusbola.pages.dev^
 ||iicosteam.unkhair.ac.id^
+||imagepublications.com^
 ||impresadiretta.net^
 ||indonesiakini.go.id^
 ||indonesiaplant.com^
@@ -163,6 +175,7 @@
 ||lartsana.pages.dev^
 ||lashdoll.ca^
 ||leban.desa.id^
+||lesok.in.ua^
 ||letrachuecapress.com^
 ||library.iahn-gdepudja.ac.id^
 ||ligaibc.pages.dev^
@@ -199,6 +212,7 @@
 ||new.pa-maumere.go.id^
 ||newsroom.id^
 ||nft.borneofc.id^
+||niletheater.com^
 ||nobartvpro.com^
 ||novobrew.com^
 ||novosti.rs^
@@ -214,10 +228,13 @@
 ||pabrikbola.com^
 ||padelgoin.com^
 ||paketnusapenida.com^
+||panelnemo69.pages.dev^
 ||parcosimone.it^
 ||parganz.pages.dev^
 ||parisgame.bola1.net^
+||park328.com^
 ||parlay855bet.pages.dev^
+||parlaycsbola.com^
 ||pdi-perjuangan.pages.dev^
 ||pendidikan.malangkab.go.id:8099^
 ||pepnews.com^
@@ -326,6 +343,7 @@
 ||webdes.in^
 ||wisechurch.com^
 ||x500id-judi-bola-1.pages.dev^
+||xn--hokiapace-i5a84a.com^
 ||xolabit.co.id^
 ||ydsf.org^
 ||yukmainsbobet.pages.dev^
