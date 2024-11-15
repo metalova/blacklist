@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-15 10:13:08
+! Last Updated: 2024-11-15 10:19:15
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4268
+! Number of unique domains: 4273
 !
 
 ||103.115.28.6^
@@ -224,6 +224,8 @@
 ||amp-rtp.b-cdn.net^
 ||amp-spacemanslot.com^
 ||ampsakti.ivermectinytab.com^
+||ampt4d.pages.dev^
+||ampv99.pages.dev^
 ||amrut.mohua.gov.in^
 ||anakshaleh.org^
 ||anambaskab.go.id^
@@ -1539,6 +1541,7 @@
 ||heylink.me^
 ||heyo.at^
 ||hhassistancellc.com^
+||hidromet-sih3.bmkg.go.id^
 ||highlandparkpta.com^
 ||highlightvape.com^
 ||hillsdonuts.com^
@@ -1728,6 +1731,7 @@
 ||insuribang.pages.dev^
 ||intellicraftresearch.com^
 ||intence.co^
+||intervencion.uahurtado.cl^
 ||interwin1.co^
 ||inthecurrent.org^
 ||intisari.grid.id^
@@ -3363,6 +3367,7 @@
 ||seputarcibubur.pikiran-rakyat.com^
 ||seputarperak.com^
 ||serafood.id^
+||serang.ut.ac.id^
 ||serenitynow-massage.com^
 ||serespecial.org.br^
 ||server-luar.joyeriarosse.com^

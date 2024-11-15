@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-15 10:13:08",
+  "updated": "2024-11-15 10:19:15",
   "categories": {
     "slot": {
-      "count": 4268,
+      "count": 4273,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -25610,6 +25610,36 @@
           "domain": "tokogame.com",
           "raw_url": "https://www.tokogame.com/id-id/digital/higgs-domino-koin-emas",
           "found_time": "2024-11-15 10:11:06",
+          "status": "active"
+        },
+        {
+          "domain": "intervencion.uahurtado.cl",
+          "raw_url": "https://intervencion.uahurtado.cl/",
+          "found_time": "2024-11-15 10:13:08",
+          "status": "active"
+        },
+        {
+          "domain": "ampt4d.pages.dev",
+          "raw_url": "https://ampt4d.pages.dev/",
+          "found_time": "2024-11-15 10:16:10",
+          "status": "active"
+        },
+        {
+          "domain": "ampv99.pages.dev",
+          "raw_url": "https://ampv99.pages.dev/",
+          "found_time": "2024-11-15 10:16:10",
+          "status": "active"
+        },
+        {
+          "domain": "serang.ut.ac.id",
+          "raw_url": "https://serang.ut.ac.id/",
+          "found_time": "2024-11-15 10:17:12",
+          "status": "active"
+        },
+        {
+          "domain": "hidromet-sih3.bmkg.go.id",
+          "raw_url": "https://hidromet-sih3.bmkg.go.id/",
+          "found_time": "2024-11-15 10:19:14",
           "status": "active"
         }
       ]
