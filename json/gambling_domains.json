@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-15 23:49:53",
+  "updated": "2024-11-15 23:54:03",
   "categories": {
     "slot": {
       "count": 4746,
@@ -28483,7 +28483,7 @@
       ]
     },
     "casino": {
-      "count": 217,
+      "count": 220,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -29785,6 +29785,24 @@
           "domain": "eastbayexpress.com",
           "raw_url": "https://eastbayexpress.com/blackjack-sites/",
           "found_time": "2024-11-15 16:48:51",
+          "status": "active"
+        },
+        {
+          "domain": "abzorba-live-blackjack-21-pro.id.uptodown.com",
+          "raw_url": "https://abzorba-live-blackjack-21-pro.id.uptodown.com/android",
+          "found_time": "2024-11-15 16:49:53",
+          "status": "active"
+        },
+        {
+          "domain": "reku.id",
+          "raw_url": "https://reku.id/help/cara-melakukan-deposit-rupiah-melalui-ovo",
+          "found_time": "2024-11-15 16:51:55",
+          "status": "active"
+        },
+        {
+          "domain": "pencoeddental.com",
+          "raw_url": "https://pencoeddental.com/2024/10/11/online-jackpot-slots/",
+          "found_time": "2024-11-15 16:54:02",
           "status": "active"
         }
       ]
