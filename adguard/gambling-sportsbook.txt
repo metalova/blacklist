@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 01:24:38
+! Last Updated: 2024-11-16 01:30:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 251
+! Number of unique domains: 272
 !
 
 ||abseits.at^
@@ -41,10 +41,12 @@
 ||ciamiskabwede.pages.dev^
 ||citydeliva.com^
 ||citygardensflowershop.com^
+||clermont-opposition.fr^
 ||commerceops.uat2.petsuppliesplus.com^
 ||community.endnote.com^
 ||conference.untag-sby.ac.id^
 ||corpgovnigeria.org^
+||cps.ctbc.edu.tw^
 ||crictez.com^
 ||cuttari.quora.com^
 ||cyberthreat.id^
@@ -71,6 +73,7 @@
 ||eventbrite.com^
 ||faktanasional.id^
 ||fkip-binggris.umb.ac.id^
+||fkip.uika-bogor.ac.id^
 ||flalandscape.com^
 ||focus-cinema.com^
 ||footlockerwest.com^
@@ -81,6 +84,7 @@
 ||gilabola.com^
 ||givegab.com^
 ||goalmedia.co^
+||goldenroseflorist.com^
 ||greenticgov.pages.dev^
 ||gsicorp.co.id^
 ||gudangpn.kemkes.go.id^
@@ -88,15 +92,19 @@
 ||halofkmusu.or.id^
 ||hancau.net^
 ||harnessbred.com^
+||hoteldelaplage02.fr^
 ||idsitusbola.pages.dev^
 ||iicosteam.unkhair.ac.id^
+||impresadiretta.net^
 ||indonesiakini.go.id^
 ||indonesiaplant.com^
+||indrabooks.com^
 ||infopurwakarta.id^
 ||informasijuditerlengkap.wordpress.com^
 ||insitudigital.com^
 ||intrend.id^
 ||investortrust.id^
+||iskaposmeatmarket.com^
 ||itd.imss.gob.mx^
 ||itiahaiti.org^
 ||itworks.id^
@@ -104,15 +112,18 @@
 ||izinnaikmas.pages.dev^
 ||izinngacakmas.pages.dev^
 ||jateng.jpnn.com^
+||jatimtimes.com^
 ||jdih.sampangkab.go.id^
 ||jektvnews.disway.id^
 ||jendralmaya.pages.dev^
 ||jflspk.com^
 ||jill2016.com^
+||journal.uinsgd.ac.id^
 ||joynailsbarrowlett.com^
 ||kamunanya.net^
 ||kaptenmaya.pages.dev^
 ||kayabola6.pages.dev^
+||kemkaker.pages.dev^
 ||kezkaprinting.com^
 ||kliklegal.com^
 ||koma.id^
@@ -132,6 +143,8 @@
 ||ligaolahraga.com^
 ||lisboabelemopen.com^
 ||lms.sibestari.com^
+||locent.com^
+||login.poc.la.gov^
 ||loket.com^
 ||lotus33amp-s.pro^
 ||lucie-gomez.fr^
@@ -165,6 +178,7 @@
 ||oceanrenewable.com^
 ||office.scicell.org^
 ||onefootball.com^
+||onevolleyball.net^
 ||os.mbed.com^
 ||padelgoin.com^
 ||parcosimone.it^
@@ -172,13 +186,17 @@
 ||parlay855bet.pages.dev^
 ||pdi-perjuangan.pages.dev^
 ||pendidikan.malangkab.go.id:8099^
+||pepnews.com^
+||perpajakan.fansolahraga.com^
 ||perpustakaan.pa-kotamadiun.go.id^
 ||perspektif.ppj.unp.ac.id^
 ||perwiranusantara.com^
 ||petitesoulshop.com^
 ||pharmaciedesmazades.fr^
 ||pinjamdulu500.com^
+||plus.bisnis.com^
 ||pmb.akperkesdam6tpr.ac.id^
+||portalgurupi.com.br^
 ||ppdb.maskara.sch.id^
 ||ppdi.ciamiskab.go.id^
 ||prediksibola33blog.wordpress.com^
@@ -199,6 +217,7 @@
 ||redcircle.com^
 ||rejosari-kangkung.desa.id^
 ||remotehub.com^
+||renover-energie.fr^
 ||repository.uksw.edu^
 ||repository.unair.ac.id^
 ||repository.unpra.ac.id^
@@ -212,6 +231,7 @@
 ||sararamedia.net^
 ||sariminkenx.quora.com^
 ||satyabeautywellness.com^
+||sdn28bandaaceh.sch.id^
 ||sdn34bandaaceh.sch.id^
 ||seohaji.pages.dev^
 ||serenesophro.fr^
@@ -250,6 +270,7 @@
 ||utprw2.com^
 ||view.publitas.com^
 ||wartatransparansi.com^
+||webdes.in^
 ||wisechurch.com^
 ||x500id-judi-bola-1.pages.dev^
 ||xolabit.co.id^
