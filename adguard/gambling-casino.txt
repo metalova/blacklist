@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 00:14:20
+! Last Updated: 2024-11-16 00:19:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 296
+! Number of unique domains: 318
 !
 
 ||24liveblog.com^
@@ -19,6 +19,7 @@
 ||alwaysthaichicago.com^
 ||alx1top.org^
 ||amazon.de^
+||amny.com^
 ||amodiva.com^
 ||arlingtonyouthfootball.com^
 ||arspb.org^
@@ -37,7 +38,9 @@
 ||bendosari.desa.id^
 ||beritakriminalkepri.com^
 ||betblocker.org^
+||betkansas.com^
 ||bicyclecards.com^
+||bicyclesonmain.com^
 ||bizhare.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||blockonomi.com^
@@ -50,6 +53,7 @@
 ||burnaby.grandvillacasino.ca^
 ||burpple.com^
 ||businesswire.com^
+||buymesquite.com^
 ||cachecreek.com^
 ||caremedicalcollegebd.com^
 ||carolinadumpstersllc.com^
@@ -75,14 +79,17 @@
 ||creedroomz.com^
 ||crownmelbourne.com.au^
 ||crownperth.com.au^
+||deadspin.com^
 ||deadwoodmountaingrand.com^
 ||deinbaden.ch^
 ||dellagoresort.com^
 ||deviantart.com^
+||dkcreativeworks.co.za^
 ||dolby.io^
 ||downtowngrand.com^
 ||dpmptspp.belitung.go.id^
 ||e-statistik.temanggungkab.go.id^
+||e3x7.short.gy^
 ||eastbayexpress.com^
 ||ebelanja.id^
 ||edgewoodtahoe.com^
@@ -96,6 +103,7 @@
 ||familydentalrockville.com^
 ||forbes.com^
 ||fpmipa.ikip-saraswati.ac.id^
+||gambierc.ca^
 ||gambleaware.nsw.gov.au^
 ||gamblingcounting.com^
 ||games.washingtonpost.com^
@@ -119,6 +127,7 @@
 ||hazrestaurant.co.uk^
 ||herminahospitals.com^
 ||hindcompo.com^
+||hortaverde.com.br^
 ||id.made-in-china.com^
 ||id.marinabaysands.com^
 ||id.piliapp.com^
@@ -134,6 +143,7 @@
 ||imunisasi-tambahan.kemkes.go.id^
 ||incharafamilygardenrestaurant.com^
 ||informaticsglobal.com^
+||insider-gaming.com^
 ||instituteforpr.org^
 ||investopedia.com^
 ||isleta.com^
@@ -148,15 +158,18 @@
 ||jti.respati.ac.id^
 ||kbivirtual.id^
 ||kick.com^
+||kingswordplay.ca^
 ||know.nsmtltd.co.uk^
 ||kputulungagung.com^
 ||krakatauinternationalport.co.id^
 ||lanerosacasino.wordpress.com^
 ||lanyardkilat.co.id^
+||latourneecanadienne.ca^
 ||lib.stiqisykarima.ac.id^
 ||littleangelschool.edu.in^
 ||live-casino.smpn2kotadumai.sch.id^
 ||livedealer21.com^
+||liveroulette.onl^
 ||lrcr.com^
 ||lubukbangkar.desa.id^
 ||luckyvip.com^
@@ -164,12 +177,14 @@
 ||maderasboulevard.com^
 ||majesticpride.in^
 ||man12jakarta.id^
+||medcom.id^
 ||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
 ||mikeklubnika.itch.io^
 ||millelacs.com^
 ||mindilbeachcasinoresort.com.au^
 ||modison.com^
+||moesandjoes.pages.dev^
 ||mojadipro.com^
 ||moovitapp.com^
 ||mrbit.bg^
@@ -178,6 +193,7 @@
 ||mumbaicoworking.com^
 ||nalarpolitik.com^
 ||nelsonheller.com^
+||news.indozone.id^
 ||newszechuan.com^
 ||nflgaziabad.fssai.gov.in^
 ||nj.com^
@@ -191,7 +207,9 @@
 ||ojs.stieprasetiyamandiri.ac.id^
 ||olinda.pe.gov.br^
 ||online-stopwatch.com^
+||onlineliveroulette.net^
 ||organisasi.koltimkab.com^
+||orlandomagazine.com^
 ||osagecasino.com^
 ||ourladyoffatimapatiala.com^
 ||pa-bengkulukota.go.id^
@@ -208,6 +226,7 @@
 ||policarbonatoecuador.com^
 ||portal.careerguidancecollege.com^
 ||ppdb.darulhidayah.ponpes.id^
+||psu.com^
 ||pulsagacor99.com^
 ||rajacasino.travel^
 ||rajawali.ac.id^
@@ -223,6 +242,7 @@
 ||sakurakjcrownpoint.com^
 ||sdlccorp.com^
 ||senator.hr^
+||shopfujifilm.com^
 ||siadak.stikesalifah.ac.id^
 ||sierradesanfrancisco.inah.gob.mx^
 ||silvergames.com^
@@ -235,6 +255,7 @@
 ||skycityadelaide.com.au^
 ||skycityauckland.co.nz^
 ||slotgacorocean88.com^
+||smsgraphics.co.za^
 ||sociabuzz.com^
 ||sogoarts.com^
 ||solidsmack.com^
@@ -254,6 +275,7 @@
 ||tastyvintage.com^
 ||teknik.widyakarya.ac.id^
 ||telegraph.co.uk^
+||theargus.co.uk^
 ||thecircuslife.com^
 ||theexpendables2film.com^
 ||thefosterfarm.org^

@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 00:14:20
+! Last Updated: 2024-11-16 00:19:38
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 5411
+! Number of domains: 5433
 !
 
 ! Category: SLOT
@@ -5050,6 +5050,28 @@
 ||blog.accesspoint.id^
 ||tiogadowns.com^
 ||spstbt.iift.ac.in^
+||orlandomagazine.com^
+||liveroulette.onl^
+||psu.com^
+||gambierc.ca^
+||onlineliveroulette.net^
+||latourneecanadienne.ca^
+||kingswordplay.ca^
+||smsgraphics.co.za^
+||amny.com^
+||theargus.co.uk^
+||insider-gaming.com^
+||e3x7.short.gy^
+||deadspin.com^
+||betkansas.com^
+||moesandjoes.pages.dev^
+||news.indozone.id^
+||bicyclesonmain.com^
+||buymesquite.com^
+||hortaverde.com.br^
+||medcom.id^
+||shopfujifilm.com^
+||dkcreativeworks.co.za^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
