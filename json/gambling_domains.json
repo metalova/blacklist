@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 16:48:19",
+  "updated": "2024-11-16 16:54:35",
   "categories": {
     "slot": {
-      "count": 4998,
+      "count": 5006,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29990,6 +29990,54 @@
           "domain": "elearning.jec.co.id",
           "raw_url": "https://elearning.jec.co.id/local/local/",
           "found_time": "2024-11-16 09:48:19",
+          "status": "active"
+        },
+        {
+          "domain": "journal.diginus.id",
+          "raw_url": "https://journal.diginus.id/api/",
+          "found_time": "2024-11-16 09:48:19",
+          "status": "active"
+        },
+        {
+          "domain": "famousnailsmn.com",
+          "raw_url": "https://famousnailsmn.com/",
+          "found_time": "2024-11-16 09:50:23",
+          "status": "active"
+        },
+        {
+          "domain": "balimutiaratours.id",
+          "raw_url": "https://balimutiaratours.id/",
+          "found_time": "2024-11-16 09:50:23",
+          "status": "active"
+        },
+        {
+          "domain": "stageonefinancial.com",
+          "raw_url": "https://www.stageonefinancial.com/",
+          "found_time": "2024-11-16 09:51:25",
+          "status": "active"
+        },
+        {
+          "domain": "peoplesplazatn.com",
+          "raw_url": "https://www.peoplesplazatn.com/",
+          "found_time": "2024-11-16 09:51:25",
+          "status": "active"
+        },
+        {
+          "domain": "smilelinedentalcares.com",
+          "raw_url": "https://smilelinedentalcares.com/",
+          "found_time": "2024-11-16 09:52:29",
+          "status": "active"
+        },
+        {
+          "domain": "sacbee.com",
+          "raw_url": "https://www.sacbee.com/news/nation-world/national/article295562499.html",
+          "found_time": "2024-11-16 09:52:29",
+          "status": "active"
+        },
+        {
+          "domain": "metrobali.com",
+          "raw_url": "https://metrobali.com/hasil-survei-pilgub-bali-2024-koster-giri-unggul-70-persen-mulia-pas-keok/",
+          "found_time": "2024-11-16 09:54:34",
           "status": "active"
         }
       ]
