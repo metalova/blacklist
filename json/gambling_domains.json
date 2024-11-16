@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 22:29:53",
+  "updated": "2024-11-16 22:35:00",
   "categories": {
     "slot": {
       "count": 5192,
@@ -31159,7 +31159,7 @@
       ]
     },
     "casino": {
-      "count": 458,
+      "count": 462,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33907,6 +33907,30 @@
           "domain": "p-city.com",
           "raw_url": "https://www.p-city.com/front/casino/overview",
           "found_time": "2024-11-16 15:29:53",
+          "status": "active"
+        },
+        {
+          "domain": "circuscircus.com",
+          "raw_url": "https://www.circuscircus.com/casino-1/circus-players-club/",
+          "found_time": "2024-11-16 15:29:53",
+          "status": "active"
+        },
+        {
+          "domain": "seon.io",
+          "raw_url": "https://seon.io/resources/guides/bonus-abuse-in-igaming/",
+          "found_time": "2024-11-16 15:30:56",
+          "status": "active"
+        },
+        {
+          "domain": "crossingbroad.com",
+          "raw_url": "https://www.crossingbroad.com/pa-online-casino/bonus-codes",
+          "found_time": "2024-11-16 15:31:57",
+          "status": "active"
+        },
+        {
+          "domain": "infopertama.com",
+          "raw_url": "https://infopertama.com/best-online-casino-with-sign-up-bonus/",
+          "found_time": "2024-11-16 15:31:57",
           "status": "active"
         }
       ]
