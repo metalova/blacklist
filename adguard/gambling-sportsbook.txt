@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 00:39:59
+! Last Updated: 2024-11-17 00:43:15
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 505
+! Number of unique domains: 508
 !
 
 ||9sarang188.com^
@@ -138,6 +138,7 @@
 ||eminhaqverdiyev.com^
 ||enterthemetaverse.io^
 ||eportfolio.unideb.hu^
+||equatoronline.id^
 ||erty.ee^
 ||espace-client.autobilan-systems.com^
 ||eventbrite.com^
@@ -234,6 +235,7 @@
 ||kliklegal.com^
 ||koma.id^
 ||kominfo.go.id^
+||koran-gala.id^
 ||koranbatam.com^
 ||kotanopan-sbo.pages.dev^
 ||krarupnixon7.wikidot.com^
@@ -349,6 +351,7 @@
 ||pmb.akperkesdam6tpr.ac.id^
 ||pme.uddpmi.or.id^
 ||portalgurupi.com.br^
+||portalmedia.id^
 ||ppdb.maskara.sch.id^
 ||ppdi.ciamiskab.go.id^
 ||practiceojs3.iainsalatiga.ac.id^
