@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 18:18:23",
+  "updated": "2024-11-16 18:24:39",
   "categories": {
     "slot": {
-      "count": 5064,
+      "count": 5071,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30386,6 +30386,48 @@
           "domain": "tsn.go.tz",
           "raw_url": "https://tsn.go.tz/",
           "found_time": "2024-11-16 11:17:19",
+          "status": "active"
+        },
+        {
+          "domain": "kabayan-dominions.pages.dev",
+          "raw_url": "https://kabayan-dominions.pages.dev/",
+          "found_time": "2024-11-16 11:18:22",
+          "status": "active"
+        },
+        {
+          "domain": "katiekingbloomington.com",
+          "raw_url": "https://katiekingbloomington.com/",
+          "found_time": "2024-11-16 11:21:30",
+          "status": "active"
+        },
+        {
+          "domain": "lckijambi.org",
+          "raw_url": "https://lckijambi.org/",
+          "found_time": "2024-11-16 11:21:30",
+          "status": "active"
+        },
+        {
+          "domain": "pulautiga.desa.natunakab.go.id",
+          "raw_url": "https://pulautiga.desa.natunakab.go.id/site/?usdt=togel+barcelona",
+          "found_time": "2024-11-16 11:21:31",
+          "status": "active"
+        },
+        {
+          "domain": "flyfta.com",
+          "raw_url": "https://www.flyfta.com/fta-farewells-mr-ray-melton/",
+          "found_time": "2024-11-16 11:22:32",
+          "status": "active"
+        },
+        {
+          "domain": "drlalshospital.com",
+          "raw_url": "https://www.drlalshospital.com/winjitu/",
+          "found_time": "2024-11-16 11:23:33",
+          "status": "active"
+        },
+        {
+          "domain": "ciclovidarun10k.com",
+          "raw_url": "https://ciclovidarun10k.com/",
+          "found_time": "2024-11-16 11:24:38",
           "status": "active"
         }
       ]
