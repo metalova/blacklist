@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 04:57:47
+! Last Updated: 2024-11-17 05:04:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5232
+! Number of unique domains: 5234
 !
 
 ||103.115.28.6^
@@ -1746,6 +1746,7 @@
 ||giornaledellumbria.com^
 ||giphy.com^
 ||github.com^
+||gji.or.id^
 ||glassdoor.com^
 ||glennmillersafeandlock.com^
 ||glitch.com^
@@ -2538,6 +2539,7 @@
 ||kumbangmaju.store^
 ||kumiuniversity.ac.ug^
 ||kumparan.com^
+||kupangnews.com^
 ||kupukupu-petruk303.pages.dev^
 ||kurikulum.upi.edu^
 ||kustomfithalters.com^

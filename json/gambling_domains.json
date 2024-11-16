@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 04:57:47",
+  "updated": "2024-11-17 05:04:57",
   "categories": {
     "slot": {
-      "count": 5232,
+      "count": 5234,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31394,6 +31394,18 @@
           "domain": "lotusmultispecialityhospital.com",
           "raw_url": "https://www.lotusmultispecialityhospital.com/",
           "found_time": "2024-11-16 21:57:46",
+          "status": "active"
+        },
+        {
+          "domain": "gji.or.id",
+          "raw_url": "https://gji.or.id/",
+          "found_time": "2024-11-16 21:57:47",
+          "status": "active"
+        },
+        {
+          "domain": "kupangnews.com",
+          "raw_url": "https://www.kupangnews.com/nasional/415321019/kementerian-komdigi-intensifkan-pemberantasan-judi-online-take-down-7224-situs-judol",
+          "found_time": "2024-11-16 22:02:53",
           "status": "active"
         }
       ]
