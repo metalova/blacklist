@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 14:17:27",
+  "updated": "2024-11-16 14:24:39",
   "categories": {
     "slot": {
       "count": 4987,
@@ -32508,7 +32508,7 @@
       ]
     },
     "togel": {
-      "count": 760,
+      "count": 761,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -37069,6 +37069,12 @@
           "raw_url": "https://dynamicwinesolutions.co.za/klasiktoto-wap/",
           "found_time": "2024-11-16 07:16:25",
           "status": "active"
+        },
+        {
+          "domain": "sindikatpost.com",
+          "raw_url": "https://www.sindikatpost.com/hukum-kriminal/78691318/polri-tangkap-2-tersangka-mafia-akses-judi-online-libatkan-pegawai-komdigi-yang-kabur-ke-luar-negeri",
+          "found_time": "2024-11-16 07:17:26",
+          "status": "active"
         }
       ]
     },
@@ -40443,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 176,
+      "count": 179,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41499,6 +41505,24 @@
           "domain": "schmu.id",
           "raw_url": "https://schmu.id/netizen-keluhkan-situs-judi-online-terdaftar-paypal-dota-2-diblokir/",
           "found_time": "2024-11-15 21:16:19",
+          "status": "active"
+        },
+        {
+          "domain": "log.suinco.pe",
+          "raw_url": "https://log.suinco.pe/?news=taruhan-esports-Indonesia",
+          "found_time": "2024-11-16 07:21:33",
+          "status": "active"
+        },
+        {
+          "domain": "slotnesia77aa.com",
+          "raw_url": "https://slotnesia77aa.com/",
+          "found_time": "2024-11-16 07:22:34",
+          "status": "active"
+        },
+        {
+          "domain": "anshsheth.com",
+          "raw_url": "https://anshsheth.com/agen-lotree-cyber-pasaran-terbanyak-gambling-saba-esports/",
+          "found_time": "2024-11-16 07:24:38",
           "status": "active"
         }
       ]
