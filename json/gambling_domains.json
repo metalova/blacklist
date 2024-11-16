@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:44:38",
+  "updated": "2024-11-16 19:49:45",
   "categories": {
     "slot": {
-      "count": 5114,
+      "count": 5116,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30686,6 +30686,18 @@
           "domain": "silverliningbespoke.com",
           "raw_url": "https://silverliningbespoke.com/",
           "found_time": "2024-11-16 12:44:38",
+          "status": "active"
+        },
+        {
+          "domain": "sukanegeri-pringsewu.desa.id",
+          "raw_url": "https://sukanegeri-pringsewu.desa.id/suka/?hati=togel88",
+          "found_time": "2024-11-16 12:44:38",
+          "status": "active"
+        },
+        {
+          "domain": "macau888.mobi",
+          "raw_url": "https://macau888.mobi/",
+          "found_time": "2024-11-16 12:45:40",
           "status": "active"
         }
       ]

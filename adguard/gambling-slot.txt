@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 19:44:38
+! Last Updated: 2024-11-16 19:49:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5114
+! Number of unique domains: 5116
 !
 
 ||103.115.28.6^
@@ -2726,6 +2726,7 @@
 ||macau-888.co^
 ||macau88.us^
 ||macau888.art^
+||macau888.mobi^
 ||macau88bet.co^
 ||macauklub.lat^
 ||mackatv.net^
@@ -4386,6 +4387,7 @@
 ||suhutajir.com^
 ||suite-four.com^
 ||suka.chokichoki.xyz^
+||sukanegeri-pringsewu.desa.id^
 ||sukarjomesim.desa.id^
 ||sultan.untirta.ac.id^
 ||sultan777.me^
