@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 22:04:02
+! Last Updated: 2024-11-16 22:09:14
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 436
+! Number of unique domains: 444
 !
 
 ||24liveblog.com^
@@ -20,6 +20,7 @@
 ||agenciarmva.mg.gov.br^
 ||agoda.com^
 ||allsaintscollege.org^
+||alpha-dog-training-slc.com^
 ||alwaysthaichicago.com^
 ||alx1top.org^
 ||amazon.de^
@@ -82,6 +83,7 @@
 ||cbsnews.com^
 ||cc.iift.ac.in^
 ||cdcgaming.com^
+||cenest.iift.ac.in^
 ||checkup.umchltd.com^
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
@@ -110,6 +112,7 @@
 ||deadwoodmountaingrand.com^
 ||deinbaden.ch^
 ||dellagoresort.com^
+||dentalconnect.co.in^
 ||dentistryinmarkham.com^
 ||dev-ecom.demant.com^
 ||deviantart.com^
@@ -167,6 +170,7 @@
 ||hidayatullah.com^
 ||hindcompo.com^
 ||hive.trivallis.co.uk^
+||home.cards4uwalton.co.uk^
 ||home.makingwithdata.org^
 ||horseshoeonlinecasino.com^
 ||hortaverde.com.br^
@@ -242,6 +246,7 @@
 ||majesticpride.in^
 ||malangkota.go.id^
 ||man12jakarta.id^
+||masuk-dikit.online^
 ||medcom.id^
 ||meskwaki.com^
 ||metro.co.uk^
@@ -314,6 +319,7 @@
 ||psu.com^
 ||ptjmi.co.id^
 ||pulsagacor99.com^
+||puskopkardki.id^
 ||pustakaarsip.tanjungpinangkota.go.id^
 ||r1200gs.info^
 ||rajacasino.travel^
@@ -325,6 +331,7 @@
 ||roulette-online.id.uptodown.com^
 ||roulette-simulator.info^
 ||royalcaribbean.com^
+||rsdh.co.id^
 ||rsiarafah.id^
 ||rugbyobserver.co.uk^
 ||rwnewyork.com^
@@ -352,6 +359,7 @@
 ||sman1tunjungan.sch.id^
 ||smaryssundernagar.com^
 ||smkdarmawan.belajarbareng.id^
+||smpn16gresik.sch.id^
 ||smsgraphics.co.za^
 ||sociabuzz.com^
 ||sogoarts.com^

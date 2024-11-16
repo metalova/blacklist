@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 22:04:02",
+  "updated": "2024-11-16 22:09:14",
   "categories": {
     "slot": {
       "count": 5192,
@@ -31159,7 +31159,7 @@
       ]
     },
     "casino": {
-      "count": 436,
+      "count": 444,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33775,6 +33775,54 @@
           "domain": "malangkota.go.id",
           "raw_url": "https://malangkota.go.id/2024/05/11/pelaku-judi-online-bisa-dijerat-uu-ite/",
           "found_time": "2024-11-16 15:04:02",
+          "status": "active"
+        },
+        {
+          "domain": "puskopkardki.id",
+          "raw_url": "https://puskopkardki.id/klik/",
+          "found_time": "2024-11-16 15:04:02",
+          "status": "active"
+        },
+        {
+          "domain": "smpn16gresik.sch.id",
+          "raw_url": "https://smpn16gresik.sch.id/arsip/vfm-admin/_content/product/time/",
+          "found_time": "2024-11-16 15:05:04",
+          "status": "active"
+        },
+        {
+          "domain": "alpha-dog-training-slc.com",
+          "raw_url": "https://www.alpha-dog-training-slc.com/",
+          "found_time": "2024-11-16 15:05:05",
+          "status": "active"
+        },
+        {
+          "domain": "rsdh.co.id",
+          "raw_url": "https://rsdh.co.id/found/side/",
+          "found_time": "2024-11-16 15:06:07",
+          "status": "active"
+        },
+        {
+          "domain": "home.cards4uwalton.co.uk",
+          "raw_url": "http://home.cards4uwalton.co.uk/",
+          "found_time": "2024-11-16 15:06:07",
+          "status": "active"
+        },
+        {
+          "domain": "dentalconnect.co.in",
+          "raw_url": "https://dentalconnect.co.in/dentalconnect/oral-care-details.php?/dentalconnect/oral-care-details.php?googles/boss-matka-boss",
+          "found_time": "2024-11-16 15:07:09",
+          "status": "active"
+        },
+        {
+          "domain": "cenest.iift.ac.in",
+          "raw_url": "https://cenest.iift.ac.in/Userid.aspx?/fishing%20ms%20dhoni%20vs%20virat%20kohli%20fan%20following",
+          "found_time": "2024-11-16 15:07:09",
+          "status": "active"
+        },
+        {
+          "domain": "masuk-dikit.online",
+          "raw_url": "https://masuk-dikit.online/ayo/3/?abc=SOLO4D",
+          "found_time": "2024-11-16 15:08:12",
           "status": "active"
         }
       ]
