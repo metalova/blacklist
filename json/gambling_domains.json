@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 11:13:08",
+  "updated": "2024-11-16 11:19:24",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 370,
+      "count": 382,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32149,6 +32149,78 @@
           "domain": "heartstartny.com",
           "raw_url": "https://www.heartstartny.com/live-online-casino.html",
           "found_time": "2024-11-16 04:13:08",
+          "status": "active"
+        },
+        {
+          "domain": "pressofatlanticcity.com",
+          "raw_url": "https://pressofatlanticcity.com/betting/casinos/live-dealer/article_67b4c3d3-68cc-5ec1-bd1c-6016b033b04f.html",
+          "found_time": "2024-11-16 04:13:08",
+          "status": "active"
+        },
+        {
+          "domain": "smkdarmawan.belajarbareng.id",
+          "raw_url": "https://smkdarmawan.belajarbareng.id/course/tok99toto/",
+          "found_time": "2024-11-16 04:17:12",
+          "status": "active"
+        },
+        {
+          "domain": "spmi.ubest.ac.id",
+          "raw_url": "https://spmi.ubest.ac.id/image/?tayoair=PRAGMATIC+CASINO",
+          "found_time": "2024-11-16 04:17:12",
+          "status": "active"
+        },
+        {
+          "domain": "vipcasinohotels.com",
+          "raw_url": "https://vipcasinohotels.com/",
+          "found_time": "2024-11-16 04:18:18",
+          "status": "active"
+        },
+        {
+          "domain": "hq2ac.com",
+          "raw_url": "https://hq2ac.com/nightclub",
+          "found_time": "2024-11-16 04:18:18",
+          "status": "active"
+        },
+        {
+          "domain": "circalasvegas.com",
+          "raw_url": "https://www.circalasvegas.com/sportsbook/",
+          "found_time": "2024-11-16 04:18:18",
+          "status": "active"
+        },
+        {
+          "domain": "casino.evianresort.com",
+          "raw_url": "https://casino.evianresort.com/fr/le-club-vip/presentation-et-avantages",
+          "found_time": "2024-11-16 04:18:19",
+          "status": "active"
+        },
+        {
+          "domain": "id.foursquare.com",
+          "raw_url": "https://id.foursquare.com/v/rwm-genting-vip-casino/4d56173aa05c3704f7bdc187",
+          "found_time": "2024-11-16 04:18:19",
+          "status": "active"
+        },
+        {
+          "domain": "nemacolin.com",
+          "raw_url": "https://www.nemacolin.com/",
+          "found_time": "2024-11-16 04:18:19",
+          "status": "active"
+        },
+        {
+          "domain": "vipcasino.hu",
+          "raw_url": "https://vipcasino.hu/",
+          "found_time": "2024-11-16 04:18:20",
+          "status": "active"
+        },
+        {
+          "domain": "id.bignox.com",
+          "raw_url": "https://id.bignox.com/appcenter/com-duksel-slotsclubvip-pc.html",
+          "found_time": "2024-11-16 04:18:20",
+          "status": "active"
+        },
+        {
+          "domain": "id.hotels.com",
+          "raw_url": "https://id.hotels.com/ho540971/grand-casino-hotel-and-resort-shawnee-amerika-serikat/",
+          "found_time": "2024-11-16 04:19:23",
           "status": "active"
         }
       ]

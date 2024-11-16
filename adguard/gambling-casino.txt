@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 11:13:08
+! Last Updated: 2024-11-16 11:19:24
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 370
+! Number of unique domains: 382
 !
 
 ||24liveblog.com^
@@ -65,6 +65,7 @@
 ||caseyforcongressri.com^
 ||casino-terrestre.com^
 ||casino-vip.com^
+||casino.evianresort.com^
 ||casinom8trix.com^
 ||casinoprideofficial.com^
 ||casinos.ballys.com^
@@ -74,6 +75,7 @@
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
 ||chirurgie-digestif-proctologie.re^
+||circalasvegas.com^
 ||cjmambala.in^
 ||classtools.net^
 ||cleanfeed-records.com^
@@ -148,6 +150,10 @@
 ||hindcompo.com^
 ||hive.trivallis.co.uk^
 ||hortaverde.com.br^
+||hq2ac.com^
+||id.bignox.com^
+||id.foursquare.com^
+||id.hotels.com^
 ||id.made-in-china.com^
 ||id.marinabaysands.com^
 ||id.piliapp.com^
@@ -224,6 +230,7 @@
 ||nalarpolitik.com^
 ||narasiterkini.com^
 ||nelsonheller.com^
+||nemacolin.com^
 ||news.indozone.id^
 ||newszechuan.com^
 ||nflgaziabad.fssai.gov.in^
@@ -262,6 +269,7 @@
 ||portal.careerguidancecollege.com^
 ||ppdb.darulhidayah.ponpes.id^
 ||ppdb.sma1blora.sch.id^
+||pressofatlanticcity.com^
 ||psu.com^
 ||pulsagacor99.com^
 ||pustakaarsip.tanjungpinangkota.go.id^
@@ -298,6 +306,7 @@
 ||slotgacorocean88.com^
 ||sman1tunjungan.sch.id^
 ||smaryssundernagar.com^
+||smkdarmawan.belajarbareng.id^
 ||smsgraphics.co.za^
 ||sociabuzz.com^
 ||sogoarts.com^
@@ -306,6 +315,7 @@
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
 ||spilnosylno.in.ua^
+||spmi.ubest.ac.id^
 ||spstbt.iift.ac.in^
 ||star.com.au^
 ||steveabrown.com^
@@ -356,7 +366,9 @@
 ||venetianmacao.com^
 ||verbenergybar.com^
 ||videohive.net^
+||vipcasino.hu^
 ||vipcasinoevents.com^
+||vipcasinohotels.com^
 ||vipcasinoservices.com.au^
 ||vipchartercoaches.com^
 ||vipgamblingtours.com^
