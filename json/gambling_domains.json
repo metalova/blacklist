@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 03:29:54",
+  "updated": "2024-11-17 03:34:02",
   "categories": {
     "slot": {
       "count": 5192,
@@ -44480,7 +44480,7 @@
       ]
     },
     "others": {
-      "count": 269,
+      "count": 273,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -46094,6 +46094,30 @@
           "domain": "baznas.go.id",
           "raw_url": "https://baznas.go.id/news-show/Berantas_Judi_Online_di_Indonesia,_BAZNAS_Dorong_Optimalisasi_Pemanfaatan_Zakat/2316",
           "found_time": "2024-11-16 20:26:51",
+          "status": "active"
+        },
+        {
+          "domain": "resbanjarbaru.kalsel.polri.go.id",
+          "raw_url": "https://resbanjarbaru.kalsel.polri.go.id/polri-gandeng-interpol-dalam-berantas-judi-online-di-indonesia/",
+          "found_time": "2024-11-16 20:29:54",
+          "status": "active"
+        },
+        {
+          "domain": "mediawarta.com",
+          "raw_url": "https://mediawarta.com/18/10/2024/gopay-gandeng-rhoma-irama-ajak-masyarakat-perangi-judi-online/",
+          "found_time": "2024-11-16 20:30:55",
+          "status": "active"
+        },
+        {
+          "domain": "techno.rakyat.news",
+          "raw_url": "https://techno.rakyat.news/read/103161/gopay-dan-dana-bersatu-perangi-judi-online-gimana-strateginya",
+          "found_time": "2024-11-16 20:31:57",
+          "status": "active"
+        },
+        {
+          "domain": "casabellabb.com",
+          "raw_url": "https://www.casabellabb.com/amp/",
+          "found_time": "2024-11-16 20:34:02",
           "status": "active"
         }
       ]

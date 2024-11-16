@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 03:29:54
+! Last Updated: 2024-11-17 03:34:02
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 269
+! Number of unique domains: 273
 !
 
 ||abatanews.com^
@@ -46,6 +46,7 @@
 ||bspjimedan.kemenperin.go.id^
 ||bukamatanews.id^
 ||cantz.or.tz^
+||casabellabb.com^
 ||chaisenslot.com^
 ||ciidret.du.ac.in^
 ||cloud.wg.ugm.ac.id^
@@ -164,6 +165,7 @@
 ||mediabanten.com^
 ||mediaedutama.co.id^
 ||mediajustitia.com^
+||mediawarta.com^
 ||melihatindonesia.id^
 ||melintas.id^
 ||menpan.go.id^
@@ -223,6 +225,7 @@
 ||radarutara.bacakoran.co^
 ||repository.upbatam.ac.id^
 ||republika.id^
+||resbanjarbaru.kalsel.polri.go.id^
 ||review-unes.com^
 ||reviewaspg.com^
 ||ricksbarandgrill.com^
@@ -246,6 +249,7 @@
 ||swa.co.id^
 ||tangerangkota.go.id^
 ||tatarmedia.id^
+||techno.rakyat.news^
 ||teknologi.id^
 ||tennismag.com.ua^
 ||teras.id^
