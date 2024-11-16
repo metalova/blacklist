@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 15:18:25
+! Last Updated: 2024-11-16 15:23:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 201
+! Number of unique domains: 215
 !
 
 ||1xbet.id.uptodown.com^
@@ -10,9 +10,12 @@
 ||aboutsemarang.id^
 ||acolherio.rio.rj.gov.br^
 ||akaislot.amphtml.org^
+||amp-a88.pages.dev^
 ||amp-twitspin.pages.dev^
 ||ampnuke.pages.dev^
+||amppanglimajp.pages.dev^
 ||ampsatria888.pages.dev^
+||anesuiiipek.pages.dev^
 ||anshsheth.com^
 ||arabswin.com^
 ||asciimo.com^
@@ -41,15 +44,18 @@
 ||cbssports.com^
 ||cerdasbelanja.grid.id^
 ||ciremainews.com^
+||cryptsy.com^
 ||daftaresports.com^
 ||dailypost.id^
 ||decoracionessolecuador.com^
 ||digitek.id^
 ||discord.com^
 ||dkiplay88.pages.dev^
+||doodlemum.com^
 ||dota2-betting.com^
 ||dotablast.com^
 ||dotesports.com^
+||drg-66h.pages.dev^
 ||ejurnal.warmadewa.ac.id^
 ||endeus.tv^
 ||enterkomputer.com^
@@ -63,6 +69,7 @@
 ||esportsagent.gg^
 ||esportsbettingranker.in^
 ||esportsgrizzly.com^
+||esportsku.com^
 ||esportsportal.net^
 ||esportsvikings.com^
 ||exactitudeconsultancy.com^
@@ -71,6 +78,7 @@
 ||fedmvz.com^
 ||financialpost.com^
 ||firstmedia.com^
+||fithub.id^
 ||friendly-wounds.com^
 ||gamebrott.com^
 ||games.grid.id^
@@ -83,7 +91,9 @@
 ||gnosisgames.com^
 ||googleapp.help^
 ||gosugamers.net^
+||gpnt.pl^
 ||grid.id^
+||guaranteedwhales.com^
 ||hatredspeaks.com^
 ||himpol.com^
 ||hippu.lppm.ulb.ac.id^
@@ -96,6 +106,7 @@
 ||ijcst.com.pk^
 ||indonesia.shafaqna.com^
 ||infomase.id^
+||informatika.unitomo.ac.id^
 ||iniampolympus88.com^
 ||intipseleb.com^
 ||issacyber.com^
@@ -109,6 +120,7 @@
 ||kabarpalu.net^
 ||kelaskita.com^
 ||klamathcampercorral.com^
+||kputoto.pages.dev^
 ||la-fermette.net^
 ||lab-test.id^
 ||lambeturah.co.id^
@@ -130,6 +142,7 @@
 ||metaco.gg^
 ||microbesociety.org^
 ||mobilenation.id^
+||mocipay.com^
 ||morshedworx.com^
 ||musicmanamps.com^
 ||mybrandnewlogo.com^
@@ -165,6 +178,7 @@
 ||responsiblegambling.vic.gov.au^
 ||rodamaxwin.com^
 ||sactr.com^
+||sakti55-sip.pages.dev^
 ||sbobetesports.wordpress.com^
 ||schmu.id^
 ||sentracomputer.com^
