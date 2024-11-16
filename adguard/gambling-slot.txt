@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 06:50:07
+! Last Updated: 2024-11-16 06:58:16
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4824
+! Number of unique domains: 4831
 !
 
 ||103.115.28.6^
@@ -647,6 +647,7 @@
 ||bobbobcite.com^
 ||bobcatsun.com^
 ||bokunosensou.xyz^
+||bola.net^
 ||bolegsbbq.com^
 ||boletindiversidad.org^
 ||boltimrsud.id^
@@ -1144,6 +1145,7 @@
 ||digitalghatak.com^
 ||dilmil-yogyakarta.go.id^
 ||dimitriospizza.com^
+||dinamikahukum.fh.unsoed.ac.id^
 ||dinaspangan.sumbarprov.go.id^
 ||diner-spectacle-lepetitcasino.com^
 ||dingdongtogel127.com^
@@ -1766,6 +1768,7 @@
 ||highlandparkpta.com^
 ||highlightvape.com^
 ||hillsdonuts.com^
+||himalayanhutstl.com^
 ||himalieats.com^
 ||hindi.news18.com^
 ||hiperbebe.net^
@@ -3471,6 +3474,7 @@
 ||pussy88.app^
 ||qanda.digipres.org^
 ||qbuzz.qnet.net^
+||qqemas.freeampsite.xyz^
 ||qqemascd.freeampsite.xyz^
 ||qqmaster88.com^
 ||qqolesuper.com^
@@ -3988,6 +3992,7 @@
 ||smk3berau.sch.id^
 ||smkbopkri2yogya.sch.id^
 ||smki-yogya.sch.id^
+||smkmjps1tasik.sch.id^
 ||smkmucirebon.sch.id^
 ||smkmuhammadiyah4sukorejo.sch.id^
 ||smkn1-pkp.sch.id^
@@ -4168,6 +4173,7 @@
 ||surgawd-bos.online^
 ||surgawd-bos.pro^
 ||surge.media^
+||sushibapontedera.it^
 ||sushikappo.com^
 ||sushilmedical.com^
 ||sushininjaalpha.com^
@@ -4573,6 +4579,7 @@
 ||v8sleuth.com.au^
 ||vaccine-info.com^
 ||vaccine.medparkhospital.com^
+||vallas.winlive4dmobile.com^
 ||valleystreamfoodtruck.com^
 ||valleyviewmotel.info^
 ||valoremresources.com^

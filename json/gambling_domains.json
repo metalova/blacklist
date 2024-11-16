@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 06:50:07",
+  "updated": "2024-11-16 06:58:16",
   "categories": {
     "slot": {
-      "count": 4824,
+      "count": 4831,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28946,6 +28946,48 @@
           "domain": "utmalang.com",
           "raw_url": "https://utmalang.com/",
           "found_time": "2024-11-15 23:49:06",
+          "status": "active"
+        },
+        {
+          "domain": "dinamikahukum.fh.unsoed.ac.id",
+          "raw_url": "https://dinamikahukum.fh.unsoed.ac.id/",
+          "found_time": "2024-11-15 23:50:07",
+          "status": "active"
+        },
+        {
+          "domain": "himalayanhutstl.com",
+          "raw_url": "https://himalayanhutstl.com/",
+          "found_time": "2024-11-15 23:56:11",
+          "status": "active"
+        },
+        {
+          "domain": "vallas.winlive4dmobile.com",
+          "raw_url": "https://vallas.winlive4dmobile.com/",
+          "found_time": "2024-11-15 23:56:11",
+          "status": "active"
+        },
+        {
+          "domain": "sushibapontedera.it",
+          "raw_url": "https://www.sushibapontedera.it/",
+          "found_time": "2024-11-15 23:57:14",
+          "status": "active"
+        },
+        {
+          "domain": "qqemas.freeampsite.xyz",
+          "raw_url": "https://qqemas.freeampsite.xyz/",
+          "found_time": "2024-11-15 23:57:14",
+          "status": "active"
+        },
+        {
+          "domain": "smkmjps1tasik.sch.id",
+          "raw_url": "https://www.smkmjps1tasik.sch.id/",
+          "found_time": "2024-11-15 23:57:14",
+          "status": "active"
+        },
+        {
+          "domain": "bola.net",
+          "raw_url": "https://www.bola.net/editorial/arne-slot-berikutnya-ini-4-pelatih-yang-pernah-finis-di-atas-josep-guardiola-792c0b.html",
+          "found_time": "2024-11-15 23:57:15",
           "status": "active"
         }
       ]
