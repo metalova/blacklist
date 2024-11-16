@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-16 16:38:33
+! Last Updated: 2024-11-16 16:44:46
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 115
+! Number of unique domains: 117
 !
 
 ||63.142.240.221^
@@ -17,6 +17,7 @@
 ||bestheadlightbulbs.net^
 ||bhayangkaranews.id^
 ||blackforestcafeandbakery.com^
+||blue-quail.com^
 ||botanicbites.com^
 ||bravotoday01.vip^
 ||brian-t-murphy.com^
@@ -107,6 +108,7 @@
 ||terminaljatijajar.id^
 ||tessiecastillo.com^
 ||thaiafprs.org^
+||thousandoaksinformation.com^
 ||tripadvisor.com^
 ||tripadvisor.fr^
 ||tripadvisor.ru^

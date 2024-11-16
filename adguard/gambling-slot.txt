@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 16:38:33
+! Last Updated: 2024-11-16 16:44:46
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4987
+! Number of unique domains: 4992
 !
 
 ||103.115.28.6^
@@ -253,6 +253,7 @@
 ||amertabakti.com^
 ||ami.uinsgd.ac.id^
 ||amirharb.com^
+||amorizjewelry.com^
 ||amoxicillinnrd.com^
 ||amp-jackpotgacor.pages.dev^
 ||amp-jurnal-bet200.pages.dev^
@@ -1645,6 +1646,7 @@
 ||generationsofhope.org^
 ||geniussports.com^
 ||geonet.me^
+||geoparc-mgoun.ma^
 ||georgeshotpotandbbq.com^
 ||geotimes.id^
 ||geriatri.id^
@@ -2017,6 +2019,7 @@
 ||inglesonline.ao^
 ||inguareclong.click^
 ||iniamppkv.pages.dev^
+||inihawavenuefilkitchen.com^
 ||inilah.com^
 ||inilahkalsel.com^
 ||inklusif.bappenas.go.id^
@@ -2515,6 +2518,7 @@
 ||librinova-www.vercel.app^
 ||librinova.com^
 ||librolibre.net^
+||lifepad-cpr.com^
 ||lifespringhomehealth.com^
 ||lifetraces.org^
 ||liftandhoistaustralasia.com^
@@ -4416,6 +4420,7 @@
 ||test-smon.cez.cz^
 ||test.ppdeh.sch.id^
 ||tetsocollege.org^
+||texasbestofgrapevine.com^
 ||texaseventcentermansionbythesea.com^
 ||texasinnalamo.com^
 ||texassmokehousecy.com^
