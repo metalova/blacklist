@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:19:54",
+  "updated": "2024-11-17 06:25:00",
   "categories": {
     "slot": {
-      "count": 5256,
+      "count": 5261,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31538,6 +31538,36 @@
           "domain": "pakistanirestaurantiowacity.com",
           "raw_url": "https://pakistanirestaurantiowacity.com/",
           "found_time": "2024-11-16 23:19:53",
+          "status": "active"
+        },
+        {
+          "domain": "slot5000-gokil.pages.dev",
+          "raw_url": "https://slot5000-gokil.pages.dev/",
+          "found_time": "2024-11-16 23:19:54",
+          "status": "active"
+        },
+        {
+          "domain": "ijstm.pages.dev",
+          "raw_url": "https://ijstm.pages.dev/",
+          "found_time": "2024-11-16 23:21:56",
+          "status": "active"
+        },
+        {
+          "domain": "flynnspainting.com",
+          "raw_url": "https://www.flynnspainting.com/",
+          "found_time": "2024-11-16 23:22:57",
+          "status": "active"
+        },
+        {
+          "domain": "cuanwin77amp.pages.dev",
+          "raw_url": "https://cuanwin77amp.pages.dev/",
+          "found_time": "2024-11-16 23:22:58",
+          "status": "active"
+        },
+        {
+          "domain": "goldstandard-dat.com",
+          "raw_url": "https://www.goldstandard-dat.com/",
+          "found_time": "2024-11-16 23:25:00",
           "status": "active"
         }
       ]

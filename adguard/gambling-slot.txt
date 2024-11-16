@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:19:54
+! Last Updated: 2024-11-17 06:25:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5256
+! Number of unique domains: 5261
 !
 
 ||103.115.28.6^
@@ -1109,6 +1109,7 @@
 ||ctivmexico.org^
 ||ctprovisions.com^
 ||cuan-com.pages.dev^
+||cuanwin77amp.pages.dev^
 ||cuckoorestaurant.com.au^
 ||cumaaged.co^
 ||cumbremedical.net^
@@ -1632,6 +1633,7 @@
 ||floridafreshmushrooms.com^
 ||flospaceorlando.com^
 ||flyfta.com^
+||flynnspainting.com^
 ||fmmilenium.com.ar^
 ||fokuspatient.se^
 ||folkloresque.net^
@@ -1778,6 +1780,7 @@
 ||goldenpalmshotels.com^
 ||goldenrace.com^
 ||goldentidebaseball.com^
+||goldstandard-dat.com^
 ||golfdigest.cz^
 ||goliath-entertainment.com^
 ||golubarski-kalkulator.fr.softonic.com^
@@ -2061,6 +2064,7 @@
 ||ijmpr.org^
 ||ijsenchocolade.shop^
 ||ijstm.inarah.co.id^
+||ijstm.pages.dev^
 ||ikebanasushifusion.com^
 ||ikinciel.vsbgrup.com.tr^
 ||ikoyo-nishiizu.jp^
@@ -4300,6 +4304,7 @@
 ||slinginginthesmokies.com^
 ||slot16c10.xyz^
 ||slot212zzzz.com^
+||slot5000-gokil.pages.dev^
 ||slot5000happy.com^
 ||slot5rb.xyz^
 ||slot88-wheat.vercel.app^
