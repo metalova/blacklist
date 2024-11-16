@@ -1,12 +1,15 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-17 03:49:22
+! Last Updated: 2024-11-17 03:54:34
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 118
+! Number of unique domains: 124
 !
 
 ||63.142.240.221^
 ||abipha.com.vn^
+||agengass303.pages.dev^
+||agrsdronesagricolas.com.br^
 ||alltrails.com^
+||alumni.fh-warmadewa.ac.id^
 ||ambonkita.com^
 ||ampmsoundersfc.pages.dev^
 ||aquapce.cz^
@@ -85,6 +88,7 @@
 ||petirgatot.com^
 ||pikiran-rakyat.com^
 ||pkrbos.com^
+||poker338gas.net^
 ||pos4dtototogel03.com^
 ||pulsabet.wordpress.com^
 ||qqpokeronline.gold^
@@ -99,11 +103,13 @@
 ||sbnhc.org^
 ||selahattintulunay.com^
 ||seo-charleston.com^
+||sharadaclinic.com^
 ||sinarvegas328.com^
 ||singapokerjpterus.com^
 ||siteme.org^
 ||sns.sk^
 ||sociedadedobem.org^
+||sonamandijewel.com^
 ||suryoyonews.com^
 ||tedxgraphicerauniversity.com^
 ||terminaljatijajar.id^

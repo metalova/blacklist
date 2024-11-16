@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 03:49:22
+! Last Updated: 2024-11-17 03:54:34
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5192
+! Number of unique domains: 5198
 !
 
 ||103.115.28.6^
@@ -1247,6 +1247,7 @@
 ||discourse.mozilla.org^
 ||discover-otocac.com^
 ||discoveryinterschools.co.za^
+||disdaldukkb.lampungselatankab.go.id^
 ||disdik.inhilkab.go.id^
 ||disdik.tarakankota.go.id^
 ||disdikbud.padangpanjang.go.id^
@@ -1634,6 +1635,7 @@
 ||fortunecookieeauclaire.com^
 ||forum.bytomski.pl^
 ||forum.centos-webpanel.com^
+||forum.donanimhaber.com^
 ||forum.eset.com^
 ||forum.samdroid.net^
 ||forum.websitebaker.org^
@@ -2263,6 +2265,7 @@
 ||joseyofficial.com^
 ||jounieh.org^
 ||journal.almuslim.ac.id^
+||journal.amikveteran.ac.id^
 ||journal.diginus.id^
 ||journal.eng.unila.ac.id^
 ||journal.fsei.unikamamuju.ac.id^
@@ -3768,6 +3771,7 @@
 ||radarbanjarmasin.jawapos.com^
 ||radarcirebon.disway.id^
 ||radarmedan.com^
+||radarsampit.com^
 ||radarsurabaya.jawapos.com^
 ||radarwaykanan.com^
 ||radioactivafm.com^
@@ -4793,6 +4797,7 @@
 ||tradera.com^
 ||training-adp.plancomm.gov.bd^
 ||tramites-uraa.unitru.edu.pe^
+||tramscafe.com^
 ||transcell.in^
 ||transfermarkt.co.id^
 ||transfermarkt.com^
@@ -4907,6 +4912,7 @@
 ||upaaa.net^
 ||upb.iainkendari.ac.id^
 ||upcycleafrica.org^
+||update.hatena.id^
 ||uppmaccinibaji.org^
 ||upt-komputer.umk.ac.id^
 ||uptppwa.ummat.ac.id^
