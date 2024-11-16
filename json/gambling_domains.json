@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:09:43",
+  "updated": "2024-11-17 06:11:46",
   "categories": {
     "slot": {
-      "count": 5248,
+      "count": 5252,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31490,6 +31490,30 @@
           "domain": "hellyers.com",
           "raw_url": "https://hellyers.com/",
           "found_time": "2024-11-16 23:09:42",
+          "status": "active"
+        },
+        {
+          "domain": "northparkpharmacywaterloo.com",
+          "raw_url": "https://northparkpharmacywaterloo.com/",
+          "found_time": "2024-11-16 23:09:43",
+          "status": "active"
+        },
+        {
+          "domain": "thebrunchfest.com",
+          "raw_url": "https://www.thebrunchfest.com/",
+          "found_time": "2024-11-16 23:10:44",
+          "status": "active"
+        },
+        {
+          "domain": "pampling.com",
+          "raw_url": "https://www.pampling.com/comunidad/blog-de-usuarios/161461-FANTA168-PROFIT-SLOT-BONUS-NEW-MEMBER-100?srsltid=AfmBOops9tuy4I9oBLYvervy7ygvQBlKTjHG0UgQTJun3T8okH4lRB1x",
+          "found_time": "2024-11-16 23:10:44",
+          "status": "active"
+        },
+        {
+          "domain": "comprandolobueno.com",
+          "raw_url": "https://www.comprandolobueno.com/",
+          "found_time": "2024-11-16 23:11:45",
           "status": "active"
         }
       ]
