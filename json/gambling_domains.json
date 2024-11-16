@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 23:33:23",
+  "updated": "2024-11-16 23:39:35",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 468,
+      "count": 475,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42172,6 +42172,48 @@
           "domain": "askb-sbo.pages.dev",
           "raw_url": "http://askb-sbo.pages.dev/",
           "found_time": "2024-11-16 16:33:22",
+          "status": "active"
+        },
+        {
+          "domain": "covid19.sumbabaratkab.go.id",
+          "raw_url": "https://covid19.sumbabaratkab.go.id/vaccine/",
+          "found_time": "2024-11-16 16:33:22",
+          "status": "active"
+        },
+        {
+          "domain": "barcelonascoffeeshop.com",
+          "raw_url": "https://barcelonascoffeeshop.com/",
+          "found_time": "2024-11-16 16:35:26",
+          "status": "active"
+        },
+        {
+          "domain": "e27.co",
+          "raw_url": "https://e27.co/startups/agen-bola-sbobet-online/",
+          "found_time": "2024-11-16 16:35:26",
+          "status": "active"
+        },
+        {
+          "domain": "ubest.ac.id",
+          "raw_url": "https://ubest.ac.id/register/online/",
+          "found_time": "2024-11-16 16:35:27",
+          "status": "active"
+        },
+        {
+          "domain": "aun.edu.eg",
+          "raw_url": "https://www.aun.edu.eg/fci/sites/default/files/research_project/Sbobet%20-Agen-Taruhan-Bola-Terpercaya-Sejak-Zaman-Dulu.pdf",
+          "found_time": "2024-11-16 16:36:28",
+          "status": "active"
+        },
+        {
+          "domain": "icobios.akademisi.co.id",
+          "raw_url": "https://icobios.akademisi.co.id/maketi/?galaxy=sbobet%20bola",
+          "found_time": "2024-11-16 16:36:29",
+          "status": "active"
+        },
+        {
+          "domain": "9sarang188.com",
+          "raw_url": "https://9sarang188.com/",
+          "found_time": "2024-11-16 16:37:31",
           "status": "active"
         }
       ]

@@ -1,9 +1,10 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 23:33:22
+! Last Updated: 2024-11-16 23:39:35
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 468
+! Number of unique domains: 475
 !
 
+||9sarang188.com^
 ||a00013.d-medis.id^
 ||abidingtech.com^
 ||abseits.at^
@@ -38,6 +39,7 @@
 ||asics.co.id^
 ||askb-sbo.pages.dev^
 ||ato.com.vn^
+||aun.edu.eg^
 ||autos.cbslocal.com^
 ||ayokgaspol.pages.dev^
 ||babmrjournal.org^
@@ -45,6 +47,7 @@
 ||balitribune.co.id^
 ||banchettomusicale.com^
 ||bandarjuditerpercaya88.wordpress.com^
+||barcelonascoffeeshop.com^
 ||basketballsphere.com^
 ||beingrudri.com^
 ||belajar.smktunaskaryacomal.sch.id^
@@ -91,6 +94,7 @@
 ||conference.untag-sby.ac.id^
 ||corpgovnigeria.org^
 ||cosumnes.org^
+||covid19.sumbabaratkab.go.id^
 ||cps.ctbc.edu.tw^
 ||crictez.com^
 ||cronosanluis.com^
@@ -121,6 +125,7 @@
 ||droversinn.co.uk^
 ||dv.deliserdangkab.com^
 ||e-proc.pamjaya.co.id^
+||e27.co^
 ||eafrica.co.za^
 ||ecodrive.org^
 ||ejournal.amertamedia.co.id^
@@ -171,6 +176,7 @@
 ||htn.staiduba.ac.id^
 ||hura.es^
 ||ibudanbalita.com^
+||icobios.akademisi.co.id^
 ||ictdemy.com^
 ||idsitusbola.pages.dev^
 ||igloobeauty.ca^
@@ -444,6 +450,7 @@
 ||tribratanewsntt.com^
 ||tripadvisor.it^
 ||tulangbawang.pages.dev^
+||ubest.ac.id^
 ||ucosigtau.com^
 ||uijar.com^
 ||uni.xyz^
