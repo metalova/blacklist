@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 18:24:39
+! Last Updated: 2024-11-16 18:28:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5071
+! Number of unique domains: 5075
 !
 
 ||103.115.28.6^
@@ -1480,6 +1480,7 @@
 ||evermos.com^
 ||everpro.id^
 ||every.co.id^
+||everybodydigital.com^
 ||everymatrix.com^
 ||everystudentamultimillionaire.com^
 ||evolveaustin.org^
@@ -1649,6 +1650,7 @@
 ||gamereactor.se^
 ||gamers-loft.com^
 ||gamestationhouse.com^
+||gammalyte.com^
 ||gandatotoccnolimitgacor.pages.dev^
 ||gardenbarphx.com^
 ||gardengrillsteakhouse.com^
@@ -2237,6 +2239,7 @@
 ||journall.org^
 ||journalpublicspace.org^
 ||journalpublicspace.pages.dev^
+||journals.highlandinstitute.org^
 ||journals.iarn.or.id^
 ||journals.prosciences.net^
 ||journals.scicell.org^
@@ -3281,6 +3284,7 @@
 ||pa-ngamprah.go.id^
 ||pa-pangkajene.go.id^
 ||pa-sukadana.go.id^
+||pa-wamena.go.id^
 ||pabriktempe.id^
 ||pac-4.com^
 ||pacetrial.org^

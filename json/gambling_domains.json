@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 18:24:39",
+  "updated": "2024-11-16 18:28:45",
   "categories": {
     "slot": {
-      "count": 5071,
+      "count": 5075,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30428,6 +30428,30 @@
           "domain": "ciclovidarun10k.com",
           "raw_url": "https://ciclovidarun10k.com/",
           "found_time": "2024-11-16 11:24:38",
+          "status": "active"
+        },
+        {
+          "domain": "gammalyte.com",
+          "raw_url": "https://gammalyte.com/",
+          "found_time": "2024-11-16 11:24:38",
+          "status": "active"
+        },
+        {
+          "domain": "pa-wamena.go.id",
+          "raw_url": "https://www.pa-wamena.go.id/",
+          "found_time": "2024-11-16 11:26:40",
+          "status": "active"
+        },
+        {
+          "domain": "journals.highlandinstitute.org",
+          "raw_url": "https://journals.highlandinstitute.org/pages/",
+          "found_time": "2024-11-16 11:26:41",
+          "status": "active"
+        },
+        {
+          "domain": "everybodydigital.com",
+          "raw_url": "https://everybodydigital.com/",
+          "found_time": "2024-11-16 11:27:43",
           "status": "active"
         }
       ]
