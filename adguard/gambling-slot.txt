@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:24:41
+! Last Updated: 2024-11-16 08:27:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4877
+! Number of unique domains: 4879
 !
 
 ||103.115.28.6^
@@ -1368,6 +1368,7 @@
 ||en.chateauversailles.fr^
 ||en.shippingchina.com^
 ||enableshakti.com^
+||enak-om.pages.dev^
 ||encorebostonharbor.com^
 ||encyklopediehazardu.cz^
 ||endurodelverano.com.ar^
@@ -3360,6 +3361,7 @@
 ||pmb.ipbcirebon.ac.id^
 ||pmb.unaki.ac.id^
 ||pmb.uniasman.ac.id^
+||pmb.universitasmandiri.ac.id^
 ||pmbet.co.tz^
 ||pmexpressng.com^
 ||pmjnews.com^

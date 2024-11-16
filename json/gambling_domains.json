@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 08:24:41",
+  "updated": "2024-11-16 08:27:45",
   "categories": {
     "slot": {
-      "count": 4877,
+      "count": 4879,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29264,6 +29264,18 @@
           "domain": "journal.takaza.id",
           "raw_url": "https://journal.takaza.id/budi/?komdigi=kuda4d",
           "found_time": "2024-11-16 01:23:40",
+          "status": "active"
+        },
+        {
+          "domain": "enak-om.pages.dev",
+          "raw_url": "https://enak-om.pages.dev/widybahasa/3",
+          "found_time": "2024-11-16 01:24:41",
+          "status": "active"
+        },
+        {
+          "domain": "pmb.universitasmandiri.ac.id",
+          "raw_url": "https://pmb.universitasmandiri.ac.id/file/?story=zona4d",
+          "found_time": "2024-11-16 01:27:44",
           "status": "active"
         }
       ]

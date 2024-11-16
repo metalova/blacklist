@@ -1362,6 +1362,7 @@ empu138g.online
 en.chateauversailles.fr
 en.shippingchina.com
 enableshakti.com
+enak-om.pages.dev
 encorebostonharbor.com
 encyklopediehazardu.cz
 endurodelverano.com.ar
@@ -3354,6 +3355,7 @@ pma.bku.ac.id
 pmb.ipbcirebon.ac.id
 pmb.unaki.ac.id
 pmb.uniasman.ac.id
+pmb.universitasmandiri.ac.id
 pmbet.co.tz
 pmexpressng.com
 pmjnews.com
