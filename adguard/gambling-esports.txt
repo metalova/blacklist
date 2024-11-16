@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 01:59:03
+! Last Updated: 2024-11-17 02:04:10
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 221
+! Number of unique domains: 223
 !
 
 ||1xbet.id.uptodown.com^
@@ -56,6 +56,7 @@
 ||dotablast.com^
 ||dotesports.com^
 ||drg-66h.pages.dev^
+||efgev.com^
 ||ejurnal.warmadewa.ac.id^
 ||endeus.tv^
 ||enterkomputer.com^
@@ -110,6 +111,7 @@
 ||infomase.id^
 ||informatika.unitomo.ac.id^
 ||iniampolympus88.com^
+||innovatpublisher.com^
 ||intipseleb.com^
 ||issacyber.com^
 ||j8s.amphtml.online^
