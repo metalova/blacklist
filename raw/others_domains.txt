@@ -25,6 +25,7 @@ babad.id
 bakorwilbojonegoro.jatimprov.go.id
 banjarkota.go.id
 bappenda.cimahikota.go.id
+bataminfo.co.id
 batastimor.com
 baznas.go.id
 belasting.id
@@ -50,6 +51,7 @@ curupekspress.bacakoran.co
 dataindonesia.id
 deduktif.id
 detail.id
+detik60.com
 didaktis.metaniskala.co.id
 diskominfo.kaltimprov.go.id
 diskominfotik.lampungprov.go.id
@@ -117,6 +119,7 @@ kabarfajar.com
 kabarpapua.co
 kalimantanpost.com
 kalselpos.com
+karosatuklik.com
 katakini.com
 kepaniteraan.mahkamahagung.go.id
 keuangan.kontan.co.id
@@ -125,6 +128,7 @@ komdigi.go.id
 komparatif.id
 korantimor.com
 kpdsabah.com
+krazy4drivingschool.ca
 krusial.com
 kudureti.com
 kudus.ayoindonesia.com
@@ -157,6 +161,7 @@ mccombwholesale.com
 medanbisnisdaily.com
 media24.id
 mediabanten.com
+mediadayak.id
 mediaedutama.co.id
 mediajustitia.com
 mediawarta.com
@@ -178,6 +183,7 @@ nomorsatukaltim.disway.id
 ntthits.com
 nukilan.id
 nunheadknocks.com
+nusabali.com
 nusantara62.com
 ojashospitalbhopal.com
 ojk.go.id
@@ -194,6 +200,7 @@ people-qa.int.sap
 permatabank.com
 pervasivedatarush.com
 pipsm.com
+pmb.poltekkeshermina.ac.id
 pngwing.com
 pojokbaca.id
 polresbanjarbaru.org
@@ -239,21 +246,25 @@ suaradewata.com
 sukabumiupdate.com
 sulbar.herald.id
 sumbarkita.id
+sumedang.jabarekspres.com
 supremetoys.ca
 swa.co.id
 tangerangkota.go.id
 tatarmedia.id
 techno.rakyat.news
 teknologi.id
+telematicsnews.info
 tennismag.com.ua
 teras.id
 thebestsryxxx.com
 theedadvocate.org
 timesindonesia.co.id
+topdewi365bos.com
 transformingcenter.org
 transifex.com
 transparannews.id
 tribratanews.jambi.polri.go.id
+tribratanews.metro.polri.go.id
 tvrisumbar.co.id
 ugm.ac.id
 uzone.id

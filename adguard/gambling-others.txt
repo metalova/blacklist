@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 03:34:02
+! Last Updated: 2024-11-17 03:39:14
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 273
+! Number of unique domains: 284
 !
 
 ||abatanews.com^
@@ -31,6 +31,7 @@
 ||bakorwilbojonegoro.jatimprov.go.id^
 ||banjarkota.go.id^
 ||bappenda.cimahikota.go.id^
+||bataminfo.co.id^
 ||batastimor.com^
 ||baznas.go.id^
 ||belasting.id^
@@ -56,6 +57,7 @@
 ||dataindonesia.id^
 ||deduktif.id^
 ||detail.id^
+||detik60.com^
 ||didaktis.metaniskala.co.id^
 ||diskominfo.kaltimprov.go.id^
 ||diskominfotik.lampungprov.go.id^
@@ -123,6 +125,7 @@
 ||kabarpapua.co^
 ||kalimantanpost.com^
 ||kalselpos.com^
+||karosatuklik.com^
 ||katakini.com^
 ||kepaniteraan.mahkamahagung.go.id^
 ||keuangan.kontan.co.id^
@@ -131,6 +134,7 @@
 ||komparatif.id^
 ||korantimor.com^
 ||kpdsabah.com^
+||krazy4drivingschool.ca^
 ||krusial.com^
 ||kudureti.com^
 ||kudus.ayoindonesia.com^
@@ -163,6 +167,7 @@
 ||medanbisnisdaily.com^
 ||media24.id^
 ||mediabanten.com^
+||mediadayak.id^
 ||mediaedutama.co.id^
 ||mediajustitia.com^
 ||mediawarta.com^
@@ -184,6 +189,7 @@
 ||ntthits.com^
 ||nukilan.id^
 ||nunheadknocks.com^
+||nusabali.com^
 ||nusantara62.com^
 ||ojashospitalbhopal.com^
 ||ojk.go.id^
@@ -200,6 +206,7 @@
 ||permatabank.com^
 ||pervasivedatarush.com^
 ||pipsm.com^
+||pmb.poltekkeshermina.ac.id^
 ||pngwing.com^
 ||pojokbaca.id^
 ||polresbanjarbaru.org^
@@ -245,21 +252,25 @@
 ||sukabumiupdate.com^
 ||sulbar.herald.id^
 ||sumbarkita.id^
+||sumedang.jabarekspres.com^
 ||supremetoys.ca^
 ||swa.co.id^
 ||tangerangkota.go.id^
 ||tatarmedia.id^
 ||techno.rakyat.news^
 ||teknologi.id^
+||telematicsnews.info^
 ||tennismag.com.ua^
 ||teras.id^
 ||thebestsryxxx.com^
 ||theedadvocate.org^
 ||timesindonesia.co.id^
+||topdewi365bos.com^
 ||transformingcenter.org^
 ||transifex.com^
 ||transparannews.id^
 ||tribratanews.jambi.polri.go.id^
+||tribratanews.metro.polri.go.id^
 ||tvrisumbar.co.id^
 ||ugm.ac.id^
 ||uzone.id^

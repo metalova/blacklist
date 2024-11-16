@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 03:34:02",
+  "updated": "2024-11-17 03:39:14",
   "categories": {
     "slot": {
       "count": 5192,
@@ -44480,7 +44480,7 @@
       ]
     },
     "others": {
-      "count": 273,
+      "count": 284,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -46118,6 +46118,72 @@
           "domain": "casabellabb.com",
           "raw_url": "https://www.casabellabb.com/amp/",
           "found_time": "2024-11-16 20:34:02",
+          "status": "active"
+        },
+        {
+          "domain": "mediadayak.id",
+          "raw_url": "https://mediadayak.id/pemerintahan-presiden-prabowo-perkuat-regulasi-untuk-berantas-judi-online-di-tanah-air/",
+          "found_time": "2024-11-16 20:34:02",
+          "status": "active"
+        },
+        {
+          "domain": "bataminfo.co.id",
+          "raw_url": "https://bataminfo.co.id/satreskrim-polresta-barelang-amankan-1-tersangka-kasus-judi-online-situs-gojkslots/amp/",
+          "found_time": "2024-11-16 20:35:03",
+          "status": "active"
+        },
+        {
+          "domain": "telematicsnews.info",
+          "raw_url": "https://telematicsnews.info/2016/04/11/tata-cara-dalam-bermain-judi-online-terpercaya/",
+          "found_time": "2024-11-16 20:35:03",
+          "status": "active"
+        },
+        {
+          "domain": "topdewi365bos.com",
+          "raw_url": "https://topdewi365bos.com/",
+          "found_time": "2024-11-16 20:36:05",
+          "status": "active"
+        },
+        {
+          "domain": "krazy4drivingschool.ca",
+          "raw_url": "https://krazy4drivingschool.ca/agen-judi-deposit-pulsa-tanpa-potongan/",
+          "found_time": "2024-11-16 20:37:08",
+          "status": "active"
+        },
+        {
+          "domain": "karosatuklik.com",
+          "raw_url": "https://karosatuklik.com/polri-komitmen-bersih-bersih-institusi-dari-judi-online/",
+          "found_time": "2024-11-16 20:37:08",
+          "status": "active"
+        },
+        {
+          "domain": "pmb.poltekkeshermina.ac.id",
+          "raw_url": "https://pmb.poltekkeshermina.ac.id/gacor/?max_id=daftar-judi-online",
+          "found_time": "2024-11-16 20:37:08",
+          "status": "active"
+        },
+        {
+          "domain": "nusabali.com",
+          "raw_url": "https://www.nusabali.com/berita/138625/simak-ini-daftar-situs-judi-online-yang-diblokir-kominfo",
+          "found_time": "2024-11-16 20:38:10",
+          "status": "active"
+        },
+        {
+          "domain": "tribratanews.metro.polri.go.id",
+          "raw_url": "https://tribratanews.metro.polri.go.id/polisi-kembali-tangkap-3-dpo-kasus-judi-online-komdigi-total-22-tersangka-diamankan/",
+          "found_time": "2024-11-16 20:38:10",
+          "status": "active"
+        },
+        {
+          "domain": "sumedang.jabarekspres.com",
+          "raw_url": "https://sumedang.jabarekspres.com/2024/11/16/langkah-tegas-perangi-judi-online-bri-blokir-lebih-dari-3-ribu-rekening/",
+          "found_time": "2024-11-16 20:39:13",
+          "status": "active"
+        },
+        {
+          "domain": "detik60.com",
+          "raw_url": "https://www.detik60.com/keuangan/37013956123/dua-jempol-bagi-bri-ambil-tindakan-berani-blokir-3003-rekening-judi-online-guna-lindungi-masyarakat",
+          "found_time": "2024-11-16 20:39:13",
           "status": "active"
         }
       ]
