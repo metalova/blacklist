@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 20:59:41
+! Last Updated: 2024-11-16 21:04:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5153
+! Number of unique domains: 5161
 !
 
 ||103.115.28.6^
@@ -561,9 +561,11 @@
 ||bethanychurchpec.ca^
 ||bethelparkfarmersmarket.com^
 ||bethsadahospital.com^
+||betking-mobile.en.uptodown.com^
 ||betking-mobile.id.uptodown.com^
 ||betking-sports-betting-app.en.softonic.com^
 ||betking.my.site.com^
+||betkingagency.com^
 ||betkingwood.com^
 ||betmaster-apuestas-deportivas.softonic-id.com^
 ||betmaster-play.in^
@@ -2570,6 +2572,7 @@
 ||laxedumalt.com^
 ||lckijambi.org^
 ||ldp.ibi.or.id^
+||leadership.ng^
 ||leagueofgraphs.com^
 ||learnforexmentor.com^
 ||learningcircle.education^
@@ -2989,6 +2992,7 @@
 ||mini-ielts.com^
 ||miniaussierescue.org^
 ||minicasheg.com^
+||miningdigital.com^
 ||mio777vip.pics^
 ||miragenailspafortmyers.com^
 ||mirrorreview.com^
@@ -3481,6 +3485,7 @@
 ||peterpause.com^
 ||petritegi.com^
 ||petrolsorb.com^
+||petruk303dewasiwa.pages.dev^
 ||pewarta.org^
 ||pfipartners.org^
 ||pgplay24.io^
@@ -4453,6 +4458,7 @@
 ||superasian88win.com^
 ||superiorhomerenovations.com^
 ||supermpoweb.com^
+||superpicks.com^
 ||supervisi.relawanjurnal.id^
 ||suples.com^
 ||support.coinmastergame.com^
@@ -4461,6 +4467,7 @@
 ||surgawd-bos.online^
 ||surgawd-bos.pro^
 ||surge.media^
+||survey-ipak.apps-batola.id^
 ||sushibapontedera.it^
 ||sushikappo.com^
 ||sushilmedical.com^
@@ -5006,6 +5013,7 @@
 ||welbm.co.uk^
 ||wellfound.com^
 ||wellingtonvillagedental.com^
+||welson.vn^
 ||wendyandwilson.com^
 ||wendypark.org^
 ||westbendsalspizza.com^
