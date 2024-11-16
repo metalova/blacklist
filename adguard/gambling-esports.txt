@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 15:23:43
+! Last Updated: 2024-11-16 15:26:50
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 215
+! Number of unique domains: 220
 !
 
 ||1xbet.id.uptodown.com^
@@ -87,9 +87,11 @@
 ||garena.co.id^
 ||garudaku.com^
 ||genpi.co^
+||ggwp88-link.pages.dev^
 ||globalbiofest.com^
 ||gnosisgames.com^
 ||googleapp.help^
+||goplaysab.com^
 ||gosugamers.net^
 ||gpnt.pl^
 ||grid.id^
@@ -129,6 +131,7 @@
 ||lensaone.id^
 ||lightcoral.xyz^
 ||linkidntogel.com^
+||liongaming.io^
 ||listvox.com^
 ||lj.maharashtra.gov.in^
 ||log.suinco.pe^
@@ -157,6 +160,7 @@
 ||otcmarkets.com^
 ||pandascore.co^
 ||periodontitis-treatment.com^
+||piubet.amphtml.org^
 ||play.mobilelegends.com^
 ||playvalorant.com^
 ||plinko1win.com^
@@ -164,6 +168,7 @@
 ||ponlix.wordpress.com^
 ||popline.id^
 ||ppid.belitung.go.id^
+||ppo.mzcr.cz^
 ||pressreader.com^
 ||probolinggo.jatimtimes.com^
 ||prodigy-agency.gg^

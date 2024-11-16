@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:23:43",
+  "updated": "2024-11-16 15:26:50",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 215,
+      "count": 220,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41739,6 +41739,36 @@
           "domain": "sakti55-sip.pages.dev",
           "raw_url": "https://sakti55-sip.pages.dev/",
           "found_time": "2024-11-16 08:23:42",
+          "status": "active"
+        },
+        {
+          "domain": "liongaming.io",
+          "raw_url": "https://liongaming.io/esports-betting/",
+          "found_time": "2024-11-16 08:23:43",
+          "status": "active"
+        },
+        {
+          "domain": "piubet.amphtml.org",
+          "raw_url": "https://piubet.amphtml.org/",
+          "found_time": "2024-11-16 08:25:47",
+          "status": "active"
+        },
+        {
+          "domain": "ggwp88-link.pages.dev",
+          "raw_url": "https://ggwp88-link.pages.dev/",
+          "found_time": "2024-11-16 08:25:48",
+          "status": "active"
+        },
+        {
+          "domain": "ppo.mzcr.cz",
+          "raw_url": "https://ppo.mzcr.cz/?thailand-mzcr=10-30&type=free-slots-nj",
+          "found_time": "2024-11-16 08:25:48",
+          "status": "active"
+        },
+        {
+          "domain": "goplaysab.com",
+          "raw_url": "https://goplaysab.com/ampcansab/",
+          "found_time": "2024-11-16 08:25:48",
           "status": "active"
         }
       ]
