@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 10:09:57",
+  "updated": "2024-11-16 10:14:03",
   "categories": {
     "slot": {
-      "count": 4974,
+      "count": 4979,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29846,6 +29846,36 @@
           "domain": "leagueofgraphs.com",
           "raw_url": "https://www.leagueofgraphs.com/summoner/euw/durimor-EUW",
           "found_time": "2024-11-16 03:08:54",
+          "status": "active"
+        },
+        {
+          "domain": "snokido.fr",
+          "raw_url": "https://www.snokido.fr/jeux/action",
+          "found_time": "2024-11-16 03:09:56",
+          "status": "active"
+        },
+        {
+          "domain": "katalogppid.sma2payakumbuh.sch.id",
+          "raw_url": "https://katalogppid.sma2payakumbuh.sch.id/digital/?katalogppid=Grand777",
+          "found_time": "2024-11-16 03:12:59",
+          "status": "active"
+        },
+        {
+          "domain": "cpanel.sman-modalbangsa.sch.id",
+          "raw_url": "https://cpanel.sman-modalbangsa.sch.id/?modalbangsa=Grand777",
+          "found_time": "2024-11-16 03:14:02",
+          "status": "active"
+        },
+        {
+          "domain": "chambers.com",
+          "raw_url": "https://chambers.com/law-firm/beijing-grandwin-law-firm-greater-china-region-116:23720874",
+          "found_time": "2024-11-16 03:14:02",
+          "status": "active"
+        },
+        {
+          "domain": "e-katalog.lkpp.go.id",
+          "raw_url": "https://e-katalog.lkpp.go.id/katalog/produk/detail/75230663",
+          "found_time": "2024-11-16 03:14:02",
           "status": "active"
         }
       ]

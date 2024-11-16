@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 10:09:57
+! Last Updated: 2024-11-16 10:14:03
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4974
+! Number of unique domains: 4979
 !
 
 ||103.115.28.6^
@@ -854,6 +854,7 @@
 ||cewriting.org^
 ||cfevr.org^
 ||cfppadugers.com^
+||chambers.com^
 ||chambersforindiana.com^
 ||chameleonpr.com^
 ||championschool.org^
@@ -1013,6 +1014,7 @@
 ||cowtribe.com^
 ||cpanel.akaun.com^
 ||cpanel.indagkop.kaltimprov.go.id^
+||cpanel.sman-modalbangsa.sch.id^
 ||cpns.id^
 ||cqrsinfo.com^
 ||crablobsterli.com^
@@ -1307,6 +1309,7 @@
 ||e-journal-dharmaagung.sttsabdaagung.ac.id^
 ||e-journal.iainfmpapua.ac.id^
 ||e-kartu-tunggu.rskariadi.id^
+||e-katalog.lkpp.go.id^
 ||e-learning.unikastpaulus.ac.id^
 ||e-office.balangankab.go.id^
 ||e-office.pulangpisaukab.go.id^
@@ -2282,6 +2285,7 @@
 ||kaskamping.com^
 ||kaskus.co.id^
 ||katadata.co.id^
+||katalogppid.sma2payakumbuh.sch.id^
 ||katamaluku.id^
 ||katarsisuib.no^
 ||kauveryhospital.com^
@@ -4130,6 +4134,7 @@
 ||snarkthemusical.com^
 ||snipfeed.co^
 ||snokido.com^
+||snokido.fr^
 ||sobatbersenangria.com^
 ||sobatoosaketoobanzai-kashima.com^
 ||sobattimezone.com^
