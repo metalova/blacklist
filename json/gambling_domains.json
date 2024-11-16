@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 17:10:00",
+  "updated": "2024-11-16 17:44:08",
   "categories": {
     "slot": {
-      "count": 5019,
+      "count": 5023,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30116,6 +30116,30 @@
           "domain": "divingwithapurpose.org",
           "raw_url": "https://divingwithapurpose.org/",
           "found_time": "2024-11-16 10:08:58",
+          "status": "active"
+        },
+        {
+          "domain": "younescoif.com",
+          "raw_url": "https://younescoif.com/",
+          "found_time": "2024-11-16 10:09:59",
+          "status": "active"
+        },
+        {
+          "domain": "panglima-mangkubumi.pages.dev",
+          "raw_url": "https://panglima-mangkubumi.pages.dev/",
+          "found_time": "2024-11-16 10:42:04",
+          "status": "active"
+        },
+        {
+          "domain": "capcut88-slot-thailand.pages.dev",
+          "raw_url": "https://capcut88-slot-thailand.pages.dev/",
+          "found_time": "2024-11-16 10:42:04",
+          "status": "active"
+        },
+        {
+          "domain": "hypeabis.id",
+          "raw_url": "https://hypeabis.id/read/43349/ciri-ciri-judi-online-berkedok-game-jangan-sampai-terjebak",
+          "found_time": "2024-11-16 10:42:05",
           "status": "active"
         }
       ]

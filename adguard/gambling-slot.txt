@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 17:10:00
+! Last Updated: 2024-11-16 17:44:08
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5019
+! Number of unique domains: 5023
 !
 
 ||103.115.28.6^
@@ -788,6 +788,7 @@
 ||cangkuk.com^
 ||canoewater.ca^
 ||cap-industrie.fr^
+||capcut88-slot-thailand.pages.dev^
 ||caphscanberra.com^
 ||capitalramen.com^
 ||capitoltrades.com^
@@ -1904,6 +1905,7 @@
 ||humoscience.pages.dev^
 ||huntington.fr^
 ||hvac-trainingschools.com^
+||hypeabis.id^
 ||i-vory.id^
 ||i.cemacyc.org^
 ||i1mega.win^
@@ -3303,6 +3305,7 @@
 ||panen338.shop^
 ||panganku.org^
 ||pangkalannyirih.desa.id^
+||panglima-mangkubumi.pages.dev^
 ||panjar.pa-sukoharjo.go.id^
 ||pannafoto.org^
 ||papuaselatanprov.ina-sdi.or.id^
@@ -4981,6 +4984,7 @@
 ||yosonhartz.com^
 ||yosoydigital.org^
 ||yossiyovel.com^
+||younescoif.com^
 ||yourcupcakequeen.com^
 ||yoursecretcode.com^
 ||yourturninc.com^
