@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 17:48:18
+! Last Updated: 2024-11-16 17:50:21
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5031
+! Number of unique domains: 5032
 !
 
 ||103.115.28.6^
@@ -3960,6 +3960,7 @@
 ||sekarlaut.com^
 ||sekata.id^
 ||sekolahidetoto.pages.dev^
+||selalubersamakawan.pages.dev^
 ||sellamaperuceviche.com^
 ||selli.desa.id^
 ||semarapuraklod.desa.id^

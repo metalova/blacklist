@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 17:48:18",
+  "updated": "2024-11-16 17:50:21",
   "categories": {
     "slot": {
-      "count": 5031,
+      "count": 5032,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30187,6 +30187,12 @@
         {
           "domain": "jalurbosi.pages.dev",
           "raw_url": "https://jalurbosi.pages.dev/",
+          "found_time": "2024-11-16 10:48:18",
+          "status": "active"
+        },
+        {
+          "domain": "selalubersamakawan.pages.dev",
+          "raw_url": "https://selalubersamakawan.pages.dev/",
           "found_time": "2024-11-16 10:48:18",
           "status": "active"
         }
