@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:19:13",
+  "updated": "2024-11-16 12:24:40",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 371,
+      "count": 383,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39304,6 +39304,78 @@
           "domain": "indianahawksbaseball.com",
           "raw_url": "https://indianahawksbaseball.com/",
           "found_time": "2024-11-16 05:19:12",
+          "status": "active"
+        },
+        {
+          "domain": "obhjmk.cz",
+          "raw_url": "https://obhjmk.cz/wp-includes/parlay/",
+          "found_time": "2024-11-16 05:19:13",
+          "status": "active"
+        },
+        {
+          "domain": "spmi.poltektiarabunda.ac.id",
+          "raw_url": "https://spmi.poltektiarabunda.ac.id/ref/css8/",
+          "found_time": "2024-11-16 05:20:19",
+          "status": "active"
+        },
+        {
+          "domain": "thecompleteworksofshakespeare.com",
+          "raw_url": "https://www.thecompleteworksofshakespeare.com/",
+          "found_time": "2024-11-16 05:20:19",
+          "status": "active"
+        },
+        {
+          "domain": "brilio.net",
+          "raw_url": "https://www.brilio.net/serius/10-pegawai-yang-terbukti-terlibat-judi-online-resmi-dipecat-komdigi-241114m.html",
+          "found_time": "2024-11-16 05:21:22",
+          "status": "active"
+        },
+        {
+          "domain": "sipedang.tebingtinggikota.go.id",
+          "raw_url": "https://sipedang.tebingtinggikota.go.id/uploads/",
+          "found_time": "2024-11-16 05:21:22",
+          "status": "active"
+        },
+        {
+          "domain": "goodstats.id",
+          "raw_url": "https://goodstats.id/article/indonesia-resmi-jadi-tuan-rumah-piala-asia-futsal-2026-OwzGB",
+          "found_time": "2024-11-16 05:21:22",
+          "status": "active"
+        },
+        {
+          "domain": "dormaj.org",
+          "raw_url": "https://dormaj.org/",
+          "found_time": "2024-11-16 05:21:22",
+          "status": "active"
+        },
+        {
+          "domain": "cruzroja.org.ar",
+          "raw_url": "https://cruzroja.org.ar/filialescra/memahami-konsep-1x2-dalam-taruhan-bola-online/",
+          "found_time": "2024-11-16 05:22:33",
+          "status": "active"
+        },
+        {
+          "domain": "hopposport.com",
+          "raw_url": "https://hopposport.com/?srsltid=AfmBOoo3OO-Dxs-v-Xp6b8xOLOyFMs0x3omt73HVPLis-4aPgefhA76v",
+          "found_time": "2024-11-16 05:22:33",
+          "status": "active"
+        },
+        {
+          "domain": "thetechnologyheadlines.com",
+          "raw_url": "https://thetechnologyheadlines.com/",
+          "found_time": "2024-11-16 05:24:39",
+          "status": "active"
+        },
+        {
+          "domain": "tripadvisor.it",
+          "raw_url": "https://www.tripadvisor.it/LocationPhotoDirectLink-g196503-d7234026-i467888330-Musee_des_Beaux_Arts_d_Agen-Agen_Lot_et_Garonne_Nouvelle_Aquitaine.html",
+          "found_time": "2024-11-16 05:24:40",
+          "status": "active"
+        },
+        {
+          "domain": "ampoperabola.info",
+          "raw_url": "https://ampoperabola.info/amp/",
+          "found_time": "2024-11-16 05:24:40",
           "status": "active"
         }
       ]
