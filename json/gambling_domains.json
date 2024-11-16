@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:23:41",
+  "updated": "2024-11-17 02:29:51",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 240,
+      "count": 245,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44403,6 +44403,36 @@
           "domain": "jurnalkalimantan.com",
           "raw_url": "https://jurnalkalimantan.com/paslon-wali-kota-banjarmasin-arifin-akbari-dukung-perkembangan-esports/",
           "found_time": "2024-11-16 19:22:40",
+          "status": "active"
+        },
+        {
+          "domain": "siouxfallsmusic.com",
+          "raw_url": "https://siouxfallsmusic.com/situs-judi-esport-12/",
+          "found_time": "2024-11-16 19:23:41",
+          "status": "active"
+        },
+        {
+          "domain": "salmonellatyphi.org",
+          "raw_url": "https://salmonellatyphi.org/parlay-mobile-legend-18/",
+          "found_time": "2024-11-16 19:25:44",
+          "status": "active"
+        },
+        {
+          "domain": "istorenz.com",
+          "raw_url": "https://www.istorenz.com/",
+          "found_time": "2024-11-16 19:27:47",
+          "status": "active"
+        },
+        {
+          "domain": "redbull.com",
+          "raw_url": "https://www.redbull.com/gb-en/og-ti8-winners-dota-2",
+          "found_time": "2024-11-16 19:29:50",
+          "status": "active"
+        },
+        {
+          "domain": "spin.ph",
+          "raw_url": "https://www.spin.ph/esports/bren-esports-describes-owgwen-and-kyletzy-acquisition-as-a-jackpot-a4858-20220924?ref=article_tag",
+          "found_time": "2024-11-16 19:29:50",
           "status": "active"
         }
       ]
