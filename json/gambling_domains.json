@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:49:47",
+  "updated": "2024-11-16 12:55:01",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 429,
+      "count": 439,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39652,6 +39652,66 @@
           "domain": "sman2meulaboh.sch.id",
           "raw_url": "https://sman2meulaboh.sch.id/album/gallery/",
           "found_time": "2024-11-16 05:49:47",
+          "status": "active"
+        },
+        {
+          "domain": "a00013.d-medis.id",
+          "raw_url": "https://a00013.d-medis.id/table/?page=bursa+taruhan+bola+handicap",
+          "found_time": "2024-11-16 05:49:47",
+          "status": "active"
+        },
+        {
+          "domain": "sportcorner.id",
+          "raw_url": "http://www.sportcorner.id/read/23057/5-situs-nonton-bola-gratis-dan-resmi-bisa-diakses-pakai-smartphone",
+          "found_time": "2024-11-16 05:51:52",
+          "status": "active"
+        },
+        {
+          "domain": "sdncipinangmelayu04.sch.id",
+          "raw_url": "https://sdncipinangmelayu04.sch.id/",
+          "found_time": "2024-11-16 05:51:52",
+          "status": "active"
+        },
+        {
+          "domain": "sman1bontang.sch.id",
+          "raw_url": "https://www.sman1bontang.sch.id/",
+          "found_time": "2024-11-16 05:51:53",
+          "status": "active"
+        },
+        {
+          "domain": "smkn3tabanan.melajah.id",
+          "raw_url": "https://smkn3tabanan.melajah.id/",
+          "found_time": "2024-11-16 05:51:53",
+          "status": "active"
+        },
+        {
+          "domain": "asics.co.id",
+          "raw_url": "https://asics.co.id/?srsltid=AfmBOopYesuteN40uPvxR8-kT1f5u_eN8NNmBZmDeR2B3nF7Q3g9pwiK",
+          "found_time": "2024-11-16 05:52:55",
+          "status": "active"
+        },
+        {
+          "domain": "kri.kemdikbud.go.id",
+          "raw_url": "https://kri.kemdikbud.go.id/",
+          "found_time": "2024-11-16 05:52:55",
+          "status": "active"
+        },
+        {
+          "domain": "mail.yeu.or.id",
+          "raw_url": "https://mail.yeu.or.id/",
+          "found_time": "2024-11-16 05:53:58",
+          "status": "active"
+        },
+        {
+          "domain": "shopbarberclassiccuts.co.za",
+          "raw_url": "https://shopbarberclassiccuts.co.za/188bet-pasaran-judi-bola-terbaik-di-indonesia/",
+          "found_time": "2024-11-16 05:53:58",
+          "status": "active"
+        },
+        {
+          "domain": "sitam.ekon.go.id",
+          "raw_url": "https://sitam.ekon.go.id/drake/",
+          "found_time": "2024-11-16 05:55:00",
           "status": "active"
         }
       ]
