@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 09:37:45
+! Last Updated: 2024-11-16 09:44:55
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4942
+! Number of unique domains: 4948
 !
 
 ||103.115.28.6^
@@ -625,6 +625,7 @@
 ||bkad.sumbabaratkab.go.id^
 ||bkd.nttprov.go.id^
 ||bkdkabsolok.com^
+||bkgnugm.id^
 ||bkim.jatengprov.go.id^
 ||bkppd.grobogan.go.id^
 ||bkpsdm.konaweutarakab.go.id^
@@ -963,6 +964,7 @@
 ||compass.com^
 ||computerrepaircentral.com^
 ||concejomunicipalchia.gov.co^
+||concicarpinella.com.ar^
 ||coned.com^
 ||conference.ut.ac.id^
 ||conferences.nasaa-arts.org^
@@ -1874,6 +1876,7 @@
 ||humoscience.pages.dev^
 ||huntington.fr^
 ||hvac-trainingschools.com^
+||i-vory.id^
 ||i.cemacyc.org^
 ||i1mega.win^
 ||iacovonekitchen.com^
@@ -2047,6 +2050,7 @@
 ||italianrestaurantqueens.com^
 ||itcybercommunity.com^
 ||itemku.com^
+||itla.or.id^
 ||itolog.net^
 ||itpa.ac.id^
 ||itsomic.com^
@@ -4763,6 +4767,7 @@
 ||wagyusteakhouseli.com^
 ||waiwhetuautoservices.com^
 ||wakuda-dental.com^
+||walesandwest.tti-global.com^
 ||wallstreetent.com^
 ||wardscottfiles.com^
 ||waringinjaya-desa.id^
@@ -4857,6 +4862,7 @@
 ||wisuda.umt.ac.id^
 ||witchuniversity.com^
 ||witny.org^
+||wjeffreyscott.com^
 ||wnbfactory.com^
 ||wnplayer.com^
 ||wolestglalternatif.com^

@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 09:37:45",
+  "updated": "2024-11-16 09:44:55",
   "categories": {
     "slot": {
-      "count": 4942,
+      "count": 4948,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29654,6 +29654,42 @@
           "domain": "univmeroket.pages.dev",
           "raw_url": "https://univmeroket.pages.dev/file/?story=RAJA88",
           "found_time": "2024-11-16 02:35:43",
+          "status": "active"
+        },
+        {
+          "domain": "wjeffreyscott.com",
+          "raw_url": "https://www.wjeffreyscott.com/amp/",
+          "found_time": "2024-11-16 02:37:45",
+          "status": "active"
+        },
+        {
+          "domain": "walesandwest.tti-global.com",
+          "raw_url": "https://walesandwest.tti-global.com/",
+          "found_time": "2024-11-16 02:40:51",
+          "status": "active"
+        },
+        {
+          "domain": "itla.or.id",
+          "raw_url": "https://itla.or.id/doc/jbg/agen365-5194",
+          "found_time": "2024-11-16 02:40:51",
+          "status": "active"
+        },
+        {
+          "domain": "i-vory.id",
+          "raw_url": "https://i-vory.id/",
+          "found_time": "2024-11-16 02:40:51",
+          "status": "active"
+        },
+        {
+          "domain": "bkgnugm.id",
+          "raw_url": "https://bkgnugm.id/",
+          "found_time": "2024-11-16 02:40:52",
+          "status": "active"
+        },
+        {
+          "domain": "concicarpinella.com.ar",
+          "raw_url": "https://concicarpinella.com.ar/",
+          "found_time": "2024-11-16 02:40:52",
           "status": "active"
         }
       ]
