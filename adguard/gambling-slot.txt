@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 20:39:22
+! Last Updated: 2024-11-16 20:44:56
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5124
+! Number of unique domains: 5138
 !
 
 ||103.115.28.6^
@@ -623,6 +623,7 @@
 ||biker-fm.com^
 ||bikeshop-lv.com^
 ||binjai.desa.natunakab.go.id^
+||bintangbadminton.org^
 ||bintangmotor.com^
 ||binwineasley.com^
 ||bio.site^
@@ -1693,6 +1694,7 @@
 ||gelrenieuws.nl^
 ||gemmabeautypalace.com^
 ||generationsofhope.org^
+||geneseeacademy.org^
 ||geniussports.com^
 ||geonet.me^
 ||geoparc-mgoun.ma^
@@ -2305,6 +2307,7 @@
 ||jurnal.um-palembang.ac.id^
 ||jurnal.umsrappang.ac.id^
 ||jurnal.univrab.ac.id^
+||jurnal.wima.ac.id^
 ||jurnalalmarisah.stifa.ac.id^
 ||jurnalborneo.co.id^
 ||jurnalispos.com^
@@ -2395,11 +2398,13 @@
 ||kemenagsidoarjo.com^
 ||kemenagtabalong.id^
 ||kemitraanlanskap.id^
+||kemkes-78u.pages.dev^
 ||kenangan4dmu.com^
 ||kendariinfo.com^
 ||kendarinews.com^
 ||kennebunkport.org^
 ||kenyapharmtech.com^
+||kepri.batampos.co.id^
 ||keralacobank.com^
 ||kesbang.ngawikab.go.id^
 ||kesbangpol.tanjabbarkab.go.id^
@@ -2725,6 +2730,7 @@
 ||m5.jayatogelabadi.com^
 ||maa.ac.in^
 ||maalfreekaa.in^
+||maalittihadmlg.sch.id^
 ||mabaotips.co.ke^
 ||mabar69x.pages.dev^
 ||mabuktogel.photos^
@@ -3019,6 +3025,7 @@
 ||monocliffsinn.com^
 ||monorxata.com^
 ||moodle.org^
+||moodle.sanantonio1.org^
 ||moodle2021.tiranus.ac.id^
 ||moomoossteaks.com^
 ||mooncup.com^
@@ -3104,6 +3111,7 @@
 ||mtsn7kediri.sch.id^
 ||mtsppmiassalaam.com^
 ||mtv.travel^
+||muhabbetkur.com^
 ||mulansakti.com^
 ||muniwanchaq.gob.pe^
 ||munsifdaily.com^
@@ -3540,6 +3548,7 @@
 ||pmb.unaki.ac.id^
 ||pmb.uniasman.ac.id^
 ||pmb.universitasmandiri.ac.id^
+||pmbdail.web.app^
 ||pmbet.co.tz^
 ||pmexpressng.com^
 ||pmjnews.com^
@@ -3614,6 +3623,7 @@
 ||prednisolone911.com^
 ||premiertrucks.net^
 ||premonitionspizza.com^
+||presensi.mtsn2abdya.com^
 ||presensi.uinjambi.ac.id^
 ||presidiohtx.com^
 ||press-startnutrition.com^
@@ -4007,6 +4017,7 @@
 ||sayurmalang.com^
 ||sb77sultanbet.com^
 ||sbcnews.co.uk^
+||sbcstt.com^
 ||sbs88.homes^
 ||scatter.cgb.gov.co^
 ||schiphol.nl^
@@ -4522,6 +4533,7 @@
 ||techxlegal.com^
 ||tecnicafe.co^
 ||teddybearmuseumpattaya.com^
+||tehama.gov^
 ||tejaswatersports.com^
 ||teknikvebilimarastirmavakfi.org^
 ||tekno88.fun^
@@ -4625,6 +4637,7 @@
 ||theoriginalgoombas.com^
 ||theoriginaltoptomato.com^
 ||theouterlimitssacramento.com^
+||thepab.org^
 ||thepetitionsite.com^
 ||thepotshoplosangeles.com^
 ||thepurecareclinic.com^
@@ -4699,6 +4712,7 @@
 ||togelcc-online.com^
 ||togelcc.com^
 ||togelccgacor23.com^
+||togelkamboja.koni.or.id^
 ||tokekwin.us^
 ||tokekwina.us^
 ||tokenramenatlakenona.com^
