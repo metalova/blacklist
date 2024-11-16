@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 21:17:23",
+  "updated": "2024-11-16 21:48:26",
   "categories": {
     "slot": {
-      "count": 5174,
+      "count": 5175,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31046,6 +31046,12 @@
           "domain": "paknek.info",
           "raw_url": "https://paknek.info/misi/?kmr=ROYALBET",
           "found_time": "2024-11-16 14:16:22",
+          "status": "active"
+        },
+        {
+          "domain": "kaynarcahaber.com",
+          "raw_url": "https://www.kaynarcahaber.com/haber/metal-sanayinin-onemli-firmalarindan-teknik-cizgi-kaynarcada-yatirim-yapacak-11100.html",
+          "found_time": "2024-11-16 14:17:23",
           "status": "active"
         }
       ]

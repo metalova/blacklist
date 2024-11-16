@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 21:17:23
+! Last Updated: 2024-11-16 21:48:26
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5174
+! Number of unique domains: 5175
 !
 
 ||103.115.28.6^
@@ -2389,6 +2389,7 @@
 ||kawanmenangbig.store^
 ||kayak.co.id^
 ||kayisdagitekel.com^
+||kaynarcahaber.com^
 ||kayukayu.id^
 ||kazuri.com^
 ||kbo-babel.com^
