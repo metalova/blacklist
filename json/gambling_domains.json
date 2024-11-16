@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 03:39:14",
+  "updated": "2024-11-17 03:49:22",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39203,7 +39203,7 @@
       ]
     },
     "poker": {
-      "count": 117,
+      "count": 118,
       "domains": [
         {
           "domain": "goodshepherdshawnee.org",
@@ -39905,6 +39905,12 @@
           "domain": "blue-quail.com",
           "raw_url": "https://www.blue-quail.com/",
           "found_time": "2024-11-16 09:40:35",
+          "status": "active"
+        },
+        {
+          "domain": "debpeckformayor.com",
+          "raw_url": "https://debpeckformayor.com/",
+          "found_time": "2024-11-16 20:48:21",
           "status": "active"
         }
       ]
@@ -44480,7 +44486,7 @@
       ]
     },
     "others": {
-      "count": 284,
+      "count": 286,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -46184,6 +46190,18 @@
           "domain": "detik60.com",
           "raw_url": "https://www.detik60.com/keuangan/37013956123/dua-jempol-bagi-bri-ambil-tindakan-berani-blokir-3003-rekening-judi-online-guna-lindungi-masyarakat",
           "found_time": "2024-11-16 20:39:13",
+          "status": "active"
+        },
+        {
+          "domain": "findyourrightfit.ca",
+          "raw_url": "https://findyourrightfit.ca/bet-188-tanpa-blokir/",
+          "found_time": "2024-11-16 20:39:13",
+          "status": "active"
+        },
+        {
+          "domain": "ulasan.co",
+          "raw_url": "https://ulasan.co/tag/wulan-guritno-promosi-judi-online/",
+          "found_time": "2024-11-16 20:45:18",
           "status": "active"
         }
       ]

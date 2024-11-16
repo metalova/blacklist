@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-17 03:39:14
+! Last Updated: 2024-11-17 03:49:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 117
+! Number of unique domains: 118
 !
 
 ||63.142.240.221^
@@ -35,6 +35,7 @@
 ||cuan3000.net^
 ||cuanluber.xyz^
 ||d3w4pokerinv.com^
+||debpeckformayor.com^
 ||developmetrics.org^
 ||districtmeasured.com^
 ||djarum365ceria.org^
