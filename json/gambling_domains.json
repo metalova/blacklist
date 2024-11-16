@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 07:00:29",
+  "updated": "2024-11-16 07:07:34",
   "categories": {
     "slot": {
-      "count": 4837,
+      "count": 4838,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29023,6 +29023,12 @@
         {
           "domain": "sibuk.uinsaizu.ac.id",
           "raw_url": "https://sibuk.uinsaizu.ac.id/",
+          "found_time": "2024-11-16 00:00:29",
+          "status": "active"
+        },
+        {
+          "domain": "ampq.org",
+          "raw_url": "https://ampq.org/",
           "found_time": "2024-11-16 00:00:29",
           "status": "active"
         }
