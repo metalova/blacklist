@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 05:09:00
+! Last Updated: 2024-11-17 05:19:09
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5235
+! Number of unique domains: 5237
 !
 
 ||103.115.28.6^
@@ -261,6 +261,7 @@
 ||amertabakti.com^
 ||ami.uinsgd.ac.id^
 ||amirharb.com^
+||amki.ac.id^
 ||amorizjewelry.com^
 ||amoxicillinnrd.com^
 ||amp-jackpotgacor.pages.dev^
@@ -328,6 +329,7 @@
 ||apktodo.io^
 ||apluspestcontrol.com^
 ||app.betmasterplay.in^
+||app.itaf.id^
 ||appadvice.com^
 ||apparelillustrated.com^
 ||appi.or.id^

@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 05:09:00",
+  "updated": "2024-11-17 05:19:09",
   "categories": {
     "slot": {
-      "count": 5235,
+      "count": 5237,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31412,6 +31412,18 @@
           "domain": "al.com",
           "raw_url": "https://www.al.com/casinos/rtp-slots/",
           "found_time": "2024-11-16 22:04:57",
+          "status": "active"
+        },
+        {
+          "domain": "app.itaf.id",
+          "raw_url": "https://app.itaf.id/joker/",
+          "found_time": "2024-11-16 22:09:00",
+          "status": "active"
+        },
+        {
+          "domain": "amki.ac.id",
+          "raw_url": "https://amki.ac.id/",
+          "found_time": "2024-11-16 22:17:08",
           "status": "active"
         }
       ]
