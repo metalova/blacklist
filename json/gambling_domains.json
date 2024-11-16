@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 07:07:34",
+  "updated": "2024-11-16 07:13:47",
   "categories": {
     "slot": {
-      "count": 4838,
+      "count": 4847,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29030,6 +29030,60 @@
           "domain": "ampq.org",
           "raw_url": "https://ampq.org/",
           "found_time": "2024-11-16 00:00:29",
+          "status": "active"
+        },
+        {
+          "domain": "esurat.bpkad.tanahlautkab.go.id",
+          "raw_url": "https://esurat.bpkad.tanahlautkab.go.id/",
+          "found_time": "2024-11-16 00:07:34",
+          "status": "active"
+        },
+        {
+          "domain": "apimhskrs.pages.dev",
+          "raw_url": "https://apimhskrs.pages.dev/",
+          "found_time": "2024-11-16 00:10:38",
+          "status": "active"
+        },
+        {
+          "domain": "robertbrawley.net",
+          "raw_url": "https://robertbrawley.net/",
+          "found_time": "2024-11-16 00:10:38",
+          "status": "active"
+        },
+        {
+          "domain": "aqillahbyria.com",
+          "raw_url": "https://www.aqillahbyria.com/amp",
+          "found_time": "2024-11-16 00:10:38",
+          "status": "active"
+        },
+        {
+          "domain": "cemacyc-boss99-resmi.pages.dev",
+          "raw_url": "https://cemacyc-boss99-resmi.pages.dev/",
+          "found_time": "2024-11-16 00:10:39",
+          "status": "active"
+        },
+        {
+          "domain": "slotnya-thailand.pages.dev",
+          "raw_url": "https://slotnya-thailand.pages.dev/",
+          "found_time": "2024-11-16 00:10:39",
+          "status": "active"
+        },
+        {
+          "domain": "wildoakscmf.com",
+          "raw_url": "https://wildoakscmf.com/",
+          "found_time": "2024-11-16 00:12:41",
+          "status": "active"
+        },
+        {
+          "domain": "silatnaker.demakkab.go.id",
+          "raw_url": "https://silatnaker.demakkab.go.id/",
+          "found_time": "2024-11-16 00:13:46",
+          "status": "active"
+        },
+        {
+          "domain": "asclepio.id",
+          "raw_url": "https://asclepio.id/sitem/",
+          "found_time": "2024-11-16 00:13:46",
           "status": "active"
         }
       ]
