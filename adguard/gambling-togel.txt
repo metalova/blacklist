@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 14:04:58
+! Last Updated: 2024-11-16 14:09:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 736
+! Number of unique domains: 744
 !
 
 ||087ina.com^
@@ -155,6 +155,7 @@
 ||desamaritengngae.id^
 ||desapengadah.pages.dev^
 ||desasulangai.id^
+||desatrimomukti.id^
 ||desawinong.id^
 ||desyclambar.com^
 ||detikmanado.com^
@@ -236,6 +237,7 @@
 ||flooringshermanoaks.com^
 ||foldingbiketravels.com^
 ||forgettherules.com^
+||freebookfriday.com^
 ||friendsaustin.com^
 ||furnitureworldgalleries.com^
 ||future-summit.org^
@@ -243,6 +245,7 @@
 ||ganadosdelrey.com^
 ||gardenbakery.co.id^
 ||gatling-tool.org^
+||geekbinge.com^
 ||geminiresort.com.au^
 ||georgielabs.net^
 ||geraldinebeautysalon.com^
@@ -365,6 +368,7 @@
 ||ligaciputra.admin.smasitmutiara.sch.id^
 ||lily.fi^
 ||limaumanis.desa.natunakab.go.id^
+||linezondigital.com^
 ||lintasjatimnews.com^
 ||lintasnusa.id^
 ||liputanbolafox.wordpress.com^
@@ -483,6 +487,7 @@
 ||peakschool.org^
 ||pelnitual.co.id^
 ||pennstateupac.org^
+||performancebasedfinancing.org^
 ||pgp4d.co^
 ||phantomthailand.com^
 ||phyllisforcongress.com^
@@ -512,12 +517,14 @@
 ||prettyvalley.com^
 ||priaidaman.xyz^
 ||princes1000.com^
+||proakademia.wsnp.edu.pl^
 ||probuildersgy.com^
 ||producthunt.com^
 ||prospectmotorgroup.co.id^
 ||protectnepa.org^
 ||provalenslearning.com^
 ||proyek-besar.pages.dev^
+||psb.alrifaiedua.sch.id^
 ||psy-peujard.fr^
 ||ptat.org^
 ||puela.gob.ec^
@@ -590,6 +597,7 @@
 ||servicemanagementfusion.com^
 ||servotogo.com^
 ||sevagroupfoundation.org^
+||severalbusiness.com^
 ||shadowdbc.org^
 ||sharpeisavers.com^
 ||shreepadgroup.com^

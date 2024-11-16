@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 14:04:58",
+  "updated": "2024-11-16 14:09:07",
   "categories": {
     "slot": {
       "count": 4987,
@@ -32508,7 +32508,7 @@
       ]
     },
     "togel": {
-      "count": 736,
+      "count": 744,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -36924,6 +36924,54 @@
           "domain": "prediksiwap.com",
           "raw_url": "https://www.prediksiwap.com/",
           "found_time": "2024-11-16 07:04:58",
+          "status": "active"
+        },
+        {
+          "domain": "performancebasedfinancing.org",
+          "raw_url": "https://www.performancebasedfinancing.org/",
+          "found_time": "2024-11-16 07:04:58",
+          "status": "active"
+        },
+        {
+          "domain": "geekbinge.com",
+          "raw_url": "https://www.geekbinge.com/",
+          "found_time": "2024-11-16 07:07:03",
+          "status": "active"
+        },
+        {
+          "domain": "desatrimomukti.id",
+          "raw_url": "https://desatrimomukti.id/",
+          "found_time": "2024-11-16 07:07:03",
+          "status": "active"
+        },
+        {
+          "domain": "linezondigital.com",
+          "raw_url": "https://linezondigital.com/tongkat-spin-mop-tanpa-kain/",
+          "found_time": "2024-11-16 07:07:04",
+          "status": "active"
+        },
+        {
+          "domain": "proakademia.wsnp.edu.pl",
+          "raw_url": "https://proakademia.wsnp.edu.pl/course/online/?here=bandar%20togel%20online%20murah",
+          "found_time": "2024-11-16 07:07:04",
+          "status": "active"
+        },
+        {
+          "domain": "psb.alrifaiedua.sch.id",
+          "raw_url": "https://psb.alrifaiedua.sch.id/edm/",
+          "found_time": "2024-11-16 07:07:04",
+          "status": "active"
+        },
+        {
+          "domain": "severalbusiness.com",
+          "raw_url": "http://severalbusiness.com/",
+          "found_time": "2024-11-16 07:07:05",
+          "status": "active"
+        },
+        {
+          "domain": "freebookfriday.com",
+          "raw_url": "https://freebookfriday.com/",
+          "found_time": "2024-11-16 07:09:06",
           "status": "active"
         }
       ]
