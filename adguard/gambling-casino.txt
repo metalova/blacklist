@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 11:01:48
+! Last Updated: 2024-11-16 11:09:02
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 361
+! Number of unique domains: 366
 !
 
 ||24liveblog.com^
@@ -96,6 +96,7 @@
 ||deinbaden.ch^
 ||dellagoresort.com^
 ||dentistryinmarkham.com^
+||dev-ecom.demant.com^
 ||deviantart.com^
 ||dkcreativeworks.co.za^
 ||dolby.io^
@@ -143,6 +144,7 @@
 ||hazrestaurant.co.uk^
 ||herminahospitals.com^
 ||hindcompo.com^
+||hive.trivallis.co.uk^
 ||hortaverde.com.br^
 ||id.made-in-china.com^
 ||id.marinabaysands.com^
@@ -252,6 +254,7 @@
 ||piacasinogiris.com^
 ||playgon.com^
 ||plazatirana.com^
+||pmb.stikesyapika.ac.id^
 ||policarbonatoecuador.com^
 ||portal.careerguidancecollege.com^
 ||ppdb.darulhidayah.ponpes.id^
@@ -272,6 +275,7 @@
 ||rwnewyork.com^
 ||sakurakjcrownpoint.com^
 ||sayma.fnfcomputer.com^
+||scarletpearlcasino.com^
 ||sdlccorp.com^
 ||senator.hr^
 ||shopfujifilm.com^
@@ -294,6 +298,7 @@
 ||sociabuzz.com^
 ||sogoarts.com^
 ||solidsmack.com^
+||sonsofscotland.com^
 ||southboroughgolflearningcenter.com^
 ||southshoredive.com^
 ||spilnosylno.in.ua^

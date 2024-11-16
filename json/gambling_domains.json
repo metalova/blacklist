@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 11:01:48",
+  "updated": "2024-11-16 11:09:02",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 361,
+      "count": 366,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32095,6 +32095,36 @@
           "domain": "unity.hardrock.com",
           "raw_url": "https://unity.hardrock.com/benefits/self-pay-jackpot",
           "found_time": "2024-11-16 04:00:47",
+          "status": "active"
+        },
+        {
+          "domain": "scarletpearlcasino.com",
+          "raw_url": "https://www.scarletpearlcasino.com/play/slots/",
+          "found_time": "2024-11-16 04:01:48",
+          "status": "active"
+        },
+        {
+          "domain": "pmb.stikesyapika.ac.id",
+          "raw_url": "https://pmb.stikesyapika.ac.id/?view=live%20baccarat%20online%20australia",
+          "found_time": "2024-11-16 04:05:56",
+          "status": "active"
+        },
+        {
+          "domain": "hive.trivallis.co.uk",
+          "raw_url": "https://hive.trivallis.co.uk/casino-live-roulette/",
+          "found_time": "2024-11-16 04:08:00",
+          "status": "active"
+        },
+        {
+          "domain": "dev-ecom.demant.com",
+          "raw_url": "https://dev-ecom.demant.com/online-casino-live-roulette/",
+          "found_time": "2024-11-16 04:08:00",
+          "status": "active"
+        },
+        {
+          "domain": "sonsofscotland.com",
+          "raw_url": "https://www.sonsofscotland.com/",
+          "found_time": "2024-11-16 04:09:02",
           "status": "active"
         }
       ]
