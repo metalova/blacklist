@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:04:10",
+  "updated": "2024-11-17 02:08:18",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 223,
+      "count": 229,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44301,6 +44301,42 @@
           "domain": "efgev.com",
           "raw_url": "https://www.efgev.com/",
           "found_time": "2024-11-16 19:02:07",
+          "status": "active"
+        },
+        {
+          "domain": "portal-dev.ubharajaya.ac.id",
+          "raw_url": "https://portal-dev.ubharajaya.ac.id/?main=judi+esports+online",
+          "found_time": "2024-11-16 19:04:09",
+          "status": "active"
+        },
+        {
+          "domain": "beter.co",
+          "raw_url": "https://beter.co/",
+          "found_time": "2024-11-16 19:05:12",
+          "status": "active"
+        },
+        {
+          "domain": "erigostore.co.id",
+          "raw_url": "https://erigostore.co.id/",
+          "found_time": "2024-11-16 19:05:12",
+          "status": "active"
+        },
+        {
+          "domain": "lampung7.com",
+          "raw_url": "https://lampung7.com/olahraga/11/16/piala-gubernur-esports-lampung-bakal-segera-digelar-kuy-daftarkan-diri-kalian/",
+          "found_time": "2024-11-16 19:05:13",
+          "status": "active"
+        },
+        {
+          "domain": "tintainformasi.com",
+          "raw_url": "https://tintainformasi.com/2024/11/piala-gubernur-esports-lampung-bakal-segera-digelar-kuy-daftarkan-diri-kalian/",
+          "found_time": "2024-11-16 19:06:14",
+          "status": "active"
+        },
+        {
+          "domain": "troc-destock-epinal.fr",
+          "raw_url": "https://troc-destock-epinal.fr/?blogs=ardsza&time=2024-09-19&key=situs-judi-online-server-ind-play-terbaik",
+          "found_time": "2024-11-16 19:07:16",
           "status": "active"
         }
       ]
