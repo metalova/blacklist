@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:00:53",
+  "updated": "2024-11-16 15:09:09",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 185,
+      "count": 191,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41559,6 +41559,42 @@
           "domain": "gnosisgames.com",
           "raw_url": "https://www.gnosisgames.com/bet-Valorant.php",
           "found_time": "2024-11-16 08:00:52",
+          "status": "active"
+        },
+        {
+          "domain": "biowin69ungu.com",
+          "raw_url": "https://biowin69ungu.com/slot",
+          "found_time": "2024-11-16 08:00:52",
+          "status": "active"
+        },
+        {
+          "domain": "howard-hilman-dmd.com",
+          "raw_url": "https://howard-hilman-dmd.com/ligagalaxy-8/",
+          "found_time": "2024-11-16 08:06:00",
+          "status": "active"
+        },
+        {
+          "domain": "beechhollowgolf.com",
+          "raw_url": "https://beechhollowgolf.com/sbobet-esports-taruhan-seru-di-dunia-game-kompetitif/",
+          "found_time": "2024-11-16 08:06:01",
+          "status": "active"
+        },
+        {
+          "domain": "rbcaudio.com",
+          "raw_url": "https://rbcaudio.com/ligagalaxy-25/",
+          "found_time": "2024-11-16 08:07:03",
+          "status": "active"
+        },
+        {
+          "domain": "dotablast.com",
+          "raw_url": "https://dotablast.com/topic/strategy/betting/",
+          "found_time": "2024-11-16 08:08:05",
+          "status": "active"
+        },
+        {
+          "domain": "betwinner.com.gh",
+          "raw_url": "https://betwinner.com.gh/en/line/esports/2752250-mobile-legends-mlbb-continental-championships",
+          "found_time": "2024-11-16 08:09:08",
           "status": "active"
         }
       ]

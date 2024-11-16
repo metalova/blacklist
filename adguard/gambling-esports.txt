@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 15:00:53
+! Last Updated: 2024-11-16 15:09:09
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 185
+! Number of unique domains: 191
 !
 
 ||1xbet.id.uptodown.com^
@@ -16,6 +16,7 @@
 ||anshsheth.com^
 ||asciimo.com^
 ||battlegroundsmobileindia.com^
+||beechhollowgolf.com^
 ||beritaesports.com^
 ||bernama.com^
 ||bet365.id.uptodown.com^
@@ -23,7 +24,9 @@
 ||betwing88search.com^
 ||betwinner.cm^
 ||betwinner.co.zm^
+||betwinner.com.gh^
 ||bilibili.tv^
+||biowin69ungu.com^
 ||blix.gg^
 ||blog.tribunjualbeli.com^
 ||brg.ina-sdi.or.id^
@@ -41,6 +44,7 @@
 ||discord.com^
 ||dkiplay88.pages.dev^
 ||dota2-betting.com^
+||dotablast.com^
 ||dotesports.com^
 ||ejurnal.warmadewa.ac.id^
 ||endeus.tv^
@@ -78,6 +82,7 @@
 ||hatredspeaks.com^
 ||himpol.com^
 ||hippu.lppm.ulb.ac.id^
+||howard-hilman-dmd.com^
 ||huddle.tech^
 ||icebb.net^
 ||id.mashable.com^
@@ -146,6 +151,7 @@
 ||ptbsb.id^
 ||pubgesports.com^
 ||pulsar.gg^
+||rbcaudio.com^
 ||repository.law.miami.edu^
 ||repository.uinsi.ac.id^
 ||repository.uir.ac.id^
