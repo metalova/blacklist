@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 01:14:41
+! Last Updated: 2024-11-17 01:18:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 816
+! Number of unique domains: 830
 !
 
 ||087ina.com^
@@ -72,6 +72,7 @@
 ||bcnhsja.b-cdn.net^
 ||bdsindonesia.id^
 ||becakgalon.com^
+||bekalut.org^
 ||benadamslaw.com^
 ||bengkuluakses.pro^
 ||berasanmakmur.desa.id^
@@ -114,6 +115,7 @@
 ||calibrite.com^
 ||camcomit.bg^
 ||campingdebesalu.com^
+||campinglestuaire.fr^
 ||campus.fahce.unlp.edu.ar^
 ||canadafile.vn^
 ||caseyaustinmusic.com^
@@ -159,6 +161,7 @@
 ||crownfootandankle.com^
 ||culturedellasostenibilita.it^
 ||cuma1nwin.info^
+||cushmancompetition.com^
 ||danabijak.com^
 ||dancingtomatoes.com^
 ||data.nanganesa.endekab.go.id^
@@ -253,6 +256,7 @@
 ||fcai.cu.edu.eg^
 ||fe.unmerpas.ac.id^
 ||febspot.com^
+||felizvidalivre.com^
 ||fezmangal.com^
 ||fiftybeauty.com^
 ||fileacademy.id^
@@ -262,11 +266,13 @@
 ||fishereyeassociates.com^
 ||fishingva.com^
 ||fkm.unand.ac.id^
+||flamingosbilbao.com^
 ||flatironcolumbus.com^
 ||flooringshermanoaks.com^
 ||foldingbiketravels.com^
 ||forgettherules.com^
 ||freebookfriday.com^
+||freebookfriday.sukajago.com^
 ||friendsaustin.com^
 ||furnitureworldgalleries.com^
 ||future-summit.org^
@@ -293,6 +299,7 @@
 ||goodthinkingsociety.org^
 ||grandefabrictex.com^
 ||greshamsistercity.org^
+||grupedsac.mx^
 ||gunesgozlugu.com^
 ||gvscolombia.com^
 ||gwenchanna.com^
@@ -454,6 +461,7 @@
 ||maxcasa.com^
 ||medeortherapeutics.com^
 ||megaarvia.com^
+||meine-zukunft-beginnt-hier.de^
 ||melbourne-free-university.org^
 ||mericafoods.com^
 ||metrotvnews.com^
@@ -473,6 +481,7 @@
 ||mlvintagemeet.com^
 ||morrisfarm.org^
 ||mountainwildlifemuseum.com^
+||mpd.terengganu.gov.my^
 ||mrlucky.pages.dev^
 ||mrmohamedhafez.com^
 ||mszana.pl^
@@ -510,6 +519,7 @@
 ||nqiegypt.org^
 ||nuansantb.id^
 ||nwkansascatholics.com^
+||obispopauloroberto.com^
 ||oceannord.org^
 ||oganilir.disway.id^
 ||olimpohotel.com^
@@ -552,6 +562,7 @@
 ||playtogrowmd.com^
 ||pmb.itbriau.ac.id^
 ||pmblapemba.umt.ac.id^
+||polatpres.com^
 ||politicayeducacion.com^
 ||polreskendal.net^
 ||polrestagorontalokota.com^
@@ -666,6 +677,7 @@
 ||sikupat.kabngawi.id^
 ||sillasv.com^
 ||silverstallionstable.com^
+||simbol.smkn2amuntai.sch.id^
 ||simonpianosandart.com^
 ||sinatrarestaurant.com^
 ||sindikatpost.com^
@@ -693,6 +705,7 @@
 ||spada.untirta.ac.id^
 ||sparkassenstiftung-turkey.org^
 ||specialspacesamarillo.org^
+||spelgroup.com^
 ||spheeha.org^
 ||sqidiagnostics.com^
 ||srikaton.id^
@@ -777,6 +790,7 @@
 ||uoz.edu.krd^
 ||updateikn.com^
 ||uptownavenue7.com^
+||uscompounding.com^
 ||valormmanyc.com^
 ||vegantouchfoods.com^
 ||vermellagrandwisata.co.id^

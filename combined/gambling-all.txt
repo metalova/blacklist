@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 01:14:41
+! Last Updated: 2024-11-17 01:18:58
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 7589
+! Number of domains: 7603
 !
 
 ! Category: SLOT
@@ -6505,6 +6505,20 @@
 ||posadadelvirrey.com^
 ||amguema.com^
 ||delhiheights.net^
+||uscompounding.com^
+||obispopauloroberto.com^
+||freebookfriday.sukajago.com^
+||flamingosbilbao.com^
+||cushmancompetition.com^
+||felizvidalivre.com^
+||campinglestuaire.fr^
+||grupedsac.mx^
+||simbol.smkn2amuntai.sch.id^
+||polatpres.com^
+||mpd.terengganu.gov.my^
+||spelgroup.com^
+||meine-zukunft-beginnt-hier.de^
+||bekalut.org^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^

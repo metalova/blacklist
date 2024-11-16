@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 01:14:41",
+  "updated": "2024-11-17 01:18:58",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 816,
+      "count": 830,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -38982,6 +38982,90 @@
           "domain": "delhiheights.net",
           "raw_url": "https://www.delhiheights.net/",
           "found_time": "2024-11-16 18:14:40",
+          "status": "active"
+        },
+        {
+          "domain": "uscompounding.com",
+          "raw_url": "https://uscompounding.com/",
+          "found_time": "2024-11-16 18:14:41",
+          "status": "active"
+        },
+        {
+          "domain": "obispopauloroberto.com",
+          "raw_url": "https://obispopauloroberto.com/",
+          "found_time": "2024-11-16 18:15:42",
+          "status": "active"
+        },
+        {
+          "domain": "freebookfriday.sukajago.com",
+          "raw_url": "https://freebookfriday.sukajago.com/",
+          "found_time": "2024-11-16 18:16:45",
+          "status": "active"
+        },
+        {
+          "domain": "flamingosbilbao.com",
+          "raw_url": "https://www.flamingosbilbao.com/",
+          "found_time": "2024-11-16 18:16:46",
+          "status": "active"
+        },
+        {
+          "domain": "cushmancompetition.com",
+          "raw_url": "https://www.cushmancompetition.com/",
+          "found_time": "2024-11-16 18:16:46",
+          "status": "active"
+        },
+        {
+          "domain": "felizvidalivre.com",
+          "raw_url": "https://felizvidalivre.com/",
+          "found_time": "2024-11-16 18:16:46",
+          "status": "active"
+        },
+        {
+          "domain": "campinglestuaire.fr",
+          "raw_url": "https://www.campinglestuaire.fr/",
+          "found_time": "2024-11-16 18:17:54",
+          "status": "active"
+        },
+        {
+          "domain": "grupedsac.mx",
+          "raw_url": "https://grupedsac.mx/",
+          "found_time": "2024-11-16 18:17:55",
+          "status": "active"
+        },
+        {
+          "domain": "simbol.smkn2amuntai.sch.id",
+          "raw_url": "https://simbol.smkn2amuntai.sch.id/",
+          "found_time": "2024-11-16 18:17:55",
+          "status": "active"
+        },
+        {
+          "domain": "polatpres.com",
+          "raw_url": "https://www.polatpres.com/",
+          "found_time": "2024-11-16 18:17:55",
+          "status": "active"
+        },
+        {
+          "domain": "mpd.terengganu.gov.my",
+          "raw_url": "https://mpd.terengganu.gov.my/",
+          "found_time": "2024-11-16 18:17:56",
+          "status": "active"
+        },
+        {
+          "domain": "spelgroup.com",
+          "raw_url": "https://www.spelgroup.com/",
+          "found_time": "2024-11-16 18:17:56",
+          "status": "active"
+        },
+        {
+          "domain": "meine-zukunft-beginnt-hier.de",
+          "raw_url": "https://www.meine-zukunft-beginnt-hier.de/",
+          "found_time": "2024-11-16 18:17:56",
+          "status": "active"
+        },
+        {
+          "domain": "bekalut.org",
+          "raw_url": "https://bekalut.org/slim/",
+          "found_time": "2024-11-16 18:18:58",
           "status": "active"
         }
       ]
