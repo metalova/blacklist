@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 04:07:03",
+  "updated": "2024-11-17 04:42:13",
   "categories": {
     "slot": {
-      "count": 5210,
+      "count": 5216,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31262,6 +31262,42 @@
           "domain": "realfoodtoheal.com",
           "raw_url": "https://www.realfoodtoheal.com/",
           "found_time": "2024-11-16 21:07:03",
+          "status": "active"
+        },
+        {
+          "domain": "sweetcreationsva.com",
+          "raw_url": "https://www.sweetcreationsva.com/amp",
+          "found_time": "2024-11-16 21:07:03",
+          "status": "active"
+        },
+        {
+          "domain": "alpinerholidayresort.com",
+          "raw_url": "https://alpinerholidayresort.com/",
+          "found_time": "2024-11-16 21:40:06",
+          "status": "active"
+        },
+        {
+          "domain": "topmetalroofs.ca",
+          "raw_url": "https://topmetalroofs.ca/",
+          "found_time": "2024-11-16 21:40:07",
+          "status": "active"
+        },
+        {
+          "domain": "cm-clinic.com",
+          "raw_url": "https://www.cm-clinic.com/",
+          "found_time": "2024-11-16 21:41:08",
+          "status": "active"
+        },
+        {
+          "domain": "erecruit.esc.go.ug",
+          "raw_url": "https://erecruit.esc.go.ug/",
+          "found_time": "2024-11-16 21:41:08",
+          "status": "active"
+        },
+        {
+          "domain": "drvau.com",
+          "raw_url": "https://drvau.com/",
+          "found_time": "2024-11-16 21:42:13",
           "status": "active"
         }
       ]

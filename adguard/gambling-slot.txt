@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 04:07:03
+! Last Updated: 2024-11-17 04:42:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5210
+! Number of unique domains: 5216
 !
 
 ||103.115.28.6^
@@ -244,6 +244,7 @@
 ||almoosahealthgroup.org^
 ||alodokter.com^
 ||alphimax.com^
+||alpinerholidayresort.com^
 ||alshaheenholding.com^
 ||altahospicecare.com^
 ||alukola.cz^
@@ -966,6 +967,7 @@
 ||clubebowla.com^
 ||clubforeranch.com^
 ||clydachheritagecentre.com^
+||cm-clinic.com^
 ||cmcsymposium.org^
 ||cmsimple.name^
 ||cna.id^
@@ -1339,6 +1341,7 @@
 ||dropshipaja.com^
 ||drozdy-club.by^
 ||drstoyanoff.com^
+||drvau.com^
 ||dsd2035.com^
 ||dsv.deliserdangkab.com^
 ||dtswe.org^
@@ -1484,6 +1487,7 @@
 ||equityproject.org^
 ||era77bp.org^
 ||erakini.id^
+||erecruit.esc.go.ug^
 ||erenstore.com^
 ||erlangga.co.id^
 ||ernest-le-glacier.com^
@@ -4521,6 +4525,7 @@
 ||swamijuicetampa.com^
 ||swansondelivery.com^
 ||sweetberryusa.com^
+||sweetcreationsva.com^
 ||sweetolivehair.com^
 ||swissconsultinggroup.com^
 ||swoft.org^
@@ -4786,6 +4791,7 @@
 ||toonstream.org^
 ||topcoatnailbarlenexa.com^
 ||topflightfitnessonline.com^
+||topmetalroofs.ca^
 ||topspin88.my^
 ||topup77.net^
 ||topup77.site^
