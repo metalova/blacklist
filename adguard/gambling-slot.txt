@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 21:14:07
+! Last Updated: 2024-11-16 21:17:23
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5166
+! Number of unique domains: 5174
 !
 
 ||103.115.28.6^
@@ -269,6 +269,7 @@
 ||amp-rtp.b-cdn.net^
 ||amp-spacemanslot.com^
 ||amp.kontan.co.id^
+||amp6-592.pages.dev^
 ||amparmyslot.com^
 ||ampdewacukong88.com^
 ||ampfiftoto.com^
@@ -1626,6 +1627,7 @@
 ||fortheloveofgrad.com^
 ||fortrougetravel.ca^
 ||fortunecookieeauclaire.com^
+||forum.bytomski.pl^
 ||forum.centos-webpanel.com^
 ||forum.eset.com^
 ||forum.samdroid.net^
@@ -1782,6 +1784,7 @@
 ||grandjp101.com^
 ||grandlakemariners.com^
 ||grandnailssalons.com^
+||grandroyal-web.firebaseapp.com^
 ||grandslot777.com^
 ||grandwin-casino.en.softonic.com^
 ||grandwin.ca^
@@ -2403,6 +2406,7 @@
 ||kelmatras.bangka.go.id^
 ||keluaran-sdy.pa-tembilahan.go.id^
 ||keluargahusada.co.id^
+||kelulusan-sman20kabupatentangerang.pages.dev^
 ||kelulusan.sman20kabupatentangerang.sch.id^
 ||kelurahan-sukatani.id^
 ||kelurahan.bangka.go.id^
@@ -3386,6 +3390,7 @@
 ||paintball-ociorioja.com^
 ||pakarjudi8.com^
 ||pakarydelperu.com^
+||paknek.info^
 ||pakuasport.com^
 ||palatkadowntown.com^
 ||palmpizzeria.com^
@@ -3987,6 +3992,7 @@
 ||sahabatliterasi.id^
 ||sahivsoc.org^
 ||sakai99bet.com^
+||sakantimahtumpah.pages.dev^
 ||sakuragaokadental.net^
 ||salaceciliameireles.rj.gov.br^
 ||salaultramar.com^
@@ -4105,6 +4111,7 @@
 ||shelbyprosecutor.com^
 ||shermanluxurygroup.com^
 ||shestel.com^
+||shibaysekya.pages.dev^
 ||shiksha365cloud.com^
 ||shincastella.com^
 ||shirleybriceheath.net^
@@ -5101,6 +5108,7 @@
 ||www2.gerdau.com.br^
 ||wxlgt.com^
 ||x.com^
+||xaviersgonda.in^
 ||xbox.com^
 ||xelagrillandrestaurant.com^
 ||xfragilpaisvasco.org^
