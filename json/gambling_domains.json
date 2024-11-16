@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:28:52",
+  "updated": "2024-11-16 19:30:55",
   "categories": {
     "slot": {
-      "count": 5106,
+      "count": 5107,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30638,6 +30638,12 @@
           "domain": "journal.ipb.ac.id",
           "raw_url": "https://journal.ipb.ac.id/maxwin",
           "found_time": "2024-11-16 12:27:50",
+          "status": "active"
+        },
+        {
+          "domain": "sipaling-thailand.pages.dev",
+          "raw_url": "https://sipaling-thailand.pages.dev/",
+          "found_time": "2024-11-16 12:28:52",
           "status": "active"
         }
       ]

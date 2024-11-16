@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 19:28:52
+! Last Updated: 2024-11-16 19:30:55
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5106
+! Number of unique domains: 5107
 !
 
 ||103.115.28.6^
@@ -4128,6 +4128,7 @@
 ||sipada.sulbarprov.go.id^
 ||sipafipcngamprah.org^
 ||sipaling-prakerja.pages.dev^
+||sipaling-thailand.pages.dev^
 ||sipeg.musirawaskab.go.id^
 ||sipena.samarindakota.go.id^
 ||sipenwaru.assalaam.or.id^
