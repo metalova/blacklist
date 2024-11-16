@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 11:29:53",
+  "updated": "2024-11-16 11:32:58",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 407,
+      "count": 410,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32371,6 +32371,24 @@
           "domain": "imarcgroup.com",
           "raw_url": "https://www.imarcgroup.com/top-online-gambling-companies",
           "found_time": "2024-11-16 04:29:53",
+          "status": "active"
+        },
+        {
+          "domain": "senecabuffalocreekcasino.com",
+          "raw_url": "https://senecabuffalocreekcasino.com/casino/sportsbook/bring-your-own-bet-byob/",
+          "found_time": "2024-11-16 04:29:53",
+          "status": "active"
+        },
+        {
+          "domain": "mga.games",
+          "raw_url": "https://mga.games/",
+          "found_time": "2024-11-16 04:30:54",
+          "status": "active"
+        },
+        {
+          "domain": "pennstakes.com",
+          "raw_url": "https://www.pennstakes.com/online-casinos/casino-bonuses",
+          "found_time": "2024-11-16 04:31:57",
           "status": "active"
         }
       ]

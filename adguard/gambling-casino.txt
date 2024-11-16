@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 11:29:53
+! Last Updated: 2024-11-16 11:32:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 407
+! Number of unique domains: 410
 !
 
 ||24liveblog.com^
@@ -231,6 +231,7 @@
 ||metro.co.uk^
 ||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
+||mga.games^
 ||mikeklubnika.itch.io^
 ||millelacs.com^
 ||mindilbeachcasinoresort.com.au^
@@ -276,6 +277,7 @@
 ||paysbig.com^
 ||pelajarmu.id^
 ||pencoeddental.com^
+||pennstakes.com^
 ||peppermillreno.com^
 ||phatphilsfireworks.com^
 ||philadelphia.livecasinohotel.com^
@@ -311,6 +313,7 @@
 ||scarletpearlcasino.com^
 ||sdlccorp.com^
 ||senator.hr^
+||senecabuffalocreekcasino.com^
 ||shopfujifilm.com^
 ||siadak.stikesalifah.ac.id^
 ||sierradesanfrancisco.inah.gob.mx^
