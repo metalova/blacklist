@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:43:51",
+  "updated": "2024-11-16 15:49:01",
   "categories": {
     "slot": {
       "count": 4987,
@@ -41780,7 +41780,7 @@
       ]
     },
     "others": {
-      "count": 220,
+      "count": 227,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -43100,6 +43100,48 @@
           "domain": "context.id",
           "raw_url": "https://context.id/read/1469/capres-menjadi-bahan-taruhan-konten-judi-online",
           "found_time": "2024-11-16 08:43:50",
+          "status": "active"
+        },
+        {
+          "domain": "journal-stiayappimakassar.ac.id",
+          "raw_url": "https://journal-stiayappimakassar.ac.id/index.php/Eksekusi/article/download/869/885/2614",
+          "found_time": "2024-11-16 08:43:51",
+          "status": "active"
+        },
+        {
+          "domain": "bappenda.cimahikota.go.id",
+          "raw_url": "https://bappenda.cimahikota.go.id/",
+          "found_time": "2024-11-16 08:45:56",
+          "status": "active"
+        },
+        {
+          "domain": "roth.azulik.com",
+          "raw_url": "https://roth.azulik.com/produk/blokir-situs-judi",
+          "found_time": "2024-11-16 08:45:56",
+          "status": "active"
+        },
+        {
+          "domain": "bicarabaik.id",
+          "raw_url": "https://www.bicarabaik.id/news/amp/365319111/bri-blokir-3003-rekening-yang-terindikasi-digunakan-bertransaksi-judi-online",
+          "found_time": "2024-11-16 08:45:57",
+          "status": "active"
+        },
+        {
+          "domain": "izytech.com",
+          "raw_url": "https://izytech.com/",
+          "found_time": "2024-11-16 08:46:58",
+          "status": "active"
+        },
+        {
+          "domain": "ciidret.du.ac.in",
+          "raw_url": "https://ciidret.du.ac.in/",
+          "found_time": "2024-11-16 08:46:58",
+          "status": "active"
+        },
+        {
+          "domain": "tangerangkota.go.id",
+          "raw_url": "https://www.tangerangkota.go.id/berita/detail/43591/80-ribu-anak-indonesia-bermain-judi-online-diskominfo-kota-tangerang-ingatkan-dampaknya-sengeri-ini",
+          "found_time": "2024-11-16 08:49:01",
           "status": "active"
         }
       ]
