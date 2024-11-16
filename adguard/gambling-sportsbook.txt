@@ -1,12 +1,13 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 23:19:33
+! Last Updated: 2024-11-16 23:24:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 445
+! Number of unique domains: 450
 !
 
 ||a00013.d-medis.id^
 ||abidingtech.com^
 ||abseits.at^
+||absen.mts-mqtebuireng.sch.id^
 ||absensi-musirawaskab.pages.dev^
 ||adatah.com^
 ||adidas.co.id^
@@ -102,6 +103,7 @@
 ||devpost.com^
 ||digilib.ptiq.ac.id^
 ||digilibadmin.unismuh.ac.id^
+||dinkesmbd.net^
 ||discoveriesinamericanart.com^
 ||dlhk.inhilkab.go.id^
 ||docdroid.net^
@@ -159,6 +161,7 @@
 ||harnessbred.com^
 ||hopposport.com^
 ||hoteldelaplage02.fr^
+||htn.staiduba.ac.id^
 ||hura.es^
 ||ibudanbalita.com^
 ||ictdemy.com^
@@ -258,6 +261,7 @@
 ||morningdough.com^
 ||msoundersfc.pages.dev^
 ||mspbaseball.com^
+||mufakatalbanna.or.id^
 ||myham.akademisi.co.id^
 ||n1info.rs^
 ||naumc.org^
@@ -398,6 +402,7 @@
 ||spmi.poltektiarabunda.ac.id^
 ||spmi.stttekstil.ac.id^
 ||sportcorner.id^
+||stadion.uz^
 ||staging.arbusa.com^
 ||stroomlijnadvies.nl^
 ||sumberkini.my^

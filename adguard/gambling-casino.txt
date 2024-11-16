@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 23:19:33
+! Last Updated: 2024-11-16 23:24:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 482
+! Number of unique domains: 487
 !
 
 ||24liveblog.com^
@@ -112,6 +112,7 @@
 ||crownmelbourne.com.au^
 ||crownperth.com.au^
 ||cuencas.miambiente.gob.pa^
+||curtrich.com^
 ||cz.casinohex.cz^
 ||dbkncollege.co.in^
 ||deadspin.com^
@@ -139,6 +140,7 @@
 ||elements.envato.com^
 ||elitbet.bg^
 ||elizas.co.nz^
+||elyseenails.com^
 ||empiremetrorental.com^
 ||epicwin138toto.vercel.app^
 ||eproc-internal.jakartamrt.co.id^
@@ -354,6 +356,7 @@
 ||rajacasino.travel^
 ||rajawali.ac.id^
 ||rawonsurabaya.com^
+||recipecommunity.com.au^
 ||reku.id^
 ||respectrichmond.com^
 ||revpanda.com^
@@ -376,6 +379,7 @@
 ||seon.io^
 ||shopfujifilm.com^
 ||siadak.stikesalifah.ac.id^
+||sican.org^
 ||sierradesanfrancisco.inah.gob.mx^
 ||silvergames.com^
 ||silverstar.co.za^
@@ -446,6 +450,7 @@
 ||topmassageandspallc.com^
 ||torosclubcelaya.com^
 ||totalwarbattles.com^
+||tpst.unila.ac.id^
 ||travelandtourworld.com^
 ||trendshairstudioandspa.com^
 ||tripadvisor.co.id^
