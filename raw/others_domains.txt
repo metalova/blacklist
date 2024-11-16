@@ -2,6 +2,7 @@ abatanews.com
 abc.net.au
 aboutcirebon.id
 acehprov.go.id
+acerid.com
 agenda.pinamar.gob.ar
 akurasi.id
 albantech.co.tz
@@ -23,6 +24,7 @@ blog.modalku.co.id
 bspjimedan.kemenperin.go.id
 bukamatanews.id
 cantz.or.tz
+chaisenslot.com
 cloud.wg.ugm.ac.id
 curupekspress.bacakoran.co
 dataindonesia.id
@@ -111,6 +113,7 @@ mediajustitia.com
 melihatindonesia.id
 melintas.id
 menpan.go.id
+merconspecialty.com
 mistar.id
 momsmoney.kontan.co.id
 morbeachcafe.com
@@ -121,10 +124,12 @@ ntthits.com
 nukilan.id
 nusantara62.com
 ojashospitalbhopal.com
+ojk.go.id
 onesearch.id
 opini.harianjogja.com
 orgonitedjawa.com
 owntalk.co.id
+pa-sengeti.go.id
 pasardana.id
 pedomanrakyat.com
 people-qa.int.sap
@@ -132,6 +137,7 @@ pervasivedatarush.com
 pojokbaca.id
 polresbanjarbaru.org
 portal.akademik.trinita.ac.id
+portal.sukoharjokab.go.id
 poscyber.com
 ppatk.go.id
 ppid.lampungprov.go.id

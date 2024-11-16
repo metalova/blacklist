@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:26:50",
+  "updated": "2024-11-16 15:34:18",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 220,
+      "count": 221,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41770,11 +41770,17 @@
           "raw_url": "https://goplaysab.com/ampcansab/",
           "found_time": "2024-11-16 08:25:48",
           "status": "active"
+        },
+        {
+          "domain": "sdtexmacosemarang.sch.id",
+          "raw_url": "https://sdtexmacosemarang.sch.id/",
+          "found_time": "2024-11-16 08:26:50",
+          "status": "active"
         }
       ]
     },
     "others": {
-      "count": 184,
+      "count": 190,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -42878,6 +42884,42 @@
           "domain": "setwan.jogjakota.go.id",
           "raw_url": "https://setwan.jogjakota.go.id/detail/index/35217",
           "found_time": "2024-11-15 22:25:44",
+          "status": "active"
+        },
+        {
+          "domain": "acerid.com",
+          "raw_url": "https://www.acerid.com/predator/4-tips-bermain-pubg-untuk-pemula",
+          "found_time": "2024-11-16 08:30:12",
+          "status": "active"
+        },
+        {
+          "domain": "pa-sengeti.go.id",
+          "raw_url": "https://pa-sengeti.go.id/artikel/2698-judi-online-dan-rusaknya-ekonomi-asn-dan-masyarakat-oleh-rovel-rinaldi-s-h-i-m-h-1-7-2024",
+          "found_time": "2024-11-16 08:30:13",
+          "status": "active"
+        },
+        {
+          "domain": "ojk.go.id",
+          "raw_url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-Konsisten-Dukung-Upaya-Pemberantasan-Aktivitas-Judi-Online.aspx",
+          "found_time": "2024-11-16 08:30:13",
+          "status": "active"
+        },
+        {
+          "domain": "portal.sukoharjokab.go.id",
+          "raw_url": "https://portal.sukoharjokab.go.id/2024/09/13/stop-judi-online-lindungi-diri-dan-keluarga-dari-bahayanya/",
+          "found_time": "2024-11-16 08:30:13",
+          "status": "active"
+        },
+        {
+          "domain": "chaisenslot.com",
+          "raw_url": "https://chaisenslot.com/pkv/games-31/",
+          "found_time": "2024-11-16 08:32:15",
+          "status": "active"
+        },
+        {
+          "domain": "merconspecialty.com",
+          "raw_url": "https://merconspecialty.com/",
+          "found_time": "2024-11-16 08:34:17",
           "status": "active"
         }
       ]
