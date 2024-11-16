@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 14:24:39",
+  "updated": "2024-11-16 14:26:43",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 179,
+      "count": 182,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41523,6 +41523,24 @@
           "domain": "anshsheth.com",
           "raw_url": "https://anshsheth.com/agen-lotree-cyber-pasaran-terbanyak-gambling-saba-esports/",
           "found_time": "2024-11-16 07:24:38",
+          "status": "active"
+        },
+        {
+          "domain": "jotform.com",
+          "raw_url": "https://www.jotform.com/id/form-templates/form-data-member",
+          "found_time": "2024-11-16 07:24:39",
+          "status": "active"
+        },
+        {
+          "domain": "silani.ptun-yogyakarta.go.id",
+          "raw_url": "https://silani.ptun-yogyakarta.go.id/?view=judi%20esports%20online",
+          "found_time": "2024-11-16 07:25:41",
+          "status": "active"
+        },
+        {
+          "domain": "beritaesports.com",
+          "raw_url": "http://beritaesports.com/2021/03/11/edho-zell-resmi-merilis-akademi-esports-miliknya-yuk-gabung-guys/",
+          "found_time": "2024-11-16 07:25:41",
           "status": "active"
         }
       ]
