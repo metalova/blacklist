@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:39:05",
+  "updated": "2024-11-16 19:44:38",
   "categories": {
     "slot": {
-      "count": 5110,
+      "count": 5114,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30662,6 +30662,30 @@
           "domain": "bbpmpjateng.id",
           "raw_url": "https://bbpmpjateng.id/?cola=zona4d",
           "found_time": "2024-11-16 12:39:04",
+          "status": "active"
+        },
+        {
+          "domain": "journal.ua.ac.id",
+          "raw_url": "https://journal.ua.ac.id/pages.php?earth=zona4d",
+          "found_time": "2024-11-16 12:39:05",
+          "status": "active"
+        },
+        {
+          "domain": "metro-onenews.id",
+          "raw_url": "https://metro-onenews.id/redaksi/?squery_ID=kuda4d+hari+ini",
+          "found_time": "2024-11-16 12:42:08",
+          "status": "active"
+        },
+        {
+          "domain": "akademik.untag-sby.ac.id",
+          "raw_url": "https://akademik.untag-sby.ac.id/backend/uploads/logs/?golong=togel+surabaya",
+          "found_time": "2024-11-16 12:43:15",
+          "status": "active"
+        },
+        {
+          "domain": "silverliningbespoke.com",
+          "raw_url": "https://silverliningbespoke.com/",
+          "found_time": "2024-11-16 12:44:38",
           "status": "active"
         }
       ]

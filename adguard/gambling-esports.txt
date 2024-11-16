@@ -1,5 +1,5 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 19:39:05
+! Last Updated: 2024-11-16 19:44:38
 ! Description: Automatically generated gambling domain blocklist
 ! Number of unique domains: 221
 !
