@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 13:59:20
+! Last Updated: 2024-11-16 14:04:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 717
+! Number of unique domains: 736
 !
 
 ||087ina.com^
@@ -54,10 +54,12 @@
 ||baliranihotel.com^
 ||balpos.com^
 ||banksuryakencana.com^
+||barahsinghe.com^
 ||barneschirocolorado.com^
 ||batman88pro.com^
 ||baznaslangkat.org^
 ||bbfurnitureshowroom.com^
+||bcnhsja.b-cdn.net^
 ||bdsindonesia.id^
 ||becakgalon.com^
 ||benadamslaw.com^
@@ -88,6 +90,7 @@
 ||btklppbatam.pages.dev^
 ||buah4damp.gacorclouds.workers.dev^
 ||bubblemaineia.com^
+||buddypress.org^
 ||burlapandlacemetterga.com^
 ||buruan-daftar.pages.dev^
 ||bybs.org^
@@ -128,6 +131,7 @@
 ||como-son.net^
 ||compound13.org^
 ||conference.eka-prasetya.ac.id^
+||conferencecallstomeatballs.com^
 ||contigosinfronteras.org^
 ||corinne-demarest-lepretre.fr^
 ||covidvih.org^
@@ -149,6 +153,7 @@
 ||denv.gouv.sn^
 ||desakwagean.com^
 ||desamaritengngae.id^
+||desapengadah.pages.dev^
 ||desasulangai.id^
 ||desawinong.id^
 ||desyclambar.com^
@@ -161,6 +166,7 @@
 ||dishub.kotawaringinbaratkab.go.id^
 ||diskominfo.dompukab.go.id^
 ||districtattorney10.com^
+||dlibrary.kebunbuku-smanusa.info:8123^
 ||dma-arch.com^
 ||dorpsbelang.eu^
 ||douglashigh.com^
@@ -190,6 +196,8 @@
 ||elodietheron-psychologue.fr^
 ||elpipiripau.com^
 ||emmrod.com^
+||empleo.evedisa.com^
+||energiasanpedro.com^
 ||eng.maranatha.edu^
 ||environment.go.ke^
 ||eprints.ums.ac.id^
@@ -215,7 +223,9 @@
 ||fb.pelitaindonesia.ac.id^
 ||fcai.cu.edu.eg^
 ||fe.unmerpas.ac.id^
+||febspot.com^
 ||fezmangal.com^
+||fiftybeauty.com^
 ||fileacademy.id^
 ||fimarspa.it^
 ||fimela.com^
@@ -224,6 +234,7 @@
 ||fkm.unand.ac.id^
 ||flatironcolumbus.com^
 ||flooringshermanoaks.com^
+||foldingbiketravels.com^
 ||forgettherules.com^
 ||friendsaustin.com^
 ||furnitureworldgalleries.com^
@@ -248,6 +259,7 @@
 ||goodthinkingsociety.org^
 ||gunesgozlugu.com^
 ||gvscolombia.com^
+||gwenchanna.com^
 ||hackerrank.com^
 ||halosekolah.id^
 ||hantogel.indonesianet.co.id^
@@ -363,6 +375,7 @@
 ||lms6.digivarsity.com^
 ||localitospecialtycoffee.com^
 ||locardslab.com^
+||lokalist.pages.dev^
 ||louthcms.org^
 ||lphd.s-desa.id^
 ||lrlab.com.ar^
@@ -468,6 +481,7 @@
 ||pawangtoto.id^
 ||pawsofmichigan.com^
 ||peakschool.org^
+||pelnitual.co.id^
 ||pennstateupac.org^
 ||pgp4d.co^
 ||phantomthailand.com^
@@ -491,6 +505,7 @@
 ||prediksi.gacorclouds.workers.dev^
 ||prediksiabujitu.com^
 ||prediksijitu.id^
+||prediksiwap.com^
 ||premier333vv.com^
 ||premierenglishmadrid.com^
 ||premiumdentalmedellin.com^
@@ -631,6 +646,8 @@
 ||tedxavenuedespepinieres.com^
 ||tenisplaya.com^
 ||tennisadsales.com^
+||tgl123.com^
+||thatsthenorm.com^
 ||theenamelproject.com^
 ||thehomehandymanbc.ca^
 ||theknot.com^
@@ -703,8 +720,10 @@
 ||webportal.bangkok.go.th^
 ||wholesomeeatingllc.com^
 ||wibu69ol.vercel.app^
+||wildomarchamber.org^
 ||wileyedsolutions.com^
 ||winterprideuk.com^
+||wisuda.uninus.ac.id^
 ||wiswriters.org^
 ||witmena.org^
 ||wokitup.com.au^
