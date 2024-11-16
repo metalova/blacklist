@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 17:59:33",
+  "updated": "2024-11-16 18:07:40",
   "categories": {
     "slot": {
-      "count": 5037,
+      "count": 5039,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30224,6 +30224,18 @@
           "domain": "flavourindia.com",
           "raw_url": "https://flavourindia.com/",
           "found_time": "2024-11-16 10:58:31",
+          "status": "active"
+        },
+        {
+          "domain": "moomoossteaks.com",
+          "raw_url": "https://moomoossteaks.com/",
+          "found_time": "2024-11-16 10:59:32",
+          "status": "active"
+        },
+        {
+          "domain": "hindmotor.com",
+          "raw_url": "https://www.hindmotor.com/",
+          "found_time": "2024-11-16 11:05:37",
           "status": "active"
         }
       ]
