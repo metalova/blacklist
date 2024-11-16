@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 22:35:00",
+  "updated": "2024-11-16 22:39:13",
   "categories": {
     "slot": {
       "count": 5192,
@@ -31159,7 +31159,7 @@
       ]
     },
     "casino": {
-      "count": 462,
+      "count": 473,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33931,6 +33931,72 @@
           "domain": "infopertama.com",
           "raw_url": "https://infopertama.com/best-online-casino-with-sign-up-bonus/",
           "found_time": "2024-11-16 15:31:57",
+          "status": "active"
+        },
+        {
+          "domain": "mspisang.pages.dev",
+          "raw_url": "https://mspisang.pages.dev/",
+          "found_time": "2024-11-16 15:35:00",
+          "status": "active"
+        },
+        {
+          "domain": "desatales.id",
+          "raw_url": "https://desatales.id/",
+          "found_time": "2024-11-16 15:36:04",
+          "status": "active"
+        },
+        {
+          "domain": "whatlock.com",
+          "raw_url": "https://whatlock.com/",
+          "found_time": "2024-11-16 15:36:04",
+          "status": "active"
+        },
+        {
+          "domain": "bodyandsoulbakeshop.com",
+          "raw_url": "https://bodyandsoulbakeshop.com/",
+          "found_time": "2024-11-16 15:36:05",
+          "status": "active"
+        },
+        {
+          "domain": "imperialerskineville.com.au",
+          "raw_url": "https://imperialerskineville.com.au/",
+          "found_time": "2024-11-16 15:37:08",
+          "status": "active"
+        },
+        {
+          "domain": "wap.lojascala.com.br",
+          "raw_url": "http://wap.lojascala.com.br/",
+          "found_time": "2024-11-16 15:37:08",
+          "status": "active"
+        },
+        {
+          "domain": "mayoclinic.org",
+          "raw_url": "https://www.mayoclinic.org/diseases-conditions/compulsive-gambling/symptoms-causes/syc-20355178",
+          "found_time": "2024-11-16 15:38:09",
+          "status": "active"
+        },
+        {
+          "domain": "erp.hbtu.ac.in",
+          "raw_url": "https://erp.hbtu.ac.in/ALPanel/Userid.aspx?/bet%20Mega%20tennis%20ball",
+          "found_time": "2024-11-16 15:39:12",
+          "status": "active"
+        },
+        {
+          "domain": "dpslko.com",
+          "raw_url": "https://www.dpslko.com/bet/games%20forge%20of%20olympus%20slots",
+          "found_time": "2024-11-16 15:39:12",
+          "status": "active"
+        },
+        {
+          "domain": "sacredheartchd.com",
+          "raw_url": "https://www.sacredheartchd.com/bet/xoso%20dafabetpromocode",
+          "found_time": "2024-11-16 15:39:13",
+          "status": "active"
+        },
+        {
+          "domain": "skrill.com",
+          "raw_url": "https://www.skrill.com/en/skrill-news/gaming/types-gambling-games/",
+          "found_time": "2024-11-16 15:39:13",
           "status": "active"
         }
       ]

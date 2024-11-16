@@ -1,5 +1,5 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-16 22:35:00
+! Last Updated: 2024-11-16 22:39:13
 ! Description: Automatically generated gambling domain blocklist
 ! Number of unique domains: 248
 !

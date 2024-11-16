@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 22:35:00
+! Last Updated: 2024-11-16 22:39:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 462
+! Number of unique domains: 473
 !
 
 ||24liveblog.com^
@@ -57,6 +57,7 @@
 ||blackhawkbbqandcoffeeshop.com^
 ||blockonomi.com^
 ||blog.accesspoint.id^
+||bodyandsoulbakeshop.com^
 ||bolavip.com^
 ||bombayclub.com^
 ||bos1.xyz^
@@ -117,12 +118,14 @@
 ||dellagoresort.com^
 ||dentalconnect.co.in^
 ||dentistryinmarkham.com^
+||desatales.id^
 ||dev-ecom.demant.com^
 ||deviantart.com^
 ||dkcreativeworks.co.za^
 ||dolby.io^
 ||downtowngrand.com^
 ||dpmptspp.belitung.go.id^
+||dpslko.com^
 ||duniagames.co.id^
 ||e-statistik.temanggungkab.go.id^
 ||e3x7.short.gy^
@@ -137,6 +140,7 @@
 ||empiremetrorental.com^
 ||epicwin138toto.vercel.app^
 ||eproc-internal.jakartamrt.co.id^
+||erp.hbtu.ac.in^
 ||esperancepharma.com^
 ||eugene-airport.com^
 ||fai.unuha.ac.id^
@@ -199,6 +203,7 @@
 ||ilaniresort.com^
 ||imaginelive.com^
 ||imarcgroup.com^
+||imperialerskineville.com.au^
 ||imunisasi-tambahan.kemkes.go.id^
 ||incharafamilygardenrestaurant.com^
 ||indeedseo.com^
@@ -255,6 +260,7 @@
 ||malangkota.go.id^
 ||man12jakarta.id^
 ||masuk-dikit.online^
+||mayoclinic.org^
 ||medcom.id^
 ||meskwaki.com^
 ||metro.co.uk^
@@ -271,6 +277,7 @@
 ||moovitapp.com^
 ||mrbit.bg^
 ||mshairco.com^
+||mspisang.pages.dev^
 ||mudbidrijaintemple.com^
 ||mumbaicoworking.com^
 ||my.ciomas2.sch.id^
@@ -350,6 +357,7 @@
 ||rugbyobserver.co.uk^
 ||rwnewyork.com^
 ||sacredheartcathedraldelhi.org^
+||sacredheartchd.com^
 ||sakurakjcrownpoint.com^
 ||sayma.fnfcomputer.com^
 ||scarletpearlcasino.com^
@@ -367,6 +375,7 @@
 ||sippn.menpan.go.id^
 ||situswin.com^
 ||sjsnaini.org^
+||skrill.com^
 ||skycityadelaide.com.au^
 ||skycityauckland.co.nz^
 ||skyriver.com^
@@ -455,12 +464,14 @@
 ||visitmississippi.org^
 ||vistarresorts.com^
 ||viva.co.id^
+||wap.lojascala.com.br^
 ||washington.org^
 ||web.margasari.desa.id^
 ||weirdal.com^
 ||wendiartit.com^
 ||westgateresorts.com^
 ||westmorelandmall.com^
+||whatlock.com^
 ||wheelofnames.com^
 ||wordwall.net^
 ||wtae.com^
