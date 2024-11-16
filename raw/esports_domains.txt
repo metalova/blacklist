@@ -99,6 +99,7 @@ himpol.com
 hippu.lppm.ulb.ac.id
 howard-hilman-dmd.com
 huddle.tech
+hybrid.co.id
 icebb.net
 id.mashable.com
 idncitizen.com
@@ -118,6 +119,7 @@ jotform.com
 journal.stkippamanetalino.ac.id
 jurnal.fti.umi.ac.id
 jurnal.stkippgritulungagung.ac.id
+jurnalkalimantan.com
 kabarpalu.net
 kelaskita.com
 klamathcampercorral.com
@@ -134,8 +136,10 @@ linkidntogel.com
 liongaming.io
 liquipedia.net
 listvox.com
+littlejohnsrestaurant.com
 lj.maharashtra.gov.in
 log.suinco.pe
+m.mobilelegends.com
 m.rctiplus.com
 maestrojersey.com
 main.aov.garena.co.id
@@ -231,5 +235,6 @@ whop.com
 wokaslot.amphtml.org
 ymusic.id.uptodown.com
 yumwiki.com
+zabihahalaldepot.com
 zeonslot.amphtml.org
 zipzapslot.amphtml.org

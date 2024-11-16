@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 02:18:34
+! Last Updated: 2024-11-17 02:23:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 235
+! Number of unique domains: 240
 !
 
 ||1xbet.id.uptodown.com^
@@ -105,6 +105,7 @@
 ||hippu.lppm.ulb.ac.id^
 ||howard-hilman-dmd.com^
 ||huddle.tech^
+||hybrid.co.id^
 ||icebb.net^
 ||id.mashable.com^
 ||idncitizen.com^
@@ -124,6 +125,7 @@
 ||journal.stkippamanetalino.ac.id^
 ||jurnal.fti.umi.ac.id^
 ||jurnal.stkippgritulungagung.ac.id^
+||jurnalkalimantan.com^
 ||kabarpalu.net^
 ||kelaskita.com^
 ||klamathcampercorral.com^
@@ -140,8 +142,10 @@
 ||liongaming.io^
 ||liquipedia.net^
 ||listvox.com^
+||littlejohnsrestaurant.com^
 ||lj.maharashtra.gov.in^
 ||log.suinco.pe^
+||m.mobilelegends.com^
 ||m.rctiplus.com^
 ||maestrojersey.com^
 ||main.aov.garena.co.id^
@@ -237,5 +241,6 @@
 ||wokaslot.amphtml.org^
 ||ymusic.id.uptodown.com^
 ||yumwiki.com^
+||zabihahalaldepot.com^
 ||zeonslot.amphtml.org^
 ||zipzapslot.amphtml.org^

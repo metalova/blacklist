@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:18:34",
+  "updated": "2024-11-17 02:23:41",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 235,
+      "count": 240,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44373,6 +44373,36 @@
           "domain": "teamrrq.com",
           "raw_url": "https://teamrrq.com/academy",
           "found_time": "2024-11-16 19:16:31",
+          "status": "active"
+        },
+        {
+          "domain": "m.mobilelegends.com",
+          "raw_url": "https://m.mobilelegends.com/",
+          "found_time": "2024-11-16 19:18:34",
+          "status": "active"
+        },
+        {
+          "domain": "hybrid.co.id",
+          "raw_url": "https://hybrid.co.id/post/bayes-esports-solutions-dapat-hak-distribusi-data-turnamen-lol-apa-dampaknya-ke-komunitas/",
+          "found_time": "2024-11-16 19:20:37",
+          "status": "active"
+        },
+        {
+          "domain": "zabihahalaldepot.com",
+          "raw_url": "https://zabihahalaldepot.com/",
+          "found_time": "2024-11-16 19:20:37",
+          "status": "active"
+        },
+        {
+          "domain": "littlejohnsrestaurant.com",
+          "raw_url": "https://littlejohnsrestaurant.com/",
+          "found_time": "2024-11-16 19:21:38",
+          "status": "active"
+        },
+        {
+          "domain": "jurnalkalimantan.com",
+          "raw_url": "https://jurnalkalimantan.com/paslon-wali-kota-banjarmasin-arifin-akbari-dukung-perkembangan-esports/",
+          "found_time": "2024-11-16 19:22:40",
           "status": "active"
         }
       ]
