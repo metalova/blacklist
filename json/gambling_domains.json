@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 07:13:47",
+  "updated": "2024-11-16 07:18:53",
   "categories": {
     "slot": {
-      "count": 4847,
+      "count": 4853,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29084,6 +29084,42 @@
           "domain": "asclepio.id",
           "raw_url": "https://asclepio.id/sitem/",
           "found_time": "2024-11-16 00:13:46",
+          "status": "active"
+        },
+        {
+          "domain": "laterrewine.com",
+          "raw_url": "https://laterrewine.com/",
+          "found_time": "2024-11-16 00:13:47",
+          "status": "active"
+        },
+        {
+          "domain": "biggo.id",
+          "raw_url": "https://biggo.id/s/baju+slot+pragmatic+play+wanita/",
+          "found_time": "2024-11-16 00:15:48",
+          "status": "active"
+        },
+        {
+          "domain": "lucysgr.com",
+          "raw_url": "https://lucysgr.com/",
+          "found_time": "2024-11-16 00:16:50",
+          "status": "active"
+        },
+        {
+          "domain": "ivvelo.com",
+          "raw_url": "https://www.ivvelo.com/",
+          "found_time": "2024-11-16 00:17:51",
+          "status": "active"
+        },
+        {
+          "domain": "crm.diamondland.co.id",
+          "raw_url": "https://crm.diamondland.co.id/box/",
+          "found_time": "2024-11-16 00:18:52",
+          "status": "active"
+        },
+        {
+          "domain": "cumaaged.co",
+          "raw_url": "https://cumaaged.co/index6.php",
+          "found_time": "2024-11-16 00:18:52",
           "status": "active"
         }
       ]

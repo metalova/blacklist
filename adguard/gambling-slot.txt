@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 07:13:47
+! Last Updated: 2024-11-16 07:18:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4847
+! Number of unique domains: 4853
 !
 
 ||103.115.28.6^
@@ -582,6 +582,7 @@
 ||bigbluecarwash.com^
 ||bigcatchlongbeach.com^
 ||bigfishgames.com^
+||biggo.id^
 ||bigkidschicago.com^
 ||bigomuncrat.pages.dev^
 ||bigpokefresh.com^
@@ -1011,6 +1012,7 @@
 ||crexi.com^
 ||crimestat.indy.gov^
 ||cripsco.fr^
+||crm.diamondland.co.id^
 ||crm.insurtech.org^
 ||crm.kamboja.co.id^
 ||crobinsonmd.com^
@@ -1033,6 +1035,7 @@
 ||ctprovisions.com^
 ||cuan-com.pages.dev^
 ||cuckoorestaurant.com.au^
+||cumaaged.co^
 ||cumbremedical.net^
 ||cuponation.co.id^
 ||cushingstreet.com^
@@ -2018,6 +2021,7 @@
 ||ivanovo.ac.ru^
 ||ivary.io^
 ||ivoox.id^
+||ivvelo.com^
 ||jackpot168gift.org^
 ||jackpotdigital.com^
 ||jackpotjoy.com^
@@ -2404,6 +2408,7 @@
 ||laseleccion.com.co^
 ||lashandnailbarwestplano.com^
 ||lasvegaskoreanbbq.com^
+||laterrewine.com^
 ||laughingfishisfield.com^
 ||launch.pictureinbottle.com^
 ||lavawowx.com^
@@ -2533,6 +2538,7 @@
 ||lucky-winner-4v9.en.softonic.com^
 ||lucky-winner-tsx.en.softonic.com^
 ||luckybrewgrille.com^
+||lucysgr.com^
 ||lukaszklimowicz.com^
 ||lumen-learning.com^
 ||lunchbox4you.com^
