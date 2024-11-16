@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 20:53:10
+! Last Updated: 2024-11-16 20:59:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5145
+! Number of unique domains: 5153
 !
 
 ||103.115.28.6^
@@ -188,6 +188,7 @@
 ||agent360.singaporeair.com^
 ||agetendreettetedebois.com^
 ||ageverificationregulator.com^
+||agirpourlenseignement.org^
 ||aglc.ca^
 ||agorarsc.org^
 ||agriculturaleducation.org^
@@ -262,6 +263,7 @@
 ||amoxicillinnrd.com^
 ||amp-jackpotgacor.pages.dev^
 ||amp-jurnal-bet200.pages.dev^
+||amp-kipaswin.com^
 ||amp-ovo88.pages.dev^
 ||amp-pls.web.app^
 ||amp-rtp.b-cdn.net^
@@ -462,6 +464,7 @@
 ||bangsamakmur.click^
 ||baniarbitration.org^
 ||banjarmasinkota.com^
+||banquanlynhaosinhvien.thaibinh.gov.vn^
 ||bantuan.penjalin.desa.id^
 ||bantupori.com^
 ||banyantreats.com^
@@ -630,6 +633,7 @@
 ||bioclean.ec^
 ||biomedirb.org^
 ||biorxiv.org^
+||bioscops.com^
 ||bioskop21.help^
 ||bipa.ut.ac.id^
 ||birdbath.org.uk^
@@ -1350,6 +1354,7 @@
 ||e-journal.iainfmpapua.ac.id^
 ||e-kartu-tunggu.rskariadi.id^
 ||e-katalog.lkpp.go.id^
+||e-kin.langsakota.go.id^
 ||e-learning.unikastpaulus.ac.id^
 ||e-office.balangankab.go.id^
 ||e-office.pulangpisaukab.go.id^
@@ -1405,6 +1410,7 @@
 ||eka-prasetya.ac.id^
 ||ekinerja.muaraenimkab.go.id^
 ||ekonomidesa.com^
+||elangs2.pages.dev^
 ||elcargol.com^
 ||elearning.jec.co.id^
 ||elearning.mappiq.sch.id^
@@ -1460,6 +1466,7 @@
 ||epbb.cilacapkab.go.id^
 ||epdeskel.binapemdes.kemendagri.go.id^
 ||epfologinportal.com^
+||epicwin138ll.vercel.app^
 ||epintar.elearning-pintar.com^
 ||eplanning.asahankab.go.id^
 ||equineteurope.org^
@@ -4326,6 +4333,7 @@
 ||speechgeek.com^
 ||spejbl-hurvinek.cz^
 ||spencersicecream.com^
+||spiceislandgrill.com^
 ||spmb.htp.ac.id^
 ||spnpoldakepri.com^
 ||sportbet.ug^
