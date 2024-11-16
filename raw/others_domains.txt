@@ -4,6 +4,7 @@ aboutcirebon.id
 acehprov.go.id
 acerid.com
 agenda.pinamar.gob.ar
+agsort.cz
 akurasi.id
 albantech.co.tz
 alinea.id
@@ -28,6 +29,7 @@ chaisenslot.com
 cloud.wg.ugm.ac.id
 curupekspress.bacakoran.co
 dataindonesia.id
+deduktif.id
 detail.id
 didaktis.metaniskala.co.id
 diskominfo.kaltimprov.go.id
@@ -86,6 +88,7 @@ kepaniteraan.mahkamahagung.go.id
 keuangan.kontan.co.id
 klikbantuan.com
 komdigi.go.id
+komparatif.id
 kpdsabah.com
 krusial.com
 kudureti.com
@@ -103,12 +106,14 @@ m.harianjogja.com
 magdalene.co
 mahkamahagung.go.id
 makassarinsight.com
+malang-post.com
 malangposcomedia.id
 man2serang.sch.id
 mantapkerangwin.us
 medanbisnisdaily.com
 media24.id
 mediabanten.com
+mediaedutama.co.id
 mediajustitia.com
 melihatindonesia.id
 melintas.id
@@ -119,6 +124,7 @@ momsmoney.kontan.co.id
 morbeachcafe.com
 mra-grant.com.sg
 mudahjackpot.wordpress.com
+news.harianjogja.com
 nomorsatukaltim.disway.id
 ntthits.com
 nukilan.id
@@ -128,6 +134,7 @@ ojk.go.id
 onesearch.id
 opini.harianjogja.com
 orgonitedjawa.com
+orinews.id
 owntalk.co.id
 pa-sengeti.go.id
 pasardana.id
@@ -154,6 +161,7 @@ radarutara.bacakoran.co
 repository.upbatam.ac.id
 republika.id
 reviewaspg.com
+rmolsumut.id
 ruanganinfo.com
 runningguild.com
 selingkarwilis.com
@@ -180,6 +188,7 @@ tribratanews.jambi.polri.go.id
 tvrisumbar.co.id
 ugm.ac.id
 victorynews.id
+video.medcom.id
 vidio.com
 voaindonesia.com
 voxyouths.com
@@ -187,4 +196,5 @@ warnanusa.com
 wartaekonomi.co.id
 waspadaaceh.com
 westjavatoday.com
+witwan.com
 zadna.org.za

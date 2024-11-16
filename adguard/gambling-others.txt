@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-16 15:34:18
+! Last Updated: 2024-11-16 15:39:29
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 190
+! Number of unique domains: 200
 !
 
 ||abatanews.com^
@@ -10,6 +10,7 @@
 ||acehprov.go.id^
 ||acerid.com^
 ||agenda.pinamar.gob.ar^
+||agsort.cz^
 ||akurasi.id^
 ||albantech.co.tz^
 ||alinea.id^
@@ -34,6 +35,7 @@
 ||cloud.wg.ugm.ac.id^
 ||curupekspress.bacakoran.co^
 ||dataindonesia.id^
+||deduktif.id^
 ||detail.id^
 ||didaktis.metaniskala.co.id^
 ||diskominfo.kaltimprov.go.id^
@@ -92,6 +94,7 @@
 ||keuangan.kontan.co.id^
 ||klikbantuan.com^
 ||komdigi.go.id^
+||komparatif.id^
 ||kpdsabah.com^
 ||krusial.com^
 ||kudureti.com^
@@ -109,12 +112,14 @@
 ||magdalene.co^
 ||mahkamahagung.go.id^
 ||makassarinsight.com^
+||malang-post.com^
 ||malangposcomedia.id^
 ||man2serang.sch.id^
 ||mantapkerangwin.us^
 ||medanbisnisdaily.com^
 ||media24.id^
 ||mediabanten.com^
+||mediaedutama.co.id^
 ||mediajustitia.com^
 ||melihatindonesia.id^
 ||melintas.id^
@@ -125,6 +130,7 @@
 ||morbeachcafe.com^
 ||mra-grant.com.sg^
 ||mudahjackpot.wordpress.com^
+||news.harianjogja.com^
 ||nomorsatukaltim.disway.id^
 ||ntthits.com^
 ||nukilan.id^
@@ -134,6 +140,7 @@
 ||onesearch.id^
 ||opini.harianjogja.com^
 ||orgonitedjawa.com^
+||orinews.id^
 ||owntalk.co.id^
 ||pa-sengeti.go.id^
 ||pasardana.id^
@@ -160,6 +167,7 @@
 ||repository.upbatam.ac.id^
 ||republika.id^
 ||reviewaspg.com^
+||rmolsumut.id^
 ||ruanganinfo.com^
 ||runningguild.com^
 ||selingkarwilis.com^
@@ -186,6 +194,7 @@
 ||tvrisumbar.co.id^
 ||ugm.ac.id^
 ||victorynews.id^
+||video.medcom.id^
 ||vidio.com^
 ||voaindonesia.com^
 ||voxyouths.com^
@@ -193,4 +202,5 @@
 ||wartaekonomi.co.id^
 ||waspadaaceh.com^
 ||westjavatoday.com^
+||witwan.com^
 ||zadna.org.za^

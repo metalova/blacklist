@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:34:18",
+  "updated": "2024-11-16 15:39:29",
   "categories": {
     "slot": {
       "count": 4987,
@@ -41780,7 +41780,7 @@
       ]
     },
     "others": {
-      "count": 190,
+      "count": 200,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -42920,6 +42920,66 @@
           "domain": "merconspecialty.com",
           "raw_url": "https://merconspecialty.com/",
           "found_time": "2024-11-16 08:34:17",
+          "status": "active"
+        },
+        {
+          "domain": "mediaedutama.co.id",
+          "raw_url": "https://mediaedutama.co.id/",
+          "found_time": "2024-11-16 08:34:18",
+          "status": "active"
+        },
+        {
+          "domain": "witwan.com",
+          "raw_url": "https://www.witwan.com/",
+          "found_time": "2024-11-16 08:36:22",
+          "status": "active"
+        },
+        {
+          "domain": "orinews.id",
+          "raw_url": "https://orinews.id/2024/11/06/diduga-video-denny-cagur-promosi-judi-online-viral-di-medsos/",
+          "found_time": "2024-11-16 08:38:25",
+          "status": "active"
+        },
+        {
+          "domain": "news.harianjogja.com",
+          "raw_url": "https://news.harianjogja.com/read/2024/06/24/500/1179027/selebritas-gencar-promosi-judi-online-bareskrim-polri-akui-kesulitan-menindak",
+          "found_time": "2024-11-16 08:38:25",
+          "status": "active"
+        },
+        {
+          "domain": "komparatif.id",
+          "raw_url": "https://komparatif.id/selebgram-aceh-jaya-jadi-tersangka-promo-judi-online/",
+          "found_time": "2024-11-16 08:38:25",
+          "status": "active"
+        },
+        {
+          "domain": "video.medcom.id",
+          "raw_url": "https://video.medcom.id/medcom-nasional/DkqeqAWk-promosi-judi-online-banjiri-media-sosial-mengapa",
+          "found_time": "2024-11-16 08:38:26",
+          "status": "active"
+        },
+        {
+          "domain": "malang-post.com",
+          "raw_url": "https://malang-post.com/2024/01/18/promosikan-judi-online-dua-selebgram-kota-batu-dibui/",
+          "found_time": "2024-11-16 08:38:26",
+          "status": "active"
+        },
+        {
+          "domain": "deduktif.id",
+          "raw_url": "https://deduktif.id/eeeaaa-ada-artis-dan-influencer-di-iklan-judi-online",
+          "found_time": "2024-11-16 08:38:26",
+          "status": "active"
+        },
+        {
+          "domain": "agsort.cz",
+          "raw_url": "https://www.agsort.cz/",
+          "found_time": "2024-11-16 08:38:26",
+          "status": "active"
+        },
+        {
+          "domain": "rmolsumut.id",
+          "raw_url": "https://www.rmolsumut.id/platform-digital-yang-promo-judi-online-bakal-diganjar-rp500-juta",
+          "found_time": "2024-11-16 08:39:28",
           "status": "active"
         }
       ]
