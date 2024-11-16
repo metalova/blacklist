@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 02:29:51
+! Last Updated: 2024-11-17 02:32:56
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 7649
+! Number of domains: 7651
 !
 
 ! Category: SLOT
@@ -7417,6 +7417,8 @@
 ||istorenz.com^
 ||redbull.com^
 ||spin.ph^
+||ais.th^
+||gold.razer.com^
 
 ! Category: OTHERS
 ||ppatk.go.id^

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:29:51",
+  "updated": "2024-11-17 02:32:56",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 245,
+      "count": 247,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44433,6 +44433,18 @@
           "domain": "spin.ph",
           "raw_url": "https://www.spin.ph/esports/bren-esports-describes-owgwen-and-kyletzy-acquisition-as-a-jackpot-a4858-20220924?ref=article_tag",
           "found_time": "2024-11-16 19:29:50",
+          "status": "active"
+        },
+        {
+          "domain": "ais.th",
+          "raw_url": "https://www.ais.th/en/consumers/package/prepaid/top-ups",
+          "found_time": "2024-11-16 19:29:51",
+          "status": "active"
+        },
+        {
+          "domain": "gold.razer.com",
+          "raw_url": "https://gold.razer.com/id/id",
+          "found_time": "2024-11-16 19:31:54",
           "status": "active"
         }
       ]
