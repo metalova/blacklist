@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 12:59:13
+! Last Updated: 2024-11-16 13:03:31
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 444
+! Number of unique domains: 445
 !
 
 ||a00013.d-medis.id^
@@ -71,6 +71,7 @@
 ||carnesfinasortiz.com^
 ||catherinemcgrathmusic.com^
 ||cbt-smk.pages.dev^
+||cbt.smk-ypc.sch.id^
 ||chatsports.com^
 ||ciamiskabwede.pages.dev^
 ||cincoquinas.net^

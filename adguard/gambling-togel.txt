@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 12:59:13
+! Last Updated: 2024-11-16 13:03:31
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 645
+! Number of unique domains: 657
 !
 
 ||087ina.com^
@@ -60,6 +60,7 @@
 ||benadamslaw.com^
 ||bengkuluakses.pro^
 ||berasanmakmur.desa.id^
+||beritasumut.com^
 ||bertz-fischer.de^
 ||bicentenariochile.cl^
 ||bigboil.it.com^
@@ -142,6 +143,7 @@
 ||desamaritengngae.id^
 ||desasulangai.id^
 ||desawinong.id^
+||detikmanado.com^
 ||dfe.cucea.udg.mx^
 ||dharmacon.net^
 ||diabetescareguide.com^
@@ -180,6 +182,7 @@
 ||eng.maranatha.edu^
 ||environment.go.ke^
 ||eprints.ums.ac.id^
+||eprints.walisongo.ac.id^
 ||er-10hag.xyz^
 ||erbilfair.com^
 ||ericrockwell.com^
@@ -263,6 +266,7 @@
 ||insyt.esoko.com^
 ||interimhospitality.com^
 ||ipgmyproperty.com^
+||isnujatim.org^
 ||isobm2016congress.com^
 ||itls.es^
 ||ittelkom.ac.id^
@@ -270,6 +274,7 @@
 ||jamaicanfoodsouthdaytona.com^
 ||jamestowndds.com^
 ||janville-sur-juine.fr^
+||japos.co^
 ||jawaharlalcolleges.com^
 ||jazzclublarose.com^
 ||jeffsbowlorama.com^
@@ -411,6 +416,7 @@
 ||paintedbrain.org^
 ||palqueensartstudio.com^
 ||pantaiindah.pages.dev^
+||papuainside.id^
 ||papuanewsonline.com^
 ||parahybamall.com.br^
 ||patenjituamp.gacorclouds.workers.dev^
@@ -429,11 +435,13 @@
 ||pmb.itbriau.ac.id^
 ||pmblapemba.umt.ac.id^
 ||politicayeducacion.com^
+||polreskendal.net^
 ||polrestagorontalokota.com^
 ||polyuprotec.com^
 ||portal-flexp.orsted.com^
 ||portaljatim.id^
 ||pos4dtototogel02.com^
+||posmetropadang.co.id^
 ||precisionlogisticsnj.com^
 ||prediksi.gacorclouds.workers.dev^
 ||prediksiabujitu.com^
@@ -458,6 +466,7 @@
 ||quicklyserv.com^
 ||r1.community.samsung.com^
 ||rad-online.org.ar^
+||rakyatempatlawang.bacakoran.co^
 ||rakyatmaluku.fajar.co.id^
 ||ralleslaw.com^
 ||rampartmetal.com^
@@ -538,6 +547,7 @@
 ||snox365.com^
 ||society4romanianstudies.org^
 ||sodogeo.org^
+||solary.mszana.pl^
 ||soloasi.mx^
 ||somanyroadsbrewery.com^
 ||soteunionsprings.com^
@@ -602,6 +612,7 @@
 ||tribratanews.polreskotamobagu.com^
 ||tribratanews.sulut.polri.go.id^
 ||tribratanews.sumsel.polri.go.id^
+||trindade.org^
 ||triplercomposites.com^
 ||tualnews.com^
 ||tubmilltroutclub.org^
@@ -624,6 +635,7 @@
 ||veteranstee.org^
 ||vgkh.ru^
 ||vivancoculturadevino.es^
+||vivasulut.com^
 ||w27.angkapaito.net^
 ||wajimanavi.jp^
 ||wallpaperindonesia.com^
