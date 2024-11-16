@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 18:28:45",
+  "updated": "2024-11-16 18:31:59",
   "categories": {
     "slot": {
-      "count": 5075,
+      "count": 5089,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30452,6 +30452,90 @@
           "domain": "everybodydigital.com",
           "raw_url": "https://everybodydigital.com/",
           "found_time": "2024-11-16 11:27:43",
+          "status": "active"
+        },
+        {
+          "domain": "jiujitsupedia.com",
+          "raw_url": "https://www.jiujitsupedia.com/",
+          "found_time": "2024-11-16 11:28:44",
+          "status": "active"
+        },
+        {
+          "domain": "freshgkbangla.com",
+          "raw_url": "https://www.freshgkbangla.com/2021/09/gk-for-kids-in-bengali.html",
+          "found_time": "2024-11-16 11:30:51",
+          "status": "active"
+        },
+        {
+          "domain": "teropong-ntt.com",
+          "raw_url": "https://www.teropong-ntt.com/wisata/slot-bonus-new-member-100-di-awal-to-7x/",
+          "found_time": "2024-11-16 11:30:52",
+          "status": "active"
+        },
+        {
+          "domain": "haciendaelsalitregreen.com",
+          "raw_url": "https://haciendaelsalitregreen.com/",
+          "found_time": "2024-11-16 11:30:52",
+          "status": "active"
+        },
+        {
+          "domain": "kalendernu.com",
+          "raw_url": "https://kalendernu.com/",
+          "found_time": "2024-11-16 11:30:52",
+          "status": "active"
+        },
+        {
+          "domain": "fcmmalawi.com",
+          "raw_url": "https://fcmmalawi.com/.wp-cli/-/bonus+new+member+50",
+          "found_time": "2024-11-16 11:30:53",
+          "status": "active"
+        },
+        {
+          "domain": "emucoach.com",
+          "raw_url": "https://www.emucoach.com/forums/threads/kumpulan-bonus-new-member-100-di-depo-25-bonus-25-to-kecil-3x-5x-7x-hingga-10x.15846/post-128430",
+          "found_time": "2024-11-16 11:30:53",
+          "status": "active"
+        },
+        {
+          "domain": "keyfreeclinic.org",
+          "raw_url": "https://www.keyfreeclinic.org/",
+          "found_time": "2024-11-16 11:30:53",
+          "status": "active"
+        },
+        {
+          "domain": "palmpizzeria.com",
+          "raw_url": "https://www.palmpizzeria.com/",
+          "found_time": "2024-11-16 11:30:53",
+          "status": "active"
+        },
+        {
+          "domain": "superiorhomerenovations.com",
+          "raw_url": "https://superiorhomerenovations.com/",
+          "found_time": "2024-11-16 11:30:54",
+          "status": "active"
+        },
+        {
+          "domain": "seocucuandung-bbysky-shoki.pages.dev",
+          "raw_url": "https://seocucuandung-bbysky-shoki.pages.dev/",
+          "found_time": "2024-11-16 11:31:57",
+          "status": "active"
+        },
+        {
+          "domain": "hklotto.tic.edu.my",
+          "raw_url": "https://hklotto.tic.edu.my/gov/",
+          "found_time": "2024-11-16 11:31:57",
+          "status": "active"
+        },
+        {
+          "domain": "khusus.kapibara.my.id",
+          "raw_url": "https://khusus.kapibara.my.id/abc/15/",
+          "found_time": "2024-11-16 11:31:58",
+          "status": "active"
+        },
+        {
+          "domain": "atanidamos.online",
+          "raw_url": "https://atanidamos.online/amp/slotx3/",
+          "found_time": "2024-11-16 11:31:58",
           "status": "active"
         }
       ]

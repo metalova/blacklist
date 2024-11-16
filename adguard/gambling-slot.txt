@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 18:28:45
+! Last Updated: 2024-11-16 18:31:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5075
+! Number of unique domains: 5089
 !
 
 ||103.115.28.6^
@@ -383,6 +383,7 @@
 ||asus.com^
 ||asw.asean.org^
 ||asyraafahmadi.com^
+||atanidamos.online^
 ||athaanginfra.in^
 ||atheos-app.com^
 ||atisasecurities.com^
@@ -1421,6 +1422,7 @@
 ||emiliosplace.com^
 ||emoirestaurant.com^
 ||empu138g.online^
+||emucoach.com^
 ||en.chateauversailles.fr^
 ||en.shippingchina.com^
 ||enableshakti.com^
@@ -1522,6 +1524,7 @@
 ||fatroosterfarm.com^
 ||fawerwa.org^
 ||fbindonesia.co.id^
+||fcmmalawi.com^
 ||fdee.org^
 ||fe.unbari.ac.id^
 ||feb.bhamada.ac.id^
@@ -1620,6 +1623,7 @@
 ||freepik.com^
 ||freetips.com^
 ||frenchscope.com^
+||freshgkbangla.com^
 ||freshpropertys.com^
 ||frkelly.com^
 ||fst-usmba.ac.ma^
@@ -1795,6 +1799,7 @@
 ||habanero188amp.xyz^
 ||habaneroslot.pro^
 ||habanerosystems.com^
+||haciendaelsalitregreen.com^
 ||hackmd.io^
 ||hacksaw.info^
 ||hadiah138apk.com^
@@ -1871,6 +1876,7 @@
 ||hk.centanet.com^
 ||hkdigital.io^
 ||hkieurope.org^
+||hklotto.tic.edu.my^
 ||hmdefenses.com^
 ||hmik.fkunud.com^
 ||hmpsars.id^
@@ -2188,6 +2194,7 @@
 ||jip.fk.unand.ac.id^
 ||jipp.sulselprov.go.id^
 ||jittertime.com^
+||jiujitsupedia.com^
 ||jivs.net^
 ||jjsgrillandcatering.com^
 ||jklpk-indonesia.org^
@@ -2312,6 +2319,7 @@
 ||kainratu.co.id^
 ||kakheti.gov.ge^
 ||kaldiscafema.com^
+||kalendernu.com^
 ||kalisatkidul.id^
 ||kampungbocor.pages.dev^
 ||kamusslang.com^
@@ -2383,9 +2391,11 @@
 ||kevinsorbo.net^
 ||kevinxia2009.en.made-in-china.com^
 ||kewirausahaan.umla.ac.id^
+||keyfreeclinic.org^
 ||keyonary.com^
 ||khajuribazar.com^
 ||khaltamarplus.com^
+||khusus.kapibara.my.id^
 ||khwabsa.com^
 ||kijangwinteam.com^
 ||kilat.com^
@@ -3327,6 +3337,7 @@
 ||pakarydelperu.com^
 ||pakuasport.com^
 ||palatkadowntown.com^
+||palmpizzeria.com^
 ||palpos.bacakoran.co^
 ||pam.edesaku.org^
 ||pampapizza.com^
@@ -4005,6 +4016,7 @@
 ||semut69-amp.com^
 ||senegrill.com^
 ||senggol138a.click^
+||seocucuandung-bbysky-shoki.pages.dev^
 ||seopisanggrg.pages.dev^
 ||seputarcibubur.pikiran-rakyat.com^
 ||seputarperak.com^
@@ -4381,6 +4393,7 @@
 ||suntechind.com^
 ||suoguanji-yt.com^
 ||superasian88win.com^
+||superiorhomerenovations.com^
 ||supermpoweb.com^
 ||supervisi.relawanjurnal.id^
 ||suples.com^
@@ -4492,6 +4505,7 @@
 ||tenor.com^
 ||terc.lpem.org^
 ||termaxwin999.com^
+||teropong-ntt.com^
 ||terraartgallery.com^
 ||terraceskybar.com^
 ||terracotaresidencial.com^
