@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 11:24:33
+! Last Updated: 2024-11-16 11:29:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 390
+! Number of unique domains: 407
 !
 
 ||24liveblog.com^
@@ -12,6 +12,7 @@
 ||abzorba-live-blackjack-21-pro.id.uptodown.com^
 ||accounts.hbtu.ac.in^
 ||acescaldes.com^
+||acma.gov.au^
 ||affpapa.com^
 ||afronation.com^
 ||agen-casino.online^
@@ -23,6 +24,7 @@
 ||amazon.de^
 ||amny.com^
 ||amodiva.com^
+||anj.fr^
 ||arlingtonyouthfootball.com^
 ||arspb.org^
 ||ascentinternationalschool.com^
@@ -43,6 +45,7 @@
 ||betblocker.org^
 ||betgede.org^
 ||betkansas.com^
+||betterhealth.vic.gov.au^
 ||bicyclecards.com^
 ||bicyclesonmain.com^
 ||bizhare.id^
@@ -57,6 +60,7 @@
 ||brsoftech.com^
 ||burnaby.grandvillacasino.ca^
 ||burpple.com^
+||business.x.com^
 ||business2communitymalaysia.com^
 ||businesswire.com^
 ||buymesquite.com^
@@ -111,6 +115,7 @@
 ||e3x7.short.gy^
 ||eastbayexpress.com^
 ||ebelanja.id^
+||ecogra.org^
 ||edgewoodtahoe.com^
 ||ejournal4.pages.dev^
 ||elements.envato.com^
@@ -125,6 +130,7 @@
 ||fpmipa.ikip-saraswati.ac.id^
 ||gambierc.ca^
 ||gambleaware.nsw.gov.au^
+||gambleaware.org^
 ||gamblingcounting.com^
 ||games.washingtonpost.com^
 ||gdqpan.udn.vn^
@@ -166,10 +172,12 @@
 ||id.y8.com^
 ||ideausher.com^
 ||ietkenya.org^
+||igb.illinois.gov^
 ||ignotzsristorante.com^
 ||ihubtc.com^
 ||ilaniresort.com^
 ||imaginelive.com^
+||imarcgroup.com^
 ||imunisasi-tambahan.kemkes.go.id^
 ||incharafamilygardenrestaurant.com^
 ||indeedseo.com^
@@ -209,6 +217,7 @@
 ||liveabout.com^
 ||livedealer21.com^
 ||liveroulette.onl^
+||loretodharamtala.in^
 ||lrcr.com^
 ||lubukbangkar.desa.id^
 ||luckyvip.com^
@@ -235,8 +244,11 @@
 ||mumbaicoworking.com^
 ||nalarpolitik.com^
 ||narasiterkini.com^
+||ncpg.org.sg^
+||ncpgambling.org^
 ||nelsonheller.com^
 ||nemacolin.com^
+||new.c.mi.com^
 ||news.indozone.id^
 ||newszechuan.com^
 ||nflgaziabad.fssai.gov.in^
@@ -291,7 +303,9 @@
 ||roulette-simulator.info^
 ||royalcaribbean.com^
 ||rsiarafah.id^
+||rugbyobserver.co.uk^
 ||rwnewyork.com^
+||sacredheartcathedraldelhi.org^
 ||sakurakjcrownpoint.com^
 ||sayma.fnfcomputer.com^
 ||scarletpearlcasino.com^
@@ -329,6 +343,7 @@
 ||stjohnschandigarh.com^
 ||stkarensmontessorischool.com^
 ||strategis.id^
+||stxavierspatna.in^
 ||suninternational.com^
 ||sunsetranchptc.org^
 ||swearandshake.com^
@@ -369,6 +384,7 @@
 ||tuyendungacbh.com^
 ||uhintl.com^
 ||unity.hardrock.com^
+||unsplash.com^
 ||vendor.diblast.com^
 ||venetianmacao.com^
 ||verbenergybar.com^
@@ -393,4 +409,5 @@
 ||westmorelandmall.com^
 ||wordwall.net^
 ||wtae.com^
+||www2.gov.bc.ca^
 ||wwww.septa.org^
