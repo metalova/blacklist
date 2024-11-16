@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:30:55",
+  "updated": "2024-11-16 19:39:05",
   "categories": {
     "slot": {
-      "count": 5107,
+      "count": 5110,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30644,6 +30644,24 @@
           "domain": "sipaling-thailand.pages.dev",
           "raw_url": "https://sipaling-thailand.pages.dev/",
           "found_time": "2024-11-16 12:28:52",
+          "status": "active"
+        },
+        {
+          "domain": "jarfer.com",
+          "raw_url": "https://jarfer.com/gbk77-15/",
+          "found_time": "2024-11-16 12:30:55",
+          "status": "active"
+        },
+        {
+          "domain": "motogp.com",
+          "raw_url": "https://www.motogp.com/id",
+          "found_time": "2024-11-16 12:35:59",
+          "status": "active"
+        },
+        {
+          "domain": "bbpmpjateng.id",
+          "raw_url": "https://bbpmpjateng.id/?cola=zona4d",
+          "found_time": "2024-11-16 12:39:04",
           "status": "active"
         }
       ]

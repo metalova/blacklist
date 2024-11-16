@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 19:30:55
+! Last Updated: 2024-11-16 19:39:05
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5107
+! Number of unique domains: 5110
 !
 
 ||103.115.28.6^
@@ -501,6 +501,7 @@
 ||bbc.com^
 ||bbc.pertiwi.ac.id^
 ||bbpkciloto.or.id^
+||bbpmpjateng.id^
 ||bbqrestaurantgraham.com^
 ||bbs.binus.ac.id^
 ||bbtn4dasin.com^
@@ -2151,6 +2152,7 @@
 ||japri138.online^
 ||japri138slot.info^
 ||jardinoaxaca.mx^
+||jarfer.com^
 ||jasaberdikari.co.id^
 ||jasacuan-idn.com^
 ||jasminenuneaton.com^
@@ -3019,6 +3021,7 @@
 ||morse.hu^
 ||mothersrestaurant.net^
 ||motionvehicles.com^
+||motogp.com^
 ||motor138.com^
 ||motostrano.com^
 ||movegroupfitnessaz.com^
