@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 09:44:55
+! Last Updated: 2024-11-16 09:49:17
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4948
+! Number of unique domains: 4960
 !
 
 ||103.115.28.6^
@@ -264,6 +264,7 @@
 ||ampdewacukong88.com^
 ||ampfiftoto.com^
 ||ampmegah138.com^
+||ampplanet.com^
 ||ampq.org^
 ||ampsakti.ivermectinytab.com^
 ||ampslotvalid.offcolortv.com^
@@ -523,6 +524,7 @@
 ||beritasatu.com^
 ||berlinlog.com^
 ||bernsteinsfashions.com^
+||bertramtx.com^
 ||besadu.belitung.go.id^
 ||best-hashtags.com^
 ||bestmedicalwv.com^
@@ -1130,6 +1132,7 @@
 ||dentalimplantsgoshenny.com^
 ||dentallaspalmas.com^
 ||depo138.blog^
+||depo138.co^
 ||depo138.org^
 ||deposit4d.net^
 ||deposit4dloll.tumblr.com^
@@ -2033,6 +2036,7 @@
 ||irafu.id^
 ||iraqistudentproject.org^
 ||iras.gov.sg^
+||ireland.basketball^
 ||irit4dhebat5.lat^
 ||irit4dhebat6.buzz^
 ||irlenegypt.com^
@@ -2080,6 +2084,7 @@
 ||japri138slot.info^
 ||jardinoaxaca.mx^
 ||jasaberdikari.co.id^
+||jasacuan-idn.com^
 ||jasminenuneaton.com^
 ||jaspermorello.com^
 ||jatim.jpnn.com^
@@ -2851,6 +2856,7 @@
 ||millsrivercreamery.com^
 ||milwaukeecoffeeservices.com^
 ||mim.fekonubt.net^
+||min8bm.sch.id^
 ||mindmeister.com^
 ||mindsincorporated.org^
 ||minduarembang.my.id^
@@ -2981,6 +2987,7 @@
 ||mstokekwin.pages.dev^
 ||mtecenergia.com^
 ||mtsalmukarromah.sch.id^
+||mtsmacintamulya.sch.id^
 ||mtsn2kotamagelang.sch.id^
 ||mtsn7kediri.sch.id^
 ||mtsppmiassalaam.com^
@@ -3426,6 +3433,7 @@
 ||pojoksatu.id^
 ||pokeriomokykla.com^
 ||pokerkedi.com^
+||polbitrada.ac.id^
 ||pollostav.com^
 ||polluxbpo.com^
 ||polresdemak.com^
@@ -3555,6 +3563,7 @@
 ||puskesmasmariat.info^
 ||puskesmaspadasuka.id^
 ||pussy88.app^
+||pustarhutbsilhkmenlhk.pages.dev^
 ||qanda.digipres.org^
 ||qbuzz.qnet.net^
 ||qqemas.freeampsite.xyz^
@@ -4013,6 +4022,7 @@
 ||sisdata.unpak.ac.id^
 ||sisfo.htp.ac.id^
 ||siska.asppi.or.id^
+||sistem.pmb.peradaban.ac.id^
 ||sitaktik.fisip.unsulbar.ac.id^
 ||sitarida.tapselkab.go.id^
 ||site-web-florence-wemaere.fr^
@@ -4081,6 +4091,7 @@
 ||smithberrywinery.net^
 ||smithbridgeguam.com^
 ||smk3berau.sch.id^
+||smkbk4ampel.sch.id^
 ||smkbopkri2yogya.sch.id^
 ||smki-yogya.sch.id^
 ||smkmjps1tasik.sch.id^
@@ -4457,6 +4468,7 @@
 ||theoriginaltoptomato.com^
 ||theouterlimitssacramento.com^
 ||thepetitionsite.com^
+||thepotshoplosangeles.com^
 ||thepurecareclinic.com^
 ||thepyramidclub.com^
 ||thequesotruck.com^
