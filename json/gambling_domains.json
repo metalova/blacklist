@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 23:39:35",
+  "updated": "2024-11-16 23:43:46",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 475,
+      "count": 477,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42214,6 +42214,18 @@
           "domain": "9sarang188.com",
           "raw_url": "https://9sarang188.com/",
           "found_time": "2024-11-16 16:37:31",
+          "status": "active"
+        },
+        {
+          "domain": "mitrawp.co.id",
+          "raw_url": "https://mitrawp.co.id/info/?pola=JUDI+BOLA+PARLAY",
+          "found_time": "2024-11-16 16:39:35",
+          "status": "active"
+        },
+        {
+          "domain": "majalahdunia.org",
+          "raw_url": "https://majalahdunia.org/",
+          "found_time": "2024-11-16 16:42:41",
           "status": "active"
         }
       ]
