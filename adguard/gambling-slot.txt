@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:37:46
+! Last Updated: 2024-11-16 08:43:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4897
+! Number of unique domains: 4902
 !
 
 ||103.115.28.6^
@@ -979,6 +979,7 @@
 ||coronadeolivo.com^
 ||corpamag.gov.co^
 ||corsoecm.it^
+||cortezgames.com^
 ||cortijoamaya.com^
 ||coruhturizm.com^
 ||corygated.com^
@@ -1071,6 +1072,7 @@
 ||damona.com.au^
 ||dan.com^
 ||dana4dplay.net^
+||dana4dtogel.com^
 ||dancingandtraining.com^
 ||dandemutande.africa^
 ||danieledawes.com^
@@ -2779,6 +2781,7 @@
 ||mesinmpoapp.com^
 ||mesopot.com^
 ||mestia.gov.ge^
+||meta-kemendikbud.pages.dev^
 ||metadata.pamekasankab.go.id^
 ||meteng.iust.ac.ir^
 ||meteorgrup.com^
@@ -3128,6 +3131,7 @@
 ||opuntiabrava.ult.edu.cu^
 ||orami.co.id^
 ||orangeotec.com^
+||orangindonesia.pages.dev^
 ||orchidcoffeecr.com^
 ||orderbulldogsbatavia.com^
 ||orderredpigasiankitchen.com^
@@ -3867,6 +3871,7 @@
 ||server-luar.joyeriarosse.com^
 ||servingtop.com^
 ||seteranglangitbiru.com^
+||sethcockfield.com^
 ||setjen.kemkes.go.id^
 ||setkab.go.id^
 ||setsquaresolutions.com^
