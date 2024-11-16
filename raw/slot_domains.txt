@@ -143,6 +143,7 @@ admi.or.id
 admin-globalslot.imgix.net
 admin.darulquran.sch.id
 admin.ticketline.rs
+administracion.unmsm.edu.pe
 administrator.masa.sch.id
 adoositalia.com
 adoquinecuestre.com
@@ -850,6 +851,7 @@ centrallab.net
 centralrailwayonline.com
 centrika.rw
 centrounimb.edu.br
+centrounimb.vercel.app
 centurygames.helpshift.com
 cercleareopage.org
 ceria.kemkes.go.id
@@ -1326,6 +1328,7 @@ e.deliserdangkab.com
 e.pendampingdesa.com
 eadcadworks.com.br
 eadministrasi.untirta.ac.id
+eado2023.com
 eadplus.com.br
 eaglebusinessservices.com
 eaglehotelrestaurantbar.com
@@ -1428,6 +1431,7 @@ equineteurope.org
 equityproject.org
 era77bp.org
 erakini.id
+erenstore.com
 erlangga.co.id
 ernest-le-glacier.com
 erniessteak.com
@@ -1856,6 +1860,7 @@ home.smartsch.id
 homecare4u.pt
 homemaidbakery.com
 hoochiedaddyshorts.shop
+hookahbarlasvegas.com
 hooveryetkiliservisi.com
 hopavenuebrewing.com
 hops.id
@@ -2099,6 +2104,7 @@ jakmall.com
 jalanpu.semarangkota.go.id
 jalantikus.com
 jalin.co.id
+jalurbosi.pages.dev
 jambitv.disway.id
 jamsosindonesia.com
 janda4dsip.com
@@ -4247,6 +4253,7 @@ stakecommunity.com
 stakelogic.com
 standard.co.uk
 stanleystreetsocial.com
+starlinkbet88.vercel.app
 startuphrtoolkit.com
 stasolar.com
 stationcasinosblog.com
@@ -4284,6 +4291,7 @@ sttpk-medan.ac.id
 students.stfi.ac.id
 studyx.ai
 styleteamlighting.com
+su-journal.com
 suarasurabaya.net
 suarausu.or.id
 subito.it
