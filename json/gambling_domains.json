@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 01:24:54",
+  "updated": "2024-11-17 01:59:03",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 847,
+      "count": 851,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -39168,6 +39168,30 @@
           "domain": "ticketing.dianglobaltech.co.id",
           "raw_url": "https://ticketing.dianglobaltech.co.id/resources/?zz=CMD",
           "found_time": "2024-11-16 18:24:54",
+          "status": "active"
+        },
+        {
+          "domain": "alephjs.org",
+          "raw_url": "https://alephjs.org/",
+          "found_time": "2024-11-16 18:24:54",
+          "status": "active"
+        },
+        {
+          "domain": "popitoriginal.sk",
+          "raw_url": "https://popitoriginal.sk/",
+          "found_time": "2024-11-16 18:56:57",
+          "status": "active"
+        },
+        {
+          "domain": "steeringwheel.com.pk",
+          "raw_url": "https://www.steeringwheel.com.pk/",
+          "found_time": "2024-11-16 18:59:02",
+          "status": "active"
+        },
+        {
+          "domain": "dev.stewardshipnetwork.org",
+          "raw_url": "https://dev.stewardshipnetwork.org/prodak/tiktaktogel-situs-agen-togel-online-terpercaya",
+          "found_time": "2024-11-16 18:59:02",
           "status": "active"
         }
       ]
