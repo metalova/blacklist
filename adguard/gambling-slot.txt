@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 09:49:17
+! Last Updated: 2024-11-16 09:50:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4960
+! Number of unique domains: 4961
 !
 
 ||103.115.28.6^
@@ -3318,6 +3318,7 @@
 ||pendleslotracing.co.uk^
 ||penerimaan.stpn.ac.id^
 ||penjalin.desa.id^
+||penjaskesrek-serambimekkah.web.app^
 ||peppermillmaine.com^
 ||perpus-terpadu.poltekkeskupang.ac.id^
 ||perpus.man2padangpanjang.sch.id^

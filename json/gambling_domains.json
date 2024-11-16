@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 09:49:17",
+  "updated": "2024-11-16 09:50:19",
   "categories": {
     "slot": {
-      "count": 4960,
+      "count": 4961,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29761,6 +29761,12 @@
         {
           "domain": "bertramtx.com",
           "raw_url": "https://www.bertramtx.com/amp/",
+          "found_time": "2024-11-16 02:49:17",
+          "status": "active"
+        },
+        {
+          "domain": "penjaskesrek-serambimekkah.web.app",
+          "raw_url": "https://penjaskesrek-serambimekkah.web.app/?imback=WIN88",
           "found_time": "2024-11-16 02:49:17",
           "status": "active"
         }
