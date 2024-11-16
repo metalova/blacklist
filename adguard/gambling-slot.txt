@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 09:33:20
+! Last Updated: 2024-11-16 09:37:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4938
+! Number of unique domains: 4942
 !
 
 ||103.115.28.6^
@@ -2565,6 +2565,7 @@
 ||loyaltonhighschool.org^
 ||lpkk.uki.ac.id^
 ||lpm.iaincurup.ac.id^
+||lpm.staidapayakumbuh.ac.id^
 ||lpmhayamwuruk.org^
 ||lpmpp.unib.ac.id^
 ||lpp.unkhair.ac.id^
@@ -3501,6 +3502,7 @@
 ||proinoslogos.gr^
 ||projectyogarichmond.org^
 ||prokal.co^
+||prokuda.jenepontokab.go.id^
 ||prolegalnews.co.id^
 ||prolegalnews.id^
 ||prometheusgm.com^
@@ -4658,6 +4660,7 @@
 ||unitedthemes.com^
 ||unitomo.ac.id^
 ||universitetite.com^
+||univmeroket.pages.dev^
 ||unsri.ac.id^
 ||unsulbar.pages.dev^
 ||unud.ac.id^
@@ -4883,6 +4886,7 @@
 ||yaamava.com^
 ||yagascafe.com^
 ||yahoo.com^
+||yakaligaamplagi.pages.dev^
 ||yakisoba-miura.com^
 ||yangpentingdateng.pages.dev^
 ||yankes.kemkes.go.id^

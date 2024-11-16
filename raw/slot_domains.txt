@@ -2559,6 +2559,7 @@ lowcountryfishcamp.com
 loyaltonhighschool.org
 lpkk.uki.ac.id
 lpm.iaincurup.ac.id
+lpm.staidapayakumbuh.ac.id
 lpmhayamwuruk.org
 lpmpp.unib.ac.id
 lpp.unkhair.ac.id
@@ -3495,6 +3496,7 @@ program.penjalin.desa.id
 proinoslogos.gr
 projectyogarichmond.org
 prokal.co
+prokuda.jenepontokab.go.id
 prolegalnews.co.id
 prolegalnews.id
 prometheusgm.com
@@ -4652,6 +4654,7 @@ unirse.nur.edu
 unitedthemes.com
 unitomo.ac.id
 universitetite.com
+univmeroket.pages.dev
 unsri.ac.id
 unsulbar.pages.dev
 unud.ac.id
@@ -4877,6 +4880,7 @@ xtrahoki838.com
 yaamava.com
 yagascafe.com
 yahoo.com
+yakaligaamplagi.pages.dev
 yakisoba-miura.com
 yangpentingdateng.pages.dev
 yankes.kemkes.go.id
