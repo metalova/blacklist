@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 16:34:29",
+  "updated": "2024-11-16 16:38:33",
   "categories": {
     "slot": {
       "count": 4987,
@@ -41780,7 +41780,7 @@
       ]
     },
     "others": {
-      "count": 245,
+      "count": 248,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -43250,6 +43250,24 @@
           "domain": "masakini.co",
           "raw_url": "https://masakini.co/2024/11/15/perangi-judi-online-bri-blokir-3-ribu-lebih-rekening/",
           "found_time": "2024-11-16 09:34:28",
+          "status": "active"
+        },
+        {
+          "domain": "southloopcampusministry.org",
+          "raw_url": "https://www.southloopcampusministry.org/",
+          "found_time": "2024-11-16 09:34:28",
+          "status": "active"
+        },
+        {
+          "domain": "froken.com.ar",
+          "raw_url": "https://froken.com.ar/judi-nexus",
+          "found_time": "2024-11-16 09:35:30",
+          "status": "active"
+        },
+        {
+          "domain": "alfatah-banjarnegara.ponpes.id",
+          "raw_url": "https://alfatah-banjarnegara.ponpes.id/post/situs-terbaik-anti-ribet/?tranta=CARA%20BLOKIR%20SITUS%20JUDI",
+          "found_time": "2024-11-16 09:35:30",
           "status": "active"
         }
       ]

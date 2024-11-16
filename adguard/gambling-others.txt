@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-16 16:34:28
+! Last Updated: 2024-11-16 16:38:33
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 245
+! Number of unique domains: 248
 !
 
 ||abatanews.com^
@@ -15,6 +15,7 @@
 ||akurasi.id^
 ||alacransurf.com^
 ||albantech.co.tz^
+||alfatah-banjarnegara.ponpes.id^
 ||alinea.id^
 ||ama-med.org.ar^
 ||ameblo.jp^
@@ -70,6 +71,7 @@
 ||fortuneidn.com^
 ||forum.gdevelop.io^
 ||forums.autodesk.com^
+||froken.com.ar^
 ||geraifastpay.co.id^
 ||gizmologi.id^
 ||gorajuara.com^
@@ -216,6 +218,7 @@
 ||setneg.go.id^
 ||setwan.jogjakota.go.id^
 ||sfcv.org^
+||southloopcampusministry.org^
 ||srisakthirolling.com^
 ||suaradewata.com^
 ||sukabumiupdate.com^
