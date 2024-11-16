@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 20:28:03
+! Last Updated: 2024-11-16 20:34:15
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5120
+! Number of unique domains: 5121
 !
 
 ||103.115.28.6^
@@ -2693,6 +2693,7 @@
 ||luxury138e.com^
 ||luxury138masuk.com^
 ||luxury303.info^
+||luxury303.org^
 ||luxury777.net^
 ||luxury777ad.com^
 ||luxury777bersinar.com^

@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 20:28:03",
+  "updated": "2024-11-16 20:34:15",
   "categories": {
     "slot": {
-      "count": 5120,
+      "count": 5121,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30722,6 +30722,12 @@
           "domain": "luxury303.info",
           "raw_url": "https://luxury303.info/",
           "found_time": "2024-11-16 13:26:01",
+          "status": "active"
+        },
+        {
+          "domain": "luxury303.org",
+          "raw_url": "https://luxury303.org/",
+          "found_time": "2024-11-16 13:28:03",
           "status": "active"
         }
       ]
