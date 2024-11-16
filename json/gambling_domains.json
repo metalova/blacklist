@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 11:40:26",
+  "updated": "2024-11-16 12:14:47",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 425,
+      "count": 429,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32479,6 +32479,30 @@
           "domain": "antiquespride.edu.ph",
           "raw_url": "https://www.antiquespride.edu.ph/",
           "found_time": "2024-11-16 04:40:25",
+          "status": "active"
+        },
+        {
+          "domain": "keystotranquilityca.com",
+          "raw_url": "https://keystotranquilityca.com/",
+          "found_time": "2024-11-16 04:40:26",
+          "status": "active"
+        },
+        {
+          "domain": "thewokdallas.com",
+          "raw_url": "https://www.thewokdallas.com/",
+          "found_time": "2024-11-16 05:11:30",
+          "status": "active"
+        },
+        {
+          "domain": "gotocompany.com",
+          "raw_url": "https://www.gotocompany.com/en/news/press/gopay-supports-the-eradication-of-online-gambling-through-technology-and-education",
+          "found_time": "2024-11-16 05:11:30",
+          "status": "active"
+        },
+        {
+          "domain": "casinogambx.com",
+          "raw_url": "https://casinogambx.com/",
+          "found_time": "2024-11-16 05:11:31",
           "status": "active"
         }
       ]
@@ -37054,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 353,
+      "count": 367,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39172,6 +39196,90 @@
           "domain": "neosoftservices.in",
           "raw_url": "https://neosoftservices.in/",
           "found_time": "2024-11-15 18:46:05",
+          "status": "active"
+        },
+        {
+          "domain": "netralnews.com",
+          "raw_url": "https://www.netralnews.com/judi-bola-dihalalkan-pemerintah-orde-baru/MkVDWXNQU25XU213RkNUWWsxOEZkZz09",
+          "found_time": "2024-11-16 05:12:33",
+          "status": "active"
+        },
+        {
+          "domain": "abidingtech.com",
+          "raw_url": "https://abidingtech.com/fendy/Gopay.html",
+          "found_time": "2024-11-16 05:12:33",
+          "status": "active"
+        },
+        {
+          "domain": "skripsi.undana.ac.id",
+          "raw_url": "http://skripsi.undana.ac.id/index.php?p=show_detail&id=11369&keywords=",
+          "found_time": "2024-11-16 05:12:34",
+          "status": "active"
+        },
+        {
+          "domain": "bogoronline.com",
+          "raw_url": "https://bogoronline.com/2023/07/informasi-mix-parlay-lengkap-di-taruhan-bola/",
+          "found_time": "2024-11-16 05:13:38",
+          "status": "active"
+        },
+        {
+          "domain": "balitribune.co.id",
+          "raw_url": "https://balitribune.co.id/content/yang-perlu-anda-ketahui-dalam-taruhan-bola-online",
+          "found_time": "2024-11-16 05:13:38",
+          "status": "active"
+        },
+        {
+          "domain": "rumaysho.com",
+          "raw_url": "https://rumaysho.com/3700-taruhan-bola-apakah-judi.html",
+          "found_time": "2024-11-16 05:13:38",
+          "status": "active"
+        },
+        {
+          "domain": "mainbasket.com",
+          "raw_url": "https://www.mainbasket.com/r/19182/desain-bola-baru-wilson-untuk-nba-cup-2024",
+          "found_time": "2024-11-16 05:13:39",
+          "status": "active"
+        },
+        {
+          "domain": "katantt.com",
+          "raw_url": "https://www.katantt.com/artikel/49412/polres-rote-ndao-amankan-bandar-judi-bola-guling/",
+          "found_time": "2024-11-16 05:13:39",
+          "status": "active"
+        },
+        {
+          "domain": "footystats.org",
+          "raw_url": "https://footystats.org/id/predictions/",
+          "found_time": "2024-11-16 05:13:39",
+          "status": "active"
+        },
+        {
+          "domain": "ibudanbalita.com",
+          "raw_url": "https://www.ibudanbalita.com/forum/diskusi/Taruhan-bola-",
+          "found_time": "2024-11-16 05:13:39",
+          "status": "active"
+        },
+        {
+          "domain": "pakar.um-surabaya.ac.id",
+          "raw_url": "https://pakar.um-surabaya.ac.id/assets/1xbet/",
+          "found_time": "2024-11-16 05:14:46",
+          "status": "active"
+        },
+        {
+          "domain": "belajar.smktunaskaryacomal.sch.id",
+          "raw_url": "https://belajar.smktunaskaryacomal.sch.id/assets/plugins/?coimai=PASARAN%20TARUHAN%20BOLA",
+          "found_time": "2024-11-16 05:14:46",
+          "status": "active"
+        },
+        {
+          "domain": "woochonbbq.com",
+          "raw_url": "https://woochonbbq.com/",
+          "found_time": "2024-11-16 05:14:46",
+          "status": "active"
+        },
+        {
+          "domain": "ato.com.vn",
+          "raw_url": "http://www.ato.com.vn/UserProfile/tabid/43/userId/6930/Default.aspx",
+          "found_time": "2024-11-16 05:14:46",
           "status": "active"
         }
       ]
