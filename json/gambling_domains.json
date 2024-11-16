@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 10:54:22",
+  "updated": "2024-11-16 10:59:43",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 340,
+      "count": 357,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -31969,6 +31969,108 @@
           "domain": "betgede.org",
           "raw_url": "http://betgede.org/",
           "found_time": "2024-11-16 03:54:22",
+          "status": "active"
+        },
+        {
+          "domain": "learning.psbk.or.id",
+          "raw_url": "https://learning.psbk.or.id/static/product/",
+          "found_time": "2024-11-16 03:54:22",
+          "status": "active"
+        },
+        {
+          "domain": "dentistryinmarkham.com",
+          "raw_url": "https://dentistryinmarkham.com/img/",
+          "found_time": "2024-11-16 03:55:24",
+          "status": "active"
+        },
+        {
+          "domain": "sman1tunjungan.sch.id",
+          "raw_url": "https://sman1tunjungan.sch.id/valid/",
+          "found_time": "2024-11-16 03:55:24",
+          "status": "active"
+        },
+        {
+          "domain": "bizpark.co.id",
+          "raw_url": "https://www.bizpark.co.id/BACCARAT-ONLINE-405/",
+          "found_time": "2024-11-16 03:56:26",
+          "status": "active"
+        },
+        {
+          "domain": "crescent.edu",
+          "raw_url": "https://crescent.edu/post/the-history-of-baccarat",
+          "found_time": "2024-11-16 03:56:26",
+          "status": "active"
+        },
+        {
+          "domain": "metro.co.uk",
+          "raw_url": "https://metro.co.uk/2024/10/18/best-uk-live-dealer-casinos-2024-play-live-casino-games-21806555/",
+          "found_time": "2024-11-16 03:56:27",
+          "status": "active"
+        },
+        {
+          "domain": "ppdb.sma1blora.sch.id",
+          "raw_url": "https://ppdb.sma1blora.sch.id/",
+          "found_time": "2024-11-16 03:57:31",
+          "status": "active"
+        },
+        {
+          "domain": "theapocalypsedaddy.com",
+          "raw_url": "https://theapocalypsedaddy.com/",
+          "found_time": "2024-11-16 03:57:32",
+          "status": "active"
+        },
+        {
+          "domain": "patrimoniomundialmexico.inah.gob.mx",
+          "raw_url": "https://www.patrimoniomundialmexico.inah.gob.mx/bobatoto/",
+          "found_time": "2024-11-16 03:57:32",
+          "status": "active"
+        },
+        {
+          "domain": "kupuku.id",
+          "raw_url": "https://kupuku.id/",
+          "found_time": "2024-11-16 03:57:32",
+          "status": "active"
+        },
+        {
+          "domain": "chirurgie-digestif-proctologie.re",
+          "raw_url": "https://www.chirurgie-digestif-proctologie.re/baccarat-online/",
+          "found_time": "2024-11-16 03:58:34",
+          "status": "active"
+        },
+        {
+          "domain": "strategis.id",
+          "raw_url": "https://strategis.id/wp-content/admin/?main=CASINO+SBOBET88+TERPERCAYA",
+          "found_time": "2024-11-16 03:58:34",
+          "status": "active"
+        },
+        {
+          "domain": "thepointcasinoandhotel.com",
+          "raw_url": "https://www.thepointcasinoandhotel.com/gaming/table-games/",
+          "found_time": "2024-11-16 03:59:42",
+          "status": "active"
+        },
+        {
+          "domain": "skyriver.com",
+          "raw_url": "https://www.skyriver.com/casino/table-games",
+          "found_time": "2024-11-16 03:59:42",
+          "status": "active"
+        },
+        {
+          "domain": "classtools.net",
+          "raw_url": "https://www.classtools.net/random-name-picker/",
+          "found_time": "2024-11-16 03:59:42",
+          "status": "active"
+        },
+        {
+          "domain": "oyolasvegas.com",
+          "raw_url": "https://www.oyolasvegas.com/casino/",
+          "found_time": "2024-11-16 03:59:43",
+          "status": "active"
+        },
+        {
+          "domain": "meskwaki.com",
+          "raw_url": "https://www.meskwaki.com/casino-games/table-games/",
+          "found_time": "2024-11-16 03:59:43",
           "status": "active"
         }
       ]

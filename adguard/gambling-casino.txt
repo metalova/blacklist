@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 10:54:22
+! Last Updated: 2024-11-16 10:59:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 340
+! Number of unique domains: 357
 !
 
 ||24liveblog.com^
@@ -44,6 +44,7 @@
 ||bicyclecards.com^
 ||bicyclesonmain.com^
 ||bizhare.id^
+||bizpark.co.id^
 ||blackhawkbbqandcoffeeshop.com^
 ||blockonomi.com^
 ||blog.accesspoint.id^
@@ -70,7 +71,9 @@
 ||cdcgaming.com^
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
+||chirurgie-digestif-proctologie.re^
 ||cjmambala.in^
+||classtools.net^
 ||cleanfeed-records.com^
 ||cms-gb.com^
 ||cnnindonesia.com^
@@ -81,6 +84,7 @@
 ||corporeacompanhiadecorpos.com^
 ||coy99.net^
 ||creedroomz.com^
+||crescent.edu^
 ||crownmelbourne.com.au^
 ||crownperth.com.au^
 ||cuencas.miambiente.gob.pa^
@@ -90,6 +94,7 @@
 ||deadwoodmountaingrand.com^
 ||deinbaden.ch^
 ||dellagoresort.com^
+||dentistryinmarkham.com^
 ||deviantart.com^
 ||dkcreativeworks.co.za^
 ||dolby.io^
@@ -175,9 +180,11 @@
 ||know.nsmtltd.co.uk^
 ||kputulungagung.com^
 ||krakatauinternationalport.co.id^
+||kupuku.id^
 ||lanerosacasino.wordpress.com^
 ||lanyardkilat.co.id^
 ||latourneecanadienne.ca^
+||learning.psbk.or.id^
 ||lib.stiqisykarima.ac.id^
 ||littleangelschool.edu.in^
 ||live-casino.smpn2kotadumai.sch.id^
@@ -192,6 +199,8 @@
 ||majesticpride.in^
 ||man12jakarta.id^
 ||medcom.id^
+||meskwaki.com^
+||metro.co.uk^
 ||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
 ||mikeklubnika.itch.io^
@@ -227,9 +236,11 @@
 ||orlandomagazine.com^
 ||osagecasino.com^
 ||ourladyoffatimapatiala.com^
+||oyolasvegas.com^
 ||pa-bengkulukota.go.id^
 ||pafinatuna.org^
 ||paoyouth.org^
+||patrimoniomundialmexico.inah.gob.mx^
 ||paysbig.com^
 ||pelajarmu.id^
 ||pencoeddental.com^
@@ -242,6 +253,7 @@
 ||policarbonatoecuador.com^
 ||portal.careerguidancecollege.com^
 ||ppdb.darulhidayah.ponpes.id^
+||ppdb.sma1blora.sch.id^
 ||psu.com^
 ||pulsagacor99.com^
 ||pustakaarsip.tanjungpinangkota.go.id^
@@ -272,7 +284,9 @@
 ||sjsnaini.org^
 ||skycityadelaide.com.au^
 ||skycityauckland.co.nz^
+||skyriver.com^
 ||slotgacorocean88.com^
+||sman1tunjungan.sch.id^
 ||smaryssundernagar.com^
 ||smsgraphics.co.za^
 ||sociabuzz.com^
@@ -286,6 +300,7 @@
 ||steveabrown.com^
 ||stjohnschandigarh.com^
 ||stkarensmontessorischool.com^
+||strategis.id^
 ||suninternational.com^
 ||sunsetranchptc.org^
 ||swearandshake.com^
@@ -294,6 +309,7 @@
 ||tastyvintage.com^
 ||teknik.widyakarya.ac.id^
 ||telegraph.co.uk^
+||theapocalypsedaddy.com^
 ||theargus.co.uk^
 ||thecircuslife.com^
 ||theexpendables2film.com^
@@ -303,6 +319,7 @@
 ||thehypemagazine.com^
 ||theoceanac.com^
 ||theoplayer.com^
+||thepointcasinoandhotel.com^
 ||theresortatsummerlin.com^
 ||thirdmonkeysports.com^
 ||thrivemedicalaesthetics.ca^
