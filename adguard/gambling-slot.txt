@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:34:39
+! Last Updated: 2024-11-16 08:37:46
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4891
+! Number of unique domains: 4897
 !
 
 ||103.115.28.6^
@@ -844,6 +844,7 @@
 ||chambersforindiana.com^
 ||chameleonpr.com^
 ||championschool.org^
+||chandigarhguru.com^
 ||chargedretail.co.uk^
 ||charlesdemarcomd.com^
 ||charleskeith-id.ptkcg.co.id^
@@ -1526,6 +1527,7 @@
 ||fokuspatient.se^
 ||folkloresque.net^
 ||fontanadistribution.com^
+||fontsradar.com^
 ||foodpandatw.com^
 ||foodtrucksarasota.com^
 ||foothillsstanddown.com^
@@ -2945,6 +2947,7 @@
 ||mstokekwin.pages.dev^
 ||mtecenergia.com^
 ||mtsalmukarromah.sch.id^
+||mtsn2kotamagelang.sch.id^
 ||mtsn7kediri.sch.id^
 ||mtsppmiassalaam.com^
 ||mtv.travel^
@@ -3944,6 +3947,7 @@
 ||sinemensuel.com^
 ||sinigacorpak.com^
 ||sinjai.info^
+||sintesa-consultant.id^
 ||sintuk.id^
 ||sipada.sulbarprov.go.id^
 ||sipafipcngamprah.org^
@@ -4612,6 +4616,7 @@
 ||unipin.com^
 ||unirse.nur.edu^
 ||unitedthemes.com^
+||unitomo.ac.id^
 ||universitetite.com^
 ||unsri.ac.id^
 ||unsulbar.pages.dev^
@@ -4739,6 +4744,7 @@
 ||webmail.binahusada.ac.id^
 ||webmail.hdaudio.com^
 ||webnovel.com^
+||webpafi.com^
 ||website.informer.com^
 ||website.manngawi.sch.id^
 ||wechem.com^
