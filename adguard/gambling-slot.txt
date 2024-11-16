@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 19:14:14
+! Last Updated: 2024-11-16 19:22:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5098
+! Number of unique domains: 5100
 !
 
 ||103.115.28.6^
@@ -895,6 +895,7 @@
 ||chicagosuicideclub.com^
 ||chicocurbsidetaxi.com^
 ||chimasistaker.cimahikota.go.id^
+||chinainnmacon.com^
 ||chinawovenbag.com^
 ||chiufairestaurant.com^
 ||chocolateonamission.com^
@@ -4615,6 +4616,7 @@
 ||thesixseattle.com^
 ||theskyvillage.com^
 ||thespiceguide.com^
+||thespotarcadia.com^
 ||thespreadfood.com^
 ||thesun.my^
 ||thetastestreets.com^

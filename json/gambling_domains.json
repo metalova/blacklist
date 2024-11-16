@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:14:14",
+  "updated": "2024-11-16 19:22:43",
   "categories": {
     "slot": {
-      "count": 5098,
+      "count": 5100,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30590,6 +30590,18 @@
           "domain": "membership.wru.wales",
           "raw_url": "http://www.membership.wru.wales/?siaulang=ling4d",
           "found_time": "2024-11-16 12:14:14",
+          "status": "active"
+        },
+        {
+          "domain": "thespotarcadia.com",
+          "raw_url": "https://thespotarcadia.com/",
+          "found_time": "2024-11-16 12:14:14",
+          "status": "active"
+        },
+        {
+          "domain": "chinainnmacon.com",
+          "raw_url": "https://chinainnmacon.com/amp.html",
+          "found_time": "2024-11-16 12:21:20",
           "status": "active"
         }
       ]
