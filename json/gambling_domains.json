@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 05:30:34",
+  "updated": "2024-11-17 06:03:37",
   "categories": {
     "slot": {
-      "count": 5244,
+      "count": 5246,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31466,6 +31466,18 @@
           "domain": "ampboztazir.it.com",
           "raw_url": "https://ampboztazir.it.com/",
           "found_time": "2024-11-16 22:27:29",
+          "status": "active"
+        },
+        {
+          "domain": "pilar-jkt48-gitasekar-pay4d.pages.dev",
+          "raw_url": "https://pilar-jkt48-gitasekar-pay4d.pages.dev/",
+          "found_time": "2024-11-16 22:30:33",
+          "status": "active"
+        },
+        {
+          "domain": "fentresscouriernews.com",
+          "raw_url": "https://fentresscouriernews.com/amp",
+          "found_time": "2024-11-16 23:01:34",
           "status": "active"
         }
       ]

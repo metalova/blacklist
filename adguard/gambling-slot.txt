@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 05:30:33
+! Last Updated: 2024-11-17 06:03:37
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5244
+! Number of unique domains: 5246
 !
 
 ||103.115.28.6^
@@ -1580,6 +1580,7 @@
 ||femalehumananimal.com^
 ||feministaa.com^
 ||fenderanddonisch.com^
+||fentresscouriernews.com^
 ||fernandofranco.asdakota.com^
 ||fernandofranco.com^
 ||ferrybuildingbikerentals.com^
@@ -3574,6 +3575,7 @@
 ||pigletsgrill.com^
 ||pikaifi.com.gr^
 ||pikrjingga.com^
+||pilar-jkt48-gitasekar-pay4d.pages.dev^
 ||pili.or.id^
 ||pilihpulih.com^
 ||pilketos.smkn1kaligondang.sch.id^
