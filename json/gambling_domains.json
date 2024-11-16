@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 07:29:03",
+  "updated": "2024-11-16 07:33:06",
   "categories": {
     "slot": {
-      "count": 4857,
+      "count": 4858,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29144,6 +29144,12 @@
           "domain": "olx88-gacor.pages.dev",
           "raw_url": "https://olx88-gacor.pages.dev/",
           "found_time": "2024-11-16 00:29:02",
+          "status": "active"
+        },
+        {
+          "domain": "ampdewacukong88.com",
+          "raw_url": "https://ampdewacukong88.com/amp/",
+          "found_time": "2024-11-16 00:29:03",
           "status": "active"
         }
       ]
