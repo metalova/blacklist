@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 08:09:12",
+  "updated": "2024-11-16 08:11:28",
   "categories": {
     "slot": {
-      "count": 4863,
+      "count": 4869,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29180,6 +29180,42 @@
           "domain": "horizonmoto.fr",
           "raw_url": "https://www.horizonmoto.fr/",
           "found_time": "2024-11-16 01:07:11",
+          "status": "active"
+        },
+        {
+          "domain": "drheducationci.org",
+          "raw_url": "https://www.drheducationci.org/",
+          "found_time": "2024-11-16 01:09:12",
+          "status": "active"
+        },
+        {
+          "domain": "sugarbuzzbakerycafe.com",
+          "raw_url": "https://sugarbuzzbakerycafe.com/",
+          "found_time": "2024-11-16 01:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "m.economictimes.com",
+          "raw_url": "https://m.economictimes.com/industry/telecom/telecom-news/vis-turnaround-at-risk-after-plan-to-raise-25000-crore-debt-hits-a-snag/articleshow/115343400.cms",
+          "found_time": "2024-11-16 01:10:14",
+          "status": "active"
+        },
+        {
+          "domain": "standard.co.uk",
+          "raw_url": "https://www.standard.co.uk/topic/win",
+          "found_time": "2024-11-16 01:11:27",
+          "status": "active"
+        },
+        {
+          "domain": "onthehouse.com.au",
+          "raw_url": "https://www.onthehouse.com.au/property/vic/aspendale-3195/135--138-nepean-hwy-aspendale-vic-3195-39149432",
+          "found_time": "2024-11-16 01:11:27",
+          "status": "active"
+        },
+        {
+          "domain": "thedailybeast.com",
+          "raw_url": "https://www.thedailybeast.com/debbie-wasserman-schultz-tells-msnbc-that-tulsi-gabbard-is-likely-a-russian-asset/",
+          "found_time": "2024-11-16 01:11:27",
           "status": "active"
         }
       ]

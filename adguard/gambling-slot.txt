@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:09:12
+! Last Updated: 2024-11-16 08:11:28
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4863
+! Number of unique domains: 4869
 !
 
 ||103.115.28.6^
@@ -1252,6 +1252,7 @@
 ||dragonmaid.net^
 ||dramariellaelisei.com.br^
 ||drewfullerfan.com^
+||drheducationci.org^
 ||dribbble.com^
 ||drinksdestroyteeth.org^
 ||drivesafemode.com^
@@ -2568,6 +2569,7 @@
 ||m.aptirmik.or.id^
 ||m.betking.com^
 ||m.betwinwins.net^
+||m.economictimes.com^
 ||m.indiamart.com^
 ||m.jpnn.com^
 ||m.memuplay.com^
@@ -3100,6 +3102,7 @@
 ||onlineradio.jatengprov.go.id^
 ||onramps.org^
 ||onsnaiset.com^
+||onthehouse.com.au^
 ||oouc.rnu.tn^
 ||opendata.pref.aomori.lg.jp^
 ||opengroupinnovation.com^
@@ -4116,6 +4119,7 @@
 ||stake.com^
 ||stakecommunity.com^
 ||stakelogic.com^
+||standard.co.uk^
 ||stanleystreetsocial.com^
 ||startuphrtoolkit.com^
 ||stasolar.com^
@@ -4159,6 +4163,7 @@
 ||subito.it^
 ||suburbiajournal.com^
 ||suelos.org.mx^
+||sugarbuzzbakerycafe.com^
 ||sugarmamacooks.com^
 ||suhuslot112.com^
 ||suhutajir.com^
@@ -4344,6 +4349,7 @@
 ||thecrabbarrack.com^
 ||thecurvyspoon.com^
 ||thed.com^
+||thedailybeast.com^
 ||thedigitalabolitionist.com^
 ||thediywoodshop.com^
 ||thedressshopsa.com^
