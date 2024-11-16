@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 07:18:53",
+  "updated": "2024-11-16 07:21:55",
   "categories": {
     "slot": {
-      "count": 4853,
+      "count": 4854,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29120,6 +29120,12 @@
           "domain": "cumaaged.co",
           "raw_url": "https://cumaaged.co/index6.php",
           "found_time": "2024-11-16 00:18:52",
+          "status": "active"
+        },
+        {
+          "domain": "ibu4d-solusi-alternatif-terbaik-hari-ini.pages.dev",
+          "raw_url": "https://ibu4d-solusi-alternatif-terbaik-hari-ini.pages.dev/",
+          "found_time": "2024-11-16 00:18:53",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 07:18:53
+! Last Updated: 2024-11-16 07:21:55
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4853
+! Number of unique domains: 4854
 !
 
 ||103.115.28.6^
@@ -1859,6 +1859,7 @@
 ||ibericcglobal.eu^
 ||ibmi-medan.com^
 ||ibshospitals.com^
+||ibu4d-solusi-alternatif-terbaik-hari-ini.pages.dev^
 ||ibudani.visitblitar.com^
 ||icecream-taycool.com^
 ||icegaming.com^
