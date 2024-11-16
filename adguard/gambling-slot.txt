@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:54:35
+! Last Updated: 2024-11-16 09:29:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4915
+! Number of unique domains: 4924
 !
 
 ||103.115.28.6^
@@ -725,6 +725,7 @@
 ||buhitter.com^
 ||buildtechwetrust.com^
 ||builtatlightspeed.com^
+||bukapkv.pages.dev^
 ||bukitmpo.cam^
 ||bukoposo.desa.id^
 ||bumn-id.pages.dev^
@@ -1675,6 +1676,7 @@
 ||gopay.geo.polgeta.ac.id^
 ||gopay178-okgas.com^
 ||gorontalopost.co.id^
+||gosiptetangga.web.id^
 ||gosocial.co.id^
 ||gouffre-proumeyssac.com^
 ||gourmetworldmarket.com^
@@ -1990,6 +1992,7 @@
 ||infoslotsgacor.net^
 ||inglesonline.ao^
 ||inguareclong.click^
+||iniamppkv.pages.dev^
 ||inilah.com^
 ||inklusif.bappenas.go.id^
 ||inlislite.bekasikab.go.id^
@@ -2565,6 +2568,7 @@
 ||lrnglobal.org^
 ||lspkesehatanindohusada.com^
 ||lubuktogel8.irish^
+||lucimport.ec^
 ||lucky-winner-4v9.en.softonic.com^
 ||lucky-winner-tsx.en.softonic.com^
 ||luckybrewgrille.com^
@@ -2723,6 +2727,7 @@
 ||mclarenparksf.org^
 ||mcmichaelhigh.org^
 ||mcmurraylab.org^
+||mcob-apis.mendoza.nd.edu^
 ||mdgwin.org^
 ||mdindonesia.id^
 ||mealsandmilemarkers.com^
@@ -2852,6 +2857,7 @@
 ||mitramabes.com^
 ||mitrapost.com^
 ||mitrasehatjurnal.com^
+||mitsubachatham.com^
 ||mitto.ch^
 ||mitwpu-ncmj.com^
 ||mjolk.cz^
@@ -2951,6 +2957,7 @@
 ||mracgroup.com^
 ||mrbiggsbbqllc.com^
 ||mrbillsofbuckley.com^
+||mrdekawinn.com^
 ||mrdka777ku.com^
 ||mrfixitstips.co.uk^
 ||mrlyonsps.com^
@@ -4372,6 +4379,7 @@
 ||thebierstube.com^
 ||thebigbungalow.com^
 ||thebluemarblepub.com^
+||thebonza.com^
 ||thebrownliquorreport.com^
 ||thebuffalogrand.com^
 ||theburiedlife.com^
@@ -4467,6 +4475,7 @@
 ||tibetancenter.org^
 ||tickets-api.adodenhaag.nl^
 ||tiendahw.com^
+||tierra.id^
 ||tikusnakal.pages.dev^
 ||tilang.pn-kediri.go.id^
 ||tim.kbkalbar.id^
