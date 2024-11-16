@@ -1,11 +1,12 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 13:54:06
+! Last Updated: 2024-11-16 13:59:20
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 705
+! Number of unique domains: 717
 !
 
 ||087ina.com^
 ||30seconds.com^
+||32cemarawin.com^
 ||4sehat5sekarat.xyz^
 ||60by25.org^
 ||aaaplattestorage.com^
@@ -33,6 +34,7 @@
 ||amp.domainrtp.online^
 ||ampyusaldo4d.pages.dev^
 ||angkaitc63.my.id^
+||anticoatelier.com^
 ||ap3kni.or.id^
 ||apgicl.com^
 ||arpegediamonds.com^
@@ -223,6 +225,7 @@
 ||flatironcolumbus.com^
 ||flooringshermanoaks.com^
 ||forgettherules.com^
+||friendsaustin.com^
 ||furnitureworldgalleries.com^
 ||future-summit.org^
 ||galmaq.com.br^
@@ -242,6 +245,7 @@
 ||goldenscapetreeafrica.org^
 ||golockersid.com^
 ||goodfoodbarnsley.org^
+||goodthinkingsociety.org^
 ||gunesgozlugu.com^
 ||gvscolombia.com^
 ||hackerrank.com^
@@ -282,6 +286,7 @@
 ||insyt.esoko.com^
 ||interimhospitality.com^
 ||ipgmyproperty.com^
+||iprcl.org^
 ||isnujatim.org^
 ||isobm2016congress.com^
 ||itbully.com^
@@ -322,6 +327,7 @@
 ||kisgombocetterem.hu^
 ||km-ra.org^
 ||knitandcrochetnow.com^
+||kompas-news.pages.dev^
 ||kompas86.id^
 ||konzeptsolutions.com^
 ||kopokopo.co.ke^
@@ -393,6 +399,7 @@
 ||michelangeloprezioso.com^
 ||middletownjamaicanrestaurant.com^
 ||midwestfh.com^
+||mightyfighter.com^
 ||milknroll.com^
 ||millenniumsaloninc.com^
 ||millerlbr.com^
@@ -409,6 +416,7 @@
 ||munihualqui.cl^
 ||munimaynas.gob.pe^
 ||muralsoflascruces.com^
+||muuumeat.com^
 ||myfortworthpodiatrist.com^
 ||mygingerwoods.com^
 ||mylandmunchkins.io^
@@ -427,9 +435,11 @@
 ||ngeslot-id.com^
 ||ngondeli.com^
 ||nilamthreadingandspa.com^
+||ninoscollection.com^
 ||niphkeys.com^
 ||njpaincenter.com^
 ||notexchange.com.au^
+||npcpass.org^
 ||nqiegypt.org^
 ||nwkansascatholics.com^
 ||oceannord.org^
@@ -584,6 +594,7 @@
 ||smallcakesofsurprise.com^
 ||sman1salatiga.sch.id^
 ||smksyanuristonjong.com^
+||smp-muhammadiyah1-smg.sch.id^
 ||snox365.com^
 ||society4romanianstudies.org^
 ||sodogeo.org^
@@ -685,6 +696,7 @@
 ||w27.angkapaito.net^
 ||wajimanavi.jp^
 ||wallpaperindonesia.com^
+||warfareplugins.com^
 ||warteg4damp.gacorclouds.workers.dev^
 ||warteg4dmaju.com^
 ||wasabiplano.com^
