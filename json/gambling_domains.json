@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 08:49:24",
+  "updated": "2024-11-16 08:54:35",
   "categories": {
     "slot": {
-      "count": 4904,
+      "count": 4915,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29426,6 +29426,72 @@
           "domain": "menara1.pages.dev",
           "raw_url": "https://menara1.pages.dev/",
           "found_time": "2024-11-16 01:49:24",
+          "status": "active"
+        },
+        {
+          "domain": "18hokims.pages.dev",
+          "raw_url": "https://18hokims.pages.dev/",
+          "found_time": "2024-11-16 01:49:24",
+          "status": "active"
+        },
+        {
+          "domain": "m1.valdemarefilhos.com",
+          "raw_url": "https://m1.valdemarefilhos.com/",
+          "found_time": "2024-11-16 01:50:25",
+          "status": "active"
+        },
+        {
+          "domain": "tribratanews-restulangbawangbarat.lampung.polri.go.id",
+          "raw_url": "https://tribratanews-restulangbawangbarat.lampung.polri.go.id/detail-post/polda-lampung-ciduk-2-tersangka-pengelola-situs-judi-online",
+          "found_time": "2024-11-16 01:53:28",
+          "status": "active"
+        },
+        {
+          "domain": "aqms.org",
+          "raw_url": "https://aqms.org/",
+          "found_time": "2024-11-16 01:53:29",
+          "status": "active"
+        },
+        {
+          "domain": "basmitikuskantor.pages.dev",
+          "raw_url": "https://basmitikuskantor.pages.dev/web/icon/kopiko/?bmw_f30i=SITUS%20MPO",
+          "found_time": "2024-11-16 01:54:33",
+          "status": "active"
+        },
+        {
+          "domain": "lagrassegites.com",
+          "raw_url": "https://lagrassegites.com/",
+          "found_time": "2024-11-16 01:54:33",
+          "status": "active"
+        },
+        {
+          "domain": "jakartagarden.com",
+          "raw_url": "https://jakartagarden.com/",
+          "found_time": "2024-11-16 01:54:33",
+          "status": "active"
+        },
+        {
+          "domain": "babel-prov.pages.dev",
+          "raw_url": "https://babel-prov.pages.dev/?smile=SITUS%20MPO",
+          "found_time": "2024-11-16 01:54:34",
+          "status": "active"
+        },
+        {
+          "domain": "jurnal.uinsu.ac.id",
+          "raw_url": "https://jurnal.uinsu.ac.id/cache/URI/?terbang=bangjagoslot",
+          "found_time": "2024-11-16 01:54:34",
+          "status": "active"
+        },
+        {
+          "domain": "mpoxtraseru838.pages.dev",
+          "raw_url": "https://mpoxtraseru838.pages.dev/",
+          "found_time": "2024-11-16 01:54:34",
+          "status": "active"
+        },
+        {
+          "domain": "jurnalstkip-weetebula.pages.dev",
+          "raw_url": "https://jurnalstkip-weetebula.pages.dev/",
+          "found_time": "2024-11-16 01:54:34",
           "status": "active"
         }
       ]

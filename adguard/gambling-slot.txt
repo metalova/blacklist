@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:49:24
+! Last Updated: 2024-11-16 08:54:35
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4904
+! Number of unique domains: 4915
 !
 
 ||103.115.28.6^
@@ -50,6 +50,7 @@
 ||17tunai777.com^
 ||18.141.138.32^
 ||188.166.248.142^
+||18hokims.pages.dev^
 ||192.155.95.225^
 ||198.74.49.76^
 ||198.74.56.131^
@@ -324,6 +325,7 @@
 ||apuestasenmexico.mx^
 ||apufoc.olivertrific.de^
 ||aqillahbyria.com^
+||aqms.org^
 ||ar.advantaseeds.com^
 ||ar.aliexpress.com^
 ||arcadiavalleyescape.com^
@@ -413,6 +415,7 @@
 ||b.hatena.ne.jp^
 ||baarjournal.org^
 ||babakama.co.il^
+||babel-prov.pages.dev^
 ||babysteals.com^
 ||bacchuskc.org^
 ||backbayhardware.com^
@@ -467,6 +470,7 @@
 ||bartolinaathletics.com^
 ||basikadermotienda.com^
 ||basis.cash^
+||basmitikuskantor.pages.dev^
 ||bata4done.id^
 ||batallasfreestyle.com^
 ||batamnews.co.id^
@@ -2046,6 +2050,7 @@
 ||jackpotjoy.com^
 ||jackpotjunction.com^
 ||jahetoto5.cyou^
+||jakartagarden.com^
 ||jakartamuaythai.com^
 ||jakemartinforpima.com^
 ||jakmall.com^
@@ -2195,6 +2200,7 @@
 ||jurnal.stebankislam.ac.id^
 ||jurnal.stiki.ac.id^
 ||jurnal.tiga-mutiara.com^
+||jurnal.uinsu.ac.id^
 ||jurnal.um-palembang.ac.id^
 ||jurnal.umsrappang.ac.id^
 ||jurnal.univrab.ac.id^
@@ -2205,6 +2211,7 @@
 ||jurnalpolri.com^
 ||jurnalpuitika.fib.unand.ac.id^
 ||jurnalstkip-weetebula.ac.id^
+||jurnalstkip-weetebula.pages.dev^
 ||jurnalsukabumi.com^
 ||justdial.com^
 ||justhorseracing.com.au^
@@ -2398,6 +2405,7 @@
 ||lacimamexicancuisine.com^
 ||lagosstate.gov.ng^
 ||lagranjadelborrego.com^
+||lagrassegites.com^
 ||lakasi.banjarbarukota.go.id^
 ||lakecumberlandky.com^
 ||lakehealthconnect.org^
@@ -2593,6 +2601,7 @@
 ||m.slotvip.ph^
 ||m.soundersfc.com^
 ||m.twitch.tv^
+||m1.valdemarefilhos.com^
 ||m5.jayatogelabadi.com^
 ||maa.ac.in^
 ||maalfreekaa.in^
@@ -2936,6 +2945,7 @@
 ||mpowin77slot.net^
 ||mpowin88.co^
 ||mpowin88.online^
+||mpoxtraseru838.pages.dev^
 ||mpp.batangkab.go.id^
 ||mpp.ssu.ac.kr^
 ||mracgroup.com^
@@ -4536,6 +4546,7 @@
 ||trendssalonsuites.com^
 ||trendyol.com^
 ||tri-it-taproom.com^
+||tribratanews-restulangbawangbarat.lampung.polri.go.id^
 ||tribratanews.bengkulu.polri.go.id^
 ||tribratanews.jabar.polri.go.id^
 ||tribratanews.lampung.polri.go.id^
