@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 18:13:53
+! Last Updated: 2024-11-16 18:18:23
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5049
+! Number of unique domains: 5064
 !
 
 ||103.115.28.6^
@@ -211,6 +211,7 @@
 ||akm.smam4gempol.sch.id^
 ||akses.tubaba.go.id^
 ||aksesjambi.com^
+||akta.pa-badung.go.id^
 ||akumusangwin.us^
 ||akungg.com^
 ||al-jazirahonline.com^
@@ -489,6 +490,7 @@
 ||bathamptonmethodistchurch.org.uk^
 ||bayleys.co.nz^
 ||bayseascatfishhouse.com^
+||bayutama.co.id^
 ||bayviewbistrosf.com^
 ||baznasbarru.org^
 ||baznastrenggalek.id^
@@ -802,6 +804,7 @@
 ||cardlinx.org^
 ||career.habr.com^
 ||carefreecolors.com^
+||carelinks.in^
 ||caribecooler.com^
 ||cariyuk.com^
 ||carminhomusic.com^
@@ -982,6 +985,7 @@
 ||compass.com^
 ||computerrepaircentral.com^
 ||concejomunicipalchia.gov.co^
+||concejoyumbo.gov.co^
 ||concicarpinella.com.ar^
 ||coned.com^
 ||conference.ut.ac.id^
@@ -1067,6 +1071,7 @@
 ||csr.cianjurkab.go.id^
 ||ct-interactive.com^
 ||ctcfsa.org^
+||ctivmexico.org^
 ||ctprovisions.com^
 ||cuan-com.pages.dev^
 ||cuckoorestaurant.com.au^
@@ -1284,6 +1289,7 @@
 ||dprd.depok.go.id^
 ||dprd.nttprov.go.id^
 ||dpupr.salatiga.go.id^
+||dputr.tanatorajakab.go.id^
 ||dragon138ava.com^
 ||dragon138iii.com^
 ||dragon2wchicago.com^
@@ -1346,6 +1352,7 @@
 ||eastlandsuitesurbana.com^
 ||eastparc.co.id^
 ||eastsidetavernaustin.com^
+||eastwestmath.org^
 ||easyplanners.net^
 ||eatlocalcumberland.ca^
 ||eatonsquarebar.com^
@@ -1353,6 +1360,7 @@
 ||eatzombiedonuts.com^
 ||ebay.com^
 ||ebbsfleetlandmark.com^
+||ebenisterielp.com^
 ||ebet188exo.com^
 ||ecopipoclothnappies.com^
 ||ecupunto.com^
@@ -1794,6 +1802,7 @@
 ||halfordbar.com.au^
 ||halopotatodonuts.com^
 ||halsbarandgrill.com^
+||hamdanilawyer.com^
 ||hanannet.id^
 ||handsofhealingtouch.com^
 ||hapsari.or.id^
@@ -3084,6 +3093,7 @@
 ||nalo4d.com^
 ||nalo88.com.cutestat.com^
 ||namkhongriverside.com^
+||nanxiang.co.id^
 ||narasi.tv^
 ||narutobetjoss.com^
 ||nasa4d1.id^
@@ -3328,6 +3338,7 @@
 ||paradisepizzacapecod.com^
 ||parekrafntt.id^
 ||parepristizu.com^
+||pari.or.id^
 ||paritkebumen.desa.id^
 ||pariwisata.visitblitar.com^
 ||parkridgelawyer.net^
@@ -3768,6 +3779,7 @@
 ||retro-synthwave.com^
 ||reutilizak.org^
 ||reverbnation.com^
+||revista.ahf-filosofia.es^
 ||revistafraude.ufba.br^
 ||revistapsipro.com^
 ||revistavalencianadefilologia.net^
@@ -4192,6 +4204,7 @@
 ||smpn4satappagentan.sch.id^
 ||smpn4singkawang.sch.id^
 ||smpn5tambunselatan.sch.id^
+||smptexmacosemarang.sch.id^
 ||smtimakassar.sch.id^
 ||snai.it^
 ||snapbackpizzeria.com^
@@ -4700,6 +4713,7 @@
 ||trywebwall.com^
 ||tsblp.id^
 ||tsmo.cz^
+||tsn.go.tz^
 ||tsncdnpunjabi.truescoopnews.com^
 ||tsubaki-hg.com^
 ||tto.nust.edu.pk^
@@ -4735,6 +4749,7 @@
 ||uk.jackpot.com^
 ||ukitoraja.ac.id^
 ||ukmpenelitianuny.id^
+||ula.kemendagri.go.id^
 ||ult.bbpmpjateng.id^
 ||ultraman855.pages.dev^
 ||ulupalakuaranch.com^

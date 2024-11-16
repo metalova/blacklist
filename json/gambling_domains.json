@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 18:13:53",
+  "updated": "2024-11-16 18:18:23",
   "categories": {
     "slot": {
-      "count": 5049,
+      "count": 5064,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30296,6 +30296,96 @@
           "domain": "saat-2610b.web.app",
           "raw_url": "https://saat-2610b.web.app/",
           "found_time": "2024-11-16 11:12:51",
+          "status": "active"
+        },
+        {
+          "domain": "eastwestmath.org",
+          "raw_url": "http://eastwestmath.org/",
+          "found_time": "2024-11-16 11:13:53",
+          "status": "active"
+        },
+        {
+          "domain": "hamdanilawyer.com",
+          "raw_url": "https://www.hamdanilawyer.com/",
+          "found_time": "2024-11-16 11:17:16",
+          "status": "active"
+        },
+        {
+          "domain": "carelinks.in",
+          "raw_url": "https://carelinks.in/",
+          "found_time": "2024-11-16 11:17:16",
+          "status": "active"
+        },
+        {
+          "domain": "pari.or.id",
+          "raw_url": "https://pari.or.id/",
+          "found_time": "2024-11-16 11:17:16",
+          "status": "active"
+        },
+        {
+          "domain": "ctivmexico.org",
+          "raw_url": "https://www.ctivmexico.org/",
+          "found_time": "2024-11-16 11:17:16",
+          "status": "active"
+        },
+        {
+          "domain": "concejoyumbo.gov.co",
+          "raw_url": "https://www.concejoyumbo.gov.co/",
+          "found_time": "2024-11-16 11:17:17",
+          "status": "active"
+        },
+        {
+          "domain": "smptexmacosemarang.sch.id",
+          "raw_url": "https://smptexmacosemarang.sch.id/",
+          "found_time": "2024-11-16 11:17:17",
+          "status": "active"
+        },
+        {
+          "domain": "dputr.tanatorajakab.go.id",
+          "raw_url": "https://dputr.tanatorajakab.go.id/article/AGEN-JUDI-BOLA-RESMI-TERPERCAYA-2023/",
+          "found_time": "2024-11-16 11:17:17",
+          "status": "active"
+        },
+        {
+          "domain": "bayutama.co.id",
+          "raw_url": "https://www.bayutama.co.id/",
+          "found_time": "2024-11-16 11:17:18",
+          "status": "active"
+        },
+        {
+          "domain": "ebenisterielp.com",
+          "raw_url": "https://ebenisterielp.com/",
+          "found_time": "2024-11-16 11:17:18",
+          "status": "active"
+        },
+        {
+          "domain": "nanxiang.co.id",
+          "raw_url": "https://nanxiang.co.id/",
+          "found_time": "2024-11-16 11:17:18",
+          "status": "active"
+        },
+        {
+          "domain": "ula.kemendagri.go.id",
+          "raw_url": "https://ula.kemendagri.go.id/",
+          "found_time": "2024-11-16 11:17:19",
+          "status": "active"
+        },
+        {
+          "domain": "revista.ahf-filosofia.es",
+          "raw_url": "https://revista.ahf-filosofia.es/img/",
+          "found_time": "2024-11-16 11:17:19",
+          "status": "active"
+        },
+        {
+          "domain": "akta.pa-badung.go.id",
+          "raw_url": "https://akta.pa-badung.go.id/",
+          "found_time": "2024-11-16 11:17:19",
+          "status": "active"
+        },
+        {
+          "domain": "tsn.go.tz",
+          "raw_url": "https://tsn.go.tz/",
+          "found_time": "2024-11-16 11:17:19",
           "status": "active"
         }
       ]

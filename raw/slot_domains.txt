@@ -205,6 +205,7 @@ akdp.abb.co.id
 akm.smam4gempol.sch.id
 akses.tubaba.go.id
 aksesjambi.com
+akta.pa-badung.go.id
 akumusangwin.us
 akungg.com
 al-jazirahonline.com
@@ -483,6 +484,7 @@ batamnews.co.id
 bathamptonmethodistchurch.org.uk
 bayleys.co.nz
 bayseascatfishhouse.com
+bayutama.co.id
 bayviewbistrosf.com
 baznasbarru.org
 baznastrenggalek.id
@@ -796,6 +798,7 @@ carbontcc.com
 cardlinx.org
 career.habr.com
 carefreecolors.com
+carelinks.in
 caribecooler.com
 cariyuk.com
 carminhomusic.com
@@ -976,6 +979,7 @@ community.victronenergy.com
 compass.com
 computerrepaircentral.com
 concejomunicipalchia.gov.co
+concejoyumbo.gov.co
 concicarpinella.com.ar
 coned.com
 conference.ut.ac.id
@@ -1061,6 +1065,7 @@ csirt.grobogan.go.id
 csr.cianjurkab.go.id
 ct-interactive.com
 ctcfsa.org
+ctivmexico.org
 ctprovisions.com
 cuan-com.pages.dev
 cuckoorestaurant.com.au
@@ -1278,6 +1283,7 @@ dpppasti.id
 dprd.depok.go.id
 dprd.nttprov.go.id
 dpupr.salatiga.go.id
+dputr.tanatorajakab.go.id
 dragon138ava.com
 dragon138iii.com
 dragon2wchicago.com
@@ -1340,6 +1346,7 @@ earthwithjohnholden.com
 eastlandsuitesurbana.com
 eastparc.co.id
 eastsidetavernaustin.com
+eastwestmath.org
 easyplanners.net
 eatlocalcumberland.ca
 eatonsquarebar.com
@@ -1347,6 +1354,7 @@ eatpurrlovecatcafe.com
 eatzombiedonuts.com
 ebay.com
 ebbsfleetlandmark.com
+ebenisterielp.com
 ebet188exo.com
 ecopipoclothnappies.com
 ecupunto.com
@@ -1788,6 +1796,7 @@ halfmoonfarm.co
 halfordbar.com.au
 halopotatodonuts.com
 halsbarandgrill.com
+hamdanilawyer.com
 hanannet.id
 handsofhealingtouch.com
 hapsari.or.id
@@ -3078,6 +3087,7 @@ nailsbyjenn7.com
 nalo4d.com
 nalo88.com.cutestat.com
 namkhongriverside.com
+nanxiang.co.id
 narasi.tv
 narutobetjoss.com
 nasa4d1.id
@@ -3322,6 +3332,7 @@ paradisecoffeelaveta.com
 paradisepizzacapecod.com
 parekrafntt.id
 parepristizu.com
+pari.or.id
 paritkebumen.desa.id
 pariwisata.visitblitar.com
 parkridgelawyer.net
@@ -3762,6 +3773,7 @@ resturahayu-desa.id
 retro-synthwave.com
 reutilizak.org
 reverbnation.com
+revista.ahf-filosofia.es
 revistafraude.ufba.br
 revistapsipro.com
 revistavalencianadefilologia.net
@@ -4186,6 +4198,7 @@ smpn2parang.sch.id
 smpn4satappagentan.sch.id
 smpn4singkawang.sch.id
 smpn5tambunselatan.sch.id
+smptexmacosemarang.sch.id
 smtimakassar.sch.id
 snai.it
 snapbackpizzeria.com
@@ -4694,6 +4707,7 @@ trustpilot.com
 trywebwall.com
 tsblp.id
 tsmo.cz
+tsn.go.tz
 tsncdnpunjabi.truescoopnews.com
 tsubaki-hg.com
 tto.nust.edu.pk
@@ -4729,6 +4743,7 @@ ujian.stiki.ac.id
 uk.jackpot.com
 ukitoraja.ac.id
 ukmpenelitianuny.id
+ula.kemendagri.go.id
 ult.bbpmpjateng.id
 ultraman855.pages.dev
 ulupalakuaranch.com
