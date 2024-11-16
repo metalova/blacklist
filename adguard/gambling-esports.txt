@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 02:08:18
+! Last Updated: 2024-11-17 02:11:25
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 229
+! Number of unique domains: 233
 !
 
 ||1xbet.id.uptodown.com^
@@ -83,6 +83,7 @@
 ||firstmedia.com^
 ||fithub.id^
 ||friendly-wounds.com^
+||gagasan-online.com^
 ||gamebrott.com^
 ||games.grid.id^
 ||gamesindustry.biz^
@@ -137,6 +138,7 @@
 ||lightcoral.xyz^
 ||linkidntogel.com^
 ||liongaming.io^
+||liquipedia.net^
 ||listvox.com^
 ||lj.maharashtra.gov.in^
 ||log.suinco.pe^
@@ -221,11 +223,13 @@
 ||troc-destock-epinal.fr^
 ||troc35.fr^
 ||tv.tag-cyber.com^
+||umda.pk^
 ||ungkap.co.id^
 ||upstation.media^
 ||valorant.fandom.com^
 ||valorantesports.com^
 ||vcgamers.com^
+||videosamtale.rn.dk^
 ||villa-melanie-martinique.com^
 ||whop.com^
 ||wokaslot.amphtml.org^

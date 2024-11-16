@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:08:18",
+  "updated": "2024-11-17 02:11:25",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 229,
+      "count": 233,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44337,6 +44337,30 @@
           "domain": "troc-destock-epinal.fr",
           "raw_url": "https://troc-destock-epinal.fr/?blogs=ardsza&time=2024-09-19&key=situs-judi-online-server-ind-play-terbaik",
           "found_time": "2024-11-16 19:07:16",
+          "status": "active"
+        },
+        {
+          "domain": "videosamtale.rn.dk",
+          "raw_url": "http://videosamtale.rn.dk/?siaulang=betdota2",
+          "found_time": "2024-11-16 19:08:18",
+          "status": "active"
+        },
+        {
+          "domain": "liquipedia.net",
+          "raw_url": "https://liquipedia.net/pubgmobile/PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall",
+          "found_time": "2024-11-16 19:10:21",
+          "status": "active"
+        },
+        {
+          "domain": "gagasan-online.com",
+          "raw_url": "https://gagasan-online.com/",
+          "found_time": "2024-11-16 19:11:24",
+          "status": "active"
+        },
+        {
+          "domain": "umda.pk",
+          "raw_url": "https://umda.pk/agent-lotree-digital-pasaran-termantap-judi-saba-esports/?srsltid=AfmBOopNCkdXGT0KUtHiFswUOPjx1TkY9N52WSoLy730ztsrob0fbPkb",
+          "found_time": "2024-11-16 19:11:25",
           "status": "active"
         }
       ]
