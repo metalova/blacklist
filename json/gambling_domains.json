@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:11:25",
+  "updated": "2024-11-17 02:18:34",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 233,
+      "count": 235,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44361,6 +44361,18 @@
           "domain": "umda.pk",
           "raw_url": "https://umda.pk/agent-lotree-digital-pasaran-termantap-judi-saba-esports/?srsltid=AfmBOopNCkdXGT0KUtHiFswUOPjx1TkY9N52WSoLy730ztsrob0fbPkb",
           "found_time": "2024-11-16 19:11:25",
+          "status": "active"
+        },
+        {
+          "domain": "thespike.gg",
+          "raw_url": "https://www.thespike.gg/esports-betting/valorant",
+          "found_time": "2024-11-16 19:11:25",
+          "status": "active"
+        },
+        {
+          "domain": "teamrrq.com",
+          "raw_url": "https://teamrrq.com/academy",
+          "found_time": "2024-11-16 19:16:31",
           "status": "active"
         }
       ]
