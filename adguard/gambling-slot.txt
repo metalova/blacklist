@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 05:04:57
+! Last Updated: 2024-11-17 05:09:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5234
+! Number of unique domains: 5235
 !
 
 ||103.115.28.6^
@@ -218,6 +218,7 @@
 ||akumusangwin.us^
 ||akungg.com^
 ||al-jazirahonline.com^
+||al.com^
 ||alatanindonesia.co.id^
 ||albeacon.com^
 ||albertina.academy^

@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 05:04:57",
+  "updated": "2024-11-17 05:09:00",
   "categories": {
     "slot": {
-      "count": 5234,
+      "count": 5235,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31406,6 +31406,12 @@
           "domain": "kupangnews.com",
           "raw_url": "https://www.kupangnews.com/nasional/415321019/kementerian-komdigi-intensifkan-pemberantasan-judi-online-take-down-7224-situs-judol",
           "found_time": "2024-11-16 22:02:53",
+          "status": "active"
+        },
+        {
+          "domain": "al.com",
+          "raw_url": "https://www.al.com/casinos/rtp-slots/",
+          "found_time": "2024-11-16 22:04:57",
           "status": "active"
         }
       ]
