@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 18:07:40
+! Last Updated: 2024-11-16 18:13:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5039
+! Number of unique domains: 5049
 !
 
 ||103.115.28.6^
@@ -78,6 +78,7 @@
 ||45.79.217.76^
 ||450warren.com^
 ||47.129.240.5^
+||4cps.fr^
 ||500parkavecafe.com^
 ||503dsm.com^
 ||52.77.144.249^
@@ -265,6 +266,7 @@
 ||amparmyslot.com^
 ||ampdewacukong88.com^
 ||ampfiftoto.com^
+||amplineslot88.pages.dev^
 ||ampmegah138.com^
 ||ampplanet.com^
 ||ampq.org^
@@ -2539,6 +2541,7 @@
 ||lib.iaincurup.ac.id^
 ||liberationny.com^
 ||libramemoria.com^
+||library.asy-syukriyyah.ac.id^
 ||library.ien.bg.ac.rs^
 ||library.sttal.ac.id^
 ||library.upr.ac.id^
@@ -2602,6 +2605,7 @@
 ||localescomerciales.com.co^
 ||localwisejobs.com^
 ||locourbanstreetfood.com^
+||login-prakerja.purbalinggakab.go.id^
 ||login.penjalin.desa.id^
 ||lonepinecafe.com^
 ||lonestarplc.com^
@@ -2787,6 +2791,7 @@
 ||maxiladentalvalencia.com^
 ||maxwin.jp^
 ||maxwin138.ac^
+||maxwin138jos.firebaseapp.com^
 ||maxwinhealthcare.com^
 ||mayfairapartmenthomes.com^
 ||mbahmurtala.xyz^
@@ -3258,6 +3263,7 @@
 ||pa-karangasem.go.id^
 ||pa-kualakapuas.go.id^
 ||pa-ngamprah.go.id^
+||pa-pangkajene.go.id^
 ||pa-sukadana.go.id^
 ||pabriktempe.id^
 ||pac-4.com^
@@ -3659,6 +3665,7 @@
 ||radioactivafm.com^
 ||radiodms.com^
 ||rafbea.org^
+||raffi-9dg.pages.dev^
 ||railwaysconference.com^
 ||rainbowcastle.org^
 ||rainbowofkidsacademy.com^
@@ -3874,6 +3881,7 @@
 ||rwc77net.com^
 ||ryancfordistrict833.com^
 ||s-tech.id^
+||saat-2610b.web.app^
 ||sabarimalaonline.org^
 ||sabda.net^
 ||sabetslot4.net^
@@ -4132,6 +4140,7 @@
 ||slotdepositdana.cc^
 ||slotgacor-gacor288-cronograma.pages.dev^
 ||slotgacor-kangslot-sede.pages.dev^
+||slotgaming88.vercel.app^
 ||slotmalaygame.com^
 ||slotnya-thailand.pages.dev^
 ||slots-lucky-vip-09.softonic-id.com^
@@ -4864,6 +4873,7 @@
 ||warta.darunnajah.ac.id^
 ||wartabromo.com^
 ||wartadesaku.com^
+||warung168resmi.pages.dev^
 ||warungsiska.com^
 ||washingtoncyber.org^
 ||washingtonusssa.com^

@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 18:07:40",
+  "updated": "2024-11-16 18:13:53",
   "categories": {
     "slot": {
-      "count": 5039,
+      "count": 5049,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30236,6 +30236,66 @@
           "domain": "hindmotor.com",
           "raw_url": "https://www.hindmotor.com/",
           "found_time": "2024-11-16 11:05:37",
+          "status": "active"
+        },
+        {
+          "domain": "login-prakerja.purbalinggakab.go.id",
+          "raw_url": "https://login-prakerja.purbalinggakab.go.id/application/data/?proker=Berita%20Terkini%20Viral",
+          "found_time": "2024-11-16 11:07:40",
+          "status": "active"
+        },
+        {
+          "domain": "slotgaming88.vercel.app",
+          "raw_url": "https://slotgaming88.vercel.app/fesc.html",
+          "found_time": "2024-11-16 11:10:44",
+          "status": "active"
+        },
+        {
+          "domain": "amplineslot88.pages.dev",
+          "raw_url": "https://amplineslot88.pages.dev/",
+          "found_time": "2024-11-16 11:10:45",
+          "status": "active"
+        },
+        {
+          "domain": "4cps.fr",
+          "raw_url": "https://www.4cps.fr/",
+          "found_time": "2024-11-16 11:10:45",
+          "status": "active"
+        },
+        {
+          "domain": "raffi-9dg.pages.dev",
+          "raw_url": "https://raffi-9dg.pages.dev/",
+          "found_time": "2024-11-16 11:10:45",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138jos.firebaseapp.com",
+          "raw_url": "https://maxwin138jos.firebaseapp.com/",
+          "found_time": "2024-11-16 11:10:45",
+          "status": "active"
+        },
+        {
+          "domain": "pa-pangkajene.go.id",
+          "raw_url": "https://pa-pangkajene.go.id/",
+          "found_time": "2024-11-16 11:12:51",
+          "status": "active"
+        },
+        {
+          "domain": "warung168resmi.pages.dev",
+          "raw_url": "https://warung168resmi.pages.dev/",
+          "found_time": "2024-11-16 11:12:51",
+          "status": "active"
+        },
+        {
+          "domain": "library.asy-syukriyyah.ac.id",
+          "raw_url": "https://library.asy-syukriyyah.ac.id/data/index.php",
+          "found_time": "2024-11-16 11:12:51",
+          "status": "active"
+        },
+        {
+          "domain": "saat-2610b.web.app",
+          "raw_url": "https://saat-2610b.web.app/",
+          "found_time": "2024-11-16 11:12:51",
           "status": "active"
         }
       ]
