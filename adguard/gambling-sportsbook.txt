@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 12:24:40
+! Last Updated: 2024-11-16 12:28:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 383
+! Number of unique domains: 395
 !
 
 ||abidingtech.com^
@@ -23,6 +23,7 @@
 ||ampoperabola.info^
 ||apaituamp.com^
 ||apollo.io^
+||app.mtshasyim.sch.id^
 ||app.timesofmalta.com^
 ||arenadelrio.com^
 ||arti.info^
@@ -37,6 +38,7 @@
 ||basketballsphere.com^
 ||belajar.smktunaskaryacomal.sch.id^
 ||bengkulutoday.com^
+||bermuka.com^
 ||bestczechcasinos.cz^
 ||betaon338.info^
 ||bfreshgigi.com^
@@ -49,6 +51,7 @@
 ||bola365g.pages.dev^
 ||bola808.org^
 ||bola888.mystrikingly.com^
+||bolahiukerens.com^
 ||bolakita.farm^
 ||bolakita5.pages.dev^
 ||bolasport.com^
@@ -80,6 +83,7 @@
 ||cuttari.quora.com^
 ||cyberthreat.id^
 ||dafunda.com^
+||damirich.id^
 ||darasaletu.com^
 ||darulmaarif.net^
 ||decathlon.co.id^
@@ -147,6 +151,7 @@
 ||ibudanbalita.com^
 ||ictdemy.com^
 ||idsitusbola.pages.dev^
+||igloobeauty.ca^
 ||iicosteam.unkhair.ac.id^
 ||imagepublications.com^
 ||impresadiretta.net^
@@ -155,6 +160,7 @@
 ||indonesiaplant.com^
 ||indrabooks.com^
 ||infopurwakarta.id^
+||infopurwakartass.pages.dev^
 ||informasijuditerlengkap.wordpress.com^
 ||innalar.com^
 ||insitudigital.com^
@@ -168,6 +174,7 @@
 ||iwalletslotgacor.pages.dev^
 ||izinnaikmas.pages.dev^
 ||izinngacakmas.pages.dev^
+||jagonganwagen.psbk.or.id^
 ||jateng.jpnn.com^
 ||jatimtimes.com^
 ||jdih.sampangkab.go.id^
@@ -210,6 +217,7 @@
 ||loket.com^
 ||lotus33amp-s.pro^
 ||lucie-gomez.fr^
+||lwconline.com^
 ||m.panditfootball.com^
 ||madiun.disnakertrans.jatimprov.go.id^
 ||mainbasket.com^
@@ -226,6 +234,7 @@
 ||migranberdaulat.org^
 ||millenniumparkwaymedical.ca^
 ||monitoring-siasn.bkn.go.id^
+||morehere.org^
 ||morningdough.com^
 ||msoundersfc.pages.dev^
 ||mspbaseball.com^
@@ -249,6 +258,7 @@
 ||office.scicell.org^
 ||olx.co.id^
 ||onefootball.com^
+||oneplanetnetwork.org^
 ||onevolleyball.net^
 ||os.mbed.com^
 ||pabrikbola.com^
@@ -337,10 +347,12 @@
 ||skripsi.undana.ac.id^
 ||slbnaciteureupcimahi.sch.id^
 ||sman1sigi.sch.id^
+||smarthomehuahin.com^
 ||smkn1sukadana.sch.id^
 ||smkn3banyumas.sch.id^
 ||smkpasundanmalangbong.com^
 ||smpitim8.sch.id^
+||smpn6meureubo.sch.id^
 ||soccer.indozone.id^
 ||sorongselatankab.ina-sdi.or.id^
 ||specs.id^

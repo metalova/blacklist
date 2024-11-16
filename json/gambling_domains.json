@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:24:40",
+  "updated": "2024-11-16 12:28:53",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 383,
+      "count": 395,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39376,6 +39376,78 @@
           "domain": "ampoperabola.info",
           "raw_url": "https://ampoperabola.info/amp/",
           "found_time": "2024-11-16 05:24:40",
+          "status": "active"
+        },
+        {
+          "domain": "bermuka.com",
+          "raw_url": "https://bermuka.com/javhd**/oda/",
+          "found_time": "2024-11-16 05:24:40",
+          "status": "active"
+        },
+        {
+          "domain": "morehere.org",
+          "raw_url": "https://www.morehere.org/member.php/1494404-Valesbobet",
+          "found_time": "2024-11-16 05:25:46",
+          "status": "active"
+        },
+        {
+          "domain": "lwconline.com",
+          "raw_url": "https://lwconline.com/",
+          "found_time": "2024-11-16 05:25:46",
+          "status": "active"
+        },
+        {
+          "domain": "damirich.id",
+          "raw_url": "https://damirich.id/public/sbobet/",
+          "found_time": "2024-11-16 05:25:47",
+          "status": "active"
+        },
+        {
+          "domain": "app.mtshasyim.sch.id",
+          "raw_url": "https://app.mtshasyim.sch.id/update/file/",
+          "found_time": "2024-11-16 05:25:47",
+          "status": "active"
+        },
+        {
+          "domain": "oneplanetnetwork.org",
+          "raw_url": "https://www.oneplanetnetwork.org/organisations/agen-bola-terpercaya",
+          "found_time": "2024-11-16 05:25:47",
+          "status": "active"
+        },
+        {
+          "domain": "smpn6meureubo.sch.id",
+          "raw_url": "https://smpn6meureubo.sch.id/9na/kapabilitas/?toko=SBOBET%20BOLA%20TERBARU",
+          "found_time": "2024-11-16 05:25:48",
+          "status": "active"
+        },
+        {
+          "domain": "jagonganwagen.psbk.or.id",
+          "raw_url": "https://jagonganwagen.psbk.or.id/style/file/",
+          "found_time": "2024-11-16 05:25:48",
+          "status": "active"
+        },
+        {
+          "domain": "infopurwakartass.pages.dev",
+          "raw_url": "https://infopurwakartass.pages.dev/",
+          "found_time": "2024-11-16 05:25:48",
+          "status": "active"
+        },
+        {
+          "domain": "bolahiukerens.com",
+          "raw_url": "https://bolahiukerens.com/",
+          "found_time": "2024-11-16 05:27:51",
+          "status": "active"
+        },
+        {
+          "domain": "smarthomehuahin.com",
+          "raw_url": "https://smarthomehuahin.com/css/",
+          "found_time": "2024-11-16 05:27:51",
+          "status": "active"
+        },
+        {
+          "domain": "igloobeauty.ca",
+          "raw_url": "https://igloobeauty.ca/pengertian-mix-parlay-dalam-judi-bola/",
+          "found_time": "2024-11-16 05:27:51",
           "status": "active"
         }
       ]
