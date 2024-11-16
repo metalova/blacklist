@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 09:29:45
+! Last Updated: 2024-11-16 09:33:20
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4924
+! Number of unique domains: 4938
 !
 
 ||103.115.28.6^
@@ -144,6 +144,7 @@
 ||addismaleda.com^
 ||adellescoffeehouse.com^
 ||adihadean.ro^
+||adilomar.com^
 ||admi.or.id^
 ||admin-globalslot.imgix.net^
 ||admin.darulquran.sch.id^
@@ -437,6 +438,7 @@
 ||bambu99x.com^
 ||bandarjayagacor.net^
 ||bandarjayaku888.com^
+||bandarmpo.alexa138slot.jp.net^
 ||bandarmpo.net^
 ||bandarmpo.one^
 ||bandarmpo.pahlawanbarat.jp.net^
@@ -474,6 +476,7 @@
 ||bata4done.id^
 ||batallasfreestyle.com^
 ||batamnews.co.id^
+||bathamptonmethodistchurch.org.uk^
 ||bayleys.co.nz^
 ||bayseascatfishhouse.com^
 ||bayviewbistrosf.com^
@@ -830,6 +833,7 @@
 ||cemacyc.org^
 ||cemaintenancesolutions.com^
 ||cemconnections.org^
+||cenapec.edu.do^
 ||ceneo.pl^
 ||centerwashingtondc.com^
 ||central-quay.com^
@@ -1332,6 +1336,7 @@
 ||egr.global^
 ||egt-digital.com^
 ||egyptembassy.org^
+||eih.ae^
 ||eism.web.id^
 ||ejournal.insuriponorogo.ac.id^
 ||ejournal.poltekpel-sorong.ac.id^
@@ -1492,6 +1497,7 @@
 ||fetchbrewco.com^
 ||feudee.com^
 ||fewmilessouth.com^
+||fgshlb.gov.ng^
 ||fh.uika-bogor.ac.id^
 ||fiahomefoods.com^
 ||fib.unkhair.ac.id^
@@ -1994,6 +2000,7 @@
 ||inguareclong.click^
 ||iniamppkv.pages.dev^
 ||inilah.com^
+||inilahkalsel.com^
 ||inklusif.bappenas.go.id^
 ||inlislite.bekasikab.go.id^
 ||inmoove.com^
@@ -3113,6 +3120,7 @@
 ||ojs-upgrade.ummat.ac.id^
 ||ojs.amrj.net^
 ||ojs.rewangrencang.com^
+||oka-ba.jp^
 ||okademy.africa^
 ||oke168pass.com^
 ||oke4d.com^
@@ -3225,6 +3233,7 @@
 ||pakarydelperu.com^
 ||pakuasport.com^
 ||palatkadowntown.com^
+||palpos.bacakoran.co^
 ||pam.edesaku.org^
 ||pampapizza.com^
 ||panamalifeinsider.com^
@@ -3301,6 +3310,7 @@
 ||perpus-terpadu.poltekkeskupang.ac.id^
 ||perpus.man2padangpanjang.sch.id^
 ||perpus.smkn1surakarta.sch.id^
+||perpusarsip.metrokota.go.id^
 ||perpustakaan.pa-kolaka.go.id^
 ||persbhayangkara.id^
 ||persefona.cz^
@@ -4078,6 +4088,7 @@
 ||smkpgri2prabumulih.sch.id^
 ||smoresmusic.com^
 ||smpalfacentauri.sch.id^
+||smpn1kuningan.sch.id^
 ||smpn1raha.sch.id^
 ||smpn2parang.sch.id^
 ||smpn4satappagentan.sch.id^
@@ -4146,6 +4157,7 @@
 ||spot138az.com^
 ||spottedfin.com^
 ||sproutboise.com^
+||spspatriotbangsa.sch.id^
 ||squarepie.com^
 ||srb1.go.th^
 ||srbaindia.in^
@@ -4211,6 +4223,7 @@
 ||suhuslot112.com^
 ||suhutajir.com^
 ||suite-four.com^
+||suka.chokichoki.xyz^
 ||sukarjomesim.desa.id^
 ||sultan.untirta.ac.id^
 ||sultan777.me^
@@ -4841,6 +4854,7 @@
 ||wisuda.umt.ac.id^
 ||witchuniversity.com^
 ||witny.org^
+||wnbfactory.com^
 ||wnplayer.com^
 ||wolestglalternatif.com^
 ||womenshealthalliance.com^
