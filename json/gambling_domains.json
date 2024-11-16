@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 23:43:46",
+  "updated": "2024-11-16 23:49:05",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 477,
+      "count": 483,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42226,6 +42226,42 @@
           "domain": "majalahdunia.org",
           "raw_url": "https://majalahdunia.org/",
           "found_time": "2024-11-16 16:42:41",
+          "status": "active"
+        },
+        {
+          "domain": "smkntegalbuleud.sch.id",
+          "raw_url": "https://smkntegalbuleud.sch.id/public/bootstrap/index.php?file=cara+menang+mix+parlay",
+          "found_time": "2024-11-16 16:43:46",
+          "status": "active"
+        },
+        {
+          "domain": "waterberginfo.co.za",
+          "raw_url": "https://waterberginfo.co.za/suhubola-situs-judi-bola-resmi-and-agen-bola-online-terpercaya/",
+          "found_time": "2024-11-16 16:45:58",
+          "status": "active"
+        },
+        {
+          "domain": "minsales.in",
+          "raw_url": "https://minsales.in/lander?id=daftar-agen-bola-resmi",
+          "found_time": "2024-11-16 16:45:59",
+          "status": "active"
+        },
+        {
+          "domain": "sttpresbyterian.ac.id",
+          "raw_url": "https://sttpresbyterian.ac.id/wp-includes/images/",
+          "found_time": "2024-11-16 16:45:59",
+          "status": "active"
+        },
+        {
+          "domain": "stisnq.ac.id",
+          "raw_url": "https://stisnq.ac.id/wp-content/upgrade/bandarliga/",
+          "found_time": "2024-11-16 16:48:02",
+          "status": "active"
+        },
+        {
+          "domain": "kasihkarunia-kalbar.sch.id",
+          "raw_url": "https://kasihkarunia-kalbar.sch.id/kelulusan/",
+          "found_time": "2024-11-16 16:49:04",
           "status": "active"
         }
       ]

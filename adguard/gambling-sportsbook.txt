@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 23:43:46
+! Last Updated: 2024-11-16 23:49:05
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 477
+! Number of unique domains: 483
 !
 
 ||9sarang188.com^
@@ -217,6 +217,7 @@
 ||kamikamikinss.com^
 ||kamunanya.net^
 ||kaptenmaya.pages.dev^
+||kasihkarunia-kalbar.sch.id^
 ||katantt.com^
 ||kayabola6.pages.dev^
 ||keepcorporate.com^
@@ -272,6 +273,7 @@
 ||millenniumparkwaymedical.ca^
 ||min10benermeriah.sch.id^
 ||min1pasuruan.sch.id^
+||minsales.in^
 ||mitrabratanews.com^
 ||mitrawp.co.id^
 ||monitoring-siasn.bkn.go.id^
@@ -412,6 +414,7 @@
 ||smkn1surakarta.sch.id^
 ||smkn3banyumas.sch.id^
 ||smkn3tabanan.melajah.id^
+||smkntegalbuleud.sch.id^
 ||smkpasundanmalangbong.com^
 ||smpitim8.sch.id^
 ||smpn6meureubo.sch.id^
@@ -427,7 +430,9 @@
 ||sportsauxpuceslevis.com^
 ||stadion.uz^
 ||staging.arbusa.com^
+||stisnq.ac.id^
 ||stroomlijnadvies.nl^
+||sttpresbyterian.ac.id^
 ||sumberkini.my^
 ||superball.bolasport.com^
 ||tamanramadenpasar.sch.id^
@@ -466,6 +471,7 @@
 ||vod.in.th^
 ||wartatransparansi.com^
 ||watch.billboard.com^
+||waterberginfo.co.za^
 ||wbs.manggaraibaratkab.go.id^
 ||webdes.in^
 ||wisechurch.com^
