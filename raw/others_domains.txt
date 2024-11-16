@@ -153,6 +153,7 @@ melintas.id
 menpan.go.id
 merconspecialty.com
 mistar.id
+mnp.ac.id
 momsmoney.kontan.co.id
 moodle.luarasi-univ.edu.al
 morbeachcafe.com

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:37:03",
+  "updated": "2024-11-17 02:40:26",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 251,
+      "count": 252,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44470,11 +44470,17 @@
           "raw_url": "https://c200mhits.com/",
           "found_time": "2024-11-16 19:37:02",
           "status": "active"
+        },
+        {
+          "domain": "ahcfacilities.com",
+          "raw_url": "https://www.ahcfacilities.com/sport/parlay/",
+          "found_time": "2024-11-16 19:37:03",
+          "status": "active"
         }
       ]
     },
     "others": {
-      "count": 248,
+      "count": 249,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -45962,6 +45968,12 @@
           "domain": "alfatah-banjarnegara.ponpes.id",
           "raw_url": "https://alfatah-banjarnegara.ponpes.id/post/situs-terbaik-anti-ribet/?tranta=CARA%20BLOKIR%20SITUS%20JUDI",
           "found_time": "2024-11-16 09:35:30",
+          "status": "active"
+        },
+        {
+          "domain": "mnp.ac.id",
+          "raw_url": "https://mnp.ac.id/judi-online/",
+          "found_time": "2024-11-16 19:40:26",
           "status": "active"
         }
       ]
