@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 21:04:57",
+  "updated": "2024-11-16 21:09:01",
   "categories": {
     "slot": {
-      "count": 5161,
+      "count": 5162,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30968,6 +30968,12 @@
           "domain": "betkingagency.com",
           "raw_url": "https://betkingagency.com/agent-registration-form/",
           "found_time": "2024-11-16 14:03:55",
+          "status": "active"
+        },
+        {
+          "domain": "nigeria-bets.com",
+          "raw_url": "https://nigeria-bets.com/bookmakers/betmaster",
+          "found_time": "2024-11-16 14:04:57",
           "status": "active"
         }
       ]
