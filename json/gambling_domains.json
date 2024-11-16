@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:32:56",
+  "updated": "2024-11-17 02:37:03",
   "categories": {
     "slot": {
       "count": 5192,
@@ -42963,7 +42963,7 @@
       ]
     },
     "esports": {
-      "count": 247,
+      "count": 251,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -44445,6 +44445,30 @@
           "domain": "gold.razer.com",
           "raw_url": "https://gold.razer.com/id/id",
           "found_time": "2024-11-16 19:31:54",
+          "status": "active"
+        },
+        {
+          "domain": "seva.id",
+          "raw_url": "https://www.seva.id/blog/esports-bermain-games-yang-disebut-olahraga-112019",
+          "found_time": "2024-11-16 19:32:56",
+          "status": "active"
+        },
+        {
+          "domain": "sabplay.com",
+          "raw_url": "https://sabplay.com/",
+          "found_time": "2024-11-16 19:36:00",
+          "status": "active"
+        },
+        {
+          "domain": "rez-tech.com",
+          "raw_url": "https://rez-tech.com/casino88-link-alternatif-15/",
+          "found_time": "2024-11-16 19:36:01",
+          "status": "active"
+        },
+        {
+          "domain": "c200mhits.com",
+          "raw_url": "https://c200mhits.com/",
+          "found_time": "2024-11-16 19:37:02",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 02:32:56
+! Last Updated: 2024-11-17 02:37:03
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 247
+! Number of unique domains: 251
 !
 
 ||1xbet.id.uptodown.com^
@@ -41,6 +41,7 @@
 ||brg.ina-sdi.or.id^
 ||britadao.com^
 ||businessresearchinsights.com^
+||c200mhits.com^
 ||cakrawalajabar.com^
 ||canadiangamingbusiness.com^
 ||cbssports.com^
@@ -197,7 +198,9 @@
 ||repository.uinsi.ac.id^
 ||repository.uir.ac.id^
 ||responsiblegambling.vic.gov.au^
+||rez-tech.com^
 ||rodamaxwin.com^
+||sabplay.com^
 ||sactr.com^
 ||sakti55-sip.pages.dev^
 ||salmonellatyphi.org^
@@ -208,6 +211,7 @@
 ||seru.indsaiko.com^
 ||seru88light.com^
 ||serverthailandmain.pages.dev^
+||seva.id^
 ||sg.finance.yahoo.com^
 ||silani.ptun-yogyakarta.go.id^
 ||sinarfakta.com^
