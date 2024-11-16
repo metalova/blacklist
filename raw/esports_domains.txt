@@ -9,6 +9,7 @@ ampnuke.pages.dev
 ampsatria888.pages.dev
 anshsheth.com
 asciimo.com
+battlegroundsmobileindia.com
 beritaesports.com
 bernama.com
 bet365.id.uptodown.com
@@ -64,6 +65,7 @@ garena.co.id
 garudaku.com
 genpi.co
 globalbiofest.com
+gnosisgames.com
 googleapp.help
 gosugamers.net
 grid.id

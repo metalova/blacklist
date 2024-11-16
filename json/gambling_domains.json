@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 14:59:48",
+  "updated": "2024-11-16 15:00:53",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 183,
+      "count": 185,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41547,6 +41547,18 @@
           "domain": "lightcoral.xyz",
           "raw_url": "https://lightcoral.xyz/amp/",
           "found_time": "2024-11-16 07:26:43",
+          "status": "active"
+        },
+        {
+          "domain": "battlegroundsmobileindia.com",
+          "raw_url": "https://www.battlegroundsmobileindia.com/",
+          "found_time": "2024-11-16 07:59:48",
+          "status": "active"
+        },
+        {
+          "domain": "gnosisgames.com",
+          "raw_url": "https://www.gnosisgames.com/bet-Valorant.php",
+          "found_time": "2024-11-16 08:00:52",
           "status": "active"
         }
       ]
