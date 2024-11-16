@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:27:05",
+  "updated": "2024-11-17 06:31:32",
   "categories": {
     "slot": {
-      "count": 5266,
+      "count": 5270,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31598,6 +31598,30 @@
           "domain": "dungunbaru.desa.id",
           "raw_url": "https://dungunbaru.desa.id/",
           "found_time": "2024-11-16 23:26:03",
+          "status": "active"
+        },
+        {
+          "domain": "nciet.id",
+          "raw_url": "https://nciet.id/",
+          "found_time": "2024-11-16 23:27:05",
+          "status": "active"
+        },
+        {
+          "domain": "id.tradingview.com",
+          "raw_url": "https://id.tradingview.com/symbols/PEPEUSDT/",
+          "found_time": "2024-11-16 23:30:07",
+          "status": "active"
+        },
+        {
+          "domain": "landandfarm.com",
+          "raw_url": "https://www.landandfarm.com/property/bungalow-cottage-detached-detached-residential-portsmouth-va-36036443/",
+          "found_time": "2024-11-16 23:31:31",
+          "status": "active"
+        },
+        {
+          "domain": "norumail.com",
+          "raw_url": "https://norumail.com/?id=55k-bet",
+          "found_time": "2024-11-16 23:31:32",
           "status": "active"
         }
       ]

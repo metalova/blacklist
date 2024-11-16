@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:27:05
+! Last Updated: 2024-11-17 06:31:32
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5266
+! Number of unique domains: 5270
 !
 
 ||103.115.28.6^
@@ -2038,6 +2038,7 @@
 ||id.ldplayer.net^
 ||id.pngtree.com^
 ||id.revieweek.com^
+||id.tradingview.com^
 ||id.trip.com^
 ||id.wikihow.com^
 ||idea.guanajuato.gob.mx^
@@ -2596,6 +2597,7 @@
 ||lambornmountainfarmstead.com^
 ||lanceladuke.com^
 ||lancesilverfalls.com^
+||landandfarm.com^
 ||landandseaindustries.com^
 ||landsearch.com^
 ||langitqiu.pages.dev^
@@ -3246,6 +3248,7 @@
 ||nbcprepa.org^
 ||nbcsandiego.com^
 ||nbsbangladesh.info^
+||nciet.id^
 ||nealsfurnishings.com^
 ||neofeederdikti.unsri.ac.id^
 ||nergyalspa.com^
@@ -3300,6 +3303,7 @@
 ||northparkpharmacywaterloo.com^
 ||northpointgrill.com^
 ||northroyaltondentist.com^
+||norumail.com^
 ||notarisbanten.com^
 ||nothingfancybar.com^
 ||nphi.go.ke^
