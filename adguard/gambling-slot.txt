@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:27:45
+! Last Updated: 2024-11-16 08:34:39
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4879
+! Number of unique domains: 4891
 !
 
 ||103.115.28.6^
@@ -1185,6 +1185,7 @@
 ||disdukcapil.meranginkab.go.id^
 ||dishub.banjarbarukota.go.id^
 ||diskominfo.grobogan.go.id^
+||diskominfosan.tanatorajakab.go.id^
 ||diskop.tulangbawangkab.go.id^
 ||disnakertrans.kepriprov.go.id^
 ||disparpora.ngawikab.go.id^
@@ -1302,6 +1303,7 @@
 ||earthlinepublishers.com^
 ||earthwithjohnholden.com^
 ||eastlandsuitesurbana.com^
+||eastparc.co.id^
 ||eastsidetavernaustin.com^
 ||easyplanners.net^
 ||eatlocalcumberland.ca^
@@ -1358,6 +1360,7 @@
 ||elliottstreet.com^
 ||elprofesionaldelainformacion.com^
 ||elpueblopresidente.com^
+||elraspinell.com^
 ||eltast.net^
 ||eman-rese.ca^
 ||emc2023.org^
@@ -1601,6 +1604,7 @@
 ||gb.org.sg^
 ||gbatemp.net^
 ||gcdharamshala.in^
+||gcnoticias.com.br^
 ||gcsec.org^
 ||gctilesbangalore.com^
 ||gd4d.co^
@@ -1703,6 +1707,7 @@
 ||growgreenconference.com^
 ||grrrl.net^
 ||gsis-accra.org^
+||gslapi.casagenesis.io^
 ||gta-homes.com^
 ||gtailored.com^
 ||gteamalaysia.com^
@@ -3022,6 +3027,7 @@
 ||nextlogik.com^
 ||ngertihukum.id^
 ||ngopibareng.id^
+||ngopilotong.com^
 ||nguyetminhlam.com^
 ||nicholasmanellapa.com^
 ||nickharttattoo.com^
@@ -3582,6 +3588,7 @@
 ||raport.mas-alkhairaat.sch.id^
 ||ratumagelang.com^
 ||raywhitewagga.com.au^
+||rbcommunitypark.com^
 ||rc2groupcorporation.com^
 ||rcroundup.com^
 ||re-ed.org^
@@ -4416,6 +4423,7 @@
 ||theskyvillage.com^
 ||thespiceguide.com^
 ||thespreadfood.com^
+||thesun.my^
 ||thetastestreets.com^
 ||thetimepiecegentleman.com^
 ||thetoollibrary.org^
@@ -4423,6 +4431,7 @@
 ||thetrunkifiles.com^
 ||thetwistedkitchen.com^
 ||theuniquebakery.com^
+||thevladimircollection.com^
 ||thewatersedgespa.com^
 ||thewhiskeychaps.com^
 ||thewirehindi.com^
@@ -4464,6 +4473,9 @@
 ||tobymotte.com^
 ||todaymatchprediction.com^
 ||todotelas.cl^
+||togel88.localnest.co.za^
+||togel88.satrailersales.co.za^
+||togel889.com^
 ||togelcc-online.com^
 ||togelcc.com^
 ||togelccgacor23.com^
