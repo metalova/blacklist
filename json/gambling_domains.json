@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 14:26:43",
+  "updated": "2024-11-16 14:59:48",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 182,
+      "count": 183,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41541,6 +41541,12 @@
           "domain": "beritaesports.com",
           "raw_url": "http://beritaesports.com/2021/03/11/edho-zell-resmi-merilis-akademi-esports-miliknya-yuk-gabung-guys/",
           "found_time": "2024-11-16 07:25:41",
+          "status": "active"
+        },
+        {
+          "domain": "lightcoral.xyz",
+          "raw_url": "https://lightcoral.xyz/amp/",
+          "found_time": "2024-11-16 07:26:43",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-16 14:26:43
+! Last Updated: 2024-11-16 14:59:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 182
+! Number of unique domains: 183
 !
 
 ||1xbet.id.uptodown.com^
@@ -102,6 +102,7 @@
 ||legal-esport.com^
 ||lensabanten.co.id^
 ||lensaone.id^
+||lightcoral.xyz^
 ||linkidntogel.com^
 ||listvox.com^
 ||lj.maharashtra.gov.in^
