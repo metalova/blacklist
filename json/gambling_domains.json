@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 16:21:06",
+  "updated": "2024-11-16 16:29:18",
   "categories": {
     "slot": {
       "count": 4987,
@@ -41780,7 +41780,7 @@
       ]
     },
     "others": {
-      "count": 231,
+      "count": 239,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -43166,6 +43166,54 @@
           "domain": "asumsi.co",
           "raw_url": "https://asumsi.co/post/92783/oknum-anggota-tni-gelapkan-dana-rp876-juta-untuk-dipakai-judi-online/",
           "found_time": "2024-11-16 09:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "m.kontan.co.id",
+          "raw_url": "https://m.kontan.co.id/news/aktivitas-judi-online-lewat-dompet-digital-marak-begini-respons-gopay",
+          "found_time": "2024-11-16 09:21:06",
+          "status": "active"
+        },
+        {
+          "domain": "historia.id",
+          "raw_url": "https://historia.id/olahraga/articles/judi-resmi-di-indonesia-v2eVB",
+          "found_time": "2024-11-16 09:25:10",
+          "status": "active"
+        },
+        {
+          "domain": "liputan7.id",
+          "raw_url": "https://liputan7.id/nagari-sunua-tengah-resmi-jadi-nagari-tangguh-anti-narkoba-judi-online-dan-ketahanan-pangan/",
+          "found_time": "2024-11-16 09:27:11",
+          "status": "active"
+        },
+        {
+          "domain": "concursoguarda.com",
+          "raw_url": "https://concursoguarda.com/",
+          "found_time": "2024-11-16 09:27:12",
+          "status": "active"
+        },
+        {
+          "domain": "posbali.net",
+          "raw_url": "https://www.posbali.net/ekonomi/1425317536/blokir-lebih-dari-3-ribu-rekening-bri-tegaskan-perangi-judi-online",
+          "found_time": "2024-11-16 09:28:14",
+          "status": "active"
+        },
+        {
+          "domain": "korantimor.com",
+          "raw_url": "https://www.korantimor.com/ekonomi-bisnis/1545317764/bri-blokir-lebih-dari-3-ribu-rekening-yang-terindikasi-digunakan-untuk-judol",
+          "found_time": "2024-11-16 09:29:17",
+          "status": "active"
+        },
+        {
+          "domain": "bicaranetwork.com",
+          "raw_url": "https://www.bicaranetwork.com/ekonomi/29513956337/bri-blokir-ribuan-rekening-terkait-judi-online-tegaskan-dukung-pemerintah-berantas-aktivitas-ilegal",
+          "found_time": "2024-11-16 09:29:17",
+          "status": "active"
+        },
+        {
+          "domain": "alacransurf.com",
+          "raw_url": "https://alacransurf.com/skor88fun-17/",
+          "found_time": "2024-11-16 09:29:18",
           "status": "active"
         }
       ]
