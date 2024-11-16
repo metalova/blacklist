@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 16:29:18",
+  "updated": "2024-11-16 16:34:29",
   "categories": {
     "slot": {
       "count": 4987,
@@ -41780,7 +41780,7 @@
       ]
     },
     "others": {
-      "count": 239,
+      "count": 245,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -43214,6 +43214,42 @@
           "domain": "alacransurf.com",
           "raw_url": "https://alacransurf.com/skor88fun-17/",
           "found_time": "2024-11-16 09:29:18",
+          "status": "active"
+        },
+        {
+          "domain": "beritasenator.com",
+          "raw_url": "https://www.beritasenator.com/berita-nasional/6413957434/polisi-berhasil-menangkap-bandar-judol-keris-123-bernaa-he-yang-bersembunyi-di-hotel-kawasan-jaksel-he-bersama-pegawai-komdigi-pembuka-akses-judol",
+          "found_time": "2024-11-16 09:29:18",
+          "status": "active"
+        },
+        {
+          "domain": "ama-med.org.ar",
+          "raw_url": "https://www.ama-med.org.ar/img/main/",
+          "found_time": "2024-11-16 09:30:19",
+          "status": "active"
+        },
+        {
+          "domain": "id.theasianparent.com",
+          "raw_url": "https://id.theasianparent.com/artis-promosi-judi-online",
+          "found_time": "2024-11-16 09:33:22",
+          "status": "active"
+        },
+        {
+          "domain": "sumbarkita.id",
+          "raw_url": "https://sumbarkita.id/terindikasi-judi-online-bri-blokir-ribuan-rekening/",
+          "found_time": "2024-11-16 09:34:27",
+          "status": "active"
+        },
+        {
+          "domain": "moodle.luarasi-univ.edu.al",
+          "raw_url": "http://moodle.luarasi-univ.edu.al/",
+          "found_time": "2024-11-16 09:34:28",
+          "status": "active"
+        },
+        {
+          "domain": "masakini.co",
+          "raw_url": "https://masakini.co/2024/11/15/perangi-judi-online-bri-blokir-3-ribu-lebih-rekening/",
+          "found_time": "2024-11-16 09:34:28",
           "status": "active"
         }
       ]
