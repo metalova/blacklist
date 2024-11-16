@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 20:44:56
+! Last Updated: 2024-11-16 20:50:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5138
+! Number of unique domains: 5141
 !
 
 ||103.115.28.6^
@@ -706,6 +706,7 @@
 ||bpbd.banjarkab.go.id^
 ||bpbd.ngawikab.go.id^
 ||bpbd.semarangkota.go.id^
+||bpbd.tanatorajakab.go.id^
 ||bpbj.kedirikota.go.id^
 ||bpexpressmovingcompany.org^
 ||bpjnbanten.com^
@@ -5051,6 +5052,8 @@
 ||wisuda.umt.ac.id^
 ||witchuniversity.com^
 ||witny.org^
+||wiz.or.id^
+||wizkhalifa-x500.pages.dev^
 ||wjeffreyscott.com^
 ||wnbfactory.com^
 ||wnplayer.com^
