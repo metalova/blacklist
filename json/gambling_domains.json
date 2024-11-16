@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 21:54:45",
+  "updated": "2024-11-16 21:59:53",
   "categories": {
     "slot": {
-      "count": 5185,
+      "count": 5191,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31112,6 +31112,42 @@
           "domain": "waze.com",
           "raw_url": "https://www.waze.com/id/live-map/directions/my/johor/johor-bahru/grand-win-enterprise?to=place.ChIJbcA80hBs2jERkKeoT3npt8Q",
           "found_time": "2024-11-16 14:54:44",
+          "status": "active"
+        },
+        {
+          "domain": "yelp.com",
+          "raw_url": "https://www.yelp.com/biz/grand-win-supermarket-new-york",
+          "found_time": "2024-11-16 14:54:44",
+          "status": "active"
+        },
+        {
+          "domain": "firmy.cz",
+          "raw_url": "https://www.firmy.cz/detail/13611911-grandwin-cz-praha-smichov.html",
+          "found_time": "2024-11-16 14:55:46",
+          "status": "active"
+        },
+        {
+          "domain": "ip-coster.com",
+          "raw_url": "https://www.ip-coster.com/IpListingAgentList.aspx?Agent=2173",
+          "found_time": "2024-11-16 14:55:46",
+          "status": "active"
+        },
+        {
+          "domain": "mbalms.mgmt.cmb.ac.lk",
+          "raw_url": "https://mbalms.mgmt.cmb.ac.lk/report/-/?pafi=SITUS88",
+          "found_time": "2024-11-16 14:56:49",
+          "status": "active"
+        },
+        {
+          "domain": "ubharajaya1.pages.dev",
+          "raw_url": "https://ubharajaya1.pages.dev/?q=SITUSWIN",
+          "found_time": "2024-11-16 14:59:52",
+          "status": "active"
+        },
+        {
+          "domain": "situswin-amp.pages.dev",
+          "raw_url": "https://situswin-amp.pages.dev/",
+          "found_time": "2024-11-16 14:59:52",
           "status": "active"
         }
       ]

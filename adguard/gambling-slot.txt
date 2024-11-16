@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 21:54:45
+! Last Updated: 2024-11-16 21:59:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5185
+! Number of unique domains: 5191
 !
 
 ||103.115.28.6^
@@ -1593,6 +1593,7 @@
 ||fintechweeknyc.com^
 ||fiorillos.com^
 ||fipec.org^
+||firmy.cz^
 ||firstdoormarketing.com^
 ||firstsportukraine.com^
 ||fisipol.ummat.ac.id^
@@ -2124,6 +2125,7 @@
 ||invitebox.com^
 ||iorworld.com^
 ||iotglobalnetwork.com^
+||ip-coster.com^
 ||ipclogistic.co.id^
 ||iphoneappsfinder.com^
 ||ipjibaskembali.pages.dev^
@@ -2877,6 +2879,7 @@
 ||maxwinhealthcare.com^
 ||mayfairapartmenthomes.com^
 ||mbahmurtala.xyz^
+||mbalms.mgmt.cmb.ac.lk^
 ||mbj.wisnuwardhana.ac.id^
 ||mcctic.ese.ipsantarem.pt^
 ||mclarenparksf.org^
@@ -4230,6 +4233,7 @@
 ||situsgacorthai.com.in^
 ||situshoki777.shop^
 ||situsjp.net^
+||situswin-amp.pages.dev^
 ||sivajibuilders.com^
 ||siwalimanews.com^
 ||sixlasvegas.com^
@@ -4851,6 +4855,7 @@
 ||uachannel.com^
 ||uanativenet.com^
 ||uatom.org^
+||ubharajaya1.pages.dev^
 ||ubiblog-jp.com^
 ||ubudrayaresort.com^
 ||udalah.diblast.com^
@@ -5137,6 +5142,7 @@
 ||yeahyourightfest.com^
 ||yellowbrickfold.com^
 ||yellowpages-aruba.com^
+||yelp.com^
 ||yeschat.ai^
 ||yesplay.bet^
 ||yogasciencefoundation.org^
