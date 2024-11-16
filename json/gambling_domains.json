@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 04:05:01",
+  "updated": "2024-11-17 04:07:03",
   "categories": {
     "slot": {
-      "count": 5208,
+      "count": 5210,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31250,6 +31250,18 @@
           "domain": "carisinyal.com",
           "raw_url": "https://carisinyal.com/game-online-yang-menghasilkan-uang/",
           "found_time": "2024-11-16 21:03:58",
+          "status": "active"
+        },
+        {
+          "domain": "indiaadams.com",
+          "raw_url": "https://www.indiaadams.com/",
+          "found_time": "2024-11-16 21:05:00",
+          "status": "active"
+        },
+        {
+          "domain": "realfoodtoheal.com",
+          "raw_url": "https://www.realfoodtoheal.com/",
+          "found_time": "2024-11-16 21:07:03",
           "status": "active"
         }
       ]

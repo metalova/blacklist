@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 04:05:01
+! Last Updated: 2024-11-17 04:07:03
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5208
+! Number of unique domains: 5210
 !
 
 ||103.115.28.6^
@@ -2062,6 +2062,7 @@
 ||indeed.com^
 ||independent.co.uk^
 ||india.com^
+||indiaadams.com^
 ||indiacode.nic.in^
 ||indiadeafmatrimonial.com^
 ||indiangaming.com^
@@ -3838,6 +3839,7 @@
 ||realclevelandsingles.com^
 ||realcommercial.com.au^
 ||realestate.co.nz^
+||realfoodtoheal.com^
 ||realtor.ca^
 ||realtor.com^
 ||rebruspirits.com^
