@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 04:42:13
+! Last Updated: 2024-11-17 04:49:25
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5216
+! Number of unique domains: 5218
 !
 
 ||103.115.28.6^
@@ -4359,6 +4359,7 @@
 ||sonoscanhealthcare.com^
 ||sosabecatering.com^
 ||sosgamers.com^
+||sosial.sippikola.langsakota.go.id^
 ||souadnatech.fr^
 ||souldoubtmagazine.com^
 ||soundbistroriverhead.com^
@@ -4729,6 +4730,7 @@
 ||thetwistedkitchen.com^
 ||theuniquebakery.com^
 ||thevladimircollection.com^
+||thewagarfarm.com^
 ||thewatersedgespa.com^
 ||thewhiskeychaps.com^
 ||thewirehindi.com^

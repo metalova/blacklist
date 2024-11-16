@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 04:42:13",
+  "updated": "2024-11-17 04:49:25",
   "categories": {
     "slot": {
-      "count": 5216,
+      "count": 5218,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31298,6 +31298,18 @@
           "domain": "drvau.com",
           "raw_url": "https://drvau.com/",
           "found_time": "2024-11-16 21:42:13",
+          "status": "active"
+        },
+        {
+          "domain": "thewagarfarm.com",
+          "raw_url": "https://www.thewagarfarm.com/",
+          "found_time": "2024-11-16 21:42:13",
+          "status": "active"
+        },
+        {
+          "domain": "sosial.sippikola.langsakota.go.id",
+          "raw_url": "https://sosial.sippikola.langsakota.go.id/",
+          "found_time": "2024-11-16 21:47:22",
           "status": "active"
         }
       ]
