@@ -5,6 +5,7 @@ acehprov.go.id
 acerid.com
 achmadnurhidayat.id
 agenda.pinamar.gob.ar
+agenikorti.pages.dev
 agsort.cz
 akurasi.id
 alacransurf.com
@@ -32,6 +33,7 @@ beritaseruyan.com
 bicarabaik.id
 bicaranetwork.com
 blog.modalku.co.id
+bnm-crb.pages.dev
 boss99-baritoselatankab-paling-gacor.pages.dev
 bspjimedan.kemenperin.go.id
 bukamatanews.id
@@ -127,8 +129,10 @@ labkom.co.id
 lampost.co
 law.uii.ac.id
 lbhpengayoman.unpar.ac.id
+ledakans.pages.dev
 lensakini.com
 lenteratoday.com
+linggaupos.bacakoran.co
 linkaja.id
 liputan7.id
 lokapalanews.com
@@ -164,6 +168,7 @@ morbeachcafe.com
 mra-grant.com.sg
 mudahjackpot.wordpress.com
 nateyum.pages.dev
+nbaarena.com
 news.harianjogja.com
 nomorsatukaltim.disway.id
 ntthits.com
@@ -178,6 +183,7 @@ orgonitedjawa.com
 orinews.id
 owntalk.co.id
 pa-sengeti.go.id
+paluposo.id
 pasardana.id
 pedomanrakyat.com
 people-qa.int.sap
@@ -197,9 +203,11 @@ ppid.ppatk.go.id
 prabumulihpos.bacakoran.co
 prabunews.com
 prakerin.smktaq-wsb.sch.id
+prosidingsinopsi.unmer.ac.id
 ptindahkarya.com
 pulsaaxis.net
 purwokertoinsight.com
+qqraya-asli.com
 qualityplushseq.ca
 radarindramayu.disway.id
 radarkepahiang.bacakoran.co

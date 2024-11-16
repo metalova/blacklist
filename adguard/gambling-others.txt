@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 03:19:39
+! Last Updated: 2024-11-17 03:24:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 258
+! Number of unique domains: 266
 !
 
 ||abatanews.com^
@@ -11,6 +11,7 @@
 ||acerid.com^
 ||achmadnurhidayat.id^
 ||agenda.pinamar.gob.ar^
+||agenikorti.pages.dev^
 ||agsort.cz^
 ||akurasi.id^
 ||alacransurf.com^
@@ -38,6 +39,7 @@
 ||bicarabaik.id^
 ||bicaranetwork.com^
 ||blog.modalku.co.id^
+||bnm-crb.pages.dev^
 ||boss99-baritoselatankab-paling-gacor.pages.dev^
 ||bspjimedan.kemenperin.go.id^
 ||bukamatanews.id^
@@ -133,8 +135,10 @@
 ||lampost.co^
 ||law.uii.ac.id^
 ||lbhpengayoman.unpar.ac.id^
+||ledakans.pages.dev^
 ||lensakini.com^
 ||lenteratoday.com^
+||linggaupos.bacakoran.co^
 ||linkaja.id^
 ||liputan7.id^
 ||lokapalanews.com^
@@ -170,6 +174,7 @@
 ||mra-grant.com.sg^
 ||mudahjackpot.wordpress.com^
 ||nateyum.pages.dev^
+||nbaarena.com^
 ||news.harianjogja.com^
 ||nomorsatukaltim.disway.id^
 ||ntthits.com^
@@ -184,6 +189,7 @@
 ||orinews.id^
 ||owntalk.co.id^
 ||pa-sengeti.go.id^
+||paluposo.id^
 ||pasardana.id^
 ||pedomanrakyat.com^
 ||people-qa.int.sap^
@@ -203,9 +209,11 @@
 ||prabumulihpos.bacakoran.co^
 ||prabunews.com^
 ||prakerin.smktaq-wsb.sch.id^
+||prosidingsinopsi.unmer.ac.id^
 ||ptindahkarya.com^
 ||pulsaaxis.net^
 ||purwokertoinsight.com^
+||qqraya-asli.com^
 ||qualityplushseq.ca^
 ||radarindramayu.disway.id^
 ||radarkepahiang.bacakoran.co^
