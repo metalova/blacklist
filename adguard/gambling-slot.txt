@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 16:59:40
+! Last Updated: 2024-11-16 17:01:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5011
+! Number of unique domains: 5012
 !
 
 ||103.115.28.6^
@@ -3156,6 +3156,7 @@
 ||nyxmitology.pages.dev^
 ||oabes.org.br^
 ||oakwoodcounseling.com^
+||occupycolleges.org^
 ||oceanparkpizzasteakhouse.com^
 ||ocinhomecare.com^
 ||oddschecker.com^

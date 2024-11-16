@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 16:59:40",
+  "updated": "2024-11-16 17:01:43",
   "categories": {
     "slot": {
-      "count": 5011,
+      "count": 5012,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30067,6 +30067,12 @@
         {
           "domain": "smashbros.nintendo.com",
           "raw_url": "https://smashbros.nintendo.com/buy/dlc/",
+          "found_time": "2024-11-16 09:59:40",
+          "status": "active"
+        },
+        {
+          "domain": "occupycolleges.org",
+          "raw_url": "https://occupycolleges.org/",
           "found_time": "2024-11-16 09:59:40",
           "status": "active"
         }
