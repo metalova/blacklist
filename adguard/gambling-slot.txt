@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 18:31:59
+! Last Updated: 2024-11-16 19:09:06
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5089
+! Number of unique domains: 5091
 !
 
 ||103.115.28.6^
@@ -541,6 +541,7 @@
 ||bertramtx.com^
 ||besadu.belitung.go.id^
 ||best-hashtags.com^
+||besti69ko.vercel.app^
 ||bestmedicalwv.com^
 ||bestprofit-futures.co.id^
 ||bet-master.in^
@@ -3677,6 +3678,7 @@
 ||quaker007.com^
 ||quasinovi.com^
 ||quaywestrestaurant.com^
+||queenbeenailsspa.com^
 ||queenofshebamarket.com^
 ||queensfashion.be^
 ||quericosfmk.com^
