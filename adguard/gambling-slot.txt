@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:49:51
+! Last Updated: 2024-11-17 06:52:02
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5283
+! Number of unique domains: 5285
 !
 
 ||103.115.28.6^
@@ -1267,6 +1267,7 @@
 ||disdik.tarakankota.go.id^
 ||disdikbud.padangpanjang.go.id^
 ||disdikkbb.org^
+||disdiklangkat.com^
 ||disdiksupiori.org^
 ||disdukcapil.meranginkab.go.id^
 ||dishub.banjarbarukota.go.id^
@@ -2558,6 +2559,7 @@
 ||kuda-4d.com^
 ||kuda4d.cfd^
 ||kuda4d.pro^
+||kuda4d.taka.or.id^
 ||kuda4da.com^
 ||kuda4dslot.com^
 ||kui.unmuha.ac.id^

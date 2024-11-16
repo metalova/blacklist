@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:49:51",
+  "updated": "2024-11-17 06:52:02",
   "categories": {
     "slot": {
-      "count": 5283,
+      "count": 5285,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31700,6 +31700,18 @@
           "domain": "web.hondacikarang.co.id",
           "raw_url": "https://web.hondacikarang.co.id/?honda=kuda4d",
           "found_time": "2024-11-16 23:49:50",
+          "status": "active"
+        },
+        {
+          "domain": "disdiklangkat.com",
+          "raw_url": "https://disdiklangkat.com/",
+          "found_time": "2024-11-16 23:49:51",
+          "status": "active"
+        },
+        {
+          "domain": "kuda4d.taka.or.id",
+          "raw_url": "http://kuda4d.taka.or.id/",
+          "found_time": "2024-11-16 23:50:52",
           "status": "active"
         }
       ]
