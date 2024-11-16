@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 05:27:30
+! Last Updated: 2024-11-17 05:30:33
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5243
+! Number of unique domains: 5244
 !
 
 ||103.115.28.6^
@@ -274,6 +274,7 @@
 ||amp.kontan.co.id^
 ||amp6-592.pages.dev^
 ||amparmyslot.com^
+||ampboztazir.it.com^
 ||ampdagwoodsvb.com^
 ||ampdewacukong88.com^
 ||ampfiftoto.com^

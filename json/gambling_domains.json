@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 05:27:30",
+  "updated": "2024-11-17 05:30:34",
   "categories": {
     "slot": {
-      "count": 5243,
+      "count": 5244,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31459,6 +31459,12 @@
         {
           "domain": "ampdagwoodsvb.com",
           "raw_url": "https://ampdagwoodsvb.com/",
+          "found_time": "2024-11-16 22:27:29",
+          "status": "active"
+        },
+        {
+          "domain": "ampboztazir.it.com",
+          "raw_url": "https://ampboztazir.it.com/",
           "found_time": "2024-11-16 22:27:29",
           "status": "active"
         }
