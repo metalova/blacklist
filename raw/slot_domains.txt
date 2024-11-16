@@ -1178,6 +1178,7 @@ dinkes.brebeskab.go.id
 dinkes.kaurkab.go.id
 dinkes.padangpanjang.go.id
 dinkes.sumselprov.go.id
+dinkes.tanatorajakab.go.id
 dinkeskaurkab.pages.dev
 dinsos.bangka.go.id
 dinsos.bombanakab.go.id
@@ -1197,6 +1198,7 @@ disdiksupiori.org
 disdukcapil.meranginkab.go.id
 dishub.banjarbarukota.go.id
 diskominfo.grobogan.go.id
+diskominfo.morowaliutarakab.go.id
 diskominfosan.tanatorajakab.go.id
 diskop.tulangbawangkab.go.id
 disnakertrans.kepriprov.go.id
@@ -1392,6 +1394,7 @@ energizethechain.org
 engineeringcsl.com
 englishfkip.ac.id
 englishversity.id
+engnovate.com
 enikassradio.com
 enniskillentyrecentre.com
 enosisve.gr
@@ -2462,6 +2465,7 @@ law-justice.co
 lawca.com
 laxedumalt.com
 ldp.ibi.or.id
+leagueofgraphs.com
 learnforexmentor.com
 learningcircle.education
 lecigopay69.com
@@ -2527,6 +2531,7 @@ liputankita.com
 liquidclubs.com
 lisasfamilypizzeria.com
 lit.link
+littleflowersunam.com
 littletags.com
 live24.gr
 livebet.com
@@ -3718,6 +3723,7 @@ rinjani.unitri.ac.id
 ristorantierice.com
 ritualcleanse.com
 riverdaleindiankitchenbronx.com
+riverfrontartgallery.com
 riverfronttimes.com
 rivernorthliverpool.com
 riyadh.mofa.go.ug

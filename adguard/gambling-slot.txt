@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 10:02:33
+! Last Updated: 2024-11-16 10:09:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4968
+! Number of unique domains: 4974
 !
 
 ||103.115.28.6^
@@ -1184,6 +1184,7 @@
 ||dinkes.kaurkab.go.id^
 ||dinkes.padangpanjang.go.id^
 ||dinkes.sumselprov.go.id^
+||dinkes.tanatorajakab.go.id^
 ||dinkeskaurkab.pages.dev^
 ||dinsos.bangka.go.id^
 ||dinsos.bombanakab.go.id^
@@ -1203,6 +1204,7 @@
 ||disdukcapil.meranginkab.go.id^
 ||dishub.banjarbarukota.go.id^
 ||diskominfo.grobogan.go.id^
+||diskominfo.morowaliutarakab.go.id^
 ||diskominfosan.tanatorajakab.go.id^
 ||diskop.tulangbawangkab.go.id^
 ||disnakertrans.kepriprov.go.id^
@@ -1398,6 +1400,7 @@
 ||engineeringcsl.com^
 ||englishfkip.ac.id^
 ||englishversity.id^
+||engnovate.com^
 ||enikassradio.com^
 ||enniskillentyrecentre.com^
 ||enosisve.gr^
@@ -2468,6 +2471,7 @@
 ||lawca.com^
 ||laxedumalt.com^
 ||ldp.ibi.or.id^
+||leagueofgraphs.com^
 ||learnforexmentor.com^
 ||learningcircle.education^
 ||lecigopay69.com^
@@ -2533,6 +2537,7 @@
 ||liquidclubs.com^
 ||lisasfamilypizzeria.com^
 ||lit.link^
+||littleflowersunam.com^
 ||littletags.com^
 ||live24.gr^
 ||livebet.com^
@@ -3724,6 +3729,7 @@
 ||ristorantierice.com^
 ||ritualcleanse.com^
 ||riverdaleindiankitchenbronx.com^
+||riverfrontartgallery.com^
 ||riverfronttimes.com^
 ||rivernorthliverpool.com^
 ||riyadh.mofa.go.ug^
