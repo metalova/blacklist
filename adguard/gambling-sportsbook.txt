@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 23:29:09
+! Last Updated: 2024-11-16 23:33:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 460
+! Number of unique domains: 468
 !
 
 ||a00013.d-medis.id^
@@ -9,6 +9,8 @@
 ||abseits.at^
 ||absen.mts-mqtebuireng.sch.id^
 ||absensi-musirawaskab.pages.dev^
+||absensi.kasihkarunia-kalbar.sch.id^
+||absensi.smkn1rejotangan.sch.id^
 ||adatah.com^
 ||adidas.co.id^
 ||aerotravelindo.co.id^
@@ -17,6 +19,7 @@
 ||agenpoltekkespalu.pages.dev^
 ||agensedekah.com^
 ||albufeiragolf.com^
+||alhilal-sd.com^
 ||aliyahalbadriyah.sch.id^
 ||altctrlgamejam.com^
 ||amp-dewawin365.com^
@@ -33,6 +36,7 @@
 ||arenadelrio.com^
 ||arti.info^
 ||asics.co.id^
+||askb-sbo.pages.dev^
 ||ato.com.vn^
 ||autos.cbslocal.com^
 ||ayokgaspol.pages.dev^
@@ -49,6 +53,7 @@
 ||bestczechcasinos.cz^
 ||betaon338.info^
 ||bfreshgigi.com^
+||biasalahoki.pages.dev^
 ||bikeshark.in^
 ||bipnation.com^
 ||bisik.id^
@@ -385,6 +390,7 @@
 ||sidesa.dpmd.sukabumikab.go.id^
 ||simantaprsud.padangpanjang.go.id^
 ||sipedang.tebingtinggikota.go.id^
+||sipengolahlimbahb3.sulselprov.go.id^
 ||sipp.pn-meureudu.go.id^
 ||sitam.ekon.go.id^
 ||situsbolaterpercaya.quora.com^
@@ -395,6 +401,7 @@
 ||sman2meulaboh.sch.id^
 ||smarthomehuahin.com^
 ||smkn1sukadana.sch.id^
+||smkn1surakarta.sch.id^
 ||smkn3banyumas.sch.id^
 ||smkn3tabanan.melajah.id^
 ||smkpasundanmalangbong.com^
@@ -462,5 +469,6 @@
 ||ydsf.org^
 ||yukmainsbobet.pages.dev^
 ||zenbutoh.com^
+||zoegirlonline.com^
 ||zonakabar.com^
 ||zotero.org^

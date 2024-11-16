@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 23:29:10",
+  "updated": "2024-11-16 23:33:23",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 460,
+      "count": 468,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42124,6 +42124,54 @@
           "domain": "seoin.pages.dev",
           "raw_url": "https://seoin.pages.dev/judi-bola/",
           "found_time": "2024-11-16 16:29:09",
+          "status": "active"
+        },
+        {
+          "domain": "biasalahoki.pages.dev",
+          "raw_url": "https://biasalahoki.pages.dev/ratubola88/",
+          "found_time": "2024-11-16 16:29:09",
+          "status": "active"
+        },
+        {
+          "domain": "absensi.kasihkarunia-kalbar.sch.id",
+          "raw_url": "https://absensi.kasihkarunia-kalbar.sch.id/css/?ways=MIX+PARLAY+X233",
+          "found_time": "2024-11-16 16:30:14",
+          "status": "active"
+        },
+        {
+          "domain": "absensi.smkn1rejotangan.sch.id",
+          "raw_url": "https://absensi.smkn1rejotangan.sch.id/application/views/?coimai=MIX%20PARLAY",
+          "found_time": "2024-11-16 16:30:14",
+          "status": "active"
+        },
+        {
+          "domain": "sipengolahlimbahb3.sulselprov.go.id",
+          "raw_url": "https://sipengolahlimbahb3.sulselprov.go.id/?smile=apakah+mix+parlay+harus+menang+semua",
+          "found_time": "2024-11-16 16:30:14",
+          "status": "active"
+        },
+        {
+          "domain": "smkn1surakarta.sch.id",
+          "raw_url": "https://smkn1surakarta.sch.id/osis/?cv=MIX+PARLAY+EURO",
+          "found_time": "2024-11-16 16:30:15",
+          "status": "active"
+        },
+        {
+          "domain": "alhilal-sd.com",
+          "raw_url": "https://alhilal-sd.com/",
+          "found_time": "2024-11-16 16:32:20",
+          "status": "active"
+        },
+        {
+          "domain": "zoegirlonline.com",
+          "raw_url": "https://zoegirlonline.com/bet-bola/",
+          "found_time": "2024-11-16 16:32:20",
+          "status": "active"
+        },
+        {
+          "domain": "askb-sbo.pages.dev",
+          "raw_url": "http://askb-sbo.pages.dev/",
+          "found_time": "2024-11-16 16:33:22",
           "status": "active"
         }
       ]
