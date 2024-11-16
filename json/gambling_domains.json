@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:28:53",
+  "updated": "2024-11-16 12:34:10",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 395,
+      "count": 404,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39448,6 +39448,60 @@
           "domain": "igloobeauty.ca",
           "raw_url": "https://igloobeauty.ca/pengertian-mix-parlay-dalam-judi-bola/",
           "found_time": "2024-11-16 05:27:51",
+          "status": "active"
+        },
+        {
+          "domain": "watch.billboard.com",
+          "raw_url": "http://watch.billboard.com/",
+          "found_time": "2024-11-16 05:28:53",
+          "status": "active"
+        },
+        {
+          "domain": "sumberkini.my",
+          "raw_url": "https://sumberkini.my/mix-parlay/",
+          "found_time": "2024-11-16 05:30:55",
+          "status": "active"
+        },
+        {
+          "domain": "malinaukab.ina-sdi.or.id",
+          "raw_url": "https://malinaukab.ina-sdi.or.id/geoserver/?play=Taruhan%20sepak%20bola%20online,%20tanpa%20minimum",
+          "found_time": "2024-11-16 05:31:58",
+          "status": "active"
+        },
+        {
+          "domain": "situsbolaterpercaya.quora.com",
+          "raw_url": "https://situsbolaterpercaya.quora.com/",
+          "found_time": "2024-11-16 05:31:58",
+          "status": "active"
+        },
+        {
+          "domain": "prolog.co.id",
+          "raw_url": "https://prolog.co.id/bola-banter-portal-berita-sepak-bola-terpercaya/",
+          "found_time": "2024-11-16 05:31:59",
+          "status": "active"
+        },
+        {
+          "domain": "community.shopify.com",
+          "raw_url": "https://community.shopify.com/c/shopify-design/agen-bandar-bola-terpercaya-xxislot88/td-p/2640081",
+          "found_time": "2024-11-16 05:33:05",
+          "status": "active"
+        },
+        {
+          "domain": "gelora.id",
+          "raw_url": "https://www.gelora.id/c/okegas_nagaliga/about",
+          "found_time": "2024-11-16 05:33:05",
+          "status": "active"
+        },
+        {
+          "domain": "tebakskor889.com",
+          "raw_url": "https://tebakskor889.com/",
+          "found_time": "2024-11-16 05:33:05",
+          "status": "active"
+        },
+        {
+          "domain": "inisiatifnews.com",
+          "raw_url": "https://inisiatifnews.com/category/?anak=PREDIKSI-BOLA-JITU-NANTI-MALAM",
+          "found_time": "2024-11-16 05:33:05",
           "status": "active"
         }
       ]
