@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 00:32:45",
+  "updated": "2024-11-17 00:39:59",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 501,
+      "count": 505,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42370,6 +42370,30 @@
           "domain": "pafikotagalang.pages.dev",
           "raw_url": "https://pafikotagalang.pages.dev/prediksi-parlay/",
           "found_time": "2024-11-16 16:59:41",
+          "status": "active"
+        },
+        {
+          "domain": "puyehuechile.cl",
+          "raw_url": "https://puyehuechile.cl/beli-foot-relief",
+          "found_time": "2024-11-16 17:32:45",
+          "status": "active"
+        },
+        {
+          "domain": "sigijateng.id",
+          "raw_url": "https://www.sigijateng.id/ekonomibisnis/150696869/bri-tegas-perangi-judi-online-blokir-lebih-dari-3000-rekening",
+          "found_time": "2024-11-16 17:39:57",
+          "status": "active"
+        },
+        {
+          "domain": "kesatu.co",
+          "raw_url": "https://www.kesatu.co/news/24713956308/perangi-judi-online-bri-blokir-ribuan-rekening",
+          "found_time": "2024-11-16 17:39:58",
+          "status": "active"
+        },
+        {
+          "domain": "homelesssocks.com",
+          "raw_url": "https://homelesssocks.com/",
+          "found_time": "2024-11-16 17:39:58",
           "status": "active"
         }
       ]

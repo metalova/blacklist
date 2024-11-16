@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 00:32:45
+! Last Updated: 2024-11-17 00:39:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 501
+! Number of unique domains: 505
 !
 
 ||9sarang188.com^
@@ -176,6 +176,7 @@
 ||hancau.net^
 ||harnessbred.com^
 ||hatsumilv.com^
+||homelesssocks.com^
 ||hopposport.com^
 ||hoteldelaplage02.fr^
 ||htn.staiduba.ac.id^
@@ -228,6 +229,7 @@
 ||kayabola6.pages.dev^
 ||keepcorporate.com^
 ||kemkaker.pages.dev^
+||kesatu.co^
 ||kezkaprinting.com^
 ||kliklegal.com^
 ||koma.id^
@@ -366,6 +368,7 @@
 ||pssi.org^
 ||ptwsdbola88.cc^
 ||publicrepo.geaviation.com^
+||puyehuechile.cl^
 ||qiuqiujurnal.wordpress.com^
 ||qqslottres.com^
 ||rbtv.disway.id^
@@ -413,6 +416,7 @@
 ||siakad.nmcgroup.co.id^
 ||siaku.akperkesdam6tpr.ac.id^
 ||sidesa.dpmd.sukabumikab.go.id^
+||sigijateng.id^
 ||simantaprsud.padangpanjang.go.id^
 ||sipedang.tebingtinggikota.go.id^
 ||sipengolahlimbahb3.sulselprov.go.id^
