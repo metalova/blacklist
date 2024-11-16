@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 13:44:31
+! Last Updated: 2024-11-16 13:48:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 691
+! Number of unique domains: 701
 !
 
 ||087ina.com^
@@ -211,6 +211,7 @@
 ||fashionhairshop.com^
 ||fb.pelitaindonesia.ac.id^
 ||fcai.cu.edu.eg^
+||fe.unmerpas.ac.id^
 ||fezmangal.com^
 ||fileacademy.id^
 ||fimarspa.it^
@@ -313,12 +314,14 @@
 ||kelumac.com^
 ||kentuckyopry.com^
 ||kepritoto.koni.or.id^
+||ketawa.com^
 ||kingdom4d0809.com^
 ||kingdomserbu.com^
 ||kisgombocetterem.hu^
 ||km-ra.org^
 ||knitandcrochetnow.com^
 ||kompas86.id^
+||konzeptsolutions.com^
 ||kopokopo.co.ke^
 ||kozyblanket.com^
 ||kronosalud.es^
@@ -359,6 +362,7 @@
 ||lumerestaurante.com^
 ||lyricbuscentre.com^
 ||m.riaukontras.com^
+||m.vidio.com^
 ||maarifah.sch.id^
 ||madridtoto-w.xyz^
 ||magisteragribisnisuinjkt.id^
@@ -377,6 +381,7 @@
 ||massarosestate.com.au^
 ||master-togel.koni.or.id^
 ||maxcasa.com^
+||medeortherapeutics.com^
 ||megaarvia.com^
 ||melbourne-free-university.org^
 ||mericafoods.com^
@@ -538,6 +543,7 @@
 ||sakip.kedirikota.go.id^
 ||saku.bpkad.mesujikab.go.id^
 ||salemharvestfest.com^
+||sandramilesdentistry.com^
 ||sansparti.org^
 ||satelliteisland.com.au^
 ||satunurani.com^
@@ -592,6 +598,7 @@
 ||stag.self-point.com^
 ||stage32.com^
 ||stanleypean.com^
+||startupconclave2023.com^
 ||steppingstonesnh.org^
 ||stmikumelmandiri.ac.id^
 ||suerth.com^
@@ -602,6 +609,7 @@
 ||sundazedla.com^
 ||sundollarenergy.com^
 ||survei-ikm-polri.id^
+||survey.fk.umi.ac.id^
 ||takaha-japan.com^
 ||tasteofshanghai.com.au^
 ||tecjobs.net^
@@ -669,6 +677,7 @@
 ||vivancoculturadevino.es^
 ||vivasulut.com^
 ||vutoken.io^
+||vvaiowa.org^
 ||w27.angkapaito.net^
 ||wajimanavi.jp^
 ||wallpaperindonesia.com^
@@ -685,6 +694,7 @@
 ||wokitup.com.au^
 ||womenscenterbc.com^
 ||wooktiup2.pages.dev^
+||worcestershirepride.org^
 ||writerslife.org^
 ||wscts2023.com^
 ||yardofale.com^
