@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 01:09:11
+! Last Updated: 2024-11-17 01:14:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 810
+! Number of unique domains: 816
 !
 
 ||087ina.com^
@@ -35,6 +35,7 @@
 ||allaboutsaws.com^
 ||altegrity.com^
 ||amfacilities.com^
+||amguema.com^
 ||amigo.vet^
 ||amp.domainrtp.online^
 ||ampyusaldo4d.pages.dev^
@@ -56,6 +57,7 @@
 ||ayicc.org^
 ||azurenapratica.com^
 ||b2babq.com^
+||babitsforcongress.com^
 ||babynbow.com^
 ||baladena.id^
 ||baliranihotel.com^
@@ -151,6 +153,7 @@
 ||contigosinfronteras.org^
 ||corinne-demarest-lepretre.fr^
 ||cosmimilano.com^
+||couragerun.org^
 ||covidvih.org^
 ||crownbakery.sl^
 ||crownfootandankle.com^
@@ -167,6 +170,7 @@
 ||ddviagens.com^
 ||deborafoundation.org^
 ||defineagile.com^
+||delhiheights.net^
 ||denneyforidaho.com^
 ||dentistoftijuana.com^
 ||denv.gouv.sn^
@@ -509,6 +513,7 @@
 ||oceannord.org^
 ||oganilir.disway.id^
 ||olimpohotel.com^
+||omset4db.ampresmi.com^
 ||onegift.io^
 ||onlinegreetings.net^
 ||oraldrive.com^
@@ -554,6 +559,7 @@
 ||portal-flexp.orsted.com^
 ||portaljatim.id^
 ||pos4dtototogel02.com^
+||posadadelvirrey.com^
 ||posmetropadang.co.id^
 ||precisionlogisticsnj.com^
 ||prediksi.gacorclouds.workers.dev^

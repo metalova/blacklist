@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 01:09:11",
+  "updated": "2024-11-17 01:14:41",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 810,
+      "count": 816,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -38946,6 +38946,42 @@
           "domain": "data.nanganesa.endekab.go.id",
           "raw_url": "https://data.nanganesa.endekab.go.id/wp-content/?id_ID=togel+deposit+pulsa",
           "found_time": "2024-11-16 18:08:09",
+          "status": "active"
+        },
+        {
+          "domain": "couragerun.org",
+          "raw_url": "https://www.couragerun.org/",
+          "found_time": "2024-11-16 18:09:11",
+          "status": "active"
+        },
+        {
+          "domain": "omset4db.ampresmi.com",
+          "raw_url": "https://omset4db.ampresmi.com/amp/",
+          "found_time": "2024-11-16 18:11:13",
+          "status": "active"
+        },
+        {
+          "domain": "babitsforcongress.com",
+          "raw_url": "https://www.babitsforcongress.com/",
+          "found_time": "2024-11-16 18:11:14",
+          "status": "active"
+        },
+        {
+          "domain": "posadadelvirrey.com",
+          "raw_url": "https://www.posadadelvirrey.com/amp/",
+          "found_time": "2024-11-16 18:12:17",
+          "status": "active"
+        },
+        {
+          "domain": "amguema.com",
+          "raw_url": "https://amguema.com/",
+          "found_time": "2024-11-16 18:12:18",
+          "status": "active"
+        },
+        {
+          "domain": "delhiheights.net",
+          "raw_url": "https://www.delhiheights.net/",
+          "found_time": "2024-11-16 18:14:40",
           "status": "active"
         }
       ]
