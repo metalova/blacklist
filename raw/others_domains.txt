@@ -3,15 +3,18 @@ abc.net.au
 aboutcirebon.id
 acehprov.go.id
 acerid.com
+achmadnurhidayat.id
 agenda.pinamar.gob.ar
 agsort.cz
 akurasi.id
 albantech.co.tz
 alinea.id
+ameblo.jp
 ameg.disway.id
 ariranews.com
 asatuonline.id
 aspek.id
+asumsi.co
 avantee.co.id
 azuralabs.id
 babad.id
@@ -65,6 +68,7 @@ help.grab.com
 herald.id
 heylaw.id
 hispanicleadershipfund.org
+homify.co.id
 hukamanews.com
 hulondalo.id
 iblam.ac.id

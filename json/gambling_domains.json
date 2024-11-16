@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:49:01",
+  "updated": "2024-11-16 16:21:06",
   "categories": {
     "slot": {
       "count": 4987,
@@ -41780,7 +41780,7 @@
       ]
     },
     "others": {
-      "count": 227,
+      "count": 231,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -43142,6 +43142,30 @@
           "domain": "tangerangkota.go.id",
           "raw_url": "https://www.tangerangkota.go.id/berita/detail/43591/80-ribu-anak-indonesia-bermain-judi-online-diskominfo-kota-tangerang-ingatkan-dampaknya-sengeri-ini",
           "found_time": "2024-11-16 08:49:01",
+          "status": "active"
+        },
+        {
+          "domain": "achmadnurhidayat.id",
+          "raw_url": "https://achmadnurhidayat.id/2024/11/judi-online-ancaman-serius-bagi-ekonomi-dan-sosial-indonesia/",
+          "found_time": "2024-11-16 08:49:01",
+          "status": "active"
+        },
+        {
+          "domain": "ameblo.jp",
+          "raw_url": "https://ameblo.jp/judimpo/entry-12624934521.html",
+          "found_time": "2024-11-16 09:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "homify.co.id",
+          "raw_url": "https://www.homify.co.id/professionals/8749217/judi-qq-deposit-ovo",
+          "found_time": "2024-11-16 09:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "asumsi.co",
+          "raw_url": "https://asumsi.co/post/92783/oknum-anggota-tni-gelapkan-dana-rp876-juta-untuk-dipakai-judi-online/",
+          "found_time": "2024-11-16 09:20:03",
           "status": "active"
         }
       ]
