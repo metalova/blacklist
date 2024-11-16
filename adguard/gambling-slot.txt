@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 03:58:51
+! Last Updated: 2024-11-17 04:05:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5204
+! Number of unique domains: 5208
 !
 
 ||103.115.28.6^
@@ -826,6 +826,7 @@
 ||carefreecolors.com^
 ||carelinks.in^
 ||caribecooler.com^
+||carisinyal.com^
 ||cariyuk.com^
 ||carminhomusic.com^
 ||carolinacornholeco.com^
@@ -1985,6 +1986,7 @@
 ||iainfmpapua.ac.id^
 ||iainpalopo.ac.id^
 ||iainptk.ac.id^
+||iameonline.com^
 ||iamfruitful.org^
 ||iamtashajones.com^
 ||ibenedictines.org^
@@ -2592,6 +2594,7 @@
 ||lawca.com^
 ||laxedumalt.com^
 ||lckijambi.org^
+||ldoublej.com^
 ||ldp.ibi.or.id^
 ||leadership.ng^
 ||leagueofgraphs.com^
@@ -4905,6 +4908,7 @@
 ||unipi.ac.id^
 ||unipin.com^
 ||unirse.nur.edu^
+||uniska-kediri.ac.id^
 ||unitedthemes.com^
 ||unitomo.ac.id^
 ||universitetite.com^
