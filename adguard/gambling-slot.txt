@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:03:37
+! Last Updated: 2024-11-17 06:09:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5246
+! Number of unique domains: 5248
 !
 
 ||103.115.28.6^
@@ -1909,6 +1909,7 @@
 ||hellococonutclub.com^
 ||hellocrime.itch.io^
 ||hellosehat.com^
+||hellyers.com^
 ||help.indodax.com^
 ||helpdesk.dpd.go.id^
 ||hemhaltiyatro.com^
@@ -4068,6 +4069,7 @@
 ||sanfordvitrified.com^
 ||sangareepizza.com^
 ||sansdreamscape.net^
+||santabarbarahotrodlimo.com^
 ||santacruzpacificdental.com^
 ||santas-wonderland.com^
 ||santeethaihouse.com^

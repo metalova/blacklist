@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:03:37",
+  "updated": "2024-11-17 06:09:43",
   "categories": {
     "slot": {
-      "count": 5246,
+      "count": 5248,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31478,6 +31478,18 @@
           "domain": "fentresscouriernews.com",
           "raw_url": "https://fentresscouriernews.com/amp",
           "found_time": "2024-11-16 23:01:34",
+          "status": "active"
+        },
+        {
+          "domain": "santabarbarahotrodlimo.com",
+          "raw_url": "https://santabarbarahotrodlimo.com/amp/",
+          "found_time": "2024-11-16 23:03:37",
+          "status": "active"
+        },
+        {
+          "domain": "hellyers.com",
+          "raw_url": "https://hellyers.com/",
+          "found_time": "2024-11-16 23:09:42",
           "status": "active"
         }
       ]
