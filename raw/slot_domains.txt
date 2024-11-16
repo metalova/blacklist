@@ -1178,6 +1178,7 @@ desamind.id
 desanarimbangmulia.id
 desapajahan.id
 desapamulihan.com
+desaperbaji.com
 desaprapattunggal.id
 desavanjaubijeljini.com
 desawisatabudayatulusbesar.id
@@ -1203,6 +1204,7 @@ digi-mode.com.tr
 digilib.stkipyasika.ac.id
 digitalghatak.com
 dilmil-yogyakarta.go.id
+dim-kythn.kyk.sch.gr
 dimitriospizza.com
 dinamikahukum.fh.unsoed.ac.id
 dinaspangan.sumbarprov.go.id
@@ -4311,6 +4313,7 @@ sports.yahoo.com
 sportscafe.in
 sportsration.com
 sportstoto.com.my
+sportstradersduncan.com
 spot138ay.com
 spot138az.com
 spottedfin.com

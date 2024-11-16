@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 20:34:15",
+  "updated": "2024-11-16 20:39:22",
   "categories": {
     "slot": {
-      "count": 5121,
+      "count": 5124,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30728,6 +30728,24 @@
           "domain": "luxury303.org",
           "raw_url": "https://luxury303.org/",
           "found_time": "2024-11-16 13:28:03",
+          "status": "active"
+        },
+        {
+          "domain": "desaperbaji.com",
+          "raw_url": "https://desaperbaji.com/",
+          "found_time": "2024-11-16 13:34:15",
+          "status": "active"
+        },
+        {
+          "domain": "sportstradersduncan.com",
+          "raw_url": "https://sportstradersduncan.com/",
+          "found_time": "2024-11-16 13:37:19",
+          "status": "active"
+        },
+        {
+          "domain": "dim-kythn.kyk.sch.gr",
+          "raw_url": "http://dim-kythn.kyk.sch.gr/games/?barbie=SITUS%20JUDI%2088",
+          "found_time": "2024-11-16 13:38:21",
           "status": "active"
         }
       ]

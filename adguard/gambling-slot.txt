@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 20:34:15
+! Last Updated: 2024-11-16 20:39:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5121
+! Number of unique domains: 5124
 !
 
 ||103.115.28.6^
@@ -1184,6 +1184,7 @@
 ||desanarimbangmulia.id^
 ||desapajahan.id^
 ||desapamulihan.com^
+||desaperbaji.com^
 ||desaprapattunggal.id^
 ||desavanjaubijeljini.com^
 ||desawisatabudayatulusbesar.id^
@@ -1209,6 +1210,7 @@
 ||digilib.stkipyasika.ac.id^
 ||digitalghatak.com^
 ||dilmil-yogyakarta.go.id^
+||dim-kythn.kyk.sch.gr^
 ||dimitriospizza.com^
 ||dinamikahukum.fh.unsoed.ac.id^
 ||dinaspangan.sumbarprov.go.id^
@@ -4317,6 +4319,7 @@
 ||sportscafe.in^
 ||sportsration.com^
 ||sportstoto.com.my^
+||sportstradersduncan.com^
 ||spot138ay.com^
 ||spot138az.com^
 ||spottedfin.com^
