@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 23:59:42
+! Last Updated: 2024-11-17 00:32:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 500
+! Number of unique domains: 501
 !
 
 ||9sarang188.com^
@@ -320,6 +320,7 @@
 ||os.mbed.com^
 ||pabrikbola.com^
 ||padelgoin.com^
+||pafikotagalang.pages.dev^
 ||pakar.um-surabaya.ac.id^
 ||paketnusapenida.com^
 ||panelnemo69.pages.dev^

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 23:59:42",
+  "updated": "2024-11-17 00:32:45",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 500,
+      "count": 501,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42363,6 +42363,12 @@
         {
           "domain": "amp-dabo.lostlakeultras.com",
           "raw_url": "https://amp-dabo.lostlakeultras.com/",
+          "found_time": "2024-11-16 16:59:41",
+          "status": "active"
+        },
+        {
+          "domain": "pafikotagalang.pages.dev",
+          "raw_url": "https://pafikotagalang.pages.dev/prediksi-parlay/",
           "found_time": "2024-11-16 16:59:41",
           "status": "active"
         }
