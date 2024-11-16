@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 11:09:02",
+  "updated": "2024-11-16 11:13:08",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 366,
+      "count": 370,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32125,6 +32125,30 @@
           "domain": "sonsofscotland.com",
           "raw_url": "https://www.sonsofscotland.com/",
           "found_time": "2024-11-16 04:09:02",
+          "status": "active"
+        },
+        {
+          "domain": "baccaratstrategysystem.com",
+          "raw_url": "https://baccaratstrategysystem.com/",
+          "found_time": "2024-11-16 04:09:02",
+          "status": "active"
+        },
+        {
+          "domain": "jurnal.sties-baktiya.ac.id",
+          "raw_url": "https://jurnal.sties-baktiya.ac.id/baccarat/",
+          "found_time": "2024-11-16 04:11:05",
+          "status": "active"
+        },
+        {
+          "domain": "r1200gs.info",
+          "raw_url": "https://www.r1200gs.info/threads/pemainbaik-com-situs-agen-judi-casino-online-terpercaya-seindonesia.50087/",
+          "found_time": "2024-11-16 04:11:05",
+          "status": "active"
+        },
+        {
+          "domain": "heartstartny.com",
+          "raw_url": "https://www.heartstartny.com/live-online-casino.html",
+          "found_time": "2024-11-16 04:13:08",
           "status": "active"
         }
       ]

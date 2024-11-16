@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 11:09:02
+! Last Updated: 2024-11-16 11:13:08
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 366
+! Number of unique domains: 370
 !
 
 ||24liveblog.com^
@@ -31,6 +31,7 @@
 ||av-voyages.fr^
 ||baccarat-online.yapenhasboediluhur.sch.id^
 ||baccarat.com^
+||baccaratstrategysystem.com^
 ||ballislife.com^
 ||ballycasino.com^
 ||bappeda.jatengprov.go.id^
@@ -142,6 +143,7 @@
 ||hardrock.bet^
 ||harrahspoolac.com^
 ||hazrestaurant.co.uk^
+||heartstartny.com^
 ||herminahospitals.com^
 ||hindcompo.com^
 ||hive.trivallis.co.uk^
@@ -176,6 +178,7 @@
 ||jollywowsbbq.com^
 ||journalofmedula.com^
 ||jti.respati.ac.id^
+||jurnal.sties-baktiya.ac.id^
 ||kbivirtual.id^
 ||kec-ganding.com^
 ||kick.com^
@@ -262,6 +265,7 @@
 ||psu.com^
 ||pulsagacor99.com^
 ||pustakaarsip.tanjungpinangkota.go.id^
+||r1200gs.info^
 ||rajacasino.travel^
 ||rajawali.ac.id^
 ||rawonsurabaya.com^
