@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 00:58:28
+! Last Updated: 2024-11-17 01:04:03
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 795
+! Number of unique domains: 805
 !
 
 ||087ina.com^
@@ -149,6 +149,7 @@
 ||conferencecallstomeatballs.com^
 ||contigosinfronteras.org^
 ||corinne-demarest-lepretre.fr^
+||cosmimilano.com^
 ||covidvih.org^
 ||crownbakery.sl^
 ||crownfootandankle.com^
@@ -208,6 +209,7 @@
 ||ejurnal.ung.ac.id^
 ||eksoy.com^
 ||elamigolawndale.com^
+||elearning.kemenpppa.go.id^
 ||elizabethstjohn.co^
 ||elkingtonfamily.com^
 ||elliottsseafoodandsteak.com^
@@ -321,6 +323,7 @@
 ||inlislite.kamparkab.go.id^
 ||inm.org.bd^
 ||inside-global.com^
+||institutogth.edu.ec^
 ||institutoparanaodontologia.com.br^
 ||insurance.tsue.uz^
 ||insyt.esoko.com^
@@ -416,6 +419,7 @@
 ||lsp-daimaru.id^
 ||lubbockintegrative.com^
 ||lumerestaurante.com^
+||luxmotorsauto.com^
 ||luxurymediawalls.com^
 ||lyricbuscentre.com^
 ||m.riaukontras.com^
@@ -462,6 +466,7 @@
 ||morrisfarm.org^
 ||mountainwildlifemuseum.com^
 ||mrlucky.pages.dev^
+||mrmohamedhafez.com^
 ||mszana.pl^
 ||mtsn6hst.sch.id^
 ||mudbonegrown.com^
@@ -474,6 +479,7 @@
 ||mylandmunchkins.io^
 ||mywin.pages.dev^
 ||nallyspapegaaienopvang.com^
+||nanenar.com^
 ||naranjina.com^
 ||nasarri.go.ug^
 ||nationalityforall.org^
@@ -526,6 +532,7 @@
 ||pelnitual.co.id^
 ||pennstateupac.org^
 ||performancebasedfinancing.org^
+||petircuan-88.web.app^
 ||pgp4d.co^
 ||phantomthailand.com^
 ||phyllisforcongress.com^
@@ -642,6 +649,7 @@
 ||severalbusiness.com^
 ||shadowdbc.org^
 ||sharpeisavers.com^
+||shineenyc.org^
 ||shreepadgroup.com^
 ||siakad.staimlumajang.ac.id^
 ||sik.pramukajakarta.id^
@@ -667,6 +675,7 @@
 ||solary.mszana.pl^
 ||soloasi.mx^
 ||somanyroadsbrewery.com^
+||somehow.live^
 ||soteunionsprings.com^
 ||soundbetter.com^
 ||sourceeatfit.com^
@@ -763,6 +772,7 @@
 ||vetdiags.com^
 ||veteranstee.org^
 ||vgkh.ru^
+||victoriaresidence.co.id^
 ||vivancoculturadevino.es^
 ||vivasulut.com^
 ||vutoken.io^

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 00:58:28",
+  "updated": "2024-11-17 01:04:03",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 795,
+      "count": 805,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -38856,6 +38856,66 @@
           "domain": "kenarigrahamedika.com",
           "raw_url": "https://kenarigrahamedika.com/apps/",
           "found_time": "2024-11-16 17:58:27",
+          "status": "active"
+        },
+        {
+          "domain": "shineenyc.org",
+          "raw_url": "https://www.shineenyc.org/",
+          "found_time": "2024-11-16 17:58:28",
+          "status": "active"
+        },
+        {
+          "domain": "luxmotorsauto.com",
+          "raw_url": "https://www.luxmotorsauto.com/",
+          "found_time": "2024-11-16 18:01:33",
+          "status": "active"
+        },
+        {
+          "domain": "victoriaresidence.co.id",
+          "raw_url": "https://victoriaresidence.co.id/",
+          "found_time": "2024-11-16 18:02:56",
+          "status": "active"
+        },
+        {
+          "domain": "elearning.kemenpppa.go.id",
+          "raw_url": "https://elearning.kemenpppa.go.id/login/tests/",
+          "found_time": "2024-11-16 18:02:56",
+          "status": "active"
+        },
+        {
+          "domain": "nanenar.com",
+          "raw_url": "https://www.nanenar.com/gacor/aplikasi-ramalan-togel-akurat-dan-mudah/",
+          "found_time": "2024-11-16 18:02:56",
+          "status": "active"
+        },
+        {
+          "domain": "petircuan-88.web.app",
+          "raw_url": "https://petircuan-88.web.app/",
+          "found_time": "2024-11-16 18:02:57",
+          "status": "active"
+        },
+        {
+          "domain": "somehow.live",
+          "raw_url": "https://somehow.live/",
+          "found_time": "2024-11-16 18:02:57",
+          "status": "active"
+        },
+        {
+          "domain": "cosmimilano.com",
+          "raw_url": "https://www.cosmimilano.com/prodotto/calendario-dellavvento-12gg/",
+          "found_time": "2024-11-16 18:02:57",
+          "status": "active"
+        },
+        {
+          "domain": "mrmohamedhafez.com",
+          "raw_url": "https://mrmohamedhafez.com/",
+          "found_time": "2024-11-16 18:04:02",
+          "status": "active"
+        },
+        {
+          "domain": "institutogth.edu.ec",
+          "raw_url": "https://institutogth.edu.ec/",
+          "found_time": "2024-11-16 18:04:03",
           "status": "active"
         }
       ]
