@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 20:50:00",
+  "updated": "2024-11-16 20:53:10",
   "categories": {
     "slot": {
-      "count": 5141,
+      "count": 5145,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30848,6 +30848,30 @@
           "domain": "bpbd.tanatorajakab.go.id",
           "raw_url": "https://bpbd.tanatorajakab.go.id/file/?360=rajabet",
           "found_time": "2024-11-16 13:45:58",
+          "status": "active"
+        },
+        {
+          "domain": "petrolsorb.com",
+          "raw_url": "https://petrolsorb.com/?slot=rajabet",
+          "found_time": "2024-11-16 13:50:00",
+          "status": "active"
+        },
+        {
+          "domain": "masaba.id",
+          "raw_url": "https://masaba.id/",
+          "found_time": "2024-11-16 13:51:07",
+          "status": "active"
+        },
+        {
+          "domain": "bumimanusia.net.id",
+          "raw_url": "https://bumimanusia.net.id/fonts/?query_id=kumpulan+agen+togel",
+          "found_time": "2024-11-16 13:51:07",
+          "status": "active"
+        },
+        {
+          "domain": "inatogel.ikaundip.org",
+          "raw_url": "https://inatogel.ikaundip.org/",
+          "found_time": "2024-11-16 13:51:07",
           "status": "active"
         }
       ]

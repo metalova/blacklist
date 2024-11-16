@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 20:50:00
+! Last Updated: 2024-11-16 20:53:10
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5141
+! Number of unique domains: 5145
 !
 
 ||103.115.28.6^
@@ -759,6 +759,7 @@
 ||bukapkv.pages.dev^
 ||bukitmpo.cam^
 ||bukoposo.desa.id^
+||bumimanusia.net.id^
 ||bumn-id.pages.dev^
 ||bundaslot88max.com^
 ||bundoorahomestead.com^
@@ -2030,6 +2031,7 @@
 ||impgroup.co.id^
 ||impulsiveinfo.com^
 ||in.edology.com^
+||inatogel.ikaundip.org^
 ||indeed.com^
 ||independent.co.uk^
 ||india.com^
@@ -2811,6 +2813,7 @@
 ||marshfieldbbq.com^
 ||marshmallowfestival.com^
 ||marymeyer.com^
+||masaba.id^
 ||masahsplcon.com^
 ||masil-astro-imaging.com^
 ||maskinvestments.com^
@@ -3470,6 +3473,7 @@
 ||peterpaige.net^
 ||peterpause.com^
 ||petritegi.com^
+||petrolsorb.com^
 ||pewarta.org^
 ||pfipartners.org^
 ||pgplay24.io^
