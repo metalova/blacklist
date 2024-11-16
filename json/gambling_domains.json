@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:52:48",
+  "updated": "2024-11-16 20:28:03",
   "categories": {
     "slot": {
-      "count": 5118,
+      "count": 5120,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30710,6 +30710,18 @@
           "domain": "casio.com",
           "raw_url": "https://www.casio.com/id/",
           "found_time": "2024-11-16 12:50:46",
+          "status": "active"
+        },
+        {
+          "domain": "radarcirebon.disway.id",
+          "raw_url": "https://radarcirebon.disway.id/read/109512/judi-togel-online-indotogelnet-terungkap-omzet-rp-164-miliar",
+          "found_time": "2024-11-16 12:52:48",
+          "status": "active"
+        },
+        {
+          "domain": "luxury303.info",
+          "raw_url": "https://luxury303.info/",
+          "found_time": "2024-11-16 13:26:01",
           "status": "active"
         }
       ]

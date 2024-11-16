@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 19:52:48
+! Last Updated: 2024-11-16 20:28:03
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5118
+! Number of unique domains: 5120
 !
 
 ||103.115.28.6^
@@ -2692,6 +2692,7 @@
 ||lusha.com^
 ||luxury138e.com^
 ||luxury138masuk.com^
+||luxury303.info^
 ||luxury777.net^
 ||luxury777ad.com^
 ||luxury777bersinar.com^
@@ -3714,6 +3715,7 @@
 ||rackdoctor.net^
 ||radar24.co.id^
 ||radarbanjarmasin.jawapos.com^
+||radarcirebon.disway.id^
 ||radarmedan.com^
 ||radarsurabaya.jawapos.com^
 ||radarwaykanan.com^
