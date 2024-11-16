@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 05:19:09
+! Last Updated: 2024-11-17 05:22:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5237
+! Number of unique domains: 5238
 !
 
 ||103.115.28.6^
@@ -1492,6 +1492,7 @@
 ||erakini.id^
 ||erecruit.esc.go.ug^
 ||erenstore.com^
+||ergolution.net^
 ||erlangga.co.id^
 ||ernest-le-glacier.com^
 ||erniessteak.com^

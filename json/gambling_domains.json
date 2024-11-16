@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 05:19:09",
+  "updated": "2024-11-17 05:22:12",
   "categories": {
     "slot": {
-      "count": 5237,
+      "count": 5238,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31424,6 +31424,12 @@
           "domain": "amki.ac.id",
           "raw_url": "https://amki.ac.id/",
           "found_time": "2024-11-16 22:17:08",
+          "status": "active"
+        },
+        {
+          "domain": "ergolution.net",
+          "raw_url": "https://ergolution.net/rank1/",
+          "found_time": "2024-11-16 22:19:09",
           "status": "active"
         }
       ]
