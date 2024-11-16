@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 00:53:59",
+  "updated": "2024-11-17 00:58:28",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 787,
+      "count": 795,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -38808,6 +38808,54 @@
           "domain": "islamsantai.pages.dev",
           "raw_url": "https://islamsantai.pages.dev/",
           "found_time": "2024-11-16 17:52:58",
+          "status": "active"
+        },
+        {
+          "domain": "github.healingrooms.com",
+          "raw_url": "https://github.healingrooms.com/",
+          "found_time": "2024-11-16 17:53:59",
+          "status": "active"
+        },
+        {
+          "domain": "specialspacesamarillo.org",
+          "raw_url": "https://www.specialspacesamarillo.org/",
+          "found_time": "2024-11-16 17:56:02",
+          "status": "active"
+        },
+        {
+          "domain": "puppyplanet.io",
+          "raw_url": "https://puppyplanet.io/",
+          "found_time": "2024-11-16 17:57:05",
+          "status": "active"
+        },
+        {
+          "domain": "fishingva.com",
+          "raw_url": "https://fishingva.com/",
+          "found_time": "2024-11-16 17:57:05",
+          "status": "active"
+        },
+        {
+          "domain": "sacchoralcalendar.com",
+          "raw_url": "https://sacchoralcalendar.com/",
+          "found_time": "2024-11-16 17:57:05",
+          "status": "active"
+        },
+        {
+          "domain": "tncbf.org",
+          "raw_url": "https://tncbf.org/",
+          "found_time": "2024-11-16 17:57:06",
+          "status": "active"
+        },
+        {
+          "domain": "malajunta.org",
+          "raw_url": "https://malajunta.org/",
+          "found_time": "2024-11-16 17:57:06",
+          "status": "active"
+        },
+        {
+          "domain": "kenarigrahamedika.com",
+          "raw_url": "https://kenarigrahamedika.com/apps/",
+          "found_time": "2024-11-16 17:58:27",
           "status": "active"
         }
       ]
