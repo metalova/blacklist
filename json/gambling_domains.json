@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:14:47",
+  "updated": "2024-11-16 12:19:13",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 367,
+      "count": 371,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39280,6 +39280,30 @@
           "domain": "ato.com.vn",
           "raw_url": "http://www.ato.com.vn/UserProfile/tabid/43/userId/6930/Default.aspx",
           "found_time": "2024-11-16 05:14:46",
+          "status": "active"
+        },
+        {
+          "domain": "droversinn.co.uk",
+          "raw_url": "https://www.droversinn.co.uk/",
+          "found_time": "2024-11-16 05:14:47",
+          "status": "active"
+        },
+        {
+          "domain": "keepcorporate.com",
+          "raw_url": "https://keepcorporate.com/",
+          "found_time": "2024-11-16 05:16:49",
+          "status": "active"
+        },
+        {
+          "domain": "toughslatedesign.com",
+          "raw_url": "https://toughslatedesign.com/",
+          "found_time": "2024-11-16 05:17:51",
+          "status": "active"
+        },
+        {
+          "domain": "indianahawksbaseball.com",
+          "raw_url": "https://indianahawksbaseball.com/",
+          "found_time": "2024-11-16 05:19:12",
           "status": "active"
         }
       ]

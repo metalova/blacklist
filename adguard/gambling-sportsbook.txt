@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 12:14:47
+! Last Updated: 2024-11-16 12:19:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 367
+! Number of unique domains: 371
 !
 
 ||abidingtech.com^
@@ -92,6 +92,7 @@
 ||doyanbola.warislabel.com^
 ||drdladladentist.co.za^
 ||drmanishachopra.in^
+||droversinn.co.uk^
 ||dv.deliserdangkab.com^
 ||e-proc.pamjaya.co.id^
 ||eafrica.co.za^
@@ -143,6 +144,7 @@
 ||iicosteam.unkhair.ac.id^
 ||imagepublications.com^
 ||impresadiretta.net^
+||indianahawksbaseball.com^
 ||indonesiakini.go.id^
 ||indonesiaplant.com^
 ||indrabooks.com^
@@ -174,6 +176,7 @@
 ||kaptenmaya.pages.dev^
 ||katantt.com^
 ||kayabola6.pages.dev^
+||keepcorporate.com^
 ||kemkaker.pages.dev^
 ||kezkaprinting.com^
 ||kliklegal.com^
@@ -351,6 +354,7 @@
 ||tikustikuskantor.pages.dev^
 ||tlcautomachineshop.com^
 ||topscore.id^
+||toughslatedesign.com^
 ||tribratanewsntt.com^
 ||ucosigtau.com^
 ||uijar.com^
