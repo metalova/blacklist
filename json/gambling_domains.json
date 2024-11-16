@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:38:41",
+  "updated": "2024-11-17 06:49:51",
   "categories": {
     "slot": {
-      "count": 5279,
+      "count": 5283,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31676,6 +31676,30 @@
           "domain": "airmerah.desa.id",
           "raw_url": "https://airmerah.desa.id/apbd/maxwin+138/",
           "found_time": "2024-11-16 23:38:41",
+          "status": "active"
+        },
+        {
+          "domain": "kemshealthcare.com",
+          "raw_url": "https://kemshealthcare.com/wp-content/off/?q=maxwin-138",
+          "found_time": "2024-11-16 23:38:41",
+          "status": "active"
+        },
+        {
+          "domain": "personal.co.id",
+          "raw_url": "https://personal.co.id/vendor/?id=ZONA4D",
+          "found_time": "2024-11-16 23:47:47",
+          "status": "active"
+        },
+        {
+          "domain": "bsi.peradaban.ac.id",
+          "raw_url": "https://bsi.peradaban.ac.id/web/?mihok=zona4d",
+          "found_time": "2024-11-16 23:47:48",
+          "status": "active"
+        },
+        {
+          "domain": "web.hondacikarang.co.id",
+          "raw_url": "https://web.hondacikarang.co.id/?honda=kuda4d",
+          "found_time": "2024-11-16 23:49:50",
           "status": "active"
         }
       ]

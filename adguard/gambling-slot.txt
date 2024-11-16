@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:38:41
+! Last Updated: 2024-11-17 06:49:51
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5279
+! Number of unique domains: 5283
 !
 
 ||103.115.28.6^
@@ -767,6 +767,7 @@
 ||brownplaywright.com^
 ||brucedickinson.com^
 ||brushycreekvineyards.com^
+||bsi.peradaban.ac.id^
 ||bsmi.or.id^
 ||bsn.or.id^
 ||btikp.kalselprov.go.id^
@@ -2466,6 +2467,7 @@
 ||kemenagtabalong.id^
 ||kemitraanlanskap.id^
 ||kemkes-78u.pages.dev^
+||kemshealthcare.com^
 ||kenangan4dmu.com^
 ||kendariinfo.com^
 ||kendarinews.com^
@@ -3552,6 +3554,7 @@
 ||persefona.cz^
 ||persi.or.id^
 ||persib.co.id^
+||personal.co.id^
 ||perumdatirtawening.co.id^
 ||perumnas.co.id^
 ||perusdambs.com^
@@ -5105,6 +5108,7 @@
 ||wbnc.in^
 ||wealthcreatorsuniverse.pages.dev^
 ||web.arcasia.org^
+||web.hondacikarang.co.id^
 ||web.pohotels.co.id^
 ||web101.co.id^
 ||webapp.mmpc.ph^
