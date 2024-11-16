@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:11:46
+! Last Updated: 2024-11-17 06:19:54
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5252
+! Number of unique domains: 5256
 !
 
 ||103.115.28.6^
@@ -2220,6 +2220,7 @@
 ||jayatogel1.com^
 ||jayatogelabadi.com^
 ||jazindia.com^
+||jbeil.sscc.edu.lb^
 ||jbeyecare.com^
 ||jbgroup-salome.pages.dev^
 ||jbms360.com^
@@ -3222,6 +3223,7 @@
 ||nasional.tvrinews.com^
 ||nassber.org^
 ||nathaliafrykman.com^
+||nathansdelidetroit.com^
 ||nationalharborboxoffice.com^
 ||nativesoul.net^
 ||natspaperstudio.com^
@@ -3439,6 +3441,7 @@
 ||paintball-ociorioja.com^
 ||pakarjudi8.com^
 ||pakarydelperu.com^
+||pakistanirestaurantiowacity.com^
 ||paknek.info^
 ||pakuasport.com^
 ||palatkadowntown.com^
@@ -3952,6 +3955,7 @@
 ||robinhoodstory.com^
 ||robotavidnovlennya.org^
 ||rocketreach.co^
+||roguevalleynews.net^
 ||rohkinokarten.com^
 ||roketlangit.pages.dev^
 ||romeospizzaandmore.com^

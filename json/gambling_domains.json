@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:11:46",
+  "updated": "2024-11-17 06:19:54",
   "categories": {
     "slot": {
-      "count": 5252,
+      "count": 5256,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31514,6 +31514,30 @@
           "domain": "comprandolobueno.com",
           "raw_url": "https://www.comprandolobueno.com/",
           "found_time": "2024-11-16 23:11:45",
+          "status": "active"
+        },
+        {
+          "domain": "roguevalleynews.net",
+          "raw_url": "https://www.roguevalleynews.net/",
+          "found_time": "2024-11-16 23:11:46",
+          "status": "active"
+        },
+        {
+          "domain": "jbeil.sscc.edu.lb",
+          "raw_url": "https://jbeil.sscc.edu.lb/",
+          "found_time": "2024-11-16 23:18:51",
+          "status": "active"
+        },
+        {
+          "domain": "nathansdelidetroit.com",
+          "raw_url": "https://nathansdelidetroit.com/",
+          "found_time": "2024-11-16 23:19:53",
+          "status": "active"
+        },
+        {
+          "domain": "pakistanirestaurantiowacity.com",
+          "raw_url": "https://pakistanirestaurantiowacity.com/",
+          "found_time": "2024-11-16 23:19:53",
           "status": "active"
         }
       ]
