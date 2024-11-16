@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 12:43:34
+! Last Updated: 2024-11-16 12:49:47
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 418
+! Number of unique domains: 429
 !
 
 ||abidingtech.com^
@@ -36,6 +36,7 @@
 ||banchettomusicale.com^
 ||bandarjuditerpercaya88.wordpress.com^
 ||basketballsphere.com^
+||beingrudri.com^
 ||belajar.smktunaskaryacomal.sch.id^
 ||bengkulutoday.com^
 ||bermuka.com^
@@ -43,6 +44,7 @@
 ||betaon338.info^
 ||bfreshgigi.com^
 ||bikeshark.in^
+||bipnation.com^
 ||bisik.id^
 ||bisnis.com^
 ||bkk.smkn1kotabekasi.sch.id^
@@ -152,6 +154,7 @@
 ||harnessbred.com^
 ||hopposport.com^
 ||hoteldelaplage02.fr^
+||hura.es^
 ||ibudanbalita.com^
 ||ictdemy.com^
 ||idsitusbola.pages.dev^
@@ -240,6 +243,9 @@
 ||mightydreamforum.com^
 ||migranberdaulat.org^
 ||millenniumparkwaymedical.ca^
+||min10benermeriah.sch.id^
+||min1pasuruan.sch.id^
+||mitrabratanews.com^
 ||monitoring-siasn.bkn.go.id^
 ||morehere.org^
 ||morningdough.com^
@@ -331,6 +337,7 @@
 ||rondiskey.ca^
 ||rspantiwaluyopurworejo.com^
 ||rsproklamasi.co.id^
+||rsu.tilganga.org^
 ||ruangharian.com^
 ||rumah-jurnal.com^
 ||rumah123.com^
@@ -347,6 +354,7 @@
 ||sdn11bandaaceh.sch.id^
 ||sdn28bandaaceh.sch.id^
 ||sdn34bandaaceh.sch.id^
+||seleksi.akperkesdam6tpr.ac.id^
 ||seohaji.pages.dev^
 ||seojahad-masbroh.web.app^
 ||serenesophro.fr^
@@ -362,6 +370,7 @@
 ||skripsi.undana.ac.id^
 ||slbnaciteureupcimahi.sch.id^
 ||sman1sigi.sch.id^
+||sman2meulaboh.sch.id^
 ||smarthomehuahin.com^
 ||smkn1sukadana.sch.id^
 ||smkn3banyumas.sch.id^
@@ -369,6 +378,7 @@
 ||smpitim8.sch.id^
 ||smpn6meureubo.sch.id^
 ||soccer.indozone.id^
+||somersetcosmic.org^
 ||sorongselatankab.ina-sdi.or.id^
 ||specs.id^
 ||spiceandall.co.za^
@@ -376,6 +386,7 @@
 ||spmi.poltektiarabunda.ac.id^
 ||spmi.stttekstil.ac.id^
 ||staging.arbusa.com^
+||stroomlijnadvies.nl^
 ||sumberkini.my^
 ||superball.bolasport.com^
 ||tamanramadenpasar.sch.id^

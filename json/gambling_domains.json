@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:43:34",
+  "updated": "2024-11-16 12:49:47",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 418,
+      "count": 429,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39586,6 +39586,72 @@
           "domain": "unisoninstitute.com",
           "raw_url": "https://www.unisoninstitute.com/",
           "found_time": "2024-11-16 05:43:34",
+          "status": "active"
+        },
+        {
+          "domain": "hura.es",
+          "raw_url": "https://hura.es/",
+          "found_time": "2024-11-16 05:43:34",
+          "status": "active"
+        },
+        {
+          "domain": "beingrudri.com",
+          "raw_url": "https://www.beingrudri.com/bingung-taruhan-bola-online-anda-kalah-terus-ini-solusinya/",
+          "found_time": "2024-11-16 05:45:38",
+          "status": "active"
+        },
+        {
+          "domain": "somersetcosmic.org",
+          "raw_url": "https://somersetcosmic.org/",
+          "found_time": "2024-11-16 05:46:41",
+          "status": "active"
+        },
+        {
+          "domain": "stroomlijnadvies.nl",
+          "raw_url": "https://stroomlijnadvies.nl/",
+          "found_time": "2024-11-16 05:46:41",
+          "status": "active"
+        },
+        {
+          "domain": "mitrabratanews.com",
+          "raw_url": "https://mitrabratanews.com/polisi-berhasil-meringkus-pelaku-judi-online-judol-di-kecamatan-kembang-bahu-lamongan/",
+          "found_time": "2024-11-16 05:46:41",
+          "status": "active"
+        },
+        {
+          "domain": "bipnation.com",
+          "raw_url": "https://bipnation.com/",
+          "found_time": "2024-11-16 05:46:41",
+          "status": "active"
+        },
+        {
+          "domain": "min10benermeriah.sch.id",
+          "raw_url": "https://min10benermeriah.sch.id/",
+          "found_time": "2024-11-16 05:46:42",
+          "status": "active"
+        },
+        {
+          "domain": "min1pasuruan.sch.id",
+          "raw_url": "https://min1pasuruan.sch.id/version/old/",
+          "found_time": "2024-11-16 05:47:43",
+          "status": "active"
+        },
+        {
+          "domain": "rsu.tilganga.org",
+          "raw_url": "https://rsu.tilganga.org/css/ball/",
+          "found_time": "2024-11-16 05:48:45",
+          "status": "active"
+        },
+        {
+          "domain": "seleksi.akperkesdam6tpr.ac.id",
+          "raw_url": "https://seleksi.akperkesdam6tpr.ac.id/js/bokep-jepang/",
+          "found_time": "2024-11-16 05:49:47",
+          "status": "active"
+        },
+        {
+          "domain": "sman2meulaboh.sch.id",
+          "raw_url": "https://sman2meulaboh.sch.id/album/gallery/",
+          "found_time": "2024-11-16 05:49:47",
           "status": "active"
         }
       ]
