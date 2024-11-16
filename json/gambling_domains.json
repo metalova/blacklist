@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 06:58:16",
+  "updated": "2024-11-16 07:00:29",
   "categories": {
     "slot": {
-      "count": 4831,
+      "count": 4837,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -28988,6 +28988,42 @@
           "domain": "bola.net",
           "raw_url": "https://www.bola.net/editorial/arne-slot-berikutnya-ini-4-pelatih-yang-pernah-finis-di-atas-josep-guardiola-792c0b.html",
           "found_time": "2024-11-15 23:57:15",
+          "status": "active"
+        },
+        {
+          "domain": "jambitv.disway.id",
+          "raw_url": "https://jambitv.disway.id/read/6368/indonesia-peringkat-1-dunia-pemain-judi-slot-dan-judi-gacor-terbanyak-pesan-uah-judi-meningkatkan-permusuhan",
+          "found_time": "2024-11-15 23:58:15",
+          "status": "active"
+        },
+        {
+          "domain": "fesc.edu.co",
+          "raw_url": "https://www.fesc.edu.co/",
+          "found_time": "2024-11-16 00:00:28",
+          "status": "active"
+        },
+        {
+          "domain": "megaduta.co.id",
+          "raw_url": "https://megaduta.co.id/",
+          "found_time": "2024-11-16 00:00:28",
+          "status": "active"
+        },
+        {
+          "domain": "caribecooler.com",
+          "raw_url": "https://www.caribecooler.com/",
+          "found_time": "2024-11-16 00:00:28",
+          "status": "active"
+        },
+        {
+          "domain": "unimed.ac.id",
+          "raw_url": "https://www.unimed.ac.id/akreditasi/",
+          "found_time": "2024-11-16 00:00:28",
+          "status": "active"
+        },
+        {
+          "domain": "sibuk.uinsaizu.ac.id",
+          "raw_url": "https://sibuk.uinsaizu.ac.id/",
+          "found_time": "2024-11-16 00:00:29",
           "status": "active"
         }
       ]
