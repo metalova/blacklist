@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 22:09:14",
+  "updated": "2024-11-16 22:14:23",
   "categories": {
     "slot": {
       "count": 5192,
@@ -31159,7 +31159,7 @@
       ]
     },
     "casino": {
-      "count": 444,
+      "count": 450,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33823,6 +33823,42 @@
           "domain": "masuk-dikit.online",
           "raw_url": "https://masuk-dikit.online/ayo/3/?abc=SOLO4D",
           "found_time": "2024-11-16 15:08:12",
+          "status": "active"
+        },
+        {
+          "domain": "respectrichmond.com",
+          "raw_url": "https://respectrichmond.com/",
+          "found_time": "2024-11-16 15:09:14",
+          "status": "active"
+        },
+        {
+          "domain": "wheelofnames.com",
+          "raw_url": "https://wheelofnames.com/nl/",
+          "found_time": "2024-11-16 15:10:18",
+          "status": "active"
+        },
+        {
+          "domain": "greenvalleyranch.com",
+          "raw_url": "https://www.greenvalleyranch.com/play/blackjack/",
+          "found_time": "2024-11-16 15:10:18",
+          "status": "active"
+        },
+        {
+          "domain": "pointplacecasino.com",
+          "raw_url": "https://www.pointplacecasino.com/casino/table-games",
+          "found_time": "2024-11-16 15:10:19",
+          "status": "active"
+        },
+        {
+          "domain": "tachipalace.com",
+          "raw_url": "https://www.tachipalace.com/casino/table-games/",
+          "found_time": "2024-11-16 15:10:19",
+          "status": "active"
+        },
+        {
+          "domain": "parqvancouver.com",
+          "raw_url": "https://www.parqvancouver.com/5-blackjack-and-casino-war/",
+          "found_time": "2024-11-16 15:12:20",
           "status": "active"
         }
       ]

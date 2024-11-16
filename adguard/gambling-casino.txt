@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 22:09:14
+! Last Updated: 2024-11-16 22:14:23
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 444
+! Number of unique domains: 450
 !
 
 ||24liveblog.com^
@@ -161,6 +161,7 @@
 ||grandtreasurecasino.com^
 ||grasz.id^
 ||greatcanadian.com^
+||greenvalleyranch.com^
 ||haldynglass.com^
 ||hardrock.bet^
 ||harrahspoolac.com^
@@ -297,6 +298,7 @@
 ||pa-bengkulukota.go.id^
 ||pafinatuna.org^
 ||paoyouth.org^
+||parqvancouver.com^
 ||patrimoniomundialmexico.inah.gob.mx^
 ||paysbig.com^
 ||pelajarmu.id^
@@ -311,6 +313,7 @@
 ||playslot77hebat.com^
 ||plazatirana.com^
 ||pmb.stikesyapika.ac.id^
+||pointplacecasino.com^
 ||policarbonatoecuador.com^
 ||portal.careerguidancecollege.com^
 ||ppdb.darulhidayah.ponpes.id^
@@ -326,6 +329,7 @@
 ||rajawali.ac.id^
 ||rawonsurabaya.com^
 ||reku.id^
+||respectrichmond.com^
 ||revpanda.com^
 ||rockymountainrep.com^
 ||roulette-online.id.uptodown.com^
@@ -382,6 +386,7 @@
 ||suryaguds.com^
 ||swearandshake.com^
 ||sycuan.com^
+||tachipalace.com^
 ||take23.org^
 ||tastyvintage.com^
 ||teknik.widyakarya.ac.id^
@@ -444,6 +449,7 @@
 ||wendiartit.com^
 ||westgateresorts.com^
 ||westmorelandmall.com^
+||wheelofnames.com^
 ||wordwall.net^
 ||wtae.com^
 ||www2.gov.bc.ca^
