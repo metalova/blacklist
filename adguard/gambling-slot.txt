@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 10:16:07
+! Last Updated: 2024-11-16 10:54:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4986
+! Number of unique domains: 4987
 !
 
 ||103.115.28.6^
@@ -1627,6 +1627,7 @@
 ||garritytraina.com^
 ||garudametalindo.co.id^
 ||garyweisman.net^
+||gaskan-cemacyc-palinggacor.pages.dev^
 ||gatewaygrille.com^
 ||gatrik-ui.or.id^
 ||gaylordphoenix.com^

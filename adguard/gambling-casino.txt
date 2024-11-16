@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 10:16:07
+! Last Updated: 2024-11-16 10:54:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 332
+! Number of unique domains: 340
 !
 
 ||24liveblog.com^
@@ -39,6 +39,7 @@
 ||bendosari.desa.id^
 ||beritakriminalkepri.com^
 ||betblocker.org^
+||betgede.org^
 ||betkansas.com^
 ||bicyclecards.com^
 ||bicyclesonmain.com^
@@ -84,6 +85,7 @@
 ||crownperth.com.au^
 ||cuencas.miambiente.gob.pa^
 ||cz.casinohex.cz^
+||dbkncollege.co.in^
 ||deadspin.com^
 ||deadwoodmountaingrand.com^
 ||deinbaden.ch^
@@ -99,6 +101,7 @@
 ||eastbayexpress.com^
 ||ebelanja.id^
 ||edgewoodtahoe.com^
+||ejournal4.pages.dev^
 ||elements.envato.com^
 ||elizas.co.nz^
 ||empiremetrorental.com^
@@ -166,6 +169,7 @@
 ||journalofmedula.com^
 ||jti.respati.ac.id^
 ||kbivirtual.id^
+||kec-ganding.com^
 ||kick.com^
 ||kingswordplay.ca^
 ||know.nsmtltd.co.uk^
@@ -202,6 +206,7 @@
 ||mudbidrijaintemple.com^
 ||mumbaicoworking.com^
 ||nalarpolitik.com^
+||narasiterkini.com^
 ||nelsonheller.com^
 ||news.indozone.id^
 ||newszechuan.com^
@@ -328,11 +333,14 @@
 ||vipgamblingtours.com^
 ||virginvoyages.com^
 ||visithowardcounty.com^
+||visitmaryland.org^
 ||visitmississippi.org^
 ||vistarresorts.com^
 ||viva.co.id^
 ||washington.org^
 ||weirdal.com^
 ||wendiartit.com^
+||westmorelandmall.com^
 ||wordwall.net^
 ||wtae.com^
+||wwww.septa.org^
