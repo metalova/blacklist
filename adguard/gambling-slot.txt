@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 19:49:45
+! Last Updated: 2024-11-16 19:52:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5116
+! Number of unique domains: 5118
 !
 
 ||103.115.28.6^
@@ -831,6 +831,7 @@
 ||cashph.com.ph^
 ||casino.guru^
 ||casino.hardrock.com^
+||casio.com^
 ||catering-delicious.com^
 ||caterpillar-indonesia.com^
 ||catholiccharities-sbc.org^
@@ -2709,6 +2710,7 @@
 ||m.economictimes.com^
 ||m.indiamart.com^
 ||m.jpnn.com^
+||m.jutajackpot.com^
 ||m.memuplay.com^
 ||m.royalbet33.com^
 ||m.royalbet888.co^

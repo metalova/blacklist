@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:49:45",
+  "updated": "2024-11-16 19:52:48",
   "categories": {
     "slot": {
-      "count": 5116,
+      "count": 5118,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30698,6 +30698,18 @@
           "domain": "macau888.mobi",
           "raw_url": "https://macau888.mobi/",
           "found_time": "2024-11-16 12:45:40",
+          "status": "active"
+        },
+        {
+          "domain": "m.jutajackpot.com",
+          "raw_url": "https://m.jutajackpot.com/",
+          "found_time": "2024-11-16 12:49:44",
+          "status": "active"
+        },
+        {
+          "domain": "casio.com",
+          "raw_url": "https://www.casio.com/id/",
+          "found_time": "2024-11-16 12:50:46",
           "status": "active"
         }
       ]
