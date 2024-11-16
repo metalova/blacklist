@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:34:10",
+  "updated": "2024-11-16 12:39:22",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 404,
+      "count": 412,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39502,6 +39502,54 @@
           "domain": "inisiatifnews.com",
           "raw_url": "https://inisiatifnews.com/category/?anak=PREDIKSI-BOLA-JITU-NANTI-MALAM",
           "found_time": "2024-11-16 05:33:05",
+          "status": "active"
+        },
+        {
+          "domain": "krarupnixon7.wikidot.com",
+          "raw_url": "http://krarupnixon7.wikidot.com/blog:1",
+          "found_time": "2024-11-16 05:34:10",
+          "status": "active"
+        },
+        {
+          "domain": "ticketdidi.com",
+          "raw_url": "https://ticketdidi.com/judi-bola/",
+          "found_time": "2024-11-16 05:35:14",
+          "status": "active"
+        },
+        {
+          "domain": "universitybureau.com",
+          "raw_url": "https://universitybureau.com/includes/files/",
+          "found_time": "2024-11-16 05:35:15",
+          "status": "active"
+        },
+        {
+          "domain": "cvbola.pages.dev",
+          "raw_url": "https://cvbola.pages.dev/",
+          "found_time": "2024-11-16 05:35:15",
+          "status": "active"
+        },
+        {
+          "domain": "myham.akademisi.co.id",
+          "raw_url": "https://myham.akademisi.co.id/assets/img/?coimai=TARUHAN%20BOLA%20RESMI",
+          "found_time": "2024-11-16 05:38:19",
+          "status": "active"
+        },
+        {
+          "domain": "rspantiwaluyopurworejo.com",
+          "raw_url": "https://www.rspantiwaluyopurworejo.com/yakkum/",
+          "found_time": "2024-11-16 05:38:20",
+          "status": "active"
+        },
+        {
+          "domain": "playingforward.co.za",
+          "raw_url": "https://playingforward.co.za/cara-menang-parlay-bola-online/",
+          "found_time": "2024-11-16 05:38:20",
+          "status": "active"
+        },
+        {
+          "domain": "nsfudbal.com",
+          "raw_url": "https://nsfudbal.com/wp-content/uploads/revision_script/",
+          "found_time": "2024-11-16 05:39:22",
           "status": "active"
         }
       ]
