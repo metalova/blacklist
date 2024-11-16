@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 22:16:29
+! Last Updated: 2024-11-16 22:23:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 451
+! Number of unique domains: 454
 !
 
 ||24liveblog.com^
@@ -129,6 +129,7 @@
 ||edgewoodtahoe.com^
 ||ejournal4.pages.dev^
 ||elements.envato.com^
+||elitbet.bg^
 ||elizas.co.nz^
 ||empiremetrorental.com^
 ||epicwin138toto.vercel.app^
@@ -201,6 +202,7 @@
 ||indonesia.travel^
 ||informaticsglobal.com^
 ||infotoday.id^
+||inlislite.pap.ac.id^
 ||insider-gaming.com^
 ||instituteforpr.org^
 ||investopedia.com^
@@ -322,6 +324,7 @@
 ||pressofatlanticcity.com^
 ||psu.com^
 ||ptjmi.co.id^
+||publication.iift.ac.in^
 ||pulsagacor99.com^
 ||puskopkardki.id^
 ||pustakaarsip.tanjungpinangkota.go.id^

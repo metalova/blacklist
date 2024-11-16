@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 22:16:29",
+  "updated": "2024-11-16 22:23:41",
   "categories": {
     "slot": {
       "count": 5192,
@@ -31159,7 +31159,7 @@
       ]
     },
     "casino": {
-      "count": 451,
+      "count": 454,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33865,6 +33865,24 @@
           "domain": "lawruling.com",
           "raw_url": "https://lawruling.com/",
           "found_time": "2024-11-16 15:14:22",
+          "status": "active"
+        },
+        {
+          "domain": "publication.iift.ac.in",
+          "raw_url": "https://publication.iift.ac.in/Userid.aspx?/dabong%20Healthy%20snacks%20list",
+          "found_time": "2024-11-16 15:16:29",
+          "status": "active"
+        },
+        {
+          "domain": "elitbet.bg",
+          "raw_url": "https://elitbet.bg/en/live-casino/baccarat",
+          "found_time": "2024-11-16 15:22:37",
+          "status": "active"
+        },
+        {
+          "domain": "inlislite.pap.ac.id",
+          "raw_url": "https://inlislite.pap.ac.id/inlislite3/keanggotaan/web/?18=jackpot%20casino",
+          "found_time": "2024-11-16 15:23:40",
           "status": "active"
         }
       ]
