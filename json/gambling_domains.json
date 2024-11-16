@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 17:01:43",
+  "updated": "2024-11-16 17:10:00",
   "categories": {
     "slot": {
-      "count": 5012,
+      "count": 5019,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30074,6 +30074,48 @@
           "domain": "occupycolleges.org",
           "raw_url": "https://occupycolleges.org/",
           "found_time": "2024-11-16 09:59:40",
+          "status": "active"
+        },
+        {
+          "domain": "barefoottilejupiter.com",
+          "raw_url": "https://www.barefoottilejupiter.com/",
+          "found_time": "2024-11-16 10:01:43",
+          "status": "active"
+        },
+        {
+          "domain": "jurnal.politeknikyakpermas.ac.id",
+          "raw_url": "https://jurnal.politeknikyakpermas.ac.id/",
+          "found_time": "2024-11-16 10:07:54",
+          "status": "active"
+        },
+        {
+          "domain": "rijstextiles.com",
+          "raw_url": "https://www.rijstextiles.com/",
+          "found_time": "2024-11-16 10:07:55",
+          "status": "active"
+        },
+        {
+          "domain": "lehighvalleymarketplace.com",
+          "raw_url": "https://lehighvalleymarketplace.com/",
+          "found_time": "2024-11-16 10:07:55",
+          "status": "active"
+        },
+        {
+          "domain": "materialhandling.co.id",
+          "raw_url": "https://materialhandling.co.id/",
+          "found_time": "2024-11-16 10:07:55",
+          "status": "active"
+        },
+        {
+          "domain": "beautifulyousalonspa.com",
+          "raw_url": "https://beautifulyousalonspa.com/",
+          "found_time": "2024-11-16 10:07:55",
+          "status": "active"
+        },
+        {
+          "domain": "divingwithapurpose.org",
+          "raw_url": "https://divingwithapurpose.org/",
+          "found_time": "2024-11-16 10:08:58",
           "status": "active"
         }
       ]

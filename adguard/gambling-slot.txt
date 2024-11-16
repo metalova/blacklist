@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 17:01:43
+! Last Updated: 2024-11-16 17:10:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5012
+! Number of unique domains: 5019
 !
 
 ||103.115.28.6^
@@ -466,6 +466,7 @@
 ||bappelitbangda.tanatorajakab.go.id^
 ||barbeqbarbies.com^
 ||barefootcovemarina.com^
+||barefoottilejupiter.com^
 ||bareknuckletattooandbarbershop.com^
 ||baritoselatankab.go.id^
 ||baritoutarakab.go.id^
@@ -501,6 +502,7 @@
 ||beatplace.co^
 ||beatpxm.com^
 ||beatstars.com^
+||beautifulyousalonspa.com^
 ||beautybellohair.com^
 ||beautysalondehoofdzaak.com^
 ||becekwin-sadako.com^
@@ -1224,6 +1226,7 @@
 ||dispora.bogorkab.go.id^
 ||ditreskrimsus.poldakalbar.net^
 ||diversitydashboard.org^
+||divingwithapurpose.org^
 ||divlearn.undipa.ac.id^
 ||diyezmedia.com^
 ||diykitchenguide.com^
@@ -2242,6 +2245,7 @@
 ||jurnal.larisma.or.id^
 ||jurnal.law.uniba-bpn.ac.id^
 ||jurnal.peneliti.net^
+||jurnal.politeknikyakpermas.ac.id^
 ||jurnal.polkesban.ac.id^
 ||jurnal.sdl.ac.id^
 ||jurnal.stebankislam.ac.id^
@@ -2501,6 +2505,7 @@
 ||lecigopay69.com^
 ||leemho.com^
 ||legacynfk.com^
+||lehighvalleymarketplace.com^
 ||leiaisso.net^
 ||lemontree520.com^
 ||lemontreeofcentereach.com^
@@ -2764,6 +2769,7 @@
 ||mastertrust.co.in^
 ||mataerdigital.com^
 ||mateohonten.com^
+||materialhandling.co.id^
 ||maternitateagiulesti.ro^
 ||mateshipandbayanihan.com^
 ||mawarmpo.co^
@@ -3752,6 +3758,7 @@
 ||richardschicken.com^
 ||ridea.org^
 ||rightmove.co.uk^
+||rijstextiles.com^
 ||rilonfibers.com^
 ||rimaharusjadi.pages.dev^
 ||rimcafd.com^
