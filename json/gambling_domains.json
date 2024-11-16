@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 13:03:31",
+  "updated": "2024-11-16 13:34:34",
   "categories": {
     "slot": {
       "count": 4987,
@@ -32508,7 +32508,7 @@
       ]
     },
     "togel": {
-      "count": 657,
+      "count": 660,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -36450,6 +36450,24 @@
           "domain": "posmetropadang.co.id",
           "raw_url": "https://posmetropadang.co.id/berita-utama/334694/3-pelaku-judi-togel-online-diciduk-di-warung/",
           "found_time": "2024-11-16 06:03:30",
+          "status": "active"
+        },
+        {
+          "domain": "m.riaukontras.com",
+          "raw_url": "https://m.riaukontras.com/read-26580-2024-09-05-dinilai-tak-tersentuh-hukum-judi-togel-marak-di-ujung-batu-dan-tandun.html",
+          "found_time": "2024-11-16 06:03:31",
+          "status": "active"
+        },
+        {
+          "domain": "charlotte-bridal.com",
+          "raw_url": "https://charlotte-bridal.com/",
+          "found_time": "2024-11-16 06:34:33",
+          "status": "active"
+        },
+        {
+          "domain": "ngamentogel.sdpertiwimakassar.sch.id",
+          "raw_url": "https://ngamentogel.sdpertiwimakassar.sch.id/",
+          "found_time": "2024-11-16 06:34:34",
           "status": "active"
         }
       ]
