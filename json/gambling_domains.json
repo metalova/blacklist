@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:55:01",
+  "updated": "2024-11-16 12:59:13",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 439,
+      "count": 444,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39712,6 +39712,36 @@
           "domain": "sitam.ekon.go.id",
           "raw_url": "https://sitam.ekon.go.id/drake/",
           "found_time": "2024-11-16 05:55:00",
+          "status": "active"
+        },
+        {
+          "domain": "vod.in.th",
+          "raw_url": "https://www.vod.in.th/vendor/luang/",
+          "found_time": "2024-11-16 05:55:00",
+          "status": "active"
+        },
+        {
+          "domain": "wbs.manggaraibaratkab.go.id",
+          "raw_url": "https://wbs.manggaraibaratkab.go.id/assets/mabar/",
+          "found_time": "2024-11-16 05:56:03",
+          "status": "active"
+        },
+        {
+          "domain": "xqshdn.cb-silesia.edu.pl",
+          "raw_url": "https://xqshdn.cb-silesia.edu.pl/",
+          "found_time": "2024-11-16 05:58:10",
+          "status": "active"
+        },
+        {
+          "domain": "apace138mantap.com",
+          "raw_url": "https://apace138mantap.com/amp/",
+          "found_time": "2024-11-16 05:58:10",
+          "status": "active"
+        },
+        {
+          "domain": "amphtml-bzq.pages.dev",
+          "raw_url": "https://amphtml-bzq.pages.dev/amp/s/wwbola/",
+          "found_time": "2024-11-16 05:58:11",
           "status": "active"
         }
       ]
