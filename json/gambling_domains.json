@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 23:49:05",
+  "updated": "2024-11-16 23:54:27",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 483,
+      "count": 490,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42262,6 +42262,48 @@
           "domain": "kasihkarunia-kalbar.sch.id",
           "raw_url": "https://kasihkarunia-kalbar.sch.id/kelulusan/",
           "found_time": "2024-11-16 16:49:04",
+          "status": "active"
+        },
+        {
+          "domain": "dorangadget.com",
+          "raw_url": "https://dorangadget.com/game-bola-terbaik/?srsltid=AfmBOopXXhXd5iA3GGQtIEJcuJAf2c_PmhpxUGGHh-q4YRHhXZTNY_Of",
+          "found_time": "2024-11-16 16:49:05",
+          "status": "active"
+        },
+        {
+          "domain": "leibykletzkymemorialfund.com",
+          "raw_url": "https://leibykletzkymemorialfund.com/",
+          "found_time": "2024-11-16 16:50:16",
+          "status": "active"
+        },
+        {
+          "domain": "indrabooks.pages.dev",
+          "raw_url": "https://indrabooks.pages.dev/",
+          "found_time": "2024-11-16 16:50:17",
+          "status": "active"
+        },
+        {
+          "domain": "rvgives.org",
+          "raw_url": "https://rvgives.org/dinas/?ptpn=situs-agen-maxbet-bola",
+          "found_time": "2024-11-16 16:51:21",
+          "status": "active"
+        },
+        {
+          "domain": "agenmaxbetonline.quora.com",
+          "raw_url": "https://agenmaxbetonline.quora.com/",
+          "found_time": "2024-11-16 16:51:22",
+          "status": "active"
+        },
+        {
+          "domain": "loop.frontiersin.org",
+          "raw_url": "https://loop.frontiersin.org/people/634177/bio",
+          "found_time": "2024-11-16 16:53:25",
+          "status": "active"
+        },
+        {
+          "domain": "sdgs.scout.org",
+          "raw_url": "https://sdgs.scout.org/node/6632",
+          "found_time": "2024-11-16 16:53:26",
           "status": "active"
         }
       ]
