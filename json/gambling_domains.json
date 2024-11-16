@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 10:14:03",
+  "updated": "2024-11-16 10:16:07",
   "categories": {
     "slot": {
-      "count": 4979,
+      "count": 4986,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29876,6 +29876,48 @@
           "domain": "e-katalog.lkpp.go.id",
           "raw_url": "https://e-katalog.lkpp.go.id/katalog/produk/detail/75230663",
           "found_time": "2024-11-16 03:14:02",
+          "status": "active"
+        },
+        {
+          "domain": "mapquest.com",
+          "raw_url": "https://www.mapquest.com/us/new-jersey/grandwin-logistics-inc-407941777",
+          "found_time": "2024-11-16 03:14:02",
+          "status": "active"
+        },
+        {
+          "domain": "berbabat.pages.dev",
+          "raw_url": "https://berbabat.pages.dev/?cartel=SITUS88",
+          "found_time": "2024-11-16 03:16:05",
+          "status": "active"
+        },
+        {
+          "domain": "appadvice.com",
+          "raw_url": "https://appadvice.com/app/grandwin-casino/6449930714.amp",
+          "found_time": "2024-11-16 03:16:05",
+          "status": "active"
+        },
+        {
+          "domain": "go.bluewinpartners.com",
+          "raw_url": "https://go.bluewinpartners.com/visit/?bta=2959287&brand=grandwin10",
+          "found_time": "2024-11-16 03:16:06",
+          "status": "active"
+        },
+        {
+          "domain": "roketlangit.pages.dev",
+          "raw_url": "https://roketlangit.pages.dev/?story=SITUS88",
+          "found_time": "2024-11-16 03:16:06",
+          "status": "active"
+        },
+        {
+          "domain": "pendakimaxwin.pages.dev",
+          "raw_url": "https://pendakimaxwin.pages.dev/assets/index.php?cola=SITUS88",
+          "found_time": "2024-11-16 03:16:06",
+          "status": "active"
+        },
+        {
+          "domain": "e.deliserdangkab.com",
+          "raw_url": "https://e.deliserdangkab.com/2024/bisa/1/corona.gunungmaskab.go.id/index.php?tunnel=situs88",
+          "found_time": "2024-11-16 03:16:07",
           "status": "active"
         }
       ]

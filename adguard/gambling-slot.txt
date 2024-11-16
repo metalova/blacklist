@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 10:14:03
+! Last Updated: 2024-11-16 10:16:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4979
+! Number of unique domains: 4986
 !
 
 ||103.115.28.6^
@@ -314,6 +314,7 @@
 ||apktodo.io^
 ||apluspestcontrol.com^
 ||app.betmasterplay.in^
+||appadvice.com^
 ||apparelillustrated.com^
 ||appi.or.id^
 ||appleblossombrewing.com^
@@ -517,6 +518,7 @@
 ||benjamasondarby.com^
 ||beqooqoo.com^
 ||berandawarisansumatra.or.id^
+||berbabat.pages.dev^
 ||berita.99.co^
 ||beritagambar.com^
 ||beritamorut.com^
@@ -1316,6 +1318,7 @@
 ||e-rovinieta.com^
 ||e-service.ocei.gov.bd^
 ||e-solar.tech^
+||e.deliserdangkab.com^
 ||e.pendampingdesa.com^
 ||eadcadworks.com.br^
 ||eadministrasi.untirta.ac.id^
@@ -1670,6 +1673,7 @@
 ||gloria-oita.com^
 ||glos.live^
 ||gmea.net^
+||go.bluewinpartners.com^
 ||goal.com^
 ||godtube.com^
 ||gogetterfoods.com^
@@ -2699,6 +2703,7 @@
 ||mapbiomas.nusantara.earth^
 ||mapolyng.com^
 ||mappsys.rima.co.id^
+||mapquest.com^
 ||marathonga.com^
 ||marciasmunchies.com^
 ||marcoligi.com^
@@ -3328,6 +3333,7 @@
 ||pemdes.muktimakmur.desa.id^
 ||penadaran.id^
 ||pend.fisika.unismuh.ac.id^
+||pendakimaxwin.pages.dev^
 ||pendampingdesa.com^
 ||pendleslotracing.co.uk^
 ||penerimaan.stpn.ac.id^
@@ -3746,6 +3752,7 @@
 ||robotavidnovlennya.org^
 ||rocketreach.co^
 ||rohkinokarten.com^
+||roketlangit.pages.dev^
 ||romeospizzaandmore.com^
 ||romsound.ro^
 ||romyskitchen.co.uk^
