@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:25:00
+! Last Updated: 2024-11-17 06:27:05
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5261
+! Number of unique domains: 5266
 !
 
 ||103.115.28.6^
@@ -294,6 +294,7 @@
 ||ananatural.com^
 ||anandaislamicschool.com^
 ||anapan.ro^
+||anchorcooperative.com^
 ||andipublisher.com^
 ||androidout.com^
 ||androidwave.com^
@@ -774,6 +775,7 @@
 ||bukapkv.pages.dev^
 ||bukitmpo.cam^
 ||bukoposo.desa.id^
+||buktikas.wikaikon.co.id^
 ||bumimanusia.net.id^
 ||bumn-id.pages.dev^
 ||bundaslot88max.com^
@@ -1362,6 +1364,7 @@
 ||dulohupa.id^
 ||dumkamenu.cz^
 ||dungeondefenders.fandom.com^
+||dungunbaru.desa.id^
 ||dunnellonpumpkinpatch.com^
 ||duproprio.com^
 ||dutchflatrealty.com^
@@ -4918,6 +4921,7 @@
 ||tyresdirect.is^
 ||ua-referat.com^
 ||uachannel.com^
+||uacj113.mx^
 ||uanativenet.com^
 ||uatom.org^
 ||ubharajaya1.pages.dev^
@@ -5239,6 +5243,7 @@
 ||zanders1901.com^
 ||zanesvillevision.com^
 ||zarahnailsparockford.com^
+||zaufane-apteki.pl^
 ||zbozi.cz^
 ||zefflin.com^
 ||zellscafe.com^

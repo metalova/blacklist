@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:25:00",
+  "updated": "2024-11-17 06:27:05",
   "categories": {
     "slot": {
-      "count": 5261,
+      "count": 5266,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31568,6 +31568,36 @@
           "domain": "goldstandard-dat.com",
           "raw_url": "https://www.goldstandard-dat.com/",
           "found_time": "2024-11-16 23:25:00",
+          "status": "active"
+        },
+        {
+          "domain": "zaufane-apteki.pl",
+          "raw_url": "https://www.zaufane-apteki.pl/",
+          "found_time": "2024-11-16 23:25:00",
+          "status": "active"
+        },
+        {
+          "domain": "anchorcooperative.com",
+          "raw_url": "https://anchorcooperative.com/",
+          "found_time": "2024-11-16 23:26:02",
+          "status": "active"
+        },
+        {
+          "domain": "buktikas.wikaikon.co.id",
+          "raw_url": "http://buktikas.wikaikon.co.id/vendor/",
+          "found_time": "2024-11-16 23:26:03",
+          "status": "active"
+        },
+        {
+          "domain": "uacj113.mx",
+          "raw_url": "https://uacj113.mx/",
+          "found_time": "2024-11-16 23:26:03",
+          "status": "active"
+        },
+        {
+          "domain": "dungunbaru.desa.id",
+          "raw_url": "https://dungunbaru.desa.id/",
+          "found_time": "2024-11-16 23:26:03",
           "status": "active"
         }
       ]
