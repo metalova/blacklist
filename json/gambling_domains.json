@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 07:21:55",
+  "updated": "2024-11-16 07:29:03",
   "categories": {
     "slot": {
-      "count": 4854,
+      "count": 4857,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29126,6 +29126,24 @@
           "domain": "ibu4d-solusi-alternatif-terbaik-hari-ini.pages.dev",
           "raw_url": "https://ibu4d-solusi-alternatif-terbaik-hari-ini.pages.dev/",
           "found_time": "2024-11-16 00:18:53",
+          "status": "active"
+        },
+        {
+          "domain": "merchantnavybook.com",
+          "raw_url": "https://www.merchantnavybook.com/",
+          "found_time": "2024-11-16 00:21:55",
+          "status": "active"
+        },
+        {
+          "domain": "desiaddairving.com",
+          "raw_url": "https://desiaddairving.com/",
+          "found_time": "2024-11-16 00:26:59",
+          "status": "active"
+        },
+        {
+          "domain": "olx88-gacor.pages.dev",
+          "raw_url": "https://olx88-gacor.pages.dev/",
+          "found_time": "2024-11-16 00:29:02",
           "status": "active"
         }
       ]

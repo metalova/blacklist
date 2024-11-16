@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 07:21:55
+! Last Updated: 2024-11-16 07:29:03
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4854
+! Number of unique domains: 4857
 !
 
 ||103.115.28.6^
@@ -1133,6 +1133,7 @@
 ||desavanjaubijeljini.com^
 ||desawisatabudayatulusbesar.id^
 ||deschutesrivermontessori.com^
+||desiaddairving.com^
 ||desibankslive.com^
 ||destinynailsspa.com^
 ||dethaikitchen.com^
@@ -2751,6 +2752,7 @@
 ||mendocinocountybusiness.org^
 ||menofmelaninmagic.com^
 ||menta88.gr^
+||merchantnavybook.com^
 ||mercmanifesto.org^
 ||merdeka.com^
 ||mesajil.com^
@@ -3076,6 +3078,7 @@
 ||olbg.com^
 ||olgc-follybeach.org^
 ||olibabas.com^
+||olx88-gacor.pages.dev^
 ||omahmikir.id^
 ||ombak123-link10.com^
 ||ombakparadise.com^
