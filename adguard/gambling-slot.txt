@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 07:33:06
+! Last Updated: 2024-11-16 08:09:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4858
+! Number of unique domains: 4863
 !
 
 ||103.115.28.6^
@@ -264,6 +264,7 @@
 ||ampmegah138.com^
 ||ampq.org^
 ||ampsakti.ivermectinytab.com^
+||ampslotvalid.offcolortv.com^
 ||ampt4d.pages.dev^
 ||ampun.diblast.com^
 ||ampv99.pages.dev^
@@ -1476,6 +1477,7 @@
 ||festivalsophia.it^
 ||fetchbrewco.com^
 ||feudee.com^
+||fewmilessouth.com^
 ||fh.uika-bogor.ac.id^
 ||fiahomefoods.com^
 ||fib.unkhair.ac.id^
@@ -1807,6 +1809,7 @@
 ||hooveryetkiliservisi.com^
 ||hopavenuebrewing.com^
 ||hops.id^
+||horizonmoto.fr^
 ||horningsfarm.com^
 ||hospitalsantacruz.cl^
 ||hosssales.com^
@@ -3083,6 +3086,7 @@
 ||omahmikir.id^
 ||ombak123-link10.com^
 ||ombakparadise.com^
+||omnicode.id^
 ||omo777-745f1.web.app^
 ||ompethospital.com^
 ||onebag.com^
@@ -4026,6 +4030,7 @@
 ||smknbulopolman.sch.id^
 ||smknukesesi.sch.id^
 ||smkpgri2prabumulih.sch.id^
+||smoresmusic.com^
 ||smpalfacentauri.sch.id^
 ||smpn1raha.sch.id^
 ||smpn2parang.sch.id^

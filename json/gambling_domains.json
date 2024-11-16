@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 07:33:06",
+  "updated": "2024-11-16 08:09:12",
   "categories": {
     "slot": {
-      "count": 4858,
+      "count": 4863,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29150,6 +29150,36 @@
           "domain": "ampdewacukong88.com",
           "raw_url": "https://ampdewacukong88.com/amp/",
           "found_time": "2024-11-16 00:29:03",
+          "status": "active"
+        },
+        {
+          "domain": "ampslotvalid.offcolortv.com",
+          "raw_url": "https://ampslotvalid.offcolortv.com/bobgilmore.html",
+          "found_time": "2024-11-16 00:33:06",
+          "status": "active"
+        },
+        {
+          "domain": "smoresmusic.com",
+          "raw_url": "https://www.smoresmusic.com/",
+          "found_time": "2024-11-16 01:06:09",
+          "status": "active"
+        },
+        {
+          "domain": "omnicode.id",
+          "raw_url": "https://omnicode.id/",
+          "found_time": "2024-11-16 01:06:09",
+          "status": "active"
+        },
+        {
+          "domain": "fewmilessouth.com",
+          "raw_url": "https://fewmilessouth.com/",
+          "found_time": "2024-11-16 01:07:10",
+          "status": "active"
+        },
+        {
+          "domain": "horizonmoto.fr",
+          "raw_url": "https://www.horizonmoto.fr/",
+          "found_time": "2024-11-16 01:07:11",
           "status": "active"
         }
       ]
