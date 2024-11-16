@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 04:54:40
+! Last Updated: 2024-11-17 04:57:47
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5226
+! Number of unique domains: 5232
 !
 
 ||103.115.28.6^
@@ -1666,6 +1666,7 @@
 ||freshgkbangla.com^
 ||freshpropertys.com^
 ||frkelly.com^
+||fsgm-indonesia.org^
 ||fst-usmba.ac.ma^
 ||ft.unsri.ac.id^
 ||ftbprimetime.com^
@@ -1903,6 +1904,7 @@
 ||helpdesk.dpd.go.id^
 ||hemhaltiyatro.com^
 ||hensbacka.com^
+||herramientasrenzomilani.com^
 ||heylink.me^
 ||heyo.at^
 ||hhassistancellc.com^
@@ -2711,6 +2713,7 @@
 ||lottomatica.it^
 ||lotus2gaul.us^
 ||lotusdasie.com^
+||lotusmultispecialityhospital.com^
 ||lovedisfigure.com^
 ||lovelanguagenash.com^
 ||lovingeco.com^
@@ -4336,6 +4339,7 @@
 ||smpn4satappagentan.sch.id^
 ||smpn4singkawang.sch.id^
 ||smpn5tambunselatan.sch.id^
+||smpnj.sch.id^
 ||smptexmacosemarang.sch.id^
 ||smtimakassar.sch.id^
 ||snai.it^
@@ -4358,6 +4362,7 @@
 ||soinsdepiedsmarthe.com^
 ||solagodoorcounty.com^
 ||solotecnologia.net^
+||soluxesalon.com^
 ||solve.mit.edu^
 ||somos.pangeia.eco^
 ||songgolangit.pikiran-rakyat.com^
@@ -5142,6 +5147,7 @@
 ||wnplayer.com^
 ||wolestglalternatif.com^
 ||womenshealthalliance.com^
+||wongcilik.org^
 ||woodspoon.com^
 ||wookmark.com^
 ||worcesterskittles.com^
