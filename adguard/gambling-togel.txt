@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-16 13:39:10
+! Last Updated: 2024-11-16 13:44:31
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 679
+! Number of unique domains: 691
 !
 
 ||087ina.com^
@@ -87,6 +87,7 @@
 ||buah4damp.gacorclouds.workers.dev^
 ||bubblemaineia.com^
 ||burlapandlacemetterga.com^
+||buruan-daftar.pages.dev^
 ||bybs.org^
 ||cactustefl.com^
 ||cafebazaar.ir^
@@ -117,6 +118,7 @@
 ||coastalgeorgiacouncil.org^
 ||coberconstrucciones.com.pe^
 ||cocinerosmxporelmundo.com^
+||coconutspiceyoganaturopathy.com^
 ||coffee-dojo.com^
 ||coffeecounty-tn.com^
 ||coliseumrenovation.com^
@@ -236,6 +238,7 @@
 ||gluckconstructionservices.com^
 ||go-pena.id^
 ||goldenscapetreeafrica.org^
+||golockersid.com^
 ||goodfoodbarnsley.org^
 ||gunesgozlugu.com^
 ||gvscolombia.com^
@@ -279,6 +282,7 @@
 ||ipgmyproperty.com^
 ||isnujatim.org^
 ||isobm2016congress.com^
+||itbully.com^
 ||itls.es^
 ||ittelkom.ac.id^
 ||iuroncologia.com.br^
@@ -318,6 +322,7 @@
 ||kopokopo.co.ke^
 ||kozyblanket.com^
 ||kronosalud.es^
+||kubatpharmacy.com^
 ||lab.lumut.id^
 ||labaraquettemaisondamis.com^
 ||labuubuu.com^
@@ -401,6 +406,7 @@
 ||mylandmunchkins.io^
 ||mywin.pages.dev^
 ||nallyspapegaaienopvang.com^
+||naranjina.com^
 ||nasarri.go.ug^
 ||nationalityforall.org^
 ||nationalmedicalcannabisunityconference.org^
@@ -437,6 +443,7 @@
 ||papuainside.id^
 ||papuanewsonline.com^
 ||parahybamall.com.br^
+||partiesbythesea.com^
 ||patenjituamp.gacorclouds.workers.dev^
 ||paulocoelhofoundation.com^
 ||pawang.id^
@@ -471,6 +478,7 @@
 ||prettyvalley.com^
 ||priaidaman.xyz^
 ||princes1000.com^
+||probuildersgy.com^
 ||producthunt.com^
 ||prospectmotorgroup.co.id^
 ||protectnepa.org^
@@ -521,6 +529,7 @@
 ||rotibengkak.com^
 ||rsdbagaswaras.id^
 ||ruangkoding.id^
+||rubid.id^
 ||rubid.pages.dev^
 ||runwaytofreedom.org^
 ||ruralniparlament.com^
@@ -554,6 +563,7 @@
 ||sikupat.kabngawi.id^
 ||sillasv.com^
 ||silverstallionstable.com^
+||simonpianosandart.com^
 ||sinatrarestaurant.com^
 ||sinpo.id^
 ||sinreladokkesgto.id^
@@ -617,6 +627,7 @@
 ||togelonline88.cloud^
 ||toggle3d.com^
 ||tomsanford.com^
+||topvehicleparts.com^
 ||torontocentre.org^
 ||totaltool.it^
 ||totobarong.morrodagarca.cam.mg.gov.br^
@@ -634,6 +645,7 @@
 ||tribratanews.sumsel.polri.go.id^
 ||trindade.org^
 ||triplercomposites.com^
+||ttwfa.com^
 ||tualnews.com^
 ||tubmilltroutclub.org^
 ||tupac-berlin.com^

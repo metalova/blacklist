@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 13:39:10",
+  "updated": "2024-11-16 13:44:31",
   "categories": {
     "slot": {
       "count": 4987,
@@ -32508,7 +32508,7 @@
       ]
     },
     "togel": {
-      "count": 679,
+      "count": 691,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -36582,6 +36582,78 @@
           "domain": "hendrickshousegroup.org",
           "raw_url": "https://www.hendrickshousegroup.org/",
           "found_time": "2024-11-16 06:39:10",
+          "status": "active"
+        },
+        {
+          "domain": "probuildersgy.com",
+          "raw_url": "https://probuildersgy.com/",
+          "found_time": "2024-11-16 06:39:10",
+          "status": "active"
+        },
+        {
+          "domain": "rubid.id",
+          "raw_url": "https://rubid.id/",
+          "found_time": "2024-11-16 06:40:16",
+          "status": "active"
+        },
+        {
+          "domain": "golockersid.com",
+          "raw_url": "https://www.golockersid.com/data/",
+          "found_time": "2024-11-16 06:40:16",
+          "status": "active"
+        },
+        {
+          "domain": "ttwfa.com",
+          "raw_url": "https://www.ttwfa.com/",
+          "found_time": "2024-11-16 06:40:16",
+          "status": "active"
+        },
+        {
+          "domain": "kubatpharmacy.com",
+          "raw_url": "https://www.kubatpharmacy.com/",
+          "found_time": "2024-11-16 06:40:17",
+          "status": "active"
+        },
+        {
+          "domain": "naranjina.com",
+          "raw_url": "https://naranjina.com/",
+          "found_time": "2024-11-16 06:40:17",
+          "status": "active"
+        },
+        {
+          "domain": "simonpianosandart.com",
+          "raw_url": "http://simonpianosandart.com/",
+          "found_time": "2024-11-16 06:40:17",
+          "status": "active"
+        },
+        {
+          "domain": "buruan-daftar.pages.dev",
+          "raw_url": "https://buruan-daftar.pages.dev/",
+          "found_time": "2024-11-16 06:41:22",
+          "status": "active"
+        },
+        {
+          "domain": "itbully.com",
+          "raw_url": "https://itbully.com/amp/journal.html",
+          "found_time": "2024-11-16 06:42:26",
+          "status": "active"
+        },
+        {
+          "domain": "topvehicleparts.com",
+          "raw_url": "https://topvehicleparts.com/hondatoto/",
+          "found_time": "2024-11-16 06:42:26",
+          "status": "active"
+        },
+        {
+          "domain": "partiesbythesea.com",
+          "raw_url": "https://www.partiesbythesea.com/",
+          "found_time": "2024-11-16 06:43:29",
+          "status": "active"
+        },
+        {
+          "domain": "coconutspiceyoganaturopathy.com",
+          "raw_url": "https://www.coconutspiceyoganaturopathy.com/setsquaresolutions/",
+          "found_time": "2024-11-16 06:43:29",
           "status": "active"
         }
       ]
