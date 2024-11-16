@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 23:24:45",
+  "updated": "2024-11-16 23:29:10",
   "categories": {
     "slot": {
       "count": 5192,
@@ -39364,7 +39364,7 @@
       ]
     },
     "sportsbook": {
-      "count": 450,
+      "count": 460,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -42064,6 +42064,66 @@
           "domain": "mufakatalbanna.or.id",
           "raw_url": "https://mufakatalbanna.or.id/menang-hasil-judi-bola-disedekahkan-menurut-hukum-islam/",
           "found_time": "2024-11-16 16:23:44",
+          "status": "active"
+        },
+        {
+          "domain": "prioritastv.com",
+          "raw_url": "https://prioritastv.com/2024/11/16/kasat-reskrim-polres-tanggamus-transaksi-satu-bandar-judi-online-di-wonosobo-capai-25-juta-perbulan/",
+          "found_time": "2024-11-16 16:24:45",
+          "status": "active"
+        },
+        {
+          "domain": "faroukmiya.com",
+          "raw_url": "https://www.faroukmiya.com/",
+          "found_time": "2024-11-16 16:26:51",
+          "status": "active"
+        },
+        {
+          "domain": "x-akl1.smknsahul.sch.id",
+          "raw_url": "https://www.x-akl1.smknsahul.sch.id/menyalah/galuf/",
+          "found_time": "2024-11-16 16:26:52",
+          "status": "active"
+        },
+        {
+          "domain": "sportsauxpuceslevis.com",
+          "raw_url": "https://www.sportsauxpuceslevis.com/amp/",
+          "found_time": "2024-11-16 16:26:52",
+          "status": "active"
+        },
+        {
+          "domain": "kotanopan-sbo.pages.dev",
+          "raw_url": "https://kotanopan-sbo.pages.dev/",
+          "found_time": "2024-11-16 16:26:52",
+          "status": "active"
+        },
+        {
+          "domain": "jibaskelilingni.pages.dev",
+          "raw_url": "https://jibaskelilingni.pages.dev/jibas/raden/?raden=PARLAY%20BOLA",
+          "found_time": "2024-11-16 16:29:08",
+          "status": "active"
+        },
+        {
+          "domain": "tulangbawang.pages.dev",
+          "raw_url": "https://tulangbawang.pages.dev/?golong=parlay+bola",
+          "found_time": "2024-11-16 16:29:08",
+          "status": "active"
+        },
+        {
+          "domain": "agenpoltekkespalu.pages.dev",
+          "raw_url": "https://agenpoltekkespalu.pages.dev/file/?misi=PARLAY%20BOLA",
+          "found_time": "2024-11-16 16:29:08",
+          "status": "active"
+        },
+        {
+          "domain": "messimiamishop.com",
+          "raw_url": "https://messimiamishop.com/amp/",
+          "found_time": "2024-11-16 16:29:09",
+          "status": "active"
+        },
+        {
+          "domain": "seoin.pages.dev",
+          "raw_url": "https://seoin.pages.dev/judi-bola/",
+          "found_time": "2024-11-16 16:29:09",
           "status": "active"
         }
       ]

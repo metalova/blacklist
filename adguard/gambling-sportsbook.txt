@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 23:24:45
+! Last Updated: 2024-11-16 23:29:09
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 450
+! Number of unique domains: 460
 !
 
 ||a00013.d-medis.id^
@@ -14,6 +14,7 @@
 ||aerotravelindo.co.id^
 ||afifecafe.com^
 ||agen-bola-deposit-pulsa.interdidactica.net^
+||agenpoltekkespalu.pages.dev^
 ||agensedekah.com^
 ||albufeiragolf.com^
 ||aliyahalbadriyah.sch.id^
@@ -128,6 +129,7 @@
 ||espace-client.autobilan-systems.com^
 ||eventbrite.com^
 ||faktanasional.id^
+||faroukmiya.com^
 ||finansial.bisnis.com^
 ||firehousepizzamenu.com^
 ||fkip-binggris.umb.ac.id^
@@ -197,6 +199,7 @@
 ||jektvnews.disway.id^
 ||jendralmaya.pages.dev^
 ||jflspk.com^
+||jibaskelilingni.pages.dev^
 ||jill2016.com^
 ||journal.uinsgd.ac.id^
 ||joynailsbarrowlett.com^
@@ -212,6 +215,7 @@
 ||koma.id^
 ||kominfo.go.id^
 ||koranbatam.com^
+||kotanopan-sbo.pages.dev^
 ||krarupnixon7.wikidot.com^
 ||kri.kemdikbud.go.id^
 ||kucingbola.wordpress.com^
@@ -249,6 +253,7 @@
 ||mediaaceh.co.id^
 ||mercermuseum.org^
 ||mespharmacy.org^
+||messimiamishop.com^
 ||metooo.io^
 ||mightydreamforum.com^
 ||migranberdaulat.org^
@@ -325,6 +330,7 @@
 ||prediksiskorbolajitu.quora.com^
 ||pretermalin.fr^
 ||pricebook.co.id^
+||prioritastv.com^
 ||professores.uff.br^
 ||prolog.co.id^
 ||property-lippocikarang.com^
@@ -368,6 +374,7 @@
 ||sdncipinangmelayu04.sch.id^
 ||seleksi.akperkesdam6tpr.ac.id^
 ||seohaji.pages.dev^
+||seoin.pages.dev^
 ||seojahad-masbroh.web.app^
 ||serenesophro.fr^
 ||sharinori.com^
@@ -402,6 +409,7 @@
 ||spmi.poltektiarabunda.ac.id^
 ||spmi.stttekstil.ac.id^
 ||sportcorner.id^
+||sportsauxpuceslevis.com^
 ||stadion.uz^
 ||staging.arbusa.com^
 ||stroomlijnadvies.nl^
@@ -428,6 +436,7 @@
 ||toughslatedesign.com^
 ||tribratanewsntt.com^
 ||tripadvisor.it^
+||tulangbawang.pages.dev^
 ||ucosigtau.com^
 ||uijar.com^
 ||uni.xyz^
@@ -445,6 +454,7 @@
 ||webdes.in^
 ||wisechurch.com^
 ||woochonbbq.com^
+||x-akl1.smknsahul.sch.id^
 ||x500id-judi-bola-1.pages.dev^
 ||xn--hokiapace-i5a84a.com^
 ||xolabit.co.id^
