@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 01:04:03",
+  "updated": "2024-11-17 01:09:11",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 805,
+      "count": 810,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -38916,6 +38916,36 @@
           "domain": "institutogth.edu.ec",
           "raw_url": "https://institutogth.edu.ec/",
           "found_time": "2024-11-16 18:04:03",
+          "status": "active"
+        },
+        {
+          "domain": "mids4d.co.uk",
+          "raw_url": "https://mids4d.co.uk/",
+          "found_time": "2024-11-16 18:04:03",
+          "status": "active"
+        },
+        {
+          "domain": "bmtnukas.co.id",
+          "raw_url": "https://bmtnukas.co.id/newsline/",
+          "found_time": "2024-11-16 18:05:05",
+          "status": "active"
+        },
+        {
+          "domain": "e-memi.com",
+          "raw_url": "https://e-memi.com/",
+          "found_time": "2024-11-16 18:07:07",
+          "status": "active"
+        },
+        {
+          "domain": "slbn11jkt.sch.id",
+          "raw_url": "https://slbn11jkt.sch.id/?legacy=MAJU",
+          "found_time": "2024-11-16 18:08:09",
+          "status": "active"
+        },
+        {
+          "domain": "data.nanganesa.endekab.go.id",
+          "raw_url": "https://data.nanganesa.endekab.go.id/wp-content/?id_ID=togel+deposit+pulsa",
+          "found_time": "2024-11-16 18:08:09",
           "status": "active"
         }
       ]
