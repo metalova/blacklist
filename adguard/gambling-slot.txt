@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 21:09:01
+! Last Updated: 2024-11-16 21:14:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5162
+! Number of unique domains: 5166
 !
 
 ||103.115.28.6^
@@ -801,6 +801,7 @@
 ||caffecarlito.ch^
 ||calciumhealth.com^
 ||california-hsi-agep.org^
+||callmetravelmalang.id^
 ||cam-group.co.id^
 ||campaigns.organizefor.org^
 ||campestrevarginha.com.br^
@@ -1069,6 +1070,7 @@
 ||crescentsushiandthai.com^
 ||crestoneinvestmentconference.com^
 ||crexi.com^
+||cricket.com.au^
 ||crimestat.indy.gov^
 ||cripsco.fr^
 ||crm.diamondland.co.id^
@@ -4428,6 +4430,7 @@
 ||sukanegeri-pringsewu.desa.id^
 ||sukarjomesim.desa.id^
 ||sultan.untirta.ac.id^
+||sultan777.jp.net^
 ||sultan777.me^
 ||sultan777.org^
 ||sultanasia88.com^
@@ -5060,6 +5063,7 @@
 ||winner88.club^
 ||winner88slot.com^
 ||winner88slot.org^
+||winpoin.com^
 ||winslot.eu^
 ||winslot11.net^
 ||winsroyal.com^

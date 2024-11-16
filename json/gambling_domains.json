@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 21:09:01",
+  "updated": "2024-11-16 21:14:07",
   "categories": {
     "slot": {
-      "count": 5162,
+      "count": 5166,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30974,6 +30974,30 @@
           "domain": "nigeria-bets.com",
           "raw_url": "https://nigeria-bets.com/bookmakers/betmaster",
           "found_time": "2024-11-16 14:04:57",
+          "status": "active"
+        },
+        {
+          "domain": "callmetravelmalang.id",
+          "raw_url": "https://callmetravelmalang.id/data/?misi=megawin",
+          "found_time": "2024-11-16 14:09:01",
+          "status": "active"
+        },
+        {
+          "domain": "cricket.com.au",
+          "raw_url": "https://www.cricket.com.au/videos/4165194/rizwan-grabs-half-a-dozen-in-mega-win",
+          "found_time": "2024-11-16 14:10:03",
+          "status": "active"
+        },
+        {
+          "domain": "winpoin.com",
+          "raw_url": "https://winpoin.com/",
+          "found_time": "2024-11-16 14:10:03",
+          "status": "active"
+        },
+        {
+          "domain": "sultan777.jp.net",
+          "raw_url": "https://sultan777.jp.net/",
+          "found_time": "2024-11-16 14:13:05",
           "status": "active"
         }
       ]
