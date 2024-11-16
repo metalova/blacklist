@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 12:39:22",
+  "updated": "2024-11-16 12:43:34",
   "categories": {
     "slot": {
       "count": 4987,
@@ -37078,7 +37078,7 @@
       ]
     },
     "sportsbook": {
-      "count": 412,
+      "count": 418,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -39550,6 +39550,42 @@
           "domain": "nsfudbal.com",
           "raw_url": "https://nsfudbal.com/wp-content/uploads/revision_script/",
           "found_time": "2024-11-16 05:39:22",
+          "status": "active"
+        },
+        {
+          "domain": "zonakabar.com",
+          "raw_url": "https://zonakabar.com/wp-content/theemes/folder/",
+          "found_time": "2024-11-16 05:39:22",
+          "status": "active"
+        },
+        {
+          "domain": "catherinemcgrathmusic.com",
+          "raw_url": "https://catherinemcgrathmusic.com/",
+          "found_time": "2024-11-16 05:40:24",
+          "status": "active"
+        },
+        {
+          "domain": "toreadornottoread.net",
+          "raw_url": "https://toreadornottoread.net/",
+          "found_time": "2024-11-16 05:40:24",
+          "status": "active"
+        },
+        {
+          "domain": "practiceojs3.iainsalatiga.ac.id",
+          "raw_url": "https://practiceojs3.iainsalatiga.ac.id/lib/?reff=daftar-sbobet-terpercaya",
+          "found_time": "2024-11-16 05:43:33",
+          "status": "active"
+        },
+        {
+          "domain": "sbobet.plan-international.or.id",
+          "raw_url": "https://sbobet.plan-international.or.id/",
+          "found_time": "2024-11-16 05:43:33",
+          "status": "active"
+        },
+        {
+          "domain": "unisoninstitute.com",
+          "raw_url": "https://www.unisoninstitute.com/",
+          "found_time": "2024-11-16 05:43:34",
           "status": "active"
         }
       ]

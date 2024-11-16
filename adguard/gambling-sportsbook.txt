@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 12:39:22
+! Last Updated: 2024-11-16 12:43:34
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 412
+! Number of unique domains: 418
 !
 
 ||abidingtech.com^
@@ -63,6 +63,7 @@
 ||cac.bme.bridgestone.eu^
 ||calameo.com^
 ||carnesfinasortiz.com^
+||catherinemcgrathmusic.com^
 ||cbt-smk.pages.dev^
 ||chatsports.com^
 ||ciamiskabwede.pages.dev^
@@ -299,6 +300,7 @@
 ||portalgurupi.com.br^
 ||ppdb.maskara.sch.id^
 ||ppdi.ciamiskab.go.id^
+||practiceojs3.iainsalatiga.ac.id^
 ||prediksibola33blog.wordpress.com^
 ||prediksiboladewa.net^
 ||prediksibolajitu88.wordpress.com^
@@ -341,6 +343,7 @@
 ||sararamedia.net^
 ||sariminkenx.quora.com^
 ||satyabeautywellness.com^
+||sbobet.plan-international.or.id^
 ||sdn11bandaaceh.sch.id^
 ||sdn28bandaaceh.sch.id^
 ||sdn34bandaaceh.sch.id^
@@ -392,6 +395,7 @@
 ||tikustikuskantor.pages.dev^
 ||tlcautomachineshop.com^
 ||topscore.id^
+||toreadornottoread.net^
 ||toughslatedesign.com^
 ||tribratanewsntt.com^
 ||tripadvisor.it^
@@ -399,6 +403,7 @@
 ||uijar.com^
 ||uni.xyz^
 ||unicone.id^
+||unisoninstitute.com^
 ||universe.com^
 ||universitybureau.com^
 ||usgbc.org^
@@ -415,4 +420,5 @@
 ||ydsf.org^
 ||yukmainsbobet.pages.dev^
 ||zenbutoh.com^
+||zonakabar.com^
 ||zotero.org^
