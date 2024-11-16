@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 11:32:58
+! Last Updated: 2024-11-16 11:39:18
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 410
+! Number of unique domains: 419
 !
 
 ||24liveblog.com^
@@ -24,6 +24,7 @@
 ||amazon.de^
 ||amny.com^
 ||amodiva.com^
+||anekatoto3win.com^
 ||anj.fr^
 ||arlingtonyouthfootball.com^
 ||arspb.org^
@@ -92,6 +93,7 @@
 ||cordish.com^
 ||corporeacompanhiadecorpos.com^
 ||coy99.net^
+||craftroulette.live^
 ||creedroomz.com^
 ||crescent.edu^
 ||crownmelbourne.com.au^
@@ -157,6 +159,8 @@
 ||herminahospitals.com^
 ||hindcompo.com^
 ||hive.trivallis.co.uk^
+||home.makingwithdata.org^
+||horseshoeonlinecasino.com^
 ||hortaverde.com.br^
 ||hotel.hardrock.com^
 ||hq2ac.com^
@@ -236,6 +240,7 @@
 ||millelacs.com^
 ||mindilbeachcasinoresort.com.au^
 ||modison.com^
+||moesandjoes.com^
 ||moesandjoes.pages.dev^
 ||mojadipro.com^
 ||moovitapp.com^
@@ -263,6 +268,7 @@
 ||oddsonpromotions.com^
 ||ojs.stieprasetiyamandiri.ac.id^
 ||olinda.pe.gov.br^
+||online-roulette-information.co.uk^
 ||online-stopwatch.com^
 ||onlineliveroulette.net^
 ||organisasi.koltimkab.com^
@@ -284,6 +290,7 @@
 ||piacasinogiris.com^
 ||pkm-golowelu.manggaraibaratkab.go.id^
 ||playgon.com^
+||playslot77hebat.com^
 ||plazatirana.com^
 ||pmb.stikesyapika.ac.id^
 ||policarbonatoecuador.com^
@@ -349,6 +356,8 @@
 ||stxavierspatna.in^
 ||suninternational.com^
 ||sunsetranchptc.org^
+||superlive.id^
+||suryaguds.com^
 ||swearandshake.com^
 ||sycuan.com^
 ||take23.org^

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 11:32:58",
+  "updated": "2024-11-16 11:39:18",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 410,
+      "count": 419,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32389,6 +32389,60 @@
           "domain": "pennstakes.com",
           "raw_url": "https://www.pennstakes.com/online-casinos/casino-bonuses",
           "found_time": "2024-11-16 04:31:57",
+          "status": "active"
+        },
+        {
+          "domain": "horseshoeonlinecasino.com",
+          "raw_url": "https://horseshoeonlinecasino.com/",
+          "found_time": "2024-11-16 04:32:58",
+          "status": "active"
+        },
+        {
+          "domain": "craftroulette.live",
+          "raw_url": "https://craftroulette.live/",
+          "found_time": "2024-11-16 04:36:01",
+          "status": "active"
+        },
+        {
+          "domain": "online-roulette-information.co.uk",
+          "raw_url": "https://online-roulette-information.co.uk/live-roulette/",
+          "found_time": "2024-11-16 04:36:02",
+          "status": "active"
+        },
+        {
+          "domain": "moesandjoes.com",
+          "raw_url": "https://moesandjoes.com/",
+          "found_time": "2024-11-16 04:37:05",
+          "status": "active"
+        },
+        {
+          "domain": "anekatoto3win.com",
+          "raw_url": "https://anekatoto3win.com/",
+          "found_time": "2024-11-16 04:38:07",
+          "status": "active"
+        },
+        {
+          "domain": "suryaguds.com",
+          "raw_url": "https://suryaguds.com/",
+          "found_time": "2024-11-16 04:38:07",
+          "status": "active"
+        },
+        {
+          "domain": "playslot77hebat.com",
+          "raw_url": "https://playslot77hebat.com/",
+          "found_time": "2024-11-16 04:38:08",
+          "status": "active"
+        },
+        {
+          "domain": "home.makingwithdata.org",
+          "raw_url": "http://home.makingwithdata.org/",
+          "found_time": "2024-11-16 04:38:08",
+          "status": "active"
+        },
+        {
+          "domain": "superlive.id",
+          "raw_url": "https://superlive.id/superadventure/artikel/place-gears/5-hotel-dengan-casino-paling-terkenal-di-dunia-tempatnya-luas-dan-besar",
+          "found_time": "2024-11-16 04:39:17",
           "status": "active"
         }
       ]
