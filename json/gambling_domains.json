@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 13:48:58",
+  "updated": "2024-11-16 13:54:06",
   "categories": {
     "slot": {
       "count": 4987,
@@ -32508,7 +32508,7 @@
       ]
     },
     "togel": {
-      "count": 701,
+      "count": 705,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -36714,6 +36714,30 @@
           "domain": "survey.fk.umi.ac.id",
           "raw_url": "https://survey.fk.umi.ac.id/?terbang=prediksi%20togel%20hongkong",
           "found_time": "2024-11-16 06:48:58",
+          "status": "active"
+        },
+        {
+          "domain": "childrensshelterhome.org",
+          "raw_url": "https://childrensshelterhome.org/",
+          "found_time": "2024-11-16 06:48:58",
+          "status": "active"
+        },
+        {
+          "domain": "ligaciputra.admin.smasitmutiara.sch.id",
+          "raw_url": "http://ligaciputra.admin.smasitmutiara.sch.id/",
+          "found_time": "2024-11-16 06:52:02",
+          "status": "active"
+        },
+        {
+          "domain": "piromae.com",
+          "raw_url": "https://piromae.com/",
+          "found_time": "2024-11-16 06:54:05",
+          "status": "active"
+        },
+        {
+          "domain": "journals.smartinsight.id",
+          "raw_url": "https://journals.smartinsight.id/index.php/MS",
+          "found_time": "2024-11-16 06:54:06",
           "status": "active"
         }
       ]
