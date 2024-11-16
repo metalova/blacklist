@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 00:48:45",
+  "updated": "2024-11-17 00:53:59",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 780,
+      "count": 787,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -38766,6 +38766,48 @@
           "domain": "greshamsistercity.org",
           "raw_url": "https://www.greshamsistercity.org/",
           "found_time": "2024-11-16 17:48:44",
+          "status": "active"
+        },
+        {
+          "domain": "magicpenandparty.com",
+          "raw_url": "https://magicpenandparty.com/amp/",
+          "found_time": "2024-11-16 17:48:44",
+          "status": "active"
+        },
+        {
+          "domain": "bermukadua.com",
+          "raw_url": "https://bermukadua.com/nakototo/BoTogelResmi-287",
+          "found_time": "2024-11-16 17:50:51",
+          "status": "active"
+        },
+        {
+          "domain": "heladosyanel.com.ar",
+          "raw_url": "https://heladosyanel.com.ar/amp/situs-togel-resmi-internasional",
+          "found_time": "2024-11-16 17:50:52",
+          "status": "active"
+        },
+        {
+          "domain": "minitoto.pages.dev",
+          "raw_url": "https://minitoto.pages.dev/",
+          "found_time": "2024-11-16 17:51:56",
+          "status": "active"
+        },
+        {
+          "domain": "kangtogelterbaik.pages.dev",
+          "raw_url": "https://kangtogelterbaik.pages.dev/",
+          "found_time": "2024-11-16 17:51:56",
+          "status": "active"
+        },
+        {
+          "domain": "defineagile.com",
+          "raw_url": "https://defineagile.com/amp/",
+          "found_time": "2024-11-16 17:51:56",
+          "status": "active"
+        },
+        {
+          "domain": "islamsantai.pages.dev",
+          "raw_url": "https://islamsantai.pages.dev/",
+          "found_time": "2024-11-16 17:52:58",
           "status": "active"
         }
       ]
