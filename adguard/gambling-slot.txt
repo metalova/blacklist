@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 09:50:19
+! Last Updated: 2024-11-16 09:58:30
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4961
+! Number of unique domains: 4966
 !
 
 ||103.115.28.6^
@@ -670,6 +670,7 @@
 ||boletindiversidad.org^
 ||boltimrsud.id^
 ||bonappetitbakeryandcafetogo.com^
+||bondolthebest.pages.dev^
 ||bonesuk.com^
 ||bookies.com^
 ||booking.com^
@@ -2515,6 +2516,7 @@
 ||lindseysculinarymarket.com^
 ||lingmanis.online^
 ||lini.or.id^
+||link-register.pages.dev^
 ||link.space^
 ||linkpandora.co^
 ||linkqu.id^
@@ -2755,6 +2757,7 @@
 ||medanjaya-9hl.pages.dev^
 ||medanposonline.com^
 ||medee.mn^
+||media24.ps^
 ||mediacenter.paserkab.go.id^
 ||mediacenter.singkawangkota.go.id^
 ||mediacenter.temanggungkab.go.id^
@@ -2886,6 +2889,7 @@
 ||mlite.betking.co.ke^
 ||mlive.com^
 ||mnh.gov.la^
+||mobile.bp77.com^
 ||mobiletoilets.com.mx^
 ||mobilmatik88.cloud^
 ||mobilmatik88.xyz^
@@ -4679,6 +4683,7 @@
 ||universitetite.com^
 ||univmeroket.pages.dev^
 ||unsri.ac.id^
+||unsriberjayakembali.pages.dev^
 ||unsulbar.pages.dev^
 ||unud.ac.id^
 ||unyu168scatterhitam.com^

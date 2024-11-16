@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 09:50:19",
+  "updated": "2024-11-16 09:58:30",
   "categories": {
     "slot": {
-      "count": 4961,
+      "count": 4966,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29768,6 +29768,36 @@
           "domain": "penjaskesrek-serambimekkah.web.app",
           "raw_url": "https://penjaskesrek-serambimekkah.web.app/?imback=WIN88",
           "found_time": "2024-11-16 02:49:17",
+          "status": "active"
+        },
+        {
+          "domain": "media24.ps",
+          "raw_url": "http://media24.ps/?p=929199",
+          "found_time": "2024-11-16 02:50:19",
+          "status": "active"
+        },
+        {
+          "domain": "mobile.bp77.com",
+          "raw_url": "https://mobile.bp77.com/landing",
+          "found_time": "2024-11-16 02:56:26",
+          "status": "active"
+        },
+        {
+          "domain": "bondolthebest.pages.dev",
+          "raw_url": "https://bondolthebest.pages.dev/elpatron/",
+          "found_time": "2024-11-16 02:58:29",
+          "status": "active"
+        },
+        {
+          "domain": "unsriberjayakembali.pages.dev",
+          "raw_url": "https://unsriberjayakembali.pages.dev/wisuda/wisuda/?raden=MEGAWIN",
+          "found_time": "2024-11-16 02:58:29",
+          "status": "active"
+        },
+        {
+          "domain": "link-register.pages.dev",
+          "raw_url": "https://link-register.pages.dev/elchapo?elchapo=MEGAWIN",
+          "found_time": "2024-11-16 02:58:29",
           "status": "active"
         }
       ]
