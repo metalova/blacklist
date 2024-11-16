@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 19:09:06",
+  "updated": "2024-11-16 19:14:14",
   "categories": {
     "slot": {
-      "count": 5091,
+      "count": 5098,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30548,6 +30548,48 @@
           "domain": "besti69ko.vercel.app",
           "raw_url": "https://besti69ko.vercel.app/",
           "found_time": "2024-11-16 12:09:06",
+          "status": "active"
+        },
+        {
+          "domain": "fuah.uinkhas.ac.id",
+          "raw_url": "https://fuah.uinkhas.ac.id/",
+          "found_time": "2024-11-16 12:09:06",
+          "status": "active"
+        },
+        {
+          "domain": "actuarialzone.org",
+          "raw_url": "https://actuarialzone.org/",
+          "found_time": "2024-11-16 12:10:09",
+          "status": "active"
+        },
+        {
+          "domain": "braddockpointlighthouse.com",
+          "raw_url": "https://braddockpointlighthouse.com/",
+          "found_time": "2024-11-16 12:10:09",
+          "status": "active"
+        },
+        {
+          "domain": "randolpharchives.org",
+          "raw_url": "https://randolpharchives.org/",
+          "found_time": "2024-11-16 12:10:09",
+          "status": "active"
+        },
+        {
+          "domain": "ortodontiasergiocasarim.com",
+          "raw_url": "https://www.ortodontiasergiocasarim.com/",
+          "found_time": "2024-11-16 12:10:10",
+          "status": "active"
+        },
+        {
+          "domain": "redirect-logins.web.app",
+          "raw_url": "https://redirect-logins.web.app/amp7/30/",
+          "found_time": "2024-11-16 12:10:10",
+          "status": "active"
+        },
+        {
+          "domain": "membership.wru.wales",
+          "raw_url": "http://www.membership.wru.wales/?siaulang=ling4d",
+          "found_time": "2024-11-16 12:14:14",
           "status": "active"
         }
       ]

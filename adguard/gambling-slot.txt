@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 19:09:06
+! Last Updated: 2024-11-16 19:14:14
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5091
+! Number of unique domains: 5098
 !
 
 ||103.115.28.6^
@@ -133,6 +133,7 @@
 ||actionjaxjunkremoval.com^
 ||actionnetwork.com^
 ||active20-30.com^
+||actuarialzone.org^
 ||acumar.gob.ar^
 ||adacta.regione.calabria.it^
 ||adai.or.id^
@@ -719,6 +720,7 @@
 ||bpti.darunnajah.ac.id^
 ||bptvtest.bigpond.com^
 ||br.888casino.com^
+||braddockpointlighthouse.com^
 ||brainly.co.id^
 ||brandfetch.com^
 ||braziltour.com^
@@ -1630,6 +1632,7 @@
 ||fst-usmba.ac.ma^
 ||ft.unsri.ac.id^
 ||ftbprimetime.com^
+||fuah.uinkhas.ac.id^
 ||funda.nl^
 ||funnytime.live^
 ||fupchurch.org^
@@ -2882,6 +2885,7 @@
 ||melati188-live.pages.dev^
 ||member.allslotz88.co^
 ||member.fisika.or.id^
+||membership.wru.wales^
 ||memoriaambiental.org^
 ||memuplay.com^
 ||menang303official.com^
@@ -3271,6 +3275,7 @@
 ||orizon-digital.fr^
 ||orori.com^
 ||ortizdental.com^
+||ortodontiasergiocasarim.com^
 ||os-jo.com^
 ||osakabowlinggreen.com^
 ||otiumcoldpress.com^
@@ -3737,6 +3742,7 @@
 ||rameshmetta.com^
 ||rampagoe.id^
 ||ranahkomunikasi.fisip.unand.ac.id^
+||randolpharchives.org^
 ||randolpharchives.pages.dev^
 ||ransjitunih.com^
 ||raport.mas-alkhairaat.sch.id^
@@ -3763,6 +3769,7 @@
 ||redbarnfeedandpet.com^
 ||redefydiy.com^
 ||redflamenyc.com^
+||redirect-logins.web.app^
 ||redonionaspen.com^
 ||redrabbitfarm.com^
 ||refaccionariamario.com^
