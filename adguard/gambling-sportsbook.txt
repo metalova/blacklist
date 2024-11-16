@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-16 23:54:27
+! Last Updated: 2024-11-16 23:59:42
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 490
+! Number of unique domains: 500
 !
 
 ||9sarang188.com^
@@ -24,6 +24,7 @@
 ||alhilal-sd.com^
 ||aliyahalbadriyah.sch.id^
 ||altctrlgamejam.com^
+||amp-dabo.lostlakeultras.com^
 ||amp-dewawin365.com^
 ||amp-utama-agenolx.pages.dev^
 ||ampbp1-v2.bolapelangi.dev^
@@ -151,6 +152,7 @@
 ||footlockerwest.com^
 ||footystats.org^
 ||forum.fanatec.com^
+||freecovoiturage.fr^
 ||ft95soundersfc.pages.dev^
 ||ftp.dbd.puc-rio.br^
 ||gb.rg-leotard.com^
@@ -173,6 +175,7 @@
 ||halofkmusu.or.id^
 ||hancau.net^
 ||harnessbred.com^
+||hatsumilv.com^
 ||hopposport.com^
 ||hoteldelaplage02.fr^
 ||htn.staiduba.ac.id^
@@ -249,6 +252,7 @@
 ||ligaolahraga.com^
 ||lisboabelemopen.com^
 ||liverpoolfc.com^
+||livescore-qq289.glitch.me^
 ||lms.sibestari.com^
 ||locent.com^
 ||login.poc.la.gov^
@@ -270,6 +274,7 @@
 ||media.neliti.com^
 ||mediaaceh.co.id^
 ||mercermuseum.org^
+||mercure-qualite.autobilan-systems.com^
 ||mespharmacy.org^
 ||messimiamishop.com^
 ||metooo.io^
@@ -286,6 +291,7 @@
 ||morningdough.com^
 ||msoundersfc.pages.dev^
 ||mspbaseball.com^
+||mtsn3ende.sch.id^
 ||mufakatalbanna.or.id^
 ||myham.akademisi.co.id^
 ||n1info.rs^
@@ -360,6 +366,7 @@
 ||ptwsdbola88.cc^
 ||publicrepo.geaviation.com^
 ||qiuqiujurnal.wordpress.com^
+||qqslottres.com^
 ||rbtv.disway.id^
 ||recigreen.com.br^
 ||redcircle.com^
@@ -413,6 +420,7 @@
 ||situsbolaterpercaya.quora.com^
 ||skripsi.undana.ac.id^
 ||slbnaciteureupcimahi.sch.id^
+||slideshare.net^
 ||sman1bontang.sch.id^
 ||sman1sigi.sch.id^
 ||sman2meulaboh.sch.id^
@@ -460,6 +468,7 @@
 ||tlcautomachineshop.com^
 ||topscore.id^
 ||toreadornottoread.net^
+||torquemada.cl^
 ||toughslatedesign.com^
 ||tribratanewsntt.com^
 ||tripadvisor.it^
@@ -472,6 +481,7 @@
 ||unisoninstitute.com^
 ||universe.com^
 ||universitybureau.com^
+||upscale-technology.com^
 ||usgbc.org^
 ||utprw2.com^
 ||view.publitas.com^
