@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 22:14:23",
+  "updated": "2024-11-16 22:16:29",
   "categories": {
     "slot": {
       "count": 5192,
@@ -31159,7 +31159,7 @@
       ]
     },
     "casino": {
-      "count": 450,
+      "count": 451,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33859,6 +33859,12 @@
           "domain": "parqvancouver.com",
           "raw_url": "https://www.parqvancouver.com/5-blackjack-and-casino-war/",
           "found_time": "2024-11-16 15:12:20",
+          "status": "active"
+        },
+        {
+          "domain": "lawruling.com",
+          "raw_url": "https://lawruling.com/",
+          "found_time": "2024-11-16 15:14:22",
           "status": "active"
         }
       ]

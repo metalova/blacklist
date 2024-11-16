@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 22:14:23
+! Last Updated: 2024-11-16 22:16:29
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 450
+! Number of unique domains: 451
 !
 
 ||24liveblog.com^
@@ -230,6 +230,7 @@
 ||lanerosacasino.wordpress.com^
 ||lanyardkilat.co.id^
 ||latourneecanadienne.ca^
+||lawruling.com^
 ||learning.psbk.or.id^
 ||lib.stiqisykarima.ac.id^
 ||littleangelschool.edu.in^
