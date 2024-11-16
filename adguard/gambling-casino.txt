@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-16 10:59:43
+! Last Updated: 2024-11-16 11:01:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 357
+! Number of unique domains: 361
 !
 
 ||24liveblog.com^
@@ -64,6 +64,7 @@
 ||caseyforcongressri.com^
 ||casino-terrestre.com^
 ||casino-vip.com^
+||casinom8trix.com^
 ||casinoprideofficial.com^
 ||casinos.ballys.com^
 ||cbsnews.com^
@@ -188,6 +189,7 @@
 ||lib.stiqisykarima.ac.id^
 ||littleangelschool.edu.in^
 ||live-casino.smpn2kotadumai.sch.id^
+||liveabout.com^
 ||livedealer21.com^
 ||liveroulette.onl^
 ||lrcr.com^
@@ -340,6 +342,7 @@
 ||turningstoneenterprises.com^
 ||tuyendungacbh.com^
 ||uhintl.com^
+||unity.hardrock.com^
 ||vendor.diblast.com^
 ||venetianmacao.com^
 ||verbenergybar.com^
@@ -357,6 +360,7 @@
 ||washington.org^
 ||weirdal.com^
 ||wendiartit.com^
+||westgateresorts.com^
 ||westmorelandmall.com^
 ||wordwall.net^
 ||wtae.com^

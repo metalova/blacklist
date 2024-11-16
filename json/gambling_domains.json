@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 10:59:43",
+  "updated": "2024-11-16 11:01:48",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 357,
+      "count": 361,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32071,6 +32071,30 @@
           "domain": "meskwaki.com",
           "raw_url": "https://www.meskwaki.com/casino-games/table-games/",
           "found_time": "2024-11-16 03:59:43",
+          "status": "active"
+        },
+        {
+          "domain": "liveabout.com",
+          "raw_url": "https://www.liveabout.com/how-to-play-blackjack-537106",
+          "found_time": "2024-11-16 03:59:43",
+          "status": "active"
+        },
+        {
+          "domain": "casinom8trix.com",
+          "raw_url": "https://www.casinom8trix.com/",
+          "found_time": "2024-11-16 04:00:47",
+          "status": "active"
+        },
+        {
+          "domain": "westgateresorts.com",
+          "raw_url": "https://www.westgateresorts.com/hotels/nevada/las-vegas/westgate-las-vegas-resort-casino/casino/blackjack/",
+          "found_time": "2024-11-16 04:00:47",
+          "status": "active"
+        },
+        {
+          "domain": "unity.hardrock.com",
+          "raw_url": "https://unity.hardrock.com/benefits/self-pay-jackpot",
+          "found_time": "2024-11-16 04:00:47",
           "status": "active"
         }
       ]
