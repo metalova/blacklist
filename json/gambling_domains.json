@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:14:20",
+  "updated": "2024-11-16 15:18:25",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 198,
+      "count": 201,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41637,6 +41637,24 @@
           "domain": "periodontitis-treatment.com",
           "raw_url": "https://periodontitis-treatment.com/parlay-mobile-legend-14/",
           "found_time": "2024-11-16 08:14:19",
+          "status": "active"
+        },
+        {
+          "domain": "esportbethouse.com",
+          "raw_url": "https://esportbethouse.com/",
+          "found_time": "2024-11-16 08:14:20",
+          "status": "active"
+        },
+        {
+          "domain": "indonesia.shafaqna.com",
+          "raw_url": "https://indonesia.shafaqna.com/ID/AL/7226116",
+          "found_time": "2024-11-16 08:15:21",
+          "status": "active"
+        },
+        {
+          "domain": "sinarfakta.com",
+          "raw_url": "https://www.sinarfakta.com/2024/11/16/dpd-ri-bentuk-pansus-untuk-usut-jaringan-judi-online/",
+          "found_time": "2024-11-16 08:15:21",
           "status": "active"
         }
       ]
