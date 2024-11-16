@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:11:28
+! Last Updated: 2024-11-16 08:18:36
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4869
+! Number of unique domains: 4873
 !
 
 ||103.115.28.6^
@@ -580,6 +580,7 @@
 ||bhgre.com^
 ||bi-lawfirm.com^
 ||biancahome.com^
+||bidik.news^
 ||bierwohl.com^
 ||bigbluecarwash.com^
 ||bigcatchlongbeach.com^
@@ -1559,6 +1560,7 @@
 ||fst-usmba.ac.ma^
 ||ft.unsri.ac.id^
 ||ftbprimetime.com^
+||funda.nl^
 ||funnytime.live^
 ||fupchurch.org^
 ||futurefirsttech.io^
@@ -2857,6 +2859,7 @@
 ||moneyandtheruleoflaw.com^
 ||monkeyscrubs.com^
 ||monocliffsinn.com^
+||monorxata.com^
 ||moodle.org^
 ||moodle2021.tiranus.ac.id^
 ||mooncup.com^
@@ -3671,6 +3674,7 @@
 ||ronproctordds.com^
 ||roofing-fredericksburg.com^
 ||rosabar.com^
+||rosamunddean.com^
 ||rosatispizzawaukee.com^
 ||rossetti-productions.com^
 ||rotibakar88.com^
