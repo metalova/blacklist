@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:31:32
+! Last Updated: 2024-11-17 06:38:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5270
+! Number of unique domains: 5279
 !
 
 ||103.115.28.6^
@@ -201,6 +201,7 @@
 ||air-sdp.dephub.go.id^
 ||airassaults.com^
 ||airdays.co.kr^
+||airmerah.desa.id^
 ||airmet.pt^
 ||airpaz.com^
 ||airpurifierguide.org^
@@ -1751,6 +1752,7 @@
 ||getnectar.io^
 ||gettyimages.com^
 ||ggitalia.com^
+||ghanaguardian.com^
 ||ghhandyman.com^
 ||ghousiagroup.com^
 ||gicm.org^
@@ -1801,6 +1803,7 @@
 ||gosocial.co.id^
 ||gouffre-proumeyssac.com^
 ||gourmetworldmarket.com^
+||gpl-cargo.com^
 ||gr8.tech^
 ||grabcad.com^
 ||gradec.hr^
@@ -1921,6 +1924,7 @@
 ||helpdesk.dpd.go.id^
 ||hemhaltiyatro.com^
 ||hensbacka.com^
+||heritagefoodanddrink.com^
 ||herramientasrenzomilani.com^
 ||heylink.me^
 ||heyo.at^
@@ -3409,6 +3413,7 @@
 ||pa-kualakapuas.go.id^
 ||pa-ngamprah.go.id^
 ||pa-pangkajene.go.id^
+||pa-pasarwajo.go.id^
 ||pa-sukadana.go.id^
 ||pa-wamena.go.id^
 ||pabriktempe.id^
@@ -3933,6 +3938,7 @@
 ||resturahayu-desa.id^
 ||retro-synthwave.com^
 ||reutilizak.org^
+||revenue.nsw.gov.au^
 ||reverbnation.com^
 ||revista.ahf-filosofia.es^
 ||revistafraude.ufba.br^
@@ -4024,6 +4030,7 @@
 ||rsuppersahabatan.co.id^
 ||rtm.atmi.ac.id^
 ||rtp-semutwin.fun^
+||rtp-sumo138-akurat01.pages.dev^
 ||rtp.gacorclouds.workers.dev^
 ||rtpgacorcerutu4d.net^
 ||rtplaw.com^
@@ -4365,6 +4372,7 @@
 ||smknbulopolman.sch.id^
 ||smknukesesi.sch.id^
 ||smkpgri2prabumulih.sch.id^
+||smksatyapraja1petarukan.sch.id^
 ||smoresmusic.com^
 ||smpalfacentauri.sch.id^
 ||smpn1kuningan.sch.id^
@@ -5212,6 +5220,7 @@
 ||yahoo.com^
 ||yakaligaamplagi.pages.dev^
 ||yakisoba-miura.com^
+||yakpidaarulfalah.sch.id^
 ||yangpentingdateng.pages.dev^
 ||yankes.kemkes.go.id^
 ||yaperti-gpm.org^

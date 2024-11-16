@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:31:32",
+  "updated": "2024-11-17 06:38:41",
   "categories": {
     "slot": {
-      "count": 5270,
+      "count": 5279,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31622,6 +31622,60 @@
           "domain": "norumail.com",
           "raw_url": "https://norumail.com/?id=55k-bet",
           "found_time": "2024-11-16 23:31:32",
+          "status": "active"
+        },
+        {
+          "domain": "revenue.nsw.gov.au",
+          "raw_url": "https://www.revenue.nsw.gov.au/contact",
+          "found_time": "2024-11-16 23:31:32",
+          "status": "active"
+        },
+        {
+          "domain": "pa-pasarwajo.go.id",
+          "raw_url": "https://pa-pasarwajo.go.id/",
+          "found_time": "2024-11-16 23:36:36",
+          "status": "active"
+        },
+        {
+          "domain": "ghanaguardian.com",
+          "raw_url": "https://ghanaguardian.com/video-watch-highlights-of-black-meteors-win-over-algeria",
+          "found_time": "2024-11-16 23:36:37",
+          "status": "active"
+        },
+        {
+          "domain": "rtp-sumo138-akurat01.pages.dev",
+          "raw_url": "https://rtp-sumo138-akurat01.pages.dev/pgsoft",
+          "found_time": "2024-11-16 23:37:39",
+          "status": "active"
+        },
+        {
+          "domain": "smksatyapraja1petarukan.sch.id",
+          "raw_url": "https://smksatyapraja1petarukan.sch.id/",
+          "found_time": "2024-11-16 23:37:39",
+          "status": "active"
+        },
+        {
+          "domain": "yakpidaarulfalah.sch.id",
+          "raw_url": "https://yakpidaarulfalah.sch.id/mmid2/",
+          "found_time": "2024-11-16 23:37:39",
+          "status": "active"
+        },
+        {
+          "domain": "heritagefoodanddrink.com",
+          "raw_url": "https://heritagefoodanddrink.com/home.html",
+          "found_time": "2024-11-16 23:37:40",
+          "status": "active"
+        },
+        {
+          "domain": "gpl-cargo.com",
+          "raw_url": "https://gpl-cargo.com/",
+          "found_time": "2024-11-16 23:37:40",
+          "status": "active"
+        },
+        {
+          "domain": "airmerah.desa.id",
+          "raw_url": "https://airmerah.desa.id/apbd/maxwin+138/",
+          "found_time": "2024-11-16 23:38:41",
           "status": "active"
         }
       ]
