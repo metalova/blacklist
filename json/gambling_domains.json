@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 11:19:24",
+  "updated": "2024-11-16 11:24:33",
   "categories": {
     "slot": {
       "count": 4987,
@@ -29929,7 +29929,7 @@
       ]
     },
     "casino": {
-      "count": 382,
+      "count": 390,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -32221,6 +32221,54 @@
           "domain": "id.hotels.com",
           "raw_url": "https://id.hotels.com/ho540971/grand-casino-hotel-and-resort-shawnee-amerika-serikat/",
           "found_time": "2024-11-16 04:19:23",
+          "status": "active"
+        },
+        {
+          "domain": "hotel.hardrock.com",
+          "raw_url": "https://hotel.hardrock.com/punta-cana/rock-royalty.aspx",
+          "found_time": "2024-11-16 04:19:23",
+          "status": "active"
+        },
+        {
+          "domain": "grandcasinotirana.com",
+          "raw_url": "https://grandcasinotirana.com/",
+          "found_time": "2024-11-16 04:20:25",
+          "status": "active"
+        },
+        {
+          "domain": "ietkenya.org",
+          "raw_url": "https://ietkenya.org/store.php?login/casino%20indonesia#!",
+          "found_time": "2024-11-16 04:22:30",
+          "status": "active"
+        },
+        {
+          "domain": "360info.org",
+          "raw_url": "https://360info.org/indonesia-has-to-hold-or-fold-on-online-gambling-ban/",
+          "found_time": "2024-11-16 04:22:30",
+          "status": "active"
+        },
+        {
+          "domain": "pkm-golowelu.manggaraibaratkab.go.id",
+          "raw_url": "https://pkm-golowelu.manggaraibaratkab.go.id/demo/casino-deposit-bank-china-construction-bank-indonesia.html",
+          "found_time": "2024-11-16 04:22:30",
+          "status": "active"
+        },
+        {
+          "domain": "jakartaglobe.id",
+          "raw_url": "https://jakartaglobe.id/vision/inside-north-jakartas-secret-casino",
+          "found_time": "2024-11-16 04:22:31",
+          "status": "active"
+        },
+        {
+          "domain": "indonesia.travel",
+          "raw_url": "https://www.indonesia.travel/gb/en/general-information/local-law.html",
+          "found_time": "2024-11-16 04:22:31",
+          "status": "active"
+        },
+        {
+          "domain": "web.margasari.desa.id",
+          "raw_url": "https://web.margasari.desa.id/susunan/casino-pandora188/",
+          "found_time": "2024-11-16 04:23:32",
           "status": "active"
         }
       ]
