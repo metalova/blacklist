@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 09:58:30",
+  "updated": "2024-11-16 10:02:33",
   "categories": {
     "slot": {
-      "count": 4966,
+      "count": 4968,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29798,6 +29798,18 @@
           "domain": "link-register.pages.dev",
           "raw_url": "https://link-register.pages.dev/elchapo?elchapo=MEGAWIN",
           "found_time": "2024-11-16 02:58:29",
+          "status": "active"
+        },
+        {
+          "domain": "ipjibaskembali.pages.dev",
+          "raw_url": "https://ipjibaskembali.pages.dev/E-Klaim/raden/?hoki=MEGAWIN",
+          "found_time": "2024-11-16 02:58:30",
+          "status": "active"
+        },
+        {
+          "domain": "sekolahidetoto.pages.dev",
+          "raw_url": "https://sekolahidetoto.pages.dev/MEGAWIN",
+          "found_time": "2024-11-16 03:00:31",
           "status": "active"
         }
       ]

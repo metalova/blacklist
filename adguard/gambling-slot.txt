@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 09:58:30
+! Last Updated: 2024-11-16 10:02:33
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4966
+! Number of unique domains: 4968
 !
 
 ||103.115.28.6^
@@ -2033,6 +2033,7 @@
 ||iotglobalnetwork.com^
 ||ipclogistic.co.id^
 ||iphoneappsfinder.com^
+||ipjibaskembali.pages.dev^
 ||iqos.com^
 ||irafu.id^
 ||iraqistudentproject.org^
@@ -3903,6 +3904,7 @@
 ||seisapikuindonesia.com^
 ||sekarlaut.com^
 ||sekata.id^
+||sekolahidetoto.pages.dev^
 ||sellamaperuceviche.com^
 ||selli.desa.id^
 ||semarapuraklod.desa.id^
