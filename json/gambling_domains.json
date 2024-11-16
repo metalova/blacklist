@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 03:24:48",
+  "updated": "2024-11-17 03:29:54",
   "categories": {
     "slot": {
       "count": 5192,
@@ -44480,7 +44480,7 @@
       ]
     },
     "others": {
-      "count": 266,
+      "count": 269,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -46076,6 +46076,24 @@
           "domain": "prosidingsinopsi.unmer.ac.id",
           "raw_url": "https://prosidingsinopsi.unmer.ac.id/index.php/sinopsi/article/download/81/83/269",
           "found_time": "2024-11-16 20:22:46",
+          "status": "active"
+        },
+        {
+          "domain": "bokormas.com",
+          "raw_url": "http://www.bokormas.com/",
+          "found_time": "2024-11-16 20:24:48",
+          "status": "active"
+        },
+        {
+          "domain": "sawitku.id",
+          "raw_url": "https://www.sawitku.id/nasional/81413956006/bri-blokir-lebih-dari-3-ribu-rekening-terindikasi-judi-online",
+          "found_time": "2024-11-16 20:25:49",
+          "status": "active"
+        },
+        {
+          "domain": "baznas.go.id",
+          "raw_url": "https://baznas.go.id/news-show/Berantas_Judi_Online_di_Indonesia,_BAZNAS_Dorong_Optimalisasi_Pemanfaatan_Zakat/2316",
+          "found_time": "2024-11-16 20:26:51",
           "status": "active"
         }
       ]

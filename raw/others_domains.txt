@@ -26,6 +26,7 @@ bakorwilbojonegoro.jatimprov.go.id
 banjarkota.go.id
 bappenda.cimahikota.go.id
 batastimor.com
+baznas.go.id
 belasting.id
 belitongekspres.bacakoran.co
 beritasenator.com
@@ -34,6 +35,7 @@ bicarabaik.id
 bicaranetwork.com
 blog.modalku.co.id
 bnm-crb.pages.dev
+bokormas.com
 boss99-baritoselatankab-paling-gacor.pages.dev
 bspjimedan.kemenperin.go.id
 bukamatanews.id
@@ -222,6 +224,7 @@ rmolsumut.id
 roth.azulik.com
 ruanganinfo.com
 runningguild.com
+sawitku.id
 selingkarwilis.com
 selular.id
 setneg.go.id

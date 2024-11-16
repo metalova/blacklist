@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 03:24:48
+! Last Updated: 2024-11-17 03:29:54
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 266
+! Number of unique domains: 269
 !
 
 ||abatanews.com^
@@ -32,6 +32,7 @@
 ||banjarkota.go.id^
 ||bappenda.cimahikota.go.id^
 ||batastimor.com^
+||baznas.go.id^
 ||belasting.id^
 ||belitongekspres.bacakoran.co^
 ||beritasenator.com^
@@ -40,6 +41,7 @@
 ||bicaranetwork.com^
 ||blog.modalku.co.id^
 ||bnm-crb.pages.dev^
+||bokormas.com^
 ||boss99-baritoselatankab-paling-gacor.pages.dev^
 ||bspjimedan.kemenperin.go.id^
 ||bukamatanews.id^
@@ -228,6 +230,7 @@
 ||roth.azulik.com^
 ||ruanganinfo.com^
 ||runningguild.com^
+||sawitku.id^
 ||selingkarwilis.com^
 ||selular.id^
 ||setneg.go.id^
