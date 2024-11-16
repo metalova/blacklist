@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 22:23:41",
+  "updated": "2024-11-16 22:29:53",
   "categories": {
     "slot": {
       "count": 5192,
@@ -31159,7 +31159,7 @@
       ]
     },
     "casino": {
-      "count": 454,
+      "count": 458,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33883,6 +33883,30 @@
           "domain": "inlislite.pap.ac.id",
           "raw_url": "https://inlislite.pap.ac.id/inlislite3/keanggotaan/web/?18=jackpot%20casino",
           "found_time": "2024-11-16 15:23:40",
+          "status": "active"
+        },
+        {
+          "domain": "tableau.com",
+          "raw_url": "https://www.tableau.com/solutions/customer/igt-hits-jackpot-casino-data",
+          "found_time": "2024-11-16 15:23:40",
+          "status": "active"
+        },
+        {
+          "domain": "casinoambassador.cz",
+          "raw_url": "https://casinoambassador.cz/",
+          "found_time": "2024-11-16 15:28:50",
+          "status": "active"
+        },
+        {
+          "domain": "ottawabluesfest.ca",
+          "raw_url": "https://ottawabluesfest.ca/premium-tickets/hotel-casino-lac-leamy-suites/",
+          "found_time": "2024-11-16 15:28:50",
+          "status": "active"
+        },
+        {
+          "domain": "p-city.com",
+          "raw_url": "https://www.p-city.com/front/casino/overview",
+          "found_time": "2024-11-16 15:29:53",
           "status": "active"
         }
       ]
