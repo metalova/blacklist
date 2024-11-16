@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 00:43:15",
+  "updated": "2024-11-17 00:48:45",
   "categories": {
     "slot": {
       "count": 5192,
@@ -34086,7 +34086,7 @@
       ]
     },
     "togel": {
-      "count": 769,
+      "count": 780,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -38700,6 +38700,72 @@
           "domain": "antarafoto.com",
           "raw_url": "https://www.antarafoto.com/id/amp/view/514269/rilis-judi-togel-online",
           "found_time": "2024-11-16 17:43:14",
+          "status": "active"
+        },
+        {
+          "domain": "clinemedical.com",
+          "raw_url": "https://www.clinemedical.com/",
+          "found_time": "2024-11-16 17:43:15",
+          "status": "active"
+        },
+        {
+          "domain": "luxurymediawalls.com",
+          "raw_url": "https://luxurymediawalls.com/?srsltid=AfmBOoqqu29DLdiCxkMyfFzzZxBfTKEk9R1tb-031osN8zA_iDmyOWiA",
+          "found_time": "2024-11-16 17:46:18",
+          "status": "active"
+        },
+        {
+          "domain": "billyssylvanpark.com",
+          "raw_url": "https://www.billyssylvanpark.com/",
+          "found_time": "2024-11-16 17:46:18",
+          "status": "active"
+        },
+        {
+          "domain": "colonialcrematorium.com",
+          "raw_url": "https://www.colonialcrematorium.com/",
+          "found_time": "2024-11-16 17:47:21",
+          "status": "active"
+        },
+        {
+          "domain": "citradata.id",
+          "raw_url": "https://citradata.id/?legacy=PENGELUARAN-SYDNEY",
+          "found_time": "2024-11-16 17:47:21",
+          "status": "active"
+        },
+        {
+          "domain": "pro93homesolutions.com",
+          "raw_url": "https://www.pro93homesolutions.com/",
+          "found_time": "2024-11-16 17:48:42",
+          "status": "active"
+        },
+        {
+          "domain": "303rockwood.com",
+          "raw_url": "https://303rockwood.com/amp/",
+          "found_time": "2024-11-16 17:48:43",
+          "status": "active"
+        },
+        {
+          "domain": "aeic2014bilbao.org",
+          "raw_url": "https://www.aeic2014bilbao.org/amp",
+          "found_time": "2024-11-16 17:48:43",
+          "status": "active"
+        },
+        {
+          "domain": "cofrtn.org",
+          "raw_url": "https://cofrtn.org/amp",
+          "found_time": "2024-11-16 17:48:43",
+          "status": "active"
+        },
+        {
+          "domain": "ewaconference.com",
+          "raw_url": "https://ewaconference.com/amp/",
+          "found_time": "2024-11-16 17:48:44",
+          "status": "active"
+        },
+        {
+          "domain": "greshamsistercity.org",
+          "raw_url": "https://www.greshamsistercity.org/",
+          "found_time": "2024-11-16 17:48:44",
           "status": "active"
         }
       ]

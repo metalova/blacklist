@@ -1,10 +1,11 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 00:43:15
+! Last Updated: 2024-11-17 00:48:45
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 769
+! Number of unique domains: 780
 !
 
 ||087ina.com^
+||303rockwood.com^
 ||30seconds.com^
 ||32cemarawin.com^
 ||4sehat5sekarat.xyz^
@@ -20,6 +21,7 @@
 ||adktla.com^
 ||admin.internity.smkn1cibinong.sch.id^
 ||adventistunity2017.com^
+||aeic2014bilbao.org^
 ||agadiragreement.org^
 ||agenciaingenium.cl^
 ||agroteknologi.unpal.ac.id^
@@ -77,6 +79,7 @@
 ||bicentenariochile.cl^
 ||bigboil.it.com^
 ||bigwaterbrewery.net^
+||billyssylvanpark.com^
 ||bisariset.id^
 ||bisuteriaryr.com^
 ||bitrstudio.com^
@@ -123,9 +126,11 @@
 ||christianlyricist.com^
 ||chunkythread.com^
 ||cirdap.org^
+||citradata.id^
 ||clankeithusa.org^
 ||claudiaeberger.com^
 ||cleanocd.com^
+||clinemedical.com^
 ||clinicaderodillas.com.mx^
 ||co.tehama.ca.us^
 ||coastalgeorgiacouncil.org^
@@ -134,7 +139,9 @@
 ||coconutspiceyoganaturopathy.com^
 ||coffee-dojo.com^
 ||coffeecounty-tn.com^
+||cofrtn.org^
 ||coliseumrenovation.com^
+||colonialcrematorium.com^
 ||como-son.net^
 ||compound13.org^
 ||conference.eka-prasetya.ac.id^
@@ -221,6 +228,7 @@
 ||evettamadeit.com^
 ||evimeria.io^
 ||evobiolab.biol.amu.edu.pl^
+||ewaconference.com^
 ||excellentones.com^
 ||exoticosysalvajes.com^
 ||eyeforeyewestern.com^
@@ -271,6 +279,7 @@
 ||goodfoodbarnsley.org^
 ||goodthinkingsociety.org^
 ||grandefabrictex.com^
+||greshamsistercity.org^
 ||gunesgozlugu.com^
 ||gvscolombia.com^
 ||gwenchanna.com^
@@ -399,6 +408,7 @@
 ||lsp-daimaru.id^
 ||lubbockintegrative.com^
 ||lumerestaurante.com^
+||luxurymediawalls.com^
 ||lyricbuscentre.com^
 ||m.riaukontras.com^
 ||m.vidio.com^
@@ -534,6 +544,7 @@
 ||prettyvalley.com^
 ||priaidaman.xyz^
 ||princes1000.com^
+||pro93homesolutions.com^
 ||proakademia.wsnp.edu.pl^
 ||probuildersgy.com^
 ||producthunt.com^
