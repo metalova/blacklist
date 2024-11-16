@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-16 15:39:29
+! Last Updated: 2024-11-16 15:43:51
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 7158
+! Number of domains: 7178
 !
 
 ! Category: SLOT
@@ -7176,4 +7176,24 @@
 ||deduktif.id^
 ||agsort.cz^
 ||rmolsumut.id^
+||journalnusantara.com^
+||jatimpos.co^
+||nunheadknocks.com^
+||filmbox21.lecnam.inphb.ci^
+||encounterghosts.com^
+||pipsm.com^
+||srisakthirolling.com^
+||ricksbarandgrill.com^
+||guetilang.com^
+||forum.gdevelop.io^
+||radarlampung.disway.id^
+||mahara.hu^
+||x-bionicsphere.com^
+||pngwing.com^
+||mascoolin.id^
+||prakerin.smktaq-wsb.sch.id^
+||hispanicleadershipfund.org^
+||ejurnal.kampusakademik.co.id^
+||review-unes.com^
+||context.id^
 
