@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-16 15:09:09",
+  "updated": "2024-11-16 15:14:20",
   "categories": {
     "slot": {
       "count": 4987,
@@ -40449,7 +40449,7 @@
       ]
     },
     "esports": {
-      "count": 191,
+      "count": 198,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -41595,6 +41595,48 @@
           "domain": "betwinner.com.gh",
           "raw_url": "https://betwinner.com.gh/en/line/esports/2752250-mobile-legends-mlbb-continental-championships",
           "found_time": "2024-11-16 08:09:08",
+          "status": "active"
+        },
+        {
+          "domain": "rodamaxwin.com",
+          "raw_url": "https://www.rodamaxwin.com/index",
+          "found_time": "2024-11-16 08:09:09",
+          "status": "active"
+        },
+        {
+          "domain": "ymusic.id.uptodown.com",
+          "raw_url": "https://ymusic.id.uptodown.com/android/download",
+          "found_time": "2024-11-16 08:10:10",
+          "status": "active"
+        },
+        {
+          "domain": "betwinner.co.mz",
+          "raw_url": "https://betwinner.co.mz/id/line/esports/2475702-pubg-mobile-global-championship-group-red-winner",
+          "found_time": "2024-11-16 08:10:11",
+          "status": "active"
+        },
+        {
+          "domain": "barquiote.com",
+          "raw_url": "https://www.barquiote.com/",
+          "found_time": "2024-11-16 08:11:12",
+          "status": "active"
+        },
+        {
+          "domain": "betflorida.com",
+          "raw_url": "https://www.betflorida.com/esports",
+          "found_time": "2024-11-16 08:12:14",
+          "status": "active"
+        },
+        {
+          "domain": "arabswin.com",
+          "raw_url": "https://www.arabswin.com/en/esports-betting/",
+          "found_time": "2024-11-16 08:14:19",
+          "status": "active"
+        },
+        {
+          "domain": "periodontitis-treatment.com",
+          "raw_url": "https://periodontitis-treatment.com/parlay-mobile-legend-14/",
+          "found_time": "2024-11-16 08:14:19",
           "status": "active"
         }
       ]
