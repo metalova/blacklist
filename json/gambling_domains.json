@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 04:49:25",
+  "updated": "2024-11-17 04:54:40",
   "categories": {
     "slot": {
-      "count": 5218,
+      "count": 5226,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31310,6 +31310,54 @@
           "domain": "sosial.sippikola.langsakota.go.id",
           "raw_url": "https://sosial.sippikola.langsakota.go.id/",
           "found_time": "2024-11-16 21:47:22",
+          "status": "active"
+        },
+        {
+          "domain": "slotvip.id",
+          "raw_url": "https://slotvip.id/",
+          "found_time": "2024-11-16 21:49:25",
+          "status": "active"
+        },
+        {
+          "domain": "mavericksbarandgrill.com",
+          "raw_url": "https://mavericksbarandgrill.com/",
+          "found_time": "2024-11-16 21:51:30",
+          "status": "active"
+        },
+        {
+          "domain": "stai-almujtama.ac.id",
+          "raw_url": "https://stai-almujtama.ac.id/",
+          "found_time": "2024-11-16 21:51:31",
+          "status": "active"
+        },
+        {
+          "domain": "pafinabire.org",
+          "raw_url": "https://pafinabire.org/",
+          "found_time": "2024-11-16 21:51:31",
+          "status": "active"
+        },
+        {
+          "domain": "papdi.or.id",
+          "raw_url": "https://www.papdi.or.id/",
+          "found_time": "2024-11-16 21:53:35",
+          "status": "active"
+        },
+        {
+          "domain": "simpeg.tubaba.go.id",
+          "raw_url": "http://simpeg.tubaba.go.id/",
+          "found_time": "2024-11-16 21:53:35",
+          "status": "active"
+        },
+        {
+          "domain": "kedaisingkawang.pages.dev",
+          "raw_url": "https://kedaisingkawang.pages.dev/",
+          "found_time": "2024-11-16 21:54:39",
+          "status": "active"
+        },
+        {
+          "domain": "rovac-my.vercel.app",
+          "raw_url": "https://rovac-my.vercel.app/rovac-my/",
+          "found_time": "2024-11-16 21:54:40",
           "status": "active"
         }
       ]
