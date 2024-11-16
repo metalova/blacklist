@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 21:59:53
+! Last Updated: 2024-11-16 22:04:02
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5191
+! Number of unique domains: 5192
 !
 
 ||103.115.28.6^
@@ -279,6 +279,7 @@
 ||ampq.org^
 ||ampsakti.ivermectinytab.com^
 ||ampslotvalid.offcolortv.com^
+||ampsoul.pages.dev^
 ||ampt4d.pages.dev^
 ||ampun.diblast.com^
 ||ampv99.pages.dev^

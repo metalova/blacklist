@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 21:59:53",
+  "updated": "2024-11-16 22:04:02",
   "categories": {
     "slot": {
-      "count": 5191,
+      "count": 5192,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31149,11 +31149,17 @@
           "raw_url": "https://situswin-amp.pages.dev/",
           "found_time": "2024-11-16 14:59:52",
           "status": "active"
+        },
+        {
+          "domain": "ampsoul.pages.dev",
+          "raw_url": "https://ampsoul.pages.dev/?page=SITUSWIN",
+          "found_time": "2024-11-16 14:59:53",
+          "status": "active"
         }
       ]
     },
     "casino": {
-      "count": 429,
+      "count": 436,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -33727,6 +33733,48 @@
           "domain": "casinogambx.com",
           "raw_url": "https://casinogambx.com/",
           "found_time": "2024-11-16 05:11:31",
+          "status": "active"
+        },
+        {
+          "domain": "theofficedubai.com",
+          "raw_url": "https://theofficedubai.com/promotion/live-casino",
+          "found_time": "2024-11-16 15:00:55",
+          "status": "active"
+        },
+        {
+          "domain": "ptjmi.co.id",
+          "raw_url": "https://www.ptjmi.co.id/wp-content/themes/xia/",
+          "found_time": "2024-11-16 15:01:57",
+          "status": "active"
+        },
+        {
+          "domain": "hidayatullah.com",
+          "raw_url": "https://hidayatullah.com/berita/2023/09/05/257449/bandar-judi-kasino-banjiri-dubai-uea-bentuk-lembaga-permainan-komersial.html",
+          "found_time": "2024-11-16 15:03:00",
+          "status": "active"
+        },
+        {
+          "domain": "infotoday.id",
+          "raw_url": "https://www.infotoday.id/polda-kepri-akan-periksa-dugaan-judi-bola-pingpong-di-ktv-formosa-residence/",
+          "found_time": "2024-11-16 15:03:00",
+          "status": "active"
+        },
+        {
+          "domain": "vannlifepench.com",
+          "raw_url": "https://www.vannlifepench.com/",
+          "found_time": "2024-11-16 15:03:00",
+          "status": "active"
+        },
+        {
+          "domain": "my.ciomas2.sch.id",
+          "raw_url": "https://my.ciomas2.sch.id/assets/css/data/?berita=JUDI+CASINO",
+          "found_time": "2024-11-16 15:03:01",
+          "status": "active"
+        },
+        {
+          "domain": "malangkota.go.id",
+          "raw_url": "https://malangkota.go.id/2024/05/11/pelaku-judi-online-bisa-dijerat-uu-ite/",
+          "found_time": "2024-11-16 15:04:02",
           "status": "active"
         }
       ]
