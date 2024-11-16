@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 03:54:34
+! Last Updated: 2024-11-17 03:58:51
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5198
+! Number of unique domains: 5204
 !
 
 ||103.115.28.6^
@@ -1870,6 +1870,7 @@
 ||hasinishelbroadway.com^
 ||hassellcastle.com^
 ||haute-edition.com^
+||havuzluasmazlar.com^
 ||hawaiwaterpark.com^
 ||hawkinshouseevents.com^
 ||hawndev.org^
@@ -2040,6 +2041,7 @@
 ||ijisc.com.pk^
 ||ijmpr.org^
 ||ijsenchocolade.shop^
+||ijstm.inarah.co.id^
 ||ikebanasushifusion.com^
 ||ikinciel.vsbgrup.com.tr^
 ||ikoyo-nishiizu.jp^
@@ -2220,6 +2222,7 @@
 ||jeep4ds.com^
 ||jeep4dslot.net^
 ||jeep4dtoto.com^
+||jeevarakshai.com^
 ||jelliscraig.com.au^
 ||jenniferdevine.com^
 ||jennypennyphoto.com^
@@ -3139,6 +3142,7 @@
 ||msn.com^
 ||msp.upr.ac.id^
 ||mstokekwin.pages.dev^
+||msudenverchampions.com^
 ||mtecenergia.com^
 ||mtsalmukarromah.sch.id^
 ||mtsmacintamulya.sch.id^
@@ -4208,6 +4212,7 @@
 ||sipintar.pa-jayapura.go.id^
 ||sipintar.sulselprov.go.id^
 ||sipita.dishub.riau.go.id^
+||siplawfirm.id^
 ||sipp.ms-lhokseumawe.go.id^
 ||sipp.pa-kotamadiun.go.id^
 ||sipp.pn-bulukumba.go.id^
@@ -5104,6 +5109,7 @@
 ||wisdomtoto.com^
 ||wisdomtoto.my.id^
 ||wisma-sukajadi.kemkes.go.id^
+||wister-sa.com^
 ||wisuda.umt.ac.id^
 ||witchuniversity.com^
 ||witny.org^

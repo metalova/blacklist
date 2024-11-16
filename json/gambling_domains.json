@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 03:54:34",
+  "updated": "2024-11-17 03:58:51",
   "categories": {
     "slot": {
-      "count": 5198,
+      "count": 5204,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31190,6 +31190,42 @@
           "domain": "radarsampit.com",
           "raw_url": "https://www.radarsampit.com/berita/jangan-terkcoh-seperti-inilah-cara-kerja-mesin-judi-online-dalam-menjerat-korbannya.html/2",
           "found_time": "2024-11-16 20:54:34",
+          "status": "active"
+        },
+        {
+          "domain": "siplawfirm.id",
+          "raw_url": "https://siplawfirm.id/pelaku-judi-online-dapat-diancam-hukuman-6-tahun-penjara/?lang=id",
+          "found_time": "2024-11-16 20:54:34",
+          "status": "active"
+        },
+        {
+          "domain": "jeevarakshai.com",
+          "raw_url": "https://www.jeevarakshai.com/rnd/",
+          "found_time": "2024-11-16 20:55:41",
+          "status": "active"
+        },
+        {
+          "domain": "wister-sa.com",
+          "raw_url": "https://wister-sa.com/",
+          "found_time": "2024-11-16 20:55:41",
+          "status": "active"
+        },
+        {
+          "domain": "msudenverchampions.com",
+          "raw_url": "https://www.msudenverchampions.com/",
+          "found_time": "2024-11-16 20:55:42",
+          "status": "active"
+        },
+        {
+          "domain": "ijstm.inarah.co.id",
+          "raw_url": "https://ijstm.inarah.co.id/",
+          "found_time": "2024-11-16 20:55:42",
+          "status": "active"
+        },
+        {
+          "domain": "havuzluasmazlar.com",
+          "raw_url": "https://havuzluasmazlar.com/",
+          "found_time": "2024-11-16 20:55:42",
           "status": "active"
         }
       ]
