@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 08:18:36",
+  "updated": "2024-11-16 08:24:41",
   "categories": {
     "slot": {
-      "count": 4873,
+      "count": 4877,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -29240,6 +29240,30 @@
           "domain": "monorxata.com",
           "raw_url": "https://monorxata.com/",
           "found_time": "2024-11-16 01:17:35",
+          "status": "active"
+        },
+        {
+          "domain": "klzevents.com",
+          "raw_url": "https://www.klzevents.com/",
+          "found_time": "2024-11-16 01:18:36",
+          "status": "active"
+        },
+        {
+          "domain": "tv.bioskop21.gay",
+          "raw_url": "https://tv.bioskop21.gay/nonton-juq-416-saya-dihamili-oleh-sahabat-suami-rei-kimura/",
+          "found_time": "2024-11-16 01:21:38",
+          "status": "active"
+        },
+        {
+          "domain": "wisdom.odira.co.id",
+          "raw_url": "https://wisdom.odira.co.id/",
+          "found_time": "2024-11-16 01:23:40",
+          "status": "active"
+        },
+        {
+          "domain": "journal.takaza.id",
+          "raw_url": "https://journal.takaza.id/budi/?komdigi=kuda4d",
+          "found_time": "2024-11-16 01:23:40",
           "status": "active"
         }
       ]

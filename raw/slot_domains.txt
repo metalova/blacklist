@@ -2130,6 +2130,7 @@ journal.polbitrada.ac.id
 journal.poltekpelaceh.ac.id
 journal.stiba.ac.id
 journal.stitaf.ac.id
+journal.takaza.id
 journal.ubl.ac.id
 journal.unisnu.ac.id
 journal.univawalbros.ac.id
@@ -2307,6 +2308,7 @@ klikjatim.com
 klikslotsfly.com
 klinikpratamapoldajambi.com
 klobility.id
+klzevents.com
 kmi.id
 knockknockny.com
 knotjustyarn.com
@@ -4539,6 +4541,7 @@ tulangkuat.com
 tumblr.com
 tunnelwalkofshame.com
 tuttobenemilano.com
+tv.bioskop21.gay
 tv1.nontonjavid.net
 tvonenews.com
 twid.studio
@@ -4777,6 +4780,7 @@ winslot11.net
 winsroyal.com
 winterhearth.co
 winwin.com.gh
+wisdom.odira.co.id
 wisdomtoto.co
 wisdomtoto.com
 wisdomtoto.my.id
