@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 17:50:21",
+  "updated": "2024-11-16 17:59:33",
   "categories": {
     "slot": {
-      "count": 5032,
+      "count": 5037,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30194,6 +30194,36 @@
           "domain": "selalubersamakawan.pages.dev",
           "raw_url": "https://selalubersamakawan.pages.dev/",
           "found_time": "2024-11-16 10:48:18",
+          "status": "active"
+        },
+        {
+          "domain": "pkm.umj.ac.id",
+          "raw_url": "https://pkm.umj.ac.id/",
+          "found_time": "2024-11-16 10:50:21",
+          "status": "active"
+        },
+        {
+          "domain": "sipaling-prakerja.pages.dev",
+          "raw_url": "https://sipaling-prakerja.pages.dev/?data=DATA%20TOGEL%20INGGRIS",
+          "found_time": "2024-11-16 10:55:27",
+          "status": "active"
+        },
+        {
+          "domain": "semut69-amp.com",
+          "raw_url": "https://semut69-amp.com/",
+          "found_time": "2024-11-16 10:55:28",
+          "status": "active"
+        },
+        {
+          "domain": "salonthairapy.net",
+          "raw_url": "https://salonthairapy.net/",
+          "found_time": "2024-11-16 10:55:28",
+          "status": "active"
+        },
+        {
+          "domain": "flavourindia.com",
+          "raw_url": "https://flavourindia.com/",
+          "found_time": "2024-11-16 10:58:31",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 17:50:21
+! Last Updated: 2024-11-16 17:59:32
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5032
+! Number of unique domains: 5037
 !
 
 ||103.115.28.6^
@@ -1558,6 +1558,7 @@
 ||flashpaperwand.com^
 ||flatironlounge.com^
 ||flavasrestaurants.com^
+||flavourindia.com^
 ||fleetminds.com^
 ||flexihoki21.com^
 ||flickr.com^
@@ -3454,6 +3455,7 @@
 ||pkkb.ac.id^
 ||pkkmbonline.ubpkarawang.ac.id^
 ||pkm-duhiadaa.pohuwatokab.go.id^
+||pkm.umj.ac.id^
 ||planeerijad.ee^
 ||planet.opennews.org^
 ||planetasanogentesana.com^
@@ -3892,6 +3894,7 @@
 ||sallycapp.com^
 ||salonfifty4thirty.com^
 ||salonlachop.com^
+||salonthairapy.net^
 ||salutstkomsaptacomputer.id^
 ||salvadorastudios.com^
 ||sambas.go.id^
@@ -3966,6 +3969,7 @@
 ||semarapuraklod.desa.id^
 ||semenpadanghospital.co.id^
 ||semiaccurate.com^
+||semut69-amp.com^
 ||senegrill.com^
 ||senggol138a.click^
 ||seopisanggrg.pages.dev^
@@ -4063,6 +4067,7 @@
 ||sintuk.id^
 ||sipada.sulbarprov.go.id^
 ||sipafipcngamprah.org^
+||sipaling-prakerja.pages.dev^
 ||sipeg.musirawaskab.go.id^
 ||sipena.samarindakota.go.id^
 ||sipenwaru.assalaam.or.id^
