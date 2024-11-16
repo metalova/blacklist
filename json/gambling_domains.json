@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 02:40:26",
+  "updated": "2024-11-17 03:19:39",
   "categories": {
     "slot": {
       "count": 5192,
@@ -44480,7 +44480,7 @@
       ]
     },
     "others": {
-      "count": 249,
+      "count": 258,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -45974,6 +45974,60 @@
           "domain": "mnp.ac.id",
           "raw_url": "https://mnp.ac.id/judi-online/",
           "found_time": "2024-11-16 19:40:26",
+          "status": "active"
+        },
+        {
+          "domain": "permatabank.com",
+          "raw_url": "https://www.permatabank.com/id/article/waspada-judi-online",
+          "found_time": "2024-11-16 19:40:26",
+          "status": "active"
+        },
+        {
+          "domain": "mccombwholesale.com",
+          "raw_url": "https://www.mccombwholesale.com/amp/",
+          "found_time": "2024-11-16 20:18:34",
+          "status": "active"
+        },
+        {
+          "domain": "witwan-www.vercel.app",
+          "raw_url": "https://witwan-www.vercel.app/web/",
+          "found_time": "2024-11-16 20:18:35",
+          "status": "active"
+        },
+        {
+          "domain": "lvonline17064192239.pages.dev",
+          "raw_url": "https://lvonline17064192239.pages.dev/",
+          "found_time": "2024-11-16 20:19:37",
+          "status": "active"
+        },
+        {
+          "domain": "uzone.id",
+          "raw_url": "https://uzone.id/ramai-streamer-game-promo-judi-online-moonton-dan-mpl-buka-suara-",
+          "found_time": "2024-11-16 20:19:37",
+          "status": "active"
+        },
+        {
+          "domain": "yaspan.pages.dev",
+          "raw_url": "https://yaspan.pages.dev/?cartel=FREEBET%20JUDI",
+          "found_time": "2024-11-16 20:19:38",
+          "status": "active"
+        },
+        {
+          "domain": "jpnn.com",
+          "raw_url": "https://www.jpnn.com/news/promosikan-situs-judi-online-selebgram-semarang-ini-terancam-10-tahun-penjara",
+          "found_time": "2024-11-16 20:19:38",
+          "status": "active"
+        },
+        {
+          "domain": "nateyum.pages.dev",
+          "raw_url": "https://nateyum.pages.dev/",
+          "found_time": "2024-11-16 20:19:38",
+          "status": "active"
+        },
+        {
+          "domain": "boss99-baritoselatankab-paling-gacor.pages.dev",
+          "raw_url": "https://boss99-baritoselatankab-paling-gacor.pages.dev/?toko=FREEBET%20JUDI",
+          "found_time": "2024-11-16 20:19:39",
           "status": "active"
         }
       ]

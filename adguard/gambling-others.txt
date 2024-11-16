@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 02:40:26
+! Last Updated: 2024-11-17 03:19:39
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 249
+! Number of unique domains: 258
 !
 
 ||abatanews.com^
@@ -38,6 +38,7 @@
 ||bicarabaik.id^
 ||bicaranetwork.com^
 ||blog.modalku.co.id^
+||boss99-baritoselatankab-paling-gacor.pages.dev^
 ||bspjimedan.kemenperin.go.id^
 ||bukamatanews.id^
 ||cantz.or.tz^
@@ -107,6 +108,7 @@
 ||journal.appihi.or.id^
 ||journal2.um.ac.id^
 ||journalnusantara.com^
+||jpnn.com^
 ||judiresmiofficial.com^
 ||jurnal.stisummulayman.ac.id^
 ||jurnal.unigo.ac.id^
@@ -137,6 +139,7 @@
 ||liputan7.id^
 ||lokapalanews.com^
 ||lppl.purwakartakab.go.id^
+||lvonline17064192239.pages.dev^
 ||m.harianjogja.com^
 ||m.kontan.co.id^
 ||magdalene.co^
@@ -149,6 +152,7 @@
 ||mantapkerangwin.us^
 ||masakini.co^
 ||mascoolin.id^
+||mccombwholesale.com^
 ||medanbisnisdaily.com^
 ||media24.id^
 ||mediabanten.com^
@@ -165,6 +169,7 @@
 ||morbeachcafe.com^
 ||mra-grant.com.sg^
 ||mudahjackpot.wordpress.com^
+||nateyum.pages.dev^
 ||news.harianjogja.com^
 ||nomorsatukaltim.disway.id^
 ||ntthits.com^
@@ -182,6 +187,7 @@
 ||pasardana.id^
 ||pedomanrakyat.com^
 ||people-qa.int.sap^
+||permatabank.com^
 ||pervasivedatarush.com^
 ||pipsm.com^
 ||pngwing.com^
@@ -241,6 +247,7 @@
 ||tribratanews.jambi.polri.go.id^
 ||tvrisumbar.co.id^
 ||ugm.ac.id^
+||uzone.id^
 ||victorynews.id^
 ||video.medcom.id^
 ||vidio.com^
@@ -250,6 +257,8 @@
 ||wartaekonomi.co.id^
 ||waspadaaceh.com^
 ||westjavatoday.com^
+||witwan-www.vercel.app^
 ||witwan.com^
 ||x-bionicsphere.com^
+||yaspan.pages.dev^
 ||zadna.org.za^
