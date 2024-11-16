@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 08:43:19
+! Last Updated: 2024-11-16 08:49:24
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4902
+! Number of unique domains: 4904
 !
 
 ||103.115.28.6^
@@ -2376,6 +2376,7 @@
 ||kumbangmaju.store^
 ||kumiuniversity.ac.ug^
 ||kumparan.com^
+||kupukupu-petruk303.pages.dev^
 ||kurikulum.upi.edu^
 ||kustomfithalters.com^
 ||kutchutsav.com^
@@ -2769,6 +2770,7 @@
 ||menang303official.com^
 ||menangmamen123.us^
 ||menangmenangnya.pages.dev^
+||menara1.pages.dev^
 ||mendocinocountybusiness.org^
 ||menofmelaninmagic.com^
 ||menta88.gr^
