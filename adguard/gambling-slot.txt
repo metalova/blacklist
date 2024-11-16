@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 16:44:46
+! Last Updated: 2024-11-16 16:48:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 4992
+! Number of unique domains: 4998
 !
 
 ||103.115.28.6^
@@ -339,6 +339,7 @@
 ||arcorbetttourism.com^
 ||argotchicago.com^
 ||aristocratgaming.com^
+||aritac.com^
 ||arkhon-infaustus.com^
 ||arnet-media.pages.dev^
 ||artcenter-slovenia.org^
@@ -461,6 +462,7 @@
 ||bapenda.tangerangselatankota.go.id^
 ||bappeda.jatimprov.go.id^
 ||bappeda.malutprov.go.id^
+||bappelitbangda.tanatorajakab.go.id^
 ||barbeqbarbies.com^
 ||barefootcovemarina.com^
 ||bareknuckletattooandbarbershop.com^
@@ -668,6 +670,7 @@
 ||bobbobcite.com^
 ||bobcatsun.com^
 ||bokunosensou.xyz^
+||bola.com^
 ||bola.net^
 ||bolegsbbq.com^
 ||boletindiversidad.org^
@@ -1366,6 +1369,7 @@
 ||ekinerja.muaraenimkab.go.id^
 ||ekonomidesa.com^
 ||elcargol.com^
+||elearning.jec.co.id^
 ||elearning.mappiq.sch.id^
 ||elearning.mtsasyrofuddin.sch.id^
 ||elearning.mtsn1purbalingga.sch.id^
@@ -1606,6 +1610,7 @@
 ||gacor.vip^
 ||gacor268vip.com^
 ||gacor89jo.com^
+||gaitanaroscommons.com^
 ||gallaghersnysteakhouse.com^
 ||galleryshab.com^
 ||gambling.com^
@@ -2725,6 +2730,7 @@
 ||marshfieldbbq.com^
 ||marshmallowfestival.com^
 ||marymeyer.com^
+||masahsplcon.com^
 ||masil-astro-imaging.com^
 ||maskinvestments.com^
 ||massamcrypto.com^
