@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-16 16:54:35
+! Last Updated: 2024-11-16 16:59:40
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5006
+! Number of unique domains: 5011
 !
 
 ||103.115.28.6^
@@ -1094,6 +1094,7 @@
 ||dallasbridgeandgames.com^
 ||damona.com.au^
 ||dan.com^
+||dana.id^
 ||dana4dplay.net^
 ||dana4dtogel.com^
 ||dancingandtraining.com^
@@ -2090,6 +2091,7 @@
 ||jackpotdigital.com^
 ||jackpotjoy.com^
 ||jackpotjunction.com^
+||jadebuddha.com.au^
 ||jahetoto5.cyou^
 ||jakartagarden.com^
 ||jakartamuaythai.com^
@@ -2162,6 +2164,7 @@
 ||jklpk-indonesia.org^
 ||jlk.fib.unand.ac.id^
 ||jmi-upiyptk.org^
+||jmuovertones.com^
 ||jobeeny.com^
 ||jobs.dou.ua^
 ||joecuppas.com^
@@ -2240,6 +2243,7 @@
 ||jurnal.law.uniba-bpn.ac.id^
 ||jurnal.peneliti.net^
 ||jurnal.polkesban.ac.id^
+||jurnal.sdl.ac.id^
 ||jurnal.stebankislam.ac.id^
 ||jurnal.stiki.ac.id^
 ||jurnal.tiga-mutiara.com^
@@ -4124,6 +4128,7 @@
 ||smartpink.or.id^
 ||smarttechperu.store^
 ||smasedes-smg.sch.id^
+||smashbros.nintendo.com^
 ||smb-gr.com^
 ||smep.patikab.go.id^
 ||smfla.com^

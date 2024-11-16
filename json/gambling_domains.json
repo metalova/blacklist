@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-16 16:54:35",
+  "updated": "2024-11-16 16:59:40",
   "categories": {
     "slot": {
-      "count": 5006,
+      "count": 5011,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -30038,6 +30038,36 @@
           "domain": "metrobali.com",
           "raw_url": "https://metrobali.com/hasil-survei-pilgub-bali-2024-koster-giri-unggul-70-persen-mulia-pas-keok/",
           "found_time": "2024-11-16 09:54:34",
+          "status": "active"
+        },
+        {
+          "domain": "dana.id",
+          "raw_url": "https://www.dana.id/",
+          "found_time": "2024-11-16 09:54:34",
+          "status": "active"
+        },
+        {
+          "domain": "jurnal.sdl.ac.id",
+          "raw_url": "https://jurnal.sdl.ac.id/",
+          "found_time": "2024-11-16 09:56:36",
+          "status": "active"
+        },
+        {
+          "domain": "jadebuddha.com.au",
+          "raw_url": "https://www.jadebuddha.com.au/",
+          "found_time": "2024-11-16 09:57:38",
+          "status": "active"
+        },
+        {
+          "domain": "jmuovertones.com",
+          "raw_url": "https://www.jmuovertones.com/",
+          "found_time": "2024-11-16 09:58:39",
+          "status": "active"
+        },
+        {
+          "domain": "smashbros.nintendo.com",
+          "raw_url": "https://smashbros.nintendo.com/buy/dlc/",
+          "found_time": "2024-11-16 09:59:40",
           "status": "active"
         }
       ]
