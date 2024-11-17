@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:41:21",
+  "updated": "2024-11-17 10:48:35",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 515,
+      "count": 519,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44356,6 +44356,30 @@
           "domain": "calculatormixparlay.com",
           "raw_url": "https://calculatormixparlay.com/",
           "found_time": "2024-11-17 03:38:15",
+          "status": "active"
+        },
+        {
+          "domain": "julianracosta.com",
+          "raw_url": "https://www.julianracosta.com/theme/",
+          "found_time": "2024-11-17 03:41:21",
+          "status": "active"
+        },
+        {
+          "domain": "klinikrestubunda.com",
+          "raw_url": "https://www.klinikrestubunda.com/",
+          "found_time": "2024-11-17 03:45:28",
+          "status": "active"
+        },
+        {
+          "domain": "readingroomco.com",
+          "raw_url": "https://readingroomco.com/the-ultimate-guide-to-judi-bola-parlay-betting/",
+          "found_time": "2024-11-17 03:46:31",
+          "status": "active"
+        },
+        {
+          "domain": "tekhelet.com",
+          "raw_url": "https://www.tekhelet.com/project/bermain-judi-bola-dengan-agen-bola-parlay-terbaik/",
+          "found_time": "2024-11-17 03:47:33",
           "status": "active"
         }
       ]
