@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 09:20:13",
+  "updated": "2024-11-17 09:26:22",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 504,
+      "count": 505,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35208,6 +35208,12 @@
         {
           "domain": "jackpotjoanies.com",
           "raw_url": "https://www.jackpotjoanies.com/",
+          "found_time": "2024-11-17 02:20:12",
+          "status": "active"
+        },
+        {
+          "domain": "swinomishcasinoandlodge.com",
+          "raw_url": "https://www.swinomishcasinoandlodge.com/jackpot-jamboree/",
           "found_time": "2024-11-17 02:20:12",
           "status": "active"
         }

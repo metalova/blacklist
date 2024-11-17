@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 09:20:13
+! Last Updated: 2024-11-17 09:26:22
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 7889
+! Number of domains: 7890
 !
 
 ! Category: SLOT
@@ -5875,6 +5875,7 @@
 ||fortunebay.com^
 ||theskagit.com^
 ||jackpotjoanies.com^
+||swinomishcasinoandlodge.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^

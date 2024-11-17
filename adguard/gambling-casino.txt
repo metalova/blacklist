@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 09:20:13
+! Last Updated: 2024-11-17 09:26:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 504
+! Number of unique domains: 505
 !
 
 ||24liveblog.com^
@@ -432,6 +432,7 @@
 ||superlive.id^
 ||suryaguds.com^
 ||swearandshake.com^
+||swinomishcasinoandlodge.com^
 ||sycuan.com^
 ||tableau.com^
 ||tachipalace.com^
