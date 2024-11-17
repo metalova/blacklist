@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:34:18",
+  "updated": "2024-11-17 21:38:28",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 564,
+      "count": 567,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36379,6 +36379,24 @@
           "domain": "chainplay.gg",
           "raw_url": "https://chainplay.gg/blog/the-pros-and-cons-of-online-blackjack/",
           "found_time": "2024-11-17 14:31:11",
+          "status": "active"
+        },
+        {
+          "domain": "varnessefloor.com",
+          "raw_url": "https://varnessefloor.com/",
+          "found_time": "2024-11-17 14:34:17",
+          "status": "active"
+        },
+        {
+          "domain": "ppid.trenggalekkab.go.id",
+          "raw_url": "https://ppid.trenggalekkab.go.id/",
+          "found_time": "2024-11-17 14:35:20",
+          "status": "active"
+        },
+        {
+          "domain": "solvezy.com",
+          "raw_url": "http://solvezy.com/",
+          "found_time": "2024-11-17 14:36:23",
           "status": "active"
         }
       ]
@@ -42628,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 545,
+      "count": 546,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -45898,6 +45916,12 @@
           "domain": "ijhd.upnvj.ac.id",
           "raw_url": "https://ijhd.upnvj.ac.id/public/vendor/ktm/",
           "found_time": "2024-11-17 04:47:47",
+          "status": "active"
+        },
+        {
+          "domain": "zainproperty.id",
+          "raw_url": "https://zainproperty.id/?id=casino+deposit+gopay",
+          "found_time": "2024-11-17 14:37:25",
           "status": "active"
         }
       ]
