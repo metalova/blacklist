@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 23:02:37
+! Last Updated: 2024-11-17 23:09:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 922
+! Number of unique domains: 928
 !
 
 ||087ina.com^
@@ -38,6 +38,7 @@
 ||alcmke.org^
 ||alephjs.org^
 ||allaboutsaws.com^
+||allianceimmob.com^
 ||altegrity.com^
 ||amazonecoadventures.com^
 ||amfacilities.com^
@@ -143,6 +144,7 @@
 ||christianlyricist.com^
 ||chunkythread.com^
 ||cirdap.org^
+||cisummit2023.com^
 ||citradata.id^
 ||clankeithusa.org^
 ||claudiaeberger.com^
@@ -217,6 +219,7 @@
 ||dpmptsp.tanatorajakab.go.id^
 ||dprint.id^
 ||dpupr.belitung.go.id^
+||drsavitaginde.com^
 ||drtusharbhatt.com^
 ||drtyctacna.gob.pe^
 ||dsvrtlagos.org^
@@ -339,6 +342,7 @@
 ||hendrickshousegroup.org^
 ||hietec-conference.org^
 ||hifivecafe.com^
+||hin-trip.com^
 ||historiadelacomunicacion.com^
 ||hofstetter-sports.ch^
 ||holistickitchenacademy.com^
@@ -396,6 +400,7 @@
 ||jorgecalandrelli.com^
 ||journals.smartinsight.id^
 ||journalstih.amsir.ac.id^
+||jp.localhost.pa-bawean.go.id^
 ||jphelleniccenter.com^
 ||jpii.upri.ac.id^
 ||jurnal.stiedarulfalahmojokerto.ac.id^
@@ -658,6 +663,7 @@
 ||r1.community.samsung.com^
 ||rad-online.org.ar^
 ||radiowezel100v.com^
+||rakensuisback.pages.dev^
 ||rakyatempatlawang.bacakoran.co^
 ||rakyatmaluku.fajar.co.id^
 ||ralleslaw.com^
