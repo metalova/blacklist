@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 09:26:22",
+  "updated": "2024-11-17 09:34:32",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 505,
+      "count": 510,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35215,6 +35215,36 @@
           "domain": "swinomishcasinoandlodge.com",
           "raw_url": "https://www.swinomishcasinoandlodge.com/jackpot-jamboree/",
           "found_time": "2024-11-17 02:20:12",
+          "status": "active"
+        },
+        {
+          "domain": "baccarathotels.com",
+          "raw_url": "https://www.baccarathotels.com/",
+          "found_time": "2024-11-17 02:26:22",
+          "status": "active"
+        },
+        {
+          "domain": "repositori.uma.ac.id",
+          "raw_url": "https://repositori.uma.ac.id/jspui/handle/123456789/18904",
+          "found_time": "2024-11-17 02:30:26",
+          "status": "active"
+        },
+        {
+          "domain": "rwcatskills.com",
+          "raw_url": "https://rwcatskills.com/casino/table-games/",
+          "found_time": "2024-11-17 02:31:29",
+          "status": "active"
+        },
+        {
+          "domain": "ndtvprofit.com",
+          "raw_url": "https://www.ndtvprofit.com/business/lui-che-woo-casino-tycoon-who-hit-jackpot-in-macau-dies-at-95",
+          "found_time": "2024-11-17 02:32:30",
+          "status": "active"
+        },
+        {
+          "domain": "dreamstime.com",
+          "raw_url": "https://www.dreamstime.com/jackpot-casino-big-win-slots-fortune-king-banner-vector-illustration-jackpot-casino-slots-fortune-king-banner-image99914078",
+          "found_time": "2024-11-17 02:33:31",
           "status": "active"
         }
       ]

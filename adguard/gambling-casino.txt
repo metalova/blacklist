@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 09:26:22
+! Last Updated: 2024-11-17 09:34:32
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 505
+! Number of unique domains: 510
 !
 
 ||24liveblog.com^
@@ -39,6 +39,7 @@
 ||av-voyages.fr^
 ||baccarat-online.yapenhasboediluhur.sch.id^
 ||baccarat.com^
+||baccarathotels.com^
 ||baccaratstrategysystem.com^
 ||badanbahasa.kemdikbud.go.id^
 ||ballislife.com^
@@ -132,6 +133,7 @@
 ||downtowngrand.com^
 ||dpmptspp.belitung.go.id^
 ||dpslko.com^
+||dreamstime.com^
 ||duniagames.co.id^
 ||e-statistik.temanggungkab.go.id^
 ||e3x7.short.gy^
@@ -303,6 +305,7 @@
 ||narasiterkini.com^
 ||ncpg.org.sg^
 ||ncpgambling.org^
+||ndtvprofit.com^
 ||nelsonheller.com^
 ||nemacolin.com^
 ||new.c.mi.com^
@@ -371,6 +374,7 @@
 ||rawonsurabaya.com^
 ||recipecommunity.com.au^
 ||reku.id^
+||repositori.uma.ac.id^
 ||respectrichmond.com^
 ||restaurantroulette.co^
 ||revpanda.com^
@@ -381,6 +385,7 @@
 ||rsdh.co.id^
 ||rsiarafah.id^
 ||rugbyobserver.co.uk^
+||rwcatskills.com^
 ||rwnewyork.com^
 ||sacredheartcathedraldelhi.org^
 ||sacredheartchd.com^
