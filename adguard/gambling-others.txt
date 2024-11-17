@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-18 01:54:07
+! Last Updated: 2024-11-18 01:59:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 364
+! Number of unique domains: 366
 !
 
 ||a.deliserdangkab.com^
@@ -161,6 +161,7 @@
 ||kabarfajar.com^
 ||kabarpapua.co^
 ||kalimantanpost.com^
+||kallistoshop.com^
 ||kalselpos.com^
 ||kaltengpos.info^
 ||kapanlagi.com^
@@ -284,6 +285,7 @@
 ||radarkepahiang.bacakoran.co^
 ||radarlampung.disway.id^
 ||radarmukomuko.bacakoran.co^
+||radarsumbar.com^
 ||radarutara.bacakoran.co^
 ||red-creatives.com^
 ||reksadanacommunity.com^

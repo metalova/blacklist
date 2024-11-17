@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:54:07",
+  "updated": "2024-11-18 01:59:12",
   "categories": {
     "slot": {
       "count": 5498,
@@ -48170,7 +48170,7 @@
       ]
     },
     "others": {
-      "count": 364,
+      "count": 366,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50354,6 +50354,18 @@
           "domain": "corusgroup.in",
           "raw_url": "https://corusgroup.in/sana/?q=agen-judi-bola-terpercaya",
           "found_time": "2024-11-17 18:53:06",
+          "status": "active"
+        },
+        {
+          "domain": "kallistoshop.com",
+          "raw_url": "https://kallistoshop.com/judimpo-login-link-alternatif-5/",
+          "found_time": "2024-11-17 18:54:07",
+          "status": "active"
+        },
+        {
+          "domain": "radarsumbar.com",
+          "raw_url": "https://radarsumbar.com/berita/145286/promosi-judi-online-dua-akun-pemengaruh-diblokir-kemkomdigi-hari-ini/",
+          "found_time": "2024-11-17 18:56:09",
           "status": "active"
         }
       ]
