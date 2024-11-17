@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 08:04:40
+! Last Updated: 2024-11-17 08:09:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5332
+! Number of unique domains: 5341
 !
 
 ||103.115.28.6^
@@ -1476,6 +1476,7 @@
 ||elijahtrillionz.com^
 ||elijo.umpwr.ac.id^
 ||elizabethclarkphoto.com^
+||elkite-lldikti3.kemdikbud.go.id^
 ||elliecessmithmd.com^
 ||elliottstreet.com^
 ||elprofesionaldelainformacion.com^
@@ -1968,6 +1969,7 @@
 ||hmdefenses.com^
 ||hmik.fkunud.com^
 ||hmpsars.id^
+||hnue.edu.vn^
 ||hogardecristo.org.ar^
 ||hogriverbrewing.com^
 ||hoki77amp.com^
@@ -2095,6 +2097,7 @@
 ||ikebanasushifusion.com^
 ||ikinciel.vsbgrup.com.tr^
 ||ikoyo-nishiizu.jp^
+||ikp.polnep.ac.id^
 ||ilmadika.org^
 ||iloveshells.com^
 ||iluvphosnellville.com^
@@ -2345,6 +2348,7 @@
 ||journal.wima.ac.id^
 ||journal0.pages.dev^
 ||journal1.uad.ac.id^
+||journalhoki.pages.dev^
 ||journall.org^
 ||journalpublicspace.org^
 ||journalpublicspace.pages.dev^
@@ -3029,6 +3033,7 @@
 ||merchantnavybook.com^
 ||mercmanifesto.org^
 ||merdeka.com^
+||meroketrank.pages.dev^
 ||mesajil.com^
 ||mesastila100ultra.com^
 ||mesin-ft.uki.ac.id^
@@ -3103,6 +3108,7 @@
 ||mitsubachatham.com^
 ||mitto.ch^
 ||mitwpu-ncmj.com^
+||mixkit.co^
 ||mjolk.cz^
 ||mjpsky.maharashtra.gov.in^
 ||mlbbhero.com^
@@ -3330,6 +3336,7 @@
 ||nontonfilm.lat^
 ||noontupelo.com^
 ||noorjahangrill.com^
+||norbdence.co.jp^
 ||norcalpulse.com^
 ||normandie-luge.com^
 ||norshunch.com^
@@ -4010,6 +4017,7 @@
 ||rmol.id^
 ||robertbrawley.net^
 ||robinhoodstory.com^
+||robohkan.pages.dev^
 ||robotavidnovlennya.org^
 ||rocketreach.co^
 ||roguevalleynews.net^
@@ -4104,6 +4112,7 @@
 ||sabda.net^
 ||sabetslot4.net^
 ||sacbee.com^
+||sadako.pages.dev^
 ||saddlerfh.com^
 ||safebloodforafrica.org^
 ||safecyber.id^
