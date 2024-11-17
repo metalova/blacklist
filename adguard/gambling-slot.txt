@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 20:01:30
+! Last Updated: 2024-11-17 20:08:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5493
+! Number of unique domains: 5495
 !
 
 ||103.115.28.6^
@@ -368,6 +368,7 @@
 ||arcadiavalleyescape.com^
 ||arcainc.com^
 ||archcrown.com^
+||archiveofourown.org^
 ||archivodocente.upea.bo^
 ||arcorbetttourism.com^
 ||arfagility.com^
@@ -2308,6 +2309,7 @@
 ||japanee.id^
 ||japri138.online^
 ||japri138slot.info^
+||jarayana.id^
 ||jardinoaxaca.mx^
 ||jarfer.com^
 ||jasaberdikari.co.id^

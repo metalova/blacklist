@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 20:01:30",
+  "updated": "2024-11-17 20:08:38",
   "categories": {
     "slot": {
-      "count": 5493,
+      "count": 5495,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32960,6 +32960,18 @@
           "domain": "mu.bless.gs",
           "raw_url": "https://mu.bless.gs/index.php?page=services&act=virtualbank",
           "found_time": "2024-11-17 12:53:19",
+          "status": "active"
+        },
+        {
+          "domain": "jarayana.id",
+          "raw_url": "https://jarayana.id/public/data/?p=ROYALBET",
+          "found_time": "2024-11-17 13:01:30",
+          "status": "active"
+        },
+        {
+          "domain": "archiveofourown.org",
+          "raw_url": "https://archiveofourown.org/works/60604330",
+          "found_time": "2024-11-17 13:05:34",
           "status": "active"
         }
       ]
