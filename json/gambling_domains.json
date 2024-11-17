@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 18:59:22",
+  "updated": "2024-11-17 19:00:24",
   "categories": {
     "slot": {
-      "count": 5470,
+      "count": 5472,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32822,6 +32822,18 @@
           "domain": "geetaschool.pages.dev",
           "raw_url": "https://geetaschool.pages.dev/?raden=RAJA88",
           "found_time": "2024-11-17 11:59:22",
+          "status": "active"
+        },
+        {
+          "domain": "ijobas.pelnus.ac.id",
+          "raw_url": "https://ijobas.pelnus.ac.id/?misi=raja88",
+          "found_time": "2024-11-17 11:59:22",
+          "status": "active"
+        },
+        {
+          "domain": "jurakunman-boss99-palinggacor.pages.dev",
+          "raw_url": "https://jurakunman-boss99-palinggacor.pages.dev/?Id=RAJA88",
+          "found_time": "2024-11-17 12:00:23",
           "status": "active"
         }
       ]
