@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:17:00",
+  "updated": "2024-11-18 01:24:12",
   "categories": {
     "slot": {
       "count": 5498,
@@ -46383,7 +46383,7 @@
       ]
     },
     "esports": {
-      "count": 293,
+      "count": 297,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -48142,11 +48142,35 @@
           "raw_url": "https://okimc.org/amp/",
           "found_time": "2024-11-17 18:13:55",
           "status": "active"
+        },
+        {
+          "domain": "mata22show.com",
+          "raw_url": "https://mata22show.com/",
+          "found_time": "2024-11-17 18:17:00",
+          "status": "active"
+        },
+        {
+          "domain": "ruang-aman.pages.dev",
+          "raw_url": "https://ruang-aman.pages.dev/",
+          "found_time": "2024-11-17 18:20:04",
+          "status": "active"
+        },
+        {
+          "domain": "awpslot.amphtml.org",
+          "raw_url": "https://awpslot.amphtml.org/",
+          "found_time": "2024-11-17 18:20:04",
+          "status": "active"
+        },
+        {
+          "domain": "indogamers.com",
+          "raw_url": "https://indogamers.com/news/17130/03092022/amp/komunitas-dota-2-kecam-keputusan-valve-dan-pgl-gaet-sponsor-situs-judi-untuk-ti-11",
+          "found_time": "2024-11-17 18:22:07",
+          "status": "active"
         }
       ]
     },
     "others": {
-      "count": 329,
+      "count": 332,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50120,6 +50144,24 @@
           "domain": "dprd.jogjakota.go.id",
           "raw_url": "https://dprd.jogjakota.go.id/detail/index/35216",
           "found_time": "2024-11-17 07:52:18",
+          "status": "active"
+        },
+        {
+          "domain": "bkd.cilacapkab.go.id",
+          "raw_url": "https://bkd.cilacapkab.go.id/p/1155/stop-judi-online!",
+          "found_time": "2024-11-17 18:24:11",
+          "status": "active"
+        },
+        {
+          "domain": "suaranasional.com",
+          "raw_url": "https://suaranasional.com/2023/04/17/polri-tak-tepati-janji-berantas-judi-online/",
+          "found_time": "2024-11-17 18:24:11",
+          "status": "active"
+        },
+        {
+          "domain": "usu.ac.id",
+          "raw_url": "https://www.usu.ac.id/id/berita/usu-gelar-sosialisasi-bahaya-judi-online-bagi-dosen-dan-tenaga-kependidikan",
+          "found_time": "2024-11-17 18:24:11",
           "status": "active"
         }
       ]

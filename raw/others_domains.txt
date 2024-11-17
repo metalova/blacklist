@@ -36,6 +36,7 @@ beritasenator.com
 beritaseruyan.com
 bicarabaik.id
 bicaranetwork.com
+bkd.cilacapkab.go.id
 blog.modalku.co.id
 bnm-crb.pages.dev
 bokormas.com
@@ -280,6 +281,7 @@ soasik.bpsaceh.com
 southloopcampusministry.org
 srisakthirolling.com
 suaradewata.com
+suaranasional.com
 sukabumiupdate.com
 sulbar.herald.id
 sumbarkita.id
@@ -310,6 +312,7 @@ ugm.ac.id
 ulasan.co
 umsida.ac.id
 urbanfonts.com
+usu.ac.id
 uzone.id
 validnews.id
 viar1.pages.dev

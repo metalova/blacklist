@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-18 01:17:00
+! Last Updated: 2024-11-18 01:24:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 329
+! Number of unique domains: 332
 !
 
 ||a.deliserdangkab.com^
@@ -42,6 +42,7 @@
 ||beritaseruyan.com^
 ||bicarabaik.id^
 ||bicaranetwork.com^
+||bkd.cilacapkab.go.id^
 ||blog.modalku.co.id^
 ||bnm-crb.pages.dev^
 ||bokormas.com^
@@ -286,6 +287,7 @@
 ||southloopcampusministry.org^
 ||srisakthirolling.com^
 ||suaradewata.com^
+||suaranasional.com^
 ||sukabumiupdate.com^
 ||sulbar.herald.id^
 ||sumbarkita.id^
@@ -316,6 +318,7 @@
 ||ulasan.co^
 ||umsida.ac.id^
 ||urbanfonts.com^
+||usu.ac.id^
 ||uzone.id^
 ||validnews.id^
 ||viar1.pages.dev^
