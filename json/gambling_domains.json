@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:33:48",
+  "updated": "2024-11-17 10:38:16",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 512,
+      "count": 514,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44338,6 +44338,18 @@
           "domain": "inlislite.sultengprov.go.id",
           "raw_url": "https://inlislite.sultengprov.go.id/inlislite3/vendor/?a=read_inlislite3&id=3422",
           "found_time": "2024-11-17 03:33:47",
+          "status": "active"
+        },
+        {
+          "domain": "afederasi.com",
+          "raw_url": "https://afederasi.com/9-bulan-jadi-dpo-otak-pembunuhan-agen-brilink-di-dukun-gresik-belum-tertangkap",
+          "found_time": "2024-11-17 03:33:48",
+          "status": "active"
+        },
+        {
+          "domain": "oke303.wordpress.com",
+          "raw_url": "https://oke303.wordpress.com/cara-menghitung-mix-parlay-atau-taruhan-berganda/",
+          "found_time": "2024-11-17 03:38:15",
           "status": "active"
         }
       ]
