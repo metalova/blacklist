@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 23:58:02",
+  "updated": "2024-11-18 00:04:34",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 941,
+      "count": 945,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -42048,6 +42048,30 @@
           "domain": "edgewaterinnfmb.com",
           "raw_url": "https://edgewaterinnfmb.com/",
           "found_time": "2024-11-17 16:56:59",
+          "status": "active"
+        },
+        {
+          "domain": "isepbignona.sn",
+          "raw_url": "https://www.isepbignona.sn/",
+          "found_time": "2024-11-17 16:58:01",
+          "status": "active"
+        },
+        {
+          "domain": "thethirdstop.com",
+          "raw_url": "https://www.thethirdstop.com/",
+          "found_time": "2024-11-17 17:00:24",
+          "status": "active"
+        },
+        {
+          "domain": "appliancerepaircom.us",
+          "raw_url": "https://appliancerepaircom.us/",
+          "found_time": "2024-11-17 17:01:26",
+          "status": "active"
+        },
+        {
+          "domain": "towsonmddental.com",
+          "raw_url": "https://www.towsonmddental.com/",
+          "found_time": "2024-11-17 17:02:29",
           "status": "active"
         }
       ]
