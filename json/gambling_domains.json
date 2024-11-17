@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 15:49:08",
+  "updated": "2024-11-17 15:54:19",
   "categories": {
     "slot": {
-      "count": 5373,
+      "count": 5377,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32240,6 +32240,30 @@
           "domain": "extendeddisc.org",
           "raw_url": "https://www.extendeddisc.org/",
           "found_time": "2024-11-17 08:49:08",
+          "status": "active"
+        },
+        {
+          "domain": "pinospizzerialawrenceville.com",
+          "raw_url": "https://pinospizzerialawrenceville.com/",
+          "found_time": "2024-11-17 08:49:08",
+          "status": "active"
+        },
+        {
+          "domain": "lavishhairstudiosalon.com",
+          "raw_url": "https://www.lavishhairstudiosalon.com/",
+          "found_time": "2024-11-17 08:50:09",
+          "status": "active"
+        },
+        {
+          "domain": "ejournal.uniramalang.ac.id",
+          "raw_url": "https://ejournal.uniramalang.ac.id/",
+          "found_time": "2024-11-17 08:51:11",
+          "status": "active"
+        },
+        {
+          "domain": "touriststhaispa.com",
+          "raw_url": "https://touriststhaispa.com/",
+          "found_time": "2024-11-17 08:51:11",
           "status": "active"
         }
       ]

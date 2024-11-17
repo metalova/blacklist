@@ -1448,6 +1448,7 @@ ejournal.poltekpel-sorong.ac.id
 ejournal.sembilanpemuda.id
 ejournal.sttpk-medan.ac.id
 ejournal.unimugo.ac.id
+ejournal.uniramalang.ac.id
 ejournal.unzah.ac.id
 ejournal.warmadewa.ac.id
 ejurnal.stie-trianandra.ac.id
@@ -2662,6 +2663,7 @@ laughingfishisfield.com
 launch.pictureinbottle.com
 lavawowx.com
 lavianexotique.com
+lavishhairstudiosalon.com
 law-justice.co
 lawca.com
 laxedumalt.com
@@ -3660,6 +3662,7 @@ pilketos.smkn1kaligondang.sch.id
 pinbet.com.ph
 piniteinfo.com
 pinkrabbitlens.id
+pinospizzerialawrenceville.com
 pinossicilianpizzeria.com
 pintoresprofesionalescancun.com
 pintu.co.id
@@ -4943,6 +4946,7 @@ totalrowfitness.com
 totalvision2020.com
 touchofclassmobileautospa.com
 tourea-sports.com
+touriststhaispa.com
 tournesolenschede.nl
 towertreats.com
 toyotarich.com

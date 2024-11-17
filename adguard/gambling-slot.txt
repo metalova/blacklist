@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 15:49:08
+! Last Updated: 2024-11-17 15:54:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5373
+! Number of unique domains: 5377
 !
 
 ||103.115.28.6^
@@ -1454,6 +1454,7 @@
 ||ejournal.sembilanpemuda.id^
 ||ejournal.sttpk-medan.ac.id^
 ||ejournal.unimugo.ac.id^
+||ejournal.uniramalang.ac.id^
 ||ejournal.unzah.ac.id^
 ||ejournal.warmadewa.ac.id^
 ||ejurnal.stie-trianandra.ac.id^
@@ -2668,6 +2669,7 @@
 ||launch.pictureinbottle.com^
 ||lavawowx.com^
 ||lavianexotique.com^
+||lavishhairstudiosalon.com^
 ||law-justice.co^
 ||lawca.com^
 ||laxedumalt.com^
@@ -3666,6 +3668,7 @@
 ||pinbet.com.ph^
 ||piniteinfo.com^
 ||pinkrabbitlens.id^
+||pinospizzerialawrenceville.com^
 ||pinossicilianpizzeria.com^
 ||pintoresprofesionalescancun.com^
 ||pintu.co.id^
@@ -4949,6 +4952,7 @@
 ||totalvision2020.com^
 ||touchofclassmobileautospa.com^
 ||tourea-sports.com^
+||touriststhaispa.com^
 ||tournesolenschede.nl^
 ||towertreats.com^
 ||toyotarich.com^
