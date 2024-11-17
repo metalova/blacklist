@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 10:55:55
+! Last Updated: 2024-11-17 11:29:05
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 524
+! Number of unique domains: 529
 !
 
 ||9sarang188.com^
@@ -19,6 +19,7 @@
 ||afederasi.com^
 ||afifecafe.com^
 ||agen-bola-deposit-pulsa.interdidactica.net^
+||agenmaxbet.quora.com^
 ||agenmaxbetonline.quora.com^
 ||agenpoltekkespalu.pages.dev^
 ||agensedekah.com^
@@ -44,6 +45,7 @@
 ||asics.co.id^
 ||askb-sbo.pages.dev^
 ||ato.com.vn^
+||audiomack.com^
 ||aun.edu.eg^
 ||autodesk.com^
 ||autos.cbslocal.com^
@@ -67,6 +69,7 @@
 ||bipnation.com^
 ||bisik.id^
 ||bisnis.com^
+||bjbsekuritas.co.id^
 ||bkk.smkn1kotabekasi.sch.id^
 ||bogoronline.com^
 ||bola1.pages.dev^
@@ -358,6 +361,7 @@
 ||perwiranusantara.com^
 ||petitesoulshop.com^
 ||pharmaciedesmazades.fr^
+||phs.fcu.edu.tw^
 ||pinjamdulu500.com^
 ||playingforward.co.za^
 ||plus.bisnis.com^
@@ -493,6 +497,7 @@
 ||toreadornottoread.net^
 ||torquemada.cl^
 ||toughslatedesign.com^
+||tradingonly.wordpress.com^
 ||tribratanewsntt.com^
 ||tripadvisor.it^
 ||tulangbawang.pages.dev^

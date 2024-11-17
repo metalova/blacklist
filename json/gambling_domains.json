@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:55:55",
+  "updated": "2024-11-17 11:29:05",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 524,
+      "count": 529,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44410,6 +44410,36 @@
           "domain": "cooperationcommons.org",
           "raw_url": "https://www.cooperationcommons.org/",
           "found_time": "2024-11-17 03:55:54",
+          "status": "active"
+        },
+        {
+          "domain": "phs.fcu.edu.tw",
+          "raw_url": "https://phs.fcu.edu.tw/",
+          "found_time": "2024-11-17 03:55:55",
+          "status": "active"
+        },
+        {
+          "domain": "tradingonly.wordpress.com",
+          "raw_url": "https://tradingonly.wordpress.com/2018/08/31/keuntungan-daftar-agen-maxbet-resmi-terpercaya/",
+          "found_time": "2024-11-17 04:29:03",
+          "status": "active"
+        },
+        {
+          "domain": "audiomack.com",
+          "raw_url": "https://audiomack.com/agensbobettepercaya/song/agen-maxbet-terbesar",
+          "found_time": "2024-11-17 04:29:03",
+          "status": "active"
+        },
+        {
+          "domain": "bjbsekuritas.co.id",
+          "raw_url": "https://bjbsekuritas.co.id/arsip/?codeigniter=AGEN+MAXBET",
+          "found_time": "2024-11-17 04:29:04",
+          "status": "active"
+        },
+        {
+          "domain": "agenmaxbet.quora.com",
+          "raw_url": "https://agenmaxbet.quora.com/Judi-Bola-Online",
+          "found_time": "2024-11-17 04:29:04",
           "status": "active"
         }
       ]
