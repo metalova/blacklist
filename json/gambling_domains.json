@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 06:38:44",
+  "updated": "2024-11-18 06:44:54",
   "categories": {
     "slot": {
-      "count": 5586,
+      "count": 5590,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33518,6 +33518,30 @@
           "domain": "smkteknikpal.com",
           "raw_url": "https://smkteknikpal.com/home/RAJA365/",
           "found_time": "2024-11-17 23:37:43",
+          "status": "active"
+        },
+        {
+          "domain": "taikee.co",
+          "raw_url": "https://taikee.co/rajabet/",
+          "found_time": "2024-11-17 23:38:44",
+          "status": "active"
+        },
+        {
+          "domain": "hustletrucks.co",
+          "raw_url": "https://hustletrucks.co/agen-togel-jitu/",
+          "found_time": "2024-11-17 23:42:51",
+          "status": "active"
+        },
+        {
+          "domain": "scaredtoplay.com",
+          "raw_url": "https://scaredtoplay.com/hondatoto/",
+          "found_time": "2024-11-17 23:42:52",
+          "status": "active"
+        },
+        {
+          "domain": "modernhandreadingforum.sukajago.com",
+          "raw_url": "https://modernhandreadingforum.sukajago.com/",
+          "found_time": "2024-11-17 23:42:52",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 06:38:44
+! Last Updated: 2024-11-18 06:44:54
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5586
+! Number of unique domains: 5590
 !
 
 ||103.115.28.6^
@@ -2111,6 +2111,7 @@
 ||humoscience.com^
 ||humoscience.pages.dev^
 ||huntington.fr^
+||hustletrucks.co^
 ||hvac-trainingschools.com^
 ||hypeabis.id^
 ||i-vory.id^
@@ -3265,6 +3266,7 @@
 ||mochalabs.com^
 ||modalsaaabaaarrrr.pages.dev^
 ||moderakatytrail.com^
+||modernhandreadingforum.sukajago.com^
 ||moehlenmedicalgroup.com^
 ||moessmokedmeats.net^
 ||moffetenergymodeling.com^
@@ -4367,6 +4369,7 @@
 ||sbcnews.co.uk^
 ||sbcstt.com^
 ||sbs88.homes^
+||scaredtoplay.com^
 ||scatter.cgb.gov.co^
 ||schiphol.nl^
 ||schnitzelhausmiami.com^
@@ -4872,6 +4875,7 @@
 ||tacoshackhostel.com^
 ||tacosnmiches.com^
 ||taichibardc.com^
+||taikee.co^
 ||tailorproshop.com^
 ||taipan78play.biz^
 ||tajindiancincinnati.com^
