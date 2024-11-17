@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-18 02:32:15
+! Last Updated: 2024-11-18 02:39:27
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 126
+! Number of unique domains: 128
 !
 
 ||63.142.240.221^
@@ -45,6 +45,7 @@
 ||ejournal.upgrisba.ac.id^
 ||endtcm21.com^
 ||eseiw2019.com^
+||exiledkingdoms.com^
 ||feelgoodesprit.com^
 ||flcollegedems.org^
 ||gabal.de^
@@ -62,6 +63,7 @@
 ||infogram.com^
 ||issuu.com^
 ||jacketsforjasper.com^
+||journalpublic.pages.dev^
 ||ko-fi.com^
 ||kudapookerr.id^
 ||lapak303web.us^

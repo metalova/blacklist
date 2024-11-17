@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 02:32:15
+! Last Updated: 2024-11-18 02:39:27
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5498
+! Number of unique domains: 5500
 !
 
 ||103.115.28.6^
@@ -1583,6 +1583,7 @@
 ||espn.com^
 ||espncricinfo.com^
 ||esqkemanusiaan.org^
+||esumsel.sumselprov.go.id^
 ||esurat.bpkad.tanahlautkab.go.id^
 ||etabika.jpnin.gov.my^
 ||etalrestaurant.com^
@@ -5343,6 +5344,7 @@
 ||wendyandwilson.com^
 ||wendypark.org^
 ||westbendsalspizza.com^
+||westchestertrack.org^
 ||westenberg.net^
 ||westernrockinghammiddle.org^
 ||westerntransportationinstitute.org^

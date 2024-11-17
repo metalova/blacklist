@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 02:32:15",
+  "updated": "2024-11-18 02:39:27",
   "categories": {
     "slot": {
-      "count": 5498,
+      "count": 5500,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32991,6 +32991,18 @@
           "raw_url": "http://www.seaposters.com/grandwin-casino.html",
           "found_time": "2024-11-17 13:10:42",
           "status": "active"
+        },
+        {
+          "domain": "westchestertrack.org",
+          "raw_url": "https://www.westchestertrack.org/",
+          "found_time": "2024-11-17 19:36:19",
+          "status": "active"
+        },
+        {
+          "domain": "esumsel.sumselprov.go.id",
+          "raw_url": "https://esumsel.sumselprov.go.id/min96249661.html",
+          "found_time": "2024-11-17 19:37:21",
+          "status": "active"
         }
       ]
     },
@@ -42125,7 +42137,7 @@
       ]
     },
     "poker": {
-      "count": 126,
+      "count": 128,
       "domains": [
         {
           "domain": "goodshepherdshawnee.org",
@@ -42881,6 +42893,18 @@
           "domain": "metzdemenagement.com",
           "raw_url": "https://metzdemenagement.com/",
           "found_time": "2024-11-17 07:57:22",
+          "status": "active"
+        },
+        {
+          "domain": "journalpublic.pages.dev",
+          "raw_url": "https://journalpublic.pages.dev/",
+          "found_time": "2024-11-17 19:32:14",
+          "status": "active"
+        },
+        {
+          "domain": "exiledkingdoms.com",
+          "raw_url": "https://www.exiledkingdoms.com/forum/index.php?members/idrpkr.37438/about",
+          "found_time": "2024-11-17 19:35:17",
           "status": "active"
         }
       ]
