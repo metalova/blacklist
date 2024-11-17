@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 16:25:04
+! Last Updated: 2024-11-17 16:59:11
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5391
+! Number of unique domains: 5397
 !
 
 ||103.115.28.6^
@@ -246,6 +246,7 @@
 ||almondtreeresort.com^
 ||almoosahealthgroup.org^
 ||alodokter.com^
+||alphaacademy.org.in^
 ||alphimax.com^
 ||alpinerholidayresort.com^
 ||alshaheenholding.com^
@@ -324,6 +325,8 @@
 ||anturan.edesaku.org^
 ||apexamericana.com^
 ||apexslot.vip^
+||api.neurala.com^
+||api.unira.ac.id^
 ||apimhskrs.pages.dev^
 ||apindojabar.or.id^
 ||apindolampung.co.id^
@@ -2348,6 +2351,7 @@
 ||jounieh.org^
 ||journal.almuslim.ac.id^
 ||journal.amikveteran.ac.id^
+||journal.arsilmedia.com^
 ||journal.diginus.id^
 ||journal.eng.unila.ac.id^
 ||journal.fsei.unikamamuju.ac.id^
@@ -2637,6 +2641,7 @@
 ||labtek.unbari.ac.id^
 ||lacelier.com^
 ||laceyandlarkinfronterafund.org^
+||lachellworkman.com^
 ||lacimamexicancuisine.com^
 ||lagosstate.gov.ng^
 ||lagranjadelborrego.com^
@@ -5263,6 +5268,7 @@
 ||wildcatcleaners.com^
 ||wildchildworld.com^
 ||wildfirerdc.com^
+||wildlifemanagementpro.org^
 ||wildoakscmf.com^
 ||willchamplin.com^
 ||williamwalkerrespectingcountry.com^

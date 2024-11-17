@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 16:25:04",
+  "updated": "2024-11-17 16:59:11",
   "categories": {
     "slot": {
-      "count": 5391,
+      "count": 5397,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32348,6 +32348,42 @@
           "domain": "dragon777storm.com",
           "raw_url": "https://dragon777storm.com/",
           "found_time": "2024-11-17 09:05:46",
+          "status": "active"
+        },
+        {
+          "domain": "lachellworkman.com",
+          "raw_url": "https://www.lachellworkman.com/",
+          "found_time": "2024-11-17 09:25:04",
+          "status": "active"
+        },
+        {
+          "domain": "wildlifemanagementpro.org",
+          "raw_url": "https://wildlifemanagementpro.org/",
+          "found_time": "2024-11-17 09:57:07",
+          "status": "active"
+        },
+        {
+          "domain": "alphaacademy.org.in",
+          "raw_url": "https://www.alphaacademy.org.in/",
+          "found_time": "2024-11-17 09:57:08",
+          "status": "active"
+        },
+        {
+          "domain": "api.unira.ac.id",
+          "raw_url": "https://api.unira.ac.id/",
+          "found_time": "2024-11-17 09:57:08",
+          "status": "active"
+        },
+        {
+          "domain": "journal.arsilmedia.com",
+          "raw_url": "https://journal.arsilmedia.com/",
+          "found_time": "2024-11-17 09:57:08",
+          "status": "active"
+        },
+        {
+          "domain": "api.neurala.com",
+          "raw_url": "http://api.neurala.com/",
+          "found_time": "2024-11-17 09:59:10",
           "status": "active"
         }
       ]
