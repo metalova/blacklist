@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:39:38",
+  "updated": "2024-11-18 01:44:53",
   "categories": {
     "slot": {
       "count": 5498,
@@ -48170,7 +48170,7 @@
       ]
     },
     "others": {
-      "count": 340,
+      "count": 355,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50210,6 +50210,96 @@
           "domain": "journal.lps2h.com",
           "raw_url": "https://journal.lps2h.com/academica/article/download/146/96/565",
           "found_time": "2024-11-17 18:38:37",
+          "status": "active"
+        },
+        {
+          "domain": "news.biz.tr",
+          "raw_url": "https://news.biz.tr/?satu=judi-domino-qq",
+          "found_time": "2024-11-17 18:39:38",
+          "status": "active"
+        },
+        {
+          "domain": "gatra.com",
+          "raw_url": "https://www.gatra.com/news-601690-nasional-berantas-judi-online-di-indonesia-kominfo-blokir-akses-internet-kamboja-dan-filipina.html",
+          "found_time": "2024-11-17 18:41:40",
+          "status": "active"
+        },
+        {
+          "domain": "koranpelita.co",
+          "raw_url": "https://koranpelita.co/2024/11/dua-pegawai-komdigi-tersangka-mafia-judi-online-ditangkap-di-luar-negeri/",
+          "found_time": "2024-11-17 18:41:41",
+          "status": "active"
+        },
+        {
+          "domain": "radarbangsa.com",
+          "raw_url": "https://www.radarbangsa.com/tekno/50357/menkominfo-ungkap-4-juta-orang-indonesia-jadi-pemain-judi-online-transaksi-hingga-rp600-triliun",
+          "found_time": "2024-11-17 18:41:41",
+          "status": "active"
+        },
+        {
+          "domain": "metadata.kemdikbud.go.id",
+          "raw_url": "https://metadata.kemdikbud.go.id/?id=SITUS-JUDI-LUAR-NEGERI",
+          "found_time": "2024-11-17 18:42:42",
+          "status": "active"
+        },
+        {
+          "domain": "rmollampung.id",
+          "raw_url": "https://rmollampung.id/penyedia-transaksi-judi-online-aplikasi-dana-harus-dibekukan",
+          "found_time": "2024-11-17 18:43:46",
+          "status": "active"
+        },
+        {
+          "domain": "jakartasatu.com",
+          "raw_url": "https://jakartasatu.com/2024/11/06/ini-dia-kemana-dana-hasil-judi-online-mengalir/",
+          "found_time": "2024-11-17 18:43:47",
+          "status": "active"
+        },
+        {
+          "domain": "indopos.co.id",
+          "raw_url": "https://www.indopos.co.id/politik/2024/11/17/formasi-duga-ada-aliran-dana-judi-online-di-salah-satu-paslon-pilkada-dki/",
+          "found_time": "2024-11-17 18:43:47",
+          "status": "active"
+        },
+        {
+          "domain": "borneonews.co.id",
+          "raw_url": "https://www.borneonews.co.id/berita/393312-dana-komitmen-lindungi-pengguna-dari-judi-online-di-indonesia",
+          "found_time": "2024-11-17 18:43:47",
+          "status": "active"
+        },
+        {
+          "domain": "polresnatuna.id",
+          "raw_url": "https://polresnatuna.id/berita-read/dana-bansos-untuk-judi-online-oknum-pegawai-kantor-pos-di-tangkap-sat-reskrim-polres-natuna.html",
+          "found_time": "2024-11-17 18:43:48",
+          "status": "active"
+        },
+        {
+          "domain": "gadgetdiva.id",
+          "raw_url": "https://www.gadgetdiva.id/aplikasi/disentil-pemerintah-soal-judi-online-dana-dan-gopay-buka-suara-",
+          "found_time": "2024-11-17 18:43:48",
+          "status": "active"
+        },
+        {
+          "domain": "bisnisindonesia.id",
+          "raw_url": "https://bisnisindonesia.id/article/dana-ovo-hingga-gopay-tersandung-transaksi-judi-online",
+          "found_time": "2024-11-17 18:43:48",
+          "status": "active"
+        },
+        {
+          "domain": "kaltengpos.info",
+          "raw_url": "https://www.kaltengpos.info/metropolis/2435145629/oknum-staf-bawaslu-gasak-dana-rp19-miliar-dipakai-buat-judi-online",
+          "found_time": "2024-11-17 18:43:49",
+          "status": "active"
+        },
+        {
+          "domain": "sumselindependen.com",
+          "raw_url": "https://www.sumselindependen.com/dana-berkomitmen-dukung-pemerintah-perangi-judi-online/",
+          "found_time": "2024-11-17 18:44:52",
+          "status": "active"
+        },
+        {
+          "domain": "kompasindo.co.id",
+          "raw_url": "https://kompasindo.co.id/2024/11/jalih-pitoeng-desak-bawaslu-periksa-dugaan-penggunaan-dana-judi-online-oleh-tim-pemenangan-pilkada/",
+          "found_time": "2024-11-17 18:44:52",
           "status": "active"
         }
       ]

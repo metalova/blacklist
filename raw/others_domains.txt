@@ -36,10 +36,12 @@ beritasenator.com
 beritaseruyan.com
 bicarabaik.id
 bicaranetwork.com
+bisnisindonesia.id
 bkd.cilacapkab.go.id
 blog.modalku.co.id
 bnm-crb.pages.dev
 bokormas.com
+borneonews.co.id
 boss99-baritoselatankab-paling-gacor.pages.dev
 bspjimedan.kemenperin.go.id
 bukamatanews.id
@@ -86,6 +88,8 @@ forum.gdevelop.io
 forums.autodesk.com
 froggsic.com
 froken.com.ar
+gadgetdiva.id
+gatra.com
 geraifastpay.co.id
 gizmologi.id
 gmrairports.com
@@ -111,6 +115,7 @@ inanews.co.id
 indonesia.go.id
 indonesiainside.id
 indonews.id
+indopos.co.id
 info.populix.co
 infoekonomi.id
 infoindonesia.id
@@ -122,6 +127,7 @@ itjen.menlhk.go.id
 izytech.com
 j5newsroom.com
 jabarprov.go.id
+jakartasatu.com
 jatimpos.co
 jdih.acehprov.go.id
 jernih.co
@@ -143,6 +149,7 @@ kabarfajar.com
 kabarpapua.co
 kalimantanpost.com
 kalselpos.com
+kaltengpos.info
 kapanlagi.com
 karosatuklik.com
 katakini.com
@@ -152,7 +159,9 @@ keuangan.kontan.co.id
 klikbantuan.com
 komdigi.go.id
 komparatif.id
+kompasindo.co.id
 korankota.com
+koranpelita.co
 korantimor.com
 kpdsabah.com
 krazy4drivingschool.ca
@@ -199,6 +208,7 @@ melintas.id
 memoindonesia.co.id
 menpan.go.id
 merconspecialty.com
+metadata.kemdikbud.go.id
 mistar.id
 mnp.ac.id
 momsmoney.kontan.co.id
@@ -208,6 +218,7 @@ mra-grant.com.sg
 mudahjackpot.wordpress.com
 nateyum.pages.dev
 nbaarena.com
+news.biz.tr
 news.harianjogja.com
 nomorsatukaltim.disway.id
 ntthits.com
@@ -235,6 +246,7 @@ pmb.poltekkeshermina.ac.id
 pngwing.com
 pojokbaca.id
 polresbanjarbaru.org
+polresnatuna.id
 poltag.pages.dev
 portal.akademik.trinita.ac.id
 portal.sukoharjokab.go.id
@@ -254,6 +266,7 @@ pulsaaxis.net
 purwokertoinsight.com
 qqraya-asli.com
 qualityplushseq.ca
+radarbangsa.com
 radarindramayu.disway.id
 radarkepahiang.bacakoran.co
 radarlampung.disway.id
@@ -269,6 +282,7 @@ reviewaspg.com
 riau.harianhaluan.com
 ricksbarandgrill.com
 rmoljabar.id
+rmollampung.id
 rmolsumut.id
 roth.azulik.com
 rsjrw.id
@@ -293,6 +307,7 @@ sukabumiupdate.com
 sulbar.herald.id
 sumbarkita.id
 sumedang.jabarekspres.com
+sumselindependen.com
 supertechgurgaon.com
 supremetoys.ca
 swa.co.id

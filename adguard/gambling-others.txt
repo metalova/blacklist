@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-18 01:39:38
+! Last Updated: 2024-11-18 01:44:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 340
+! Number of unique domains: 355
 !
 
 ||a.deliserdangkab.com^
@@ -42,10 +42,12 @@
 ||beritaseruyan.com^
 ||bicarabaik.id^
 ||bicaranetwork.com^
+||bisnisindonesia.id^
 ||bkd.cilacapkab.go.id^
 ||blog.modalku.co.id^
 ||bnm-crb.pages.dev^
 ||bokormas.com^
+||borneonews.co.id^
 ||boss99-baritoselatankab-paling-gacor.pages.dev^
 ||bspjimedan.kemenperin.go.id^
 ||bukamatanews.id^
@@ -92,6 +94,8 @@
 ||forums.autodesk.com^
 ||froggsic.com^
 ||froken.com.ar^
+||gadgetdiva.id^
+||gatra.com^
 ||geraifastpay.co.id^
 ||gizmologi.id^
 ||gmrairports.com^
@@ -117,6 +121,7 @@
 ||indonesia.go.id^
 ||indonesiainside.id^
 ||indonews.id^
+||indopos.co.id^
 ||info.populix.co^
 ||infoekonomi.id^
 ||infoindonesia.id^
@@ -128,6 +133,7 @@
 ||izytech.com^
 ||j5newsroom.com^
 ||jabarprov.go.id^
+||jakartasatu.com^
 ||jatimpos.co^
 ||jdih.acehprov.go.id^
 ||jernih.co^
@@ -149,6 +155,7 @@
 ||kabarpapua.co^
 ||kalimantanpost.com^
 ||kalselpos.com^
+||kaltengpos.info^
 ||kapanlagi.com^
 ||karosatuklik.com^
 ||katakini.com^
@@ -158,7 +165,9 @@
 ||klikbantuan.com^
 ||komdigi.go.id^
 ||komparatif.id^
+||kompasindo.co.id^
 ||korankota.com^
+||koranpelita.co^
 ||korantimor.com^
 ||kpdsabah.com^
 ||krazy4drivingschool.ca^
@@ -205,6 +214,7 @@
 ||memoindonesia.co.id^
 ||menpan.go.id^
 ||merconspecialty.com^
+||metadata.kemdikbud.go.id^
 ||mistar.id^
 ||mnp.ac.id^
 ||momsmoney.kontan.co.id^
@@ -214,6 +224,7 @@
 ||mudahjackpot.wordpress.com^
 ||nateyum.pages.dev^
 ||nbaarena.com^
+||news.biz.tr^
 ||news.harianjogja.com^
 ||nomorsatukaltim.disway.id^
 ||ntthits.com^
@@ -241,6 +252,7 @@
 ||pngwing.com^
 ||pojokbaca.id^
 ||polresbanjarbaru.org^
+||polresnatuna.id^
 ||poltag.pages.dev^
 ||portal.akademik.trinita.ac.id^
 ||portal.sukoharjokab.go.id^
@@ -260,6 +272,7 @@
 ||purwokertoinsight.com^
 ||qqraya-asli.com^
 ||qualityplushseq.ca^
+||radarbangsa.com^
 ||radarindramayu.disway.id^
 ||radarkepahiang.bacakoran.co^
 ||radarlampung.disway.id^
@@ -275,6 +288,7 @@
 ||riau.harianhaluan.com^
 ||ricksbarandgrill.com^
 ||rmoljabar.id^
+||rmollampung.id^
 ||rmolsumut.id^
 ||roth.azulik.com^
 ||rsjrw.id^
@@ -299,6 +313,7 @@
 ||sulbar.herald.id^
 ||sumbarkita.id^
 ||sumedang.jabarekspres.com^
+||sumselindependen.com^
 ||supertechgurgaon.com^
 ||supremetoys.ca^
 ||swa.co.id^
