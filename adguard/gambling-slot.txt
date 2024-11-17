@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 15:58:32
+! Last Updated: 2024-11-17 16:04:44
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5383
+! Number of unique domains: 5389
 !
 
 ||103.115.28.6^
@@ -681,6 +681,7 @@
 ||bkppd.grobogan.go.id^
 ||bkpsdm.konaweutarakab.go.id^
 ||bkpsdm.pesisirselatankab.go.id^
+||bkpsdm.selumakab.go.id^
 ||bkpsdm.tanjungpinangkota.go.id^
 ||bksdajambi.com^
 ||blackownedsmoke.com^
@@ -1465,6 +1466,7 @@
 ||eka-prasetya.ac.id^
 ||ekinerja.muaraenimkab.go.id^
 ||ekonomidesa.com^
+||eksya.staikap.ac.id^
 ||elangs2.pages.dev^
 ||elcargol.com^
 ||elearning.jec.co.id^
@@ -2255,6 +2257,7 @@
 ||jambitv.disway.id^
 ||jamsosindonesia.com^
 ||janda4dsip.com^
+||janganjaditikus.pages.dev^
 ||japaknimen.xyz^
 ||japanee.id^
 ||japri138.online^
@@ -2370,6 +2373,7 @@
 ||journall.org^
 ||journalpublicspace.org^
 ||journalpublicspace.pages.dev^
+||journals.ablaikhan.kz^
 ||journals.highlandinstitute.org^
 ||journals.iarn.or.id^
 ||journals.prosciences.net^
@@ -2466,6 +2470,7 @@
 ||karirtotosuffix.com^
 ||kariskin.com^
 ||karo88-official.firebaseapp.com^
+||karyaharapanmukti.desa.id^
 ||kasirgalabs.com^
 ||kaskamping.com^
 ||kaskus.co.id^
@@ -3425,6 +3430,7 @@
 ||onekeymls.com^
 ||onetelbd.com^
 ||oneview.uou.ac.in^
+||online.abertay.ac.uk^
 ||online.rsbaptiskdr.id^
 ||online.wrexham.ac.uk^
 ||onlinejfi.org^

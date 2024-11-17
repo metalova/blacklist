@@ -675,6 +675,7 @@ bkpp.labuhanbatukab.go.id
 bkppd.grobogan.go.id
 bkpsdm.konaweutarakab.go.id
 bkpsdm.pesisirselatankab.go.id
+bkpsdm.selumakab.go.id
 bkpsdm.tanjungpinangkota.go.id
 bksdajambi.com
 blackownedsmoke.com
@@ -1459,6 +1460,7 @@ ejurnal.unikarta.ac.id
 eka-prasetya.ac.id
 ekinerja.muaraenimkab.go.id
 ekonomidesa.com
+eksya.staikap.ac.id
 elangs2.pages.dev
 elcargol.com
 elearning.jec.co.id
@@ -2249,6 +2251,7 @@ jalurbosi.pages.dev
 jambitv.disway.id
 jamsosindonesia.com
 janda4dsip.com
+janganjaditikus.pages.dev
 japaknimen.xyz
 japanee.id
 japri138.online
@@ -2364,6 +2367,7 @@ journalhoki.pages.dev
 journall.org
 journalpublicspace.org
 journalpublicspace.pages.dev
+journals.ablaikhan.kz
 journals.highlandinstitute.org
 journals.iarn.or.id
 journals.prosciences.net
@@ -2460,6 +2464,7 @@ karimashipping.com
 karirtotosuffix.com
 kariskin.com
 karo88-official.firebaseapp.com
+karyaharapanmukti.desa.id
 kasirgalabs.com
 kaskamping.com
 kaskus.co.id
@@ -3419,6 +3424,7 @@ onebag.com
 onekeymls.com
 onetelbd.com
 oneview.uou.ac.in
+online.abertay.ac.uk
 online.rsbaptiskdr.id
 online.wrexham.ac.uk
 onlinejfi.org

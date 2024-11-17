@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 15:58:32",
+  "updated": "2024-11-17 16:04:44",
   "categories": {
     "slot": {
-      "count": 5383,
+      "count": 5389,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32300,6 +32300,42 @@
           "domain": "disdikkbb-gacor288-resmi.pages.dev",
           "raw_url": "https://disdikkbb-gacor288-resmi.pages.dev/",
           "found_time": "2024-11-17 08:58:31",
+          "status": "active"
+        },
+        {
+          "domain": "janganjaditikus.pages.dev",
+          "raw_url": "https://janganjaditikus.pages.dev/",
+          "found_time": "2024-11-17 08:58:32",
+          "status": "active"
+        },
+        {
+          "domain": "karyaharapanmukti.desa.id",
+          "raw_url": "https://karyaharapanmukti.desa.id/",
+          "found_time": "2024-11-17 09:00:36",
+          "status": "active"
+        },
+        {
+          "domain": "eksya.staikap.ac.id",
+          "raw_url": "https://eksya.staikap.ac.id/",
+          "found_time": "2024-11-17 09:00:36",
+          "status": "active"
+        },
+        {
+          "domain": "bkpsdm.selumakab.go.id",
+          "raw_url": "https://bkpsdm.selumakab.go.id/",
+          "found_time": "2024-11-17 09:00:36",
+          "status": "active"
+        },
+        {
+          "domain": "online.abertay.ac.uk",
+          "raw_url": "https://online.abertay.ac.uk/",
+          "found_time": "2024-11-17 09:01:41",
+          "status": "active"
+        },
+        {
+          "domain": "journals.ablaikhan.kz",
+          "raw_url": "https://journals.ablaikhan.kz/",
+          "found_time": "2024-11-17 09:02:42",
           "status": "active"
         }
       ]
