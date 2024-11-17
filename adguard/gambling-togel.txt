@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 22:52:55
+! Last Updated: 2024-11-17 22:58:25
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 913
+! Number of unique domains: 916
 !
 
 ||087ina.com^
@@ -83,6 +83,7 @@
 ||bekalut.org^
 ||benadamslaw.com^
 ||bengkuluakses.pro^
+||benuanews.com^
 ||berasanmakmur.desa.id^
 ||beritajogja.com^
 ||beritasumut.com^
@@ -450,6 +451,7 @@
 ||lintasjatimnews.com^
 ||lintasnusa.id^
 ||lintaspost.com^
+||liputan4.com^
 ||liputanbolafox.wordpress.com^
 ||liquimarcas.co^
 ||literasispenda.id^
@@ -494,6 +496,7 @@
 ||marysmedkitchen.com^
 ||massarosestate.com.au^
 ||master-togel.koni.or.id^
+||mataram.indonesiasatu.co.id^
 ||maumgeneralstore.com^
 ||maxcasa.com^
 ||medeortherapeutics.com^

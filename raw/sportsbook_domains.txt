@@ -131,6 +131,7 @@ desa-kaliputu.kuduskab.go.id
 desafiocreativo.com
 dessertstreetcafe.ca
 devpost.com
+dewandireksi.pages.dev
 digilib.ptiq.ac.id
 digilib.unila.ac.id
 digilibadmin.unismuh.ac.id
@@ -451,6 +452,7 @@ sariminkenx.quora.com
 satyabeautywellness.com
 sbobet.plan-international.or.id
 sdgs.scout.org
+sdm.bku.ac.id
 sdn11bandaaceh.sch.id
 sdn28bandaaceh.sch.id
 sdn34bandaaceh.sch.id
