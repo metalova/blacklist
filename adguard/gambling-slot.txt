@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 03:09:38
+! Last Updated: 2024-11-18 03:17:49
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5533
+! Number of unique domains: 5534
 !
 
 ||103.115.28.6^
@@ -1246,6 +1246,7 @@
 ||dencarik.edesaku.org^
 ||denpost.id^
 ||dentalimplantsgoshenny.com^
+||dentalimplantsriverheadny.com^
 ||dentallaspalmas.com^
 ||depo138.blog^
 ||depo138.co^

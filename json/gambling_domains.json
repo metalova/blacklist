@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 03:09:38",
+  "updated": "2024-11-18 03:17:49",
   "categories": {
     "slot": {
-      "count": 5533,
+      "count": 5534,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33200,6 +33200,12 @@
           "domain": "salford.myhomecare.co.uk",
           "raw_url": "https://salford.myhomecare.co.uk/",
           "found_time": "2024-11-17 20:08:37",
+          "status": "active"
+        },
+        {
+          "domain": "dentalimplantsriverheadny.com",
+          "raw_url": "https://www.dentalimplantsriverheadny.com/",
+          "found_time": "2024-11-17 20:09:38",
           "status": "active"
         }
       ]
