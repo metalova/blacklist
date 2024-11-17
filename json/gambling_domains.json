@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:38:17",
+  "updated": "2024-11-17 17:44:28",
   "categories": {
     "slot": {
-      "count": 5427,
+      "count": 5439,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32564,6 +32564,78 @@
           "domain": "transport.wa.gov.au",
           "raw_url": "https://www.transport.wa.gov.au/licensing/visit-a-licensing-centre-or-agent.asp",
           "found_time": "2024-11-17 10:38:16",
+          "status": "active"
+        },
+        {
+          "domain": "espncricinfo.com",
+          "raw_url": "https://www.espncricinfo.com/series/women-s-big-bash-league-2024-25-1442625/brisbane-heat-women-vs-melbourne-stars-women-30th-match-1442675/match-report",
+          "found_time": "2024-11-17 10:38:16",
+          "status": "active"
+        },
+        {
+          "domain": "snltranscripts.jt.org",
+          "raw_url": "https://snltranscripts.jt.org/00/00pte2jeopardy.phtml",
+          "found_time": "2024-11-17 10:43:22",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138to.vercel.app",
+          "raw_url": "https://maxwin138to.vercel.app/",
+          "found_time": "2024-11-17 10:44:25",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138r.vercel.app",
+          "raw_url": "https://maxwin138r.vercel.app/",
+          "found_time": "2024-11-17 10:44:25",
+          "status": "active"
+        },
+        {
+          "domain": "mtb-tribe.com",
+          "raw_url": "https://www.mtb-tribe.com/",
+          "found_time": "2024-11-17 10:44:25",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138ku.vercel.app",
+          "raw_url": "https://maxwin138ku.vercel.app/",
+          "found_time": "2024-11-17 10:44:26",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138x.vercel.app",
+          "raw_url": "https://maxwin138x.vercel.app/",
+          "found_time": "2024-11-17 10:44:26",
+          "status": "active"
+        },
+        {
+          "domain": "epicwin138tt.vercel.app",
+          "raw_url": "https://epicwin138tt.vercel.app/",
+          "found_time": "2024-11-17 10:44:26",
+          "status": "active"
+        },
+        {
+          "domain": "sangjuara.semarangkota.go.id",
+          "raw_url": "https://sangjuara.semarangkota.go.id/",
+          "found_time": "2024-11-17 10:44:27",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138ka.vercel.app",
+          "raw_url": "https://maxwin138ka.vercel.app/",
+          "found_time": "2024-11-17 10:44:27",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138it.vercel.app",
+          "raw_url": "https://maxwin138it.vercel.app/",
+          "found_time": "2024-11-17 10:44:27",
+          "status": "active"
+        },
+        {
+          "domain": "maxwin138ez.vercel.app",
+          "raw_url": "https://maxwin138ez.vercel.app/",
+          "found_time": "2024-11-17 10:44:28",
           "status": "active"
         }
       ]
