@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 06:04:39",
+  "updated": "2024-11-18 06:38:44",
   "categories": {
     "slot": {
-      "count": 5581,
+      "count": 5586,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33488,6 +33488,36 @@
           "domain": "nurjamancenter.id",
           "raw_url": "https://nurjamancenter.id/bandarmpo/",
           "found_time": "2024-11-17 23:04:38",
+          "status": "active"
+        },
+        {
+          "domain": "rpjp.gresikkab.go.id",
+          "raw_url": "https://rpjp.gresikkab.go.id/BANDARMPO-login-81/",
+          "found_time": "2024-11-17 23:04:38",
+          "status": "active"
+        },
+        {
+          "domain": "nadpost.id",
+          "raw_url": "https://nadpost.id/bandarmpo/",
+          "found_time": "2024-11-17 23:35:40",
+          "status": "active"
+        },
+        {
+          "domain": "latorredelsol.com",
+          "raw_url": "https://www.latorredelsol.com/es/",
+          "found_time": "2024-11-17 23:36:41",
+          "status": "active"
+        },
+        {
+          "domain": "raja365bos.co",
+          "raw_url": "https://raja365bos.co/",
+          "found_time": "2024-11-17 23:37:43",
+          "status": "active"
+        },
+        {
+          "domain": "smkteknikpal.com",
+          "raw_url": "https://smkteknikpal.com/home/RAJA365/",
+          "found_time": "2024-11-17 23:37:43",
           "status": "active"
         }
       ]
