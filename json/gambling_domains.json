@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 13:32:59",
+  "updated": "2024-11-17 13:37:06",
   "categories": {
     "slot": {
       "count": 5363,
@@ -44907,7 +44907,7 @@
       ]
     },
     "esports": {
-      "count": 273,
+      "count": 275,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -46545,6 +46545,18 @@
           "domain": "inilahjateng.com",
           "raw_url": "https://inilahjateng.com/terkuak-streamer-mobile-legends-jadi-alat-promosi-judi-online/",
           "found_time": "2024-11-17 06:31:56",
+          "status": "active"
+        },
+        {
+          "domain": "depotvente-agde.com",
+          "raw_url": "https://depotvente-agde.com/?Indonesia=pktiyh&time=2024-09-22&key=turnamen-mobile-legend-apakah-judi",
+          "found_time": "2024-11-17 06:32:58",
+          "status": "active"
+        },
+        {
+          "domain": "officialhankjones.com",
+          "raw_url": "https://officialhankjones.com/",
+          "found_time": "2024-11-17 06:35:02",
           "status": "active"
         }
       ]
