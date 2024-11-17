@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 19:49:12",
+  "updated": "2024-11-17 19:53:19",
   "categories": {
     "slot": {
-      "count": 5484,
+      "count": 5492,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32906,6 +32906,54 @@
           "domain": "betking.co.ke",
           "raw_url": "https://www.betking.co.ke/",
           "found_time": "2024-11-17 12:48:09",
+          "status": "active"
+        },
+        {
+          "domain": "betmaster-in.com",
+          "raw_url": "https://betmaster-in.com/",
+          "found_time": "2024-11-17 12:49:12",
+          "status": "active"
+        },
+        {
+          "domain": "atendimento.ac.def.br",
+          "raw_url": "https://atendimento.ac.def.br/video.php/video/20241110/betmaster.html",
+          "found_time": "2024-11-17 12:50:13",
+          "status": "active"
+        },
+        {
+          "domain": "betmasters.net.br",
+          "raw_url": "https://betmasters.net.br/2024",
+          "found_time": "2024-11-17 12:50:14",
+          "status": "active"
+        },
+        {
+          "domain": "megapulsa88amp.com",
+          "raw_url": "https://megapulsa88amp.com/",
+          "found_time": "2024-11-17 12:51:15",
+          "status": "active"
+        },
+        {
+          "domain": "sco.ub.ac.id",
+          "raw_url": "https://sco.ub.ac.id/",
+          "found_time": "2024-11-17 12:51:16",
+          "status": "active"
+        },
+        {
+          "domain": "newstarell.com",
+          "raw_url": "https://newstarell.com/",
+          "found_time": "2024-11-17 12:51:16",
+          "status": "active"
+        },
+        {
+          "domain": "thelabexperience.com",
+          "raw_url": "https://www.thelabexperience.com/",
+          "found_time": "2024-11-17 12:52:18",
+          "status": "active"
+        },
+        {
+          "domain": "apktodo.net",
+          "raw_url": "https://apktodo.net/3246/",
+          "found_time": "2024-11-17 12:53:19",
           "status": "active"
         }
       ]

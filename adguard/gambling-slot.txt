@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 19:49:12
+! Last Updated: 2024-11-17 19:53:19
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5484
+! Number of unique domains: 5492
 !
 
 ||103.115.28.6^
@@ -344,6 +344,7 @@
 ||apkpure.com^
 ||apkpure.net^
 ||apktodo.io^
+||apktodo.net^
 ||apluspestcontrol.com^
 ||app.betmasterplay.in^
 ||app.itaf.id^
@@ -415,6 +416,7 @@
 ||asw.asean.org^
 ||asyraafahmadi.com^
 ||atanidamos.online^
+||atendimento.ac.def.br^
 ||athaanginfra.in^
 ||atheos-app.com^
 ||atisasecurities.com^
@@ -599,6 +601,7 @@
 ||betkingagency.com^
 ||betkingwood.com^
 ||betmaster-apuestas-deportivas.softonic-id.com^
+||betmaster-in.com^
 ||betmaster-play.in^
 ||betmaster-vip.com^
 ||betmaster.app^
@@ -611,6 +614,7 @@
 ||betmasterlive.com^
 ||betmasterplay.net^
 ||betmasters.in^
+||betmasters.net.br^
 ||betnwin247.com^
 ||betparade.net^
 ||betplace.com.br^
@@ -3100,6 +3104,7 @@
 ||megabonanza.com^
 ||megaduta.co.id^
 ||megagame.club^
+||megapulsa88amp.com^
 ||megatiendavirtual77.co^
 ||megawin.koma.co.id^
 ||megawin.kupangkab.go.id^
@@ -3404,6 +3409,7 @@
 ||news.peds.wustl.edu^
 ||news.schoolmedia.id^
 ||newshop.pressetext.com^
+||newstarell.com^
 ||newsway.id^
 ||newsweek.com^
 ||newyartcity.com^
@@ -4299,6 +4305,7 @@
 ||schnitzelhausmiami.com^
 ||schulerbauer.com^
 ||sckn.cz^
+||sco.ub.ac.id^
 ||scocit.aap.org^
 ||scottgallery.com^
 ||scoutevforum.com^
@@ -4930,6 +4937,7 @@
 ||thejohnnyleemusic.com^
 ||thekababfactory.net^
 ||thekudumbashreestory.info^
+||thelabexperience.com^
 ||thelavvabar.com^
 ||theliquorstorepdx.com^
 ||thelobbynj.com^
