@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:14:48",
+  "updated": "2024-11-17 10:19:58",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 516,
+      "count": 521,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35281,6 +35281,36 @@
           "domain": "bi.team",
           "raw_url": "https://www.bi.team/focus-areas/economy/gambling/",
           "found_time": "2024-11-17 03:14:47",
+          "status": "active"
+        },
+        {
+          "domain": "ordercityteriayki.com",
+          "raw_url": "https://www.ordercityteriayki.com/amp/",
+          "found_time": "2024-11-17 03:14:48",
+          "status": "active"
+        },
+        {
+          "domain": "gov.uk",
+          "raw_url": "https://www.gov.uk/government/news/major-reform-of-gambling-laws-to-protect-vulnerable-users-in-smartphone-era",
+          "found_time": "2024-11-17 03:16:51",
+          "status": "active"
+        },
+        {
+          "domain": "casinofandango.com",
+          "raw_url": "https://casinofandango.com/casino/sports-book/",
+          "found_time": "2024-11-17 03:16:51",
+          "status": "active"
+        },
+        {
+          "domain": "busunglapar.pages.dev",
+          "raw_url": "https://busunglapar.pages.dev/cache/one/index.php?cola=AB%20CASINO",
+          "found_time": "2024-11-17 03:17:54",
+          "status": "active"
+        },
+        {
+          "domain": "grandviewresearch.com",
+          "raw_url": "https://www.grandviewresearch.com/industry-analysis/online-gambling-market",
+          "found_time": "2024-11-17 03:17:54",
           "status": "active"
         }
       ]
