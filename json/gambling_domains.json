@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 03:17:49",
+  "updated": "2024-11-18 03:21:54",
   "categories": {
     "slot": {
-      "count": 5534,
+      "count": 5535,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33206,6 +33206,12 @@
           "domain": "dentalimplantsriverheadny.com",
           "raw_url": "https://www.dentalimplantsriverheadny.com/",
           "found_time": "2024-11-17 20:09:38",
+          "status": "active"
+        },
+        {
+          "domain": "turing.org.tr",
+          "raw_url": "https://www.turing.org.tr/",
+          "found_time": "2024-11-17 20:17:48",
           "status": "active"
         }
       ]

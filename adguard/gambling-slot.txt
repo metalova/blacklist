@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 03:17:49
+! Last Updated: 2024-11-18 03:21:54
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5534
+! Number of unique domains: 5535
 !
 
 ||103.115.28.6^
@@ -5160,6 +5160,7 @@
 ||tulangkuat.com^
 ||tumblr.com^
 ||tunnelwalkofshame.com^
+||turing.org.tr^
 ||tuttobenemilano.com^
 ||tv.bioskop21.gay^
 ||tv1.nontonjavid.net^
