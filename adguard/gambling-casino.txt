@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 21:19:50
+! Last Updated: 2024-11-17 21:25:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 555
+! Number of unique domains: 560
 !
 
 ||24liveblog.com^
@@ -81,6 +81,7 @@
 ||business2communitymalaysia.com^
 ||businesswire.com^
 ||busunglapar.pages.dev^
+||butex.edu.bd^
 ||buymesquite.com^
 ||cachecreek.com^
 ||caremedicalcollegebd.com^
@@ -280,6 +281,7 @@
 ||kupuku.id^
 ||lanerosacasino.wordpress.com^
 ||lanyardkilat.co.id^
+||lashcafe.com^
 ||latourneecanadienne.ca^
 ||lawruling.com^
 ||learning.psbk.or.id^
@@ -481,6 +483,7 @@
 ||swearandshake.com^
 ||swinomishcasinoandlodge.com^
 ||sycuan.com^
+||symbodi.com^
 ||tableau.com^
 ||tachipalace.com^
 ||take23.org^
@@ -489,6 +492,7 @@
 ||telegraph.co.uk^
 ||theapocalypsedaddy.com^
 ||theargus.co.uk^
+||theblindpigcafe.com^
 ||thecircuslife.com^
 ||theexpendables2film.com^
 ||thefosterfarm.org^
@@ -546,6 +550,7 @@
 ||vistarresorts.com^
 ||viva.co.id^
 ||wap.lojascala.com.br^
+||warhorsecasino.com^
 ||washington.org^
 ||web.margasari.desa.id^
 ||weirdal.com^

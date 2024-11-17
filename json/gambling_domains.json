@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:19:50",
+  "updated": "2024-11-17 21:25:00",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 555,
+      "count": 560,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36325,6 +36325,36 @@
           "domain": "pancarpos.com",
           "raw_url": "https://pancarpos.com/06/08/2024/jadi-member-casino-dunia-bang-togar-bali-paling-maju-di-indonesia/",
           "found_time": "2024-11-17 14:18:49",
+          "status": "active"
+        },
+        {
+          "domain": "theblindpigcafe.com",
+          "raw_url": "https://www.theblindpigcafe.com/",
+          "found_time": "2024-11-17 14:19:50",
+          "status": "active"
+        },
+        {
+          "domain": "symbodi.com",
+          "raw_url": "https://symbodi.com/?srsltid=AfmBOoombnK2UUccO914QnaWuiKz_Y13_TaqT1Vsuqr9eYFIJ8zUjZ-Y",
+          "found_time": "2024-11-17 14:20:52",
+          "status": "active"
+        },
+        {
+          "domain": "butex.edu.bd",
+          "raw_url": "https://www.butex.edu.bd/ddce/page/2/",
+          "found_time": "2024-11-17 14:21:55",
+          "status": "active"
+        },
+        {
+          "domain": "lashcafe.com",
+          "raw_url": "https://lashcafe.com/",
+          "found_time": "2024-11-17 14:21:56",
+          "status": "active"
+        },
+        {
+          "domain": "warhorsecasino.com",
+          "raw_url": "https://www.warhorsecasino.com/sportsbook/",
+          "found_time": "2024-11-17 14:23:58",
           "status": "active"
         }
       ]
