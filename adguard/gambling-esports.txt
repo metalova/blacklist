@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 13:37:06
+! Last Updated: 2024-11-17 13:43:16
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 275
+! Number of unique domains: 277
 !
 
 ||1001liga.pages.dev^
@@ -66,6 +66,7 @@
 ||dotablast.com^
 ||dotesports.com^
 ||drg-66h.pages.dev^
+||eddra.com^
 ||efgev.com^
 ||ejurnal.warmadewa.ac.id^
 ||endeus.tv^
@@ -235,6 +236,7 @@
 ||siouxfallsmusic.com^
 ||sis.tv^
 ||sky123menang.com^
+||skyscanner.co.id^
 ||slotnesia77aa.com^
 ||snowchateaux.com^
 ||sockit2pp.com^

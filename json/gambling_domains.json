@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 13:37:06",
+  "updated": "2024-11-17 13:43:16",
   "categories": {
     "slot": {
       "count": 5363,
@@ -44907,7 +44907,7 @@
       ]
     },
     "esports": {
-      "count": 275,
+      "count": 277,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -46557,6 +46557,18 @@
           "domain": "officialhankjones.com",
           "raw_url": "https://officialhankjones.com/",
           "found_time": "2024-11-17 06:35:02",
+          "status": "active"
+        },
+        {
+          "domain": "eddra.com",
+          "raw_url": "https://eddra.com/en/services/digital-event-activities/jackpot.html",
+          "found_time": "2024-11-17 06:37:05",
+          "status": "active"
+        },
+        {
+          "domain": "skyscanner.co.id",
+          "raw_url": "https://www.skyscanner.co.id/penerbangan-ke/get/penerbangan-murah-ke-geraldton-bandara.html",
+          "found_time": "2024-11-17 06:40:11",
           "status": "active"
         }
       ]
