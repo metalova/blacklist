@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 09:19:11",
+  "updated": "2024-11-17 09:20:13",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 502,
+      "count": 504,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35197,6 +35197,18 @@
           "domain": "fortunebay.com",
           "raw_url": "https://fortunebay.com/index.php/casino/blackjack",
           "found_time": "2024-11-17 02:19:11",
+          "status": "active"
+        },
+        {
+          "domain": "theskagit.com",
+          "raw_url": "https://www.theskagit.com/jackpot-winners/",
+          "found_time": "2024-11-17 02:19:11",
+          "status": "active"
+        },
+        {
+          "domain": "jackpotjoanies.com",
+          "raw_url": "https://www.jackpotjoanies.com/",
+          "found_time": "2024-11-17 02:20:12",
           "status": "active"
         }
       ]
