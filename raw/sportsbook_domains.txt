@@ -75,6 +75,7 @@ bolakita.farm
 bolakita5.pages.dev
 bolasport.com
 bonebolangokab.ina-sdi.or.id
+boosterjp.pages.dev
 bppsdm.kkp.go.id
 brilio.net
 btcollectiblesstore.com
@@ -118,6 +119,7 @@ dempelrejo-ngampel.desa.id
 desafiocreativo.com
 devpost.com
 digilib.ptiq.ac.id
+digilib.unila.ac.id
 digilibadmin.unismuh.ac.id
 dinkesmbd.net
 discoveriesinamericanart.com
@@ -220,6 +222,7 @@ izinngacakmas.pages.dev
 jagonganwagen.psbk.or.id
 jateng.jpnn.com
 jatimtimes.com
+jawabalipos.com
 jdih.sampangkab.go.id
 jektvnews.disway.id
 jendralmaya.pages.dev
@@ -331,6 +334,7 @@ onefootball.com
 oneplanetnetwork.org
 onevolleyball.net
 os.mbed.com
+p33amp.firebaseapp.com
 pabrikbola.com
 padelgoin.com
 pafikotagalang.pages.dev
@@ -470,6 +474,7 @@ stroomlijnadvies.nl
 sttpresbyterian.ac.id
 sumberkini.my
 superball.bolasport.com
+tacomp.cloud
 tamanramadenpasar.sch.id
 tanjuangalai.solokkab.go.id
 taruhanbola99.wordpress.com
@@ -518,6 +523,7 @@ wisechurch.com
 woochonbbq.com
 x-akl1.smknsahul.sch.id
 x500id-judi-bola-1.pages.dev
+x500id-sbobet-1.pages.dev
 xn--hokiapace-i5a84a.com
 xolabit.co.id
 xqshdn.cb-silesia.edu.pl

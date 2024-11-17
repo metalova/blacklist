@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 11:29:05",
+  "updated": "2024-11-17 11:34:18",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 529,
+      "count": 535,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44440,6 +44440,42 @@
           "domain": "agenmaxbet.quora.com",
           "raw_url": "https://agenmaxbet.quora.com/Judi-Bola-Online",
           "found_time": "2024-11-17 04:29:04",
+          "status": "active"
+        },
+        {
+          "domain": "tacomp.cloud",
+          "raw_url": "https://tacomp.cloud/situs-agen-maxbet-bola/",
+          "found_time": "2024-11-17 04:29:04",
+          "status": "active"
+        },
+        {
+          "domain": "jawabalipos.com",
+          "raw_url": "https://jawabalipos.com/situs-agen-maxbet-bola/",
+          "found_time": "2024-11-17 04:30:07",
+          "status": "active"
+        },
+        {
+          "domain": "p33amp.firebaseapp.com",
+          "raw_url": "https://p33amp.firebaseapp.com/",
+          "found_time": "2024-11-17 04:31:10",
+          "status": "active"
+        },
+        {
+          "domain": "boosterjp.pages.dev",
+          "raw_url": "https://boosterjp.pages.dev/",
+          "found_time": "2024-11-17 04:31:10",
+          "status": "active"
+        },
+        {
+          "domain": "x500id-sbobet-1.pages.dev",
+          "raw_url": "https://x500id-sbobet-1.pages.dev/",
+          "found_time": "2024-11-17 04:32:12",
+          "status": "active"
+        },
+        {
+          "domain": "digilib.unila.ac.id",
+          "raw_url": "http://digilib.unila.ac.id/275/10/BAB%20II.pdf",
+          "found_time": "2024-11-17 04:33:15",
           "status": "active"
         }
       ]
