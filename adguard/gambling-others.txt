@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 14:37:56
+! Last Updated: 2024-11-17 14:44:05
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 313
+! Number of unique domains: 319
 !
 
 ||a.deliserdangkab.com^
@@ -35,6 +35,7 @@
 ||bataminfo.co.id^
 ||batastimor.com^
 ||baznas.go.id^
+||bbs.zhizhuyx.com^
 ||belasting.id^
 ||belitongekspres.bacakoran.co^
 ||beritasenator.com^
@@ -49,6 +50,7 @@
 ||bukamatanews.id^
 ||cantz.or.tz^
 ||casabellabb.com^
+||cavamenzies.com^
 ||chaisenslot.com^
 ||ciidret.du.ac.in^
 ||cloud.wg.ugm.ac.id^
@@ -82,6 +84,7 @@
 ||fortuneidn.com^
 ||forum.gdevelop.io^
 ||forums.autodesk.com^
+||froggsic.com^
 ||froken.com.ar^
 ||geraifastpay.co.id^
 ||gizmologi.id^
@@ -151,6 +154,7 @@
 ||kudus.ayoindonesia.com^
 ||labkom.co.id^
 ||lampost.co^
+||lauttimur.com^
 ||law.uii.ac.id^
 ||lbhpengayoman.unpar.ac.id^
 ||ledakans.pages.dev^
@@ -225,6 +229,7 @@
 ||polresbanjarbaru.org^
 ||portal.akademik.trinita.ac.id^
 ||portal.sukoharjokab.go.id^
+||portaljepe.id^
 ||posbali.net^
 ||poscyber.com^
 ||ppatk.go.id^
@@ -266,6 +271,7 @@
 ||setneg.go.id^
 ||setwan.jogjakota.go.id^
 ||sfcv.org^
+||sinarmassekuritas.co.id^
 ||soasik.bpsaceh.com^
 ||southloopcampusministry.org^
 ||srisakthirolling.com^

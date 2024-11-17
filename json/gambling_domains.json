@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 14:37:56",
+  "updated": "2024-11-17 14:44:05",
   "categories": {
     "slot": {
       "count": 5363,
@@ -46580,7 +46580,7 @@
       ]
     },
     "others": {
-      "count": 313,
+      "count": 319,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -48458,6 +48458,42 @@
           "domain": "reksadanacommunity.com",
           "raw_url": "https://reksadanacommunity.com/judi-online-adalah-maut-mending-investasi-reksa-dana/",
           "found_time": "2024-11-17 07:37:56",
+          "status": "active"
+        },
+        {
+          "domain": "sinarmassekuritas.co.id",
+          "raw_url": "https://www.sinarmassekuritas.co.id/gopay-dukung-pemberantasan-judi-online-lewat-teknologi-dan-edukasi",
+          "found_time": "2024-11-17 07:37:56",
+          "status": "active"
+        },
+        {
+          "domain": "portaljepe.id",
+          "raw_url": "https://portaljepe.id/2024/08/07/gopay-dukung-pemberantasan-judi-online-lewat-teknologi-dan-edukasi/",
+          "found_time": "2024-11-17 07:40:59",
+          "status": "active"
+        },
+        {
+          "domain": "froggsic.com",
+          "raw_url": "https://www.froggsic.com/",
+          "found_time": "2024-11-17 07:43:02",
+          "status": "active"
+        },
+        {
+          "domain": "lauttimur.com",
+          "raw_url": "https://lauttimur.com/santettoto",
+          "found_time": "2024-11-17 07:43:02",
+          "status": "active"
+        },
+        {
+          "domain": "cavamenzies.com",
+          "raw_url": "https://www.cavamenzies.com/",
+          "found_time": "2024-11-17 07:43:03",
+          "status": "active"
+        },
+        {
+          "domain": "bbs.zhizhuyx.com",
+          "raw_url": "http://bbs.zhizhuyx.com/?4859801",
+          "found_time": "2024-11-17 07:44:05",
           "status": "active"
         }
       ]

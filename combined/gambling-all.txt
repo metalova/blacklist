@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 14:37:56
+! Last Updated: 2024-11-17 14:44:05
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 8071
+! Number of domains: 8077
 !
 
 ! Category: SLOT
@@ -8089,4 +8089,10 @@
 ||pks.id^
 ||soasik.bpsaceh.com^
 ||reksadanacommunity.com^
+||sinarmassekuritas.co.id^
+||portaljepe.id^
+||froggsic.com^
+||lauttimur.com^
+||cavamenzies.com^
+||bbs.zhizhuyx.com^
 
