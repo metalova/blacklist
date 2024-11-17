@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 04:01:03
+! Last Updated: 2024-11-18 04:14:15
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5539
+! Number of unique domains: 5542
 !
 
 ||103.115.28.6^
@@ -2623,6 +2623,7 @@
 ||kintamani.banglikab.go.id^
 ||kip.unikarta.ac.id^
 ||kipa.id^
+||kipaskipas.com^
 ||kirirom.studio^
 ||kishibenotabi.com^
 ||kitamuafrica.com^
@@ -3853,6 +3854,7 @@
 ||polbitrada.ac.id^
 ||pollostav.com^
 ||polluxbpo.com^
+||polresciko.com^
 ||polresdemak.com^
 ||poltek.stialanmakassar.ac.id^
 ||poltekkes-kaltim.ac.id^
@@ -5403,6 +5405,7 @@
 ||whizdomenglish.com^
 ||wickwarbrewing.com^
 ||wijaya-bos.com^
+||wika-bumn.pages.dev^
 ||wiki.dpconline.org^
 ||wildays.com^
 ||wildcatcleaners.com^

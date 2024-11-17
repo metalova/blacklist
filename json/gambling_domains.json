@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 04:01:03",
+  "updated": "2024-11-18 04:14:15",
   "categories": {
     "slot": {
-      "count": 5539,
+      "count": 5542,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33236,6 +33236,24 @@
           "domain": "alatanindonesia-35k.pages.dev",
           "raw_url": "https://alatanindonesia-35k.pages.dev/",
           "found_time": "2024-11-17 21:01:03",
+          "status": "active"
+        },
+        {
+          "domain": "wika-bumn.pages.dev",
+          "raw_url": "https://wika-bumn.pages.dev/AGEN",
+          "found_time": "2024-11-17 21:01:03",
+          "status": "active"
+        },
+        {
+          "domain": "kipaskipas.com",
+          "raw_url": "https://kipaskipas.com/",
+          "found_time": "2024-11-17 21:11:12",
+          "status": "active"
+        },
+        {
+          "domain": "polresciko.com",
+          "raw_url": "https://polresciko.com/",
+          "found_time": "2024-11-17 21:13:13",
           "status": "active"
         }
       ]
