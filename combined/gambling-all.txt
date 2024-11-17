@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 13:18:32
+! Last Updated: 2024-11-17 13:24:43
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 8027
+! Number of domains: 8033
 !
 
 ! Category: SLOT
@@ -7757,6 +7757,12 @@
 ||lankatalks-id.pages.dev^
 ||ponislot.amphtml.org^
 ||amp-bosjp.firebaseapp.com^
+||1001liga.pages.dev^
+||uddpmi.or.id^
+||theglobeandmail.com^
+||theleafsnation.com^
+||vanmeterweather.com^
+||96bol.7775277.com^
 
 ! Category: OTHERS
 ||ppatk.go.id^

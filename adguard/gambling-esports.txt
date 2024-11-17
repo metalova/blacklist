@@ -1,12 +1,14 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 13:18:31
+! Last Updated: 2024-11-17 13:24:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 261
+! Number of unique domains: 267
 !
 
+||1001liga.pages.dev^
 ||1xbet.id.uptodown.com^
 ||34d-nude-run.id.uptodown.com^
 ||80rae.com^
+||96bol.7775277.com^
 ||aboutsemarang.id^
 ||acolherio.rio.rj.gov.br^
 ||ahcfacilities.com^
@@ -241,6 +243,8 @@
 ||taruhan-mobile-legend.dadventure.ca^
 ||taruhan-mobile-legend.gblog.co.za^
 ||teamrrq.com^
+||theglobeandmail.com^
+||theleafsnation.com^
 ||thespike.gg^
 ||tintahijau.com^
 ||tintainformasi.com^
@@ -249,11 +253,13 @@
 ||troc35.fr^
 ||tv.tag-cyber.com^
 ||ubharajaya-portal-resmi.pages.dev^
+||uddpmi.or.id^
 ||umda.pk^
 ||ungkap.co.id^
 ||upstation.media^
 ||valorant.fandom.com^
 ||valorantesports.com^
+||vanmeterweather.com^
 ||vcgamers.com^
 ||videosamtale.rn.dk^
 ||villa-melanie-martinique.com^

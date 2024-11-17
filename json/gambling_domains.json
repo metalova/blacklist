@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 13:18:32",
+  "updated": "2024-11-17 13:24:43",
   "categories": {
     "slot": {
       "count": 5363,
@@ -44907,7 +44907,7 @@
       ]
     },
     "esports": {
-      "count": 261,
+      "count": 267,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -46473,6 +46473,42 @@
           "domain": "amp-bosjp.firebaseapp.com",
           "raw_url": "https://amp-bosjp.firebaseapp.com/",
           "found_time": "2024-11-17 06:18:31",
+          "status": "active"
+        },
+        {
+          "domain": "1001liga.pages.dev",
+          "raw_url": "https://1001liga.pages.dev/",
+          "found_time": "2024-11-17 06:18:31",
+          "status": "active"
+        },
+        {
+          "domain": "uddpmi.or.id",
+          "raw_url": "https://uddpmi.or.id/api/?hantam=judi+esports+online+bca",
+          "found_time": "2024-11-17 06:21:36",
+          "status": "active"
+        },
+        {
+          "domain": "theglobeandmail.com",
+          "raw_url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/29599151/rivalry-to-report-third-quarter-2024-results-on-november-29/",
+          "found_time": "2024-11-17 06:23:40",
+          "status": "active"
+        },
+        {
+          "domain": "theleafsnation.com",
+          "raw_url": "https://theleafsnation.com/news/maple-leafs-assign-philippe-myers-to-marlies-on-conditioning-loan",
+          "found_time": "2024-11-17 06:23:40",
+          "status": "active"
+        },
+        {
+          "domain": "vanmeterweather.com",
+          "raw_url": "https://vanmeterweather.com/parlay-mobile-legend-6/",
+          "found_time": "2024-11-17 06:23:40",
+          "status": "active"
+        },
+        {
+          "domain": "96bol.7775277.com",
+          "raw_url": "https://96bol.7775277.com/DomainNames/96bol/home.aspx?date=&sportType=&groupId=&mType=&oddsType=",
+          "found_time": "2024-11-17 06:24:42",
           "status": "active"
         }
       ]
