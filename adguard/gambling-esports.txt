@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-18 00:28:34
+! Last Updated: 2024-11-18 00:31:39
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 287
+! Number of unique domains: 289
 !
 
 ||1001liga.pages.dev^
@@ -147,6 +147,7 @@
 ||kabarpalu.net^
 ||kelaskita.com^
 ||klamathcampercorral.com^
+||kotakgame.com^
 ||kputoto.pages.dev^
 ||la-fermette.net^
 ||lab-test.id^
@@ -263,6 +264,7 @@
 ||taruhan-mobile-legend.dadventure.ca^
 ||taruhan-mobile-legend.gblog.co.za^
 ||teamrrq.com^
+||thecanadianpressnews.ca^
 ||theglobeandmail.com^
 ||theleafsnation.com^
 ||thespike.gg^

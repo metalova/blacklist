@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 00:28:34",
+  "updated": "2024-11-18 00:31:39",
   "categories": {
     "slot": {
       "count": 5498,
@@ -46383,7 +46383,7 @@
       ]
     },
     "esports": {
-      "count": 287,
+      "count": 289,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -48105,6 +48105,18 @@
           "domain": "pelabuhantoto.online",
           "raw_url": "https://pelabuhantoto.online/",
           "found_time": "2024-11-17 17:25:31",
+          "status": "active"
+        },
+        {
+          "domain": "kotakgame.com",
+          "raw_url": "https://www.kotakgame.com/berita/detail/103655/Menkomdigi-Sudah-Takedown-283230-Konten-Jud1-0nl1ne",
+          "found_time": "2024-11-17 17:28:34",
+          "status": "active"
+        },
+        {
+          "domain": "thecanadianpressnews.ca",
+          "raw_url": "https://www.thecanadianpressnews.ca/globenewswire_press_releases/rivalry-to-report-third-quarter-2024-results-on-november-29/article_75a5e817-021c-5719-a94f-fb59f7f6bf43.html",
+          "found_time": "2024-11-17 17:30:37",
           "status": "active"
         }
       ]
