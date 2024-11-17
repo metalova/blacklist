@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 13:09:57",
+  "updated": "2024-11-17 13:12:01",
   "categories": {
     "slot": {
       "count": 5363,
@@ -44907,7 +44907,7 @@
       ]
     },
     "esports": {
-      "count": 253,
+      "count": 256,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -46425,6 +46425,24 @@
           "domain": "bellaredsalon.com",
           "raw_url": "https://bellaredsalon.com/",
           "found_time": "2024-11-17 06:08:55",
+          "status": "active"
+        },
+        {
+          "domain": "ubharajaya-portal-resmi.pages.dev",
+          "raw_url": "https://ubharajaya-portal-resmi.pages.dev/?main=JUDI%20ESPORTS%20ONLINE",
+          "found_time": "2024-11-17 06:09:57",
+          "status": "active"
+        },
+        {
+          "domain": "nhahungthinh.org",
+          "raw_url": "https://nhahungthinh.org/gacor/?maxwin=judi%20esports%20online",
+          "found_time": "2024-11-17 06:10:58",
+          "status": "active"
+        },
+        {
+          "domain": "wespeakon.org",
+          "raw_url": "https://wespeakon.org/agen-togel-cyber-pasaran-terbesar-game-saba-esports-gelinding/",
+          "found_time": "2024-11-17 06:12:01",
           "status": "active"
         }
       ]
