@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:59:32",
+  "updated": "2024-11-17 08:04:40",
   "categories": {
     "slot": {
-      "count": 5326,
+      "count": 5332,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31958,6 +31958,42 @@
           "domain": "undip.ac.id",
           "raw_url": "https://www.undip.ac.id/",
           "found_time": "2024-11-17 00:58:19",
+          "status": "active"
+        },
+        {
+          "domain": "rminingtools.com",
+          "raw_url": "https://www.rminingtools.com/cp-0020-sump-pump",
+          "found_time": "2024-11-17 00:59:32",
+          "status": "active"
+        },
+        {
+          "domain": "keminfo.my.id",
+          "raw_url": "https://keminfo.my.id/amp/botakempire",
+          "found_time": "2024-11-17 01:00:34",
+          "status": "active"
+        },
+        {
+          "domain": "bluelotus.pages.dev",
+          "raw_url": "https://bluelotus.pages.dev/",
+          "found_time": "2024-11-17 01:01:35",
+          "status": "active"
+        },
+        {
+          "domain": "depo77.me",
+          "raw_url": "https://depo77.me/",
+          "found_time": "2024-11-17 01:02:37",
+          "status": "active"
+        },
+        {
+          "domain": "bkpp.labuhanbatukab.go.id",
+          "raw_url": "https://bkpp.labuhanbatukab.go.id/assets/depo77",
+          "found_time": "2024-11-17 01:03:38",
+          "status": "active"
+        },
+        {
+          "domain": "bptph.gorontaloprov.go.id",
+          "raw_url": "https://bptph.gorontaloprov.go.id/?tulad=depo77",
+          "found_time": "2024-11-17 01:03:39",
           "status": "active"
         }
       ]

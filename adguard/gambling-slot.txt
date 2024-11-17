@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 07:59:32
+! Last Updated: 2024-11-17 08:04:40
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5326
+! Number of unique domains: 5332
 !
 
 ||103.115.28.6^
@@ -675,6 +675,7 @@
 ||bkdkabsolok.com^
 ||bkgnugm.id^
 ||bkim.jatengprov.go.id^
+||bkpp.labuhanbatukab.go.id^
 ||bkppd.grobogan.go.id^
 ||bkpsdm.konaweutarakab.go.id^
 ||bkpsdm.pesisirselatankab.go.id^
@@ -699,6 +700,7 @@
 ||bloombergtechnoz.com^
 ||blud.co.id^
 ||bluejaysnation.com^
+||bluelotus.pages.dev^
 ||bluelotusmind.com^
 ||blvdir.com^
 ||blvdlic.com^
@@ -750,6 +752,7 @@
 ||bprsahabattata.co.id^
 ||bprtaja.co.id^
 ||bpti.darunnajah.ac.id^
+||bptph.gorontaloprov.go.id^
 ||bptvtest.bigpond.com^
 ||br.888casino.com^
 ||braddockpointlighthouse.com^
@@ -1209,6 +1212,7 @@
 ||depo138.blog^
 ||depo138.co^
 ||depo138.org^
+||depo77.me^
 ||deposit4d.net^
 ||deposit4dloll.tumblr.com^
 ||depositphotos.com^
@@ -2480,6 +2484,7 @@
 ||kemenag.go.id^
 ||kemenagsidoarjo.com^
 ||kemenagtabalong.id^
+||keminfo.my.id^
 ||kemitraanlanskap.id^
 ||kemkes-78u.pages.dev^
 ||kemshealthcare.com^
@@ -4001,6 +4006,7 @@
 ||rjabm.untag-smd.ac.id^
 ||rjb88.com^
 ||rme.hpushimla.in^
+||rminingtools.com^
 ||rmol.id^
 ||robertbrawley.net^
 ||robinhoodstory.com^
