@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 13:29:52
+! Last Updated: 2024-11-17 13:32:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 271
+! Number of unique domains: 273
 !
 
 ||1001liga.pages.dev^
@@ -124,6 +124,7 @@
 ||infomase.id^
 ||informatika.unitomo.ac.id^
 ||iniampolympus88.com^
+||inilahjateng.com^
 ||innovatpublisher.com^
 ||intenta.digital^
 ||intipseleb.com^
@@ -163,6 +164,7 @@
 ||main.aov.garena.co.id^
 ||malang.jatimtimes.com^
 ||mapapgeorgia.org^
+||marketresearchfuture.com^
 ||martinlutherschooldodoma.sc.tz^
 ||maxsi.id^
 ||metaco.gg^
