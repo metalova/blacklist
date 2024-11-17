@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 20:10:43
+! Last Updated: 2024-11-17 20:19:56
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5497
+! Number of unique domains: 5498
 !
 
 ||103.115.28.6^
@@ -4321,6 +4321,7 @@
 ||sdm.kfpb.kimiafarma.co.id^
 ||sdmuhkauman.sch.id^
 ||seahipaj.org^
+||seaposters.com^
 ||searchtcc1000.shop^
 ||seattlebengals.com^
 ||sebaran.apsidoarjo.ac.id^

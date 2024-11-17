@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 20:10:43",
+  "updated": "2024-11-17 20:19:56",
   "categories": {
     "slot": {
-      "count": 5497,
+      "count": 5498,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32983,6 +32983,12 @@
         {
           "domain": "ampgrandjp.pages.dev",
           "raw_url": "https://ampgrandjp.pages.dev/",
+          "found_time": "2024-11-17 13:10:42",
+          "status": "active"
+        },
+        {
+          "domain": "seaposters.com",
+          "raw_url": "http://www.seaposters.com/grandwin-casino.html",
           "found_time": "2024-11-17 13:10:42",
           "status": "active"
         }
