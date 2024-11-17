@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 22:29:03
+! Last Updated: 2024-11-17 22:34:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 556
+! Number of unique domains: 561
 !
 
 ||9sarang188.com^
@@ -80,6 +80,7 @@
 ||bolahiukerens.com^
 ||bolakita.farm^
 ||bolakita5.pages.dev^
+||bolasenjaluxury.com^
 ||bolasport.com^
 ||bonebolangokab.ina-sdi.or.id^
 ||boosterjp.pages.dev^
@@ -122,6 +123,7 @@
 ||damirich.id^
 ||darasaletu.com^
 ||darulmaarif.net^
+||darylwoodhouse.com^
 ||decathlon.co.id^
 ||dempelrejo-ngampel.desa.id^
 ||desa-kaliputu.kuduskab.go.id^
@@ -183,6 +185,7 @@
 ||goalmedia.co^
 ||goldenroseflorist.com^
 ||goodstats.id^
+||gpstakoorampura.com^
 ||greenticgov.pages.dev^
 ||gsicorp.co.id^
 ||gudangpn.kemkes.go.id^
@@ -265,6 +268,7 @@
 ||kri.kemdikbud.go.id^
 ||kucingbola.wordpress.com^
 ||kumarrobotics.org^
+||kutipan.co.id^
 ||labula-dining.com^
 ||laloika.desa.id^
 ||lartsana.com^
@@ -552,6 +556,7 @@
 ||xn--hokiapace-i5a84a.com^
 ||xolabit.co.id^
 ||xqshdn.cb-silesia.edu.pl^
+||xuecafe.us^
 ||ydsf.org^
 ||yukmainsbobet.pages.dev^
 ||zainproperty.id^
