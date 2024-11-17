@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 16:59:11",
+  "updated": "2024-11-17 17:04:16",
   "categories": {
     "slot": {
-      "count": 5397,
+      "count": 5399,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32384,6 +32384,18 @@
           "domain": "api.neurala.com",
           "raw_url": "http://api.neurala.com/",
           "found_time": "2024-11-17 09:59:10",
+          "status": "active"
+        },
+        {
+          "domain": "kamenrider.fandom.com",
+          "raw_url": "https://kamenrider.fandom.com/wiki/Philip",
+          "found_time": "2024-11-17 09:59:11",
+          "status": "active"
+        },
+        {
+          "domain": "seberazvitie.com",
+          "raw_url": "https://seberazvitie.com/",
+          "found_time": "2024-11-17 10:04:16",
           "status": "active"
         }
       ]

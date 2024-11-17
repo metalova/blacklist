@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 16:59:11
+! Last Updated: 2024-11-17 17:04:16
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5397
+! Number of unique domains: 5399
 !
 
 ||103.115.28.6^
@@ -2456,6 +2456,7 @@
 ||kaldiscafema.com^
 ||kalendernu.com^
 ||kalisatkidul.id^
+||kamenrider.fandom.com^
 ||kampungbocor.pages.dev^
 ||kamusslang.com^
 ||kanalkalimantan.com^
@@ -4239,6 +4240,7 @@
 ||searchtcc1000.shop^
 ||seattlebengals.com^
 ||sebaran.apsidoarjo.ac.id^
+||seberazvitie.com^
 ||sedapgasbos.com^
 ||segment.kaboki.go.id^
 ||segoviafilmoffice.com^
