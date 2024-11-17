@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:09:24",
+  "updated": "2024-11-17 17:10:26",
   "categories": {
     "slot": {
-      "count": 5403,
+      "count": 5404,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32420,6 +32420,12 @@
           "domain": "labelinspi.com",
           "raw_url": "https://labelinspi.com/label/",
           "found_time": "2024-11-17 10:08:22",
+          "status": "active"
+        },
+        {
+          "domain": "mademoisellesemontre.com",
+          "raw_url": "https://www.mademoisellesemontre.com/",
+          "found_time": "2024-11-17 10:09:24",
           "status": "active"
         }
       ]

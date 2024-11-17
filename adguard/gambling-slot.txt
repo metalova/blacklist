@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 17:09:24
+! Last Updated: 2024-11-17 17:10:26
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5403
+! Number of unique domains: 5404
 !
 
 ||103.115.28.6^
@@ -2889,6 +2889,7 @@
 ||madagascar-tourisme.com^
 ||madaniy.com^
 ||maddogsdoc.com^
+||mademoisellesemontre.com^
 ||maefarmmeats.com^
 ||mag14.com^
 ||magicmuffinsonline.com^
