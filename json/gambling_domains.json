@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:47:31",
+  "updated": "2024-11-17 18:18:32",
   "categories": {
     "slot": {
-      "count": 5441,
+      "count": 5442,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32648,6 +32648,12 @@
           "domain": "aspireinastale.com",
           "raw_url": "https://aspireinastale.com/",
           "found_time": "2024-11-17 10:45:29",
+          "status": "active"
+        },
+        {
+          "domain": "hepsiburada.com",
+          "raw_url": "https://www.hepsiburada.com/imaginext-dc-super-friends-donusen-batmobil-gbk77-pm-HB00001AVZF3",
+          "found_time": "2024-11-17 10:47:31",
           "status": "active"
         }
       ]

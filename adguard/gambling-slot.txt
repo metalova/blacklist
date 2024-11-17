@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 17:47:31
+! Last Updated: 2024-11-17 18:18:32
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5441
+! Number of unique domains: 5442
 !
 
 ||103.115.28.6^
@@ -1984,6 +1984,7 @@
 ||helpdesk.dpd.go.id^
 ||hemhaltiyatro.com^
 ||hensbacka.com^
+||hepsiburada.com^
 ||heritagefoodanddrink.com^
 ||herramientasrenzomilani.com^
 ||heylink.me^
