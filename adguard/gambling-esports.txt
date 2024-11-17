@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-18 00:12:51
+! Last Updated: 2024-11-18 00:19:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 278
+! Number of unique domains: 282
 !
 
 ||1001liga.pages.dev^
@@ -112,6 +112,7 @@
 ||gpnt.pl^
 ||grid.id^
 ||guaranteedwhales.com^
+||haibunda.com^
 ||hatredspeaks.com^
 ||himpol.com^
 ||hippu.lppm.ulb.ac.id^
@@ -153,7 +154,9 @@
 ||legal-esport.com^
 ||lensabanten.co.id^
 ||lensaone.id^
+||ligagame.tv^
 ||lightcoral.xyz^
+||lingkarjateng.id^
 ||linkidntogel.com^
 ||liongaming.io^
 ||liquipedia.net^
@@ -230,6 +233,7 @@
 ||seru.indsaiko.com^
 ||seru88light.com^
 ||serverthailandmain.pages.dev^
+||service.cleanvyasalta.co.id^
 ||seva.id^
 ||sg.finance.yahoo.com^
 ||silani.ptun-yogyakarta.go.id^
