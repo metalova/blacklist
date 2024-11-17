@@ -1,9 +1,10 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 14:29:44
+! Last Updated: 2024-11-17 14:33:50
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 303
+! Number of unique domains: 308
 !
 
+||a.deliserdangkab.com^
 ||abatanews.com^
 ||abc.net.au^
 ||aboutcirebon.id^
@@ -109,6 +110,7 @@
 ||indonews.id^
 ||infoekonomi.id^
 ||infoindonesia.id^
+||investor.id^
 ||itjen.menlhk.go.id^
 ||izytech.com^
 ||j5newsroom.com^
@@ -119,6 +121,7 @@
 ||jogjapolitan.harianjogja.com^
 ||journal-stiayappimakassar.ac.id^
 ||journal.appihi.or.id^
+||journal.unimma.ac.id^
 ||journal2.um.ac.id^
 ||journalnusantara.com^
 ||jpnn.com^
@@ -243,12 +246,14 @@
 ||resbanjarbaru.kalsel.polri.go.id^
 ||review-unes.com^
 ||reviewaspg.com^
+||riau.harianhaluan.com^
 ||ricksbarandgrill.com^
 ||rmoljabar.id^
 ||rmolsumut.id^
 ||roth.azulik.com^
 ||rsjrw.id^
 ||ruanganinfo.com^
+||rubicnews.com^
 ||runningguild.com^
 ||sawitku.id^
 ||securitynews.co.id^

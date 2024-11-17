@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 14:29:44",
+  "updated": "2024-11-17 14:33:50",
   "categories": {
     "slot": {
       "count": 5363,
@@ -46580,7 +46580,7 @@
       ]
     },
     "others": {
-      "count": 303,
+      "count": 308,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -48398,6 +48398,36 @@
           "domain": "validnews.id",
           "raw_url": "https://validnews.id/nasional/mpr-bonus-demografi-jadi-target-pasar-judi-online-dan-narkoba",
           "found_time": "2024-11-17 07:28:42",
+          "status": "active"
+        },
+        {
+          "domain": "riau.harianhaluan.com",
+          "raw_url": "https://riau.harianhaluan.com/nasional/pr-111171515/pria-ini-kejar-jackpot-judi-online-di-sisi-jenazah-ayahnya",
+          "found_time": "2024-11-17 07:29:44",
+          "status": "active"
+        },
+        {
+          "domain": "journal.unimma.ac.id",
+          "raw_url": "https://journal.unimma.ac.id/index.php/bcrev/article/download/10587/5274/",
+          "found_time": "2024-11-17 07:30:45",
+          "status": "active"
+        },
+        {
+          "domain": "investor.id",
+          "raw_url": "https://investor.id/tag/blokir-situs-judi-online",
+          "found_time": "2024-11-17 07:31:46",
+          "status": "active"
+        },
+        {
+          "domain": "rubicnews.com",
+          "raw_url": "https://www.rubicnews.com/dalam-negeri/amp/45313964901/stop-main-judi-online-pemerintah-tegas-bakal-blokir-rekening-bank-dan-e-wallet-jika-terbukti-terlibat",
+          "found_time": "2024-11-17 07:32:48",
+          "status": "active"
+        },
+        {
+          "domain": "a.deliserdangkab.com",
+          "raw_url": "https://a.deliserdangkab.com/2024/tnl/news/?satu=JUDI-BOLA",
+          "found_time": "2024-11-17 07:32:48",
           "status": "active"
         }
       ]

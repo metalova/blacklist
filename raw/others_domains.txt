@@ -1,3 +1,4 @@
+a.deliserdangkab.com
 abatanews.com
 abc.net.au
 aboutcirebon.id
@@ -103,6 +104,7 @@ indonesiainside.id
 indonews.id
 infoekonomi.id
 infoindonesia.id
+investor.id
 itjen.menlhk.go.id
 izytech.com
 j5newsroom.com
@@ -113,6 +115,7 @@ jernih.co
 jogjapolitan.harianjogja.com
 journal-stiayappimakassar.ac.id
 journal.appihi.or.id
+journal.unimma.ac.id
 journal2.um.ac.id
 journalnusantara.com
 jpnn.com
@@ -237,12 +240,14 @@ republika.id
 resbanjarbaru.kalsel.polri.go.id
 review-unes.com
 reviewaspg.com
+riau.harianhaluan.com
 ricksbarandgrill.com
 rmoljabar.id
 rmolsumut.id
 roth.azulik.com
 rsjrw.id
 ruanganinfo.com
+rubicnews.com
 runningguild.com
 sawitku.id
 securitynews.co.id
