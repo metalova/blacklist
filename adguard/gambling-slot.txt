@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 19:00:24
+! Last Updated: 2024-11-17 19:09:34
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5472
+! Number of unique domains: 5476
 !
 
 ||103.115.28.6^
@@ -1291,6 +1291,7 @@
 ||dinkes.padangpanjang.go.id^
 ||dinkes.sumselprov.go.id^
 ||dinkes.tanatorajakab.go.id^
+||dinkes.tangerangselatankota.go.id^
 ||dinkeskaurkab.pages.dev^
 ||dinsos.bangka.go.id^
 ||dinsos.bombanakab.go.id^
@@ -4004,6 +4005,7 @@
 ||rajaluck.org^
 ||rajamaniapeso.com^
 ||rajampowd.com^
+||rajasaya.com^
 ||rajasingkawang.com^
 ||rajaslot93.my.id^
 ||rajavirgo.com^
@@ -5298,6 +5300,7 @@
 ||web.sman1garum.sch.id^
 ||web101.co.id^
 ||webapp.mmpc.ph^
+||webinar.papdi.or.id^
 ||webmail.binahusada.ac.id^
 ||webmail.hdaudio.com^
 ||webnovel.com^
@@ -5377,6 +5380,7 @@
 ||witchuniversity.com^
 ||witny.org^
 ||wiz.or.id^
+||wizard-805.pages.dev^
 ||wizkhalifa-x500.pages.dev^
 ||wjeffreyscott.com^
 ||wnbfactory.com^

@@ -1285,6 +1285,7 @@ dinkes.kaurkab.go.id
 dinkes.padangpanjang.go.id
 dinkes.sumselprov.go.id
 dinkes.tanatorajakab.go.id
+dinkes.tangerangselatankota.go.id
 dinkeskaurkab.pages.dev
 dinsos.bangka.go.id
 dinsos.bombanakab.go.id
@@ -3998,6 +3999,7 @@ rajabets.app
 rajaluck.org
 rajamaniapeso.com
 rajampowd.com
+rajasaya.com
 rajasingkawang.com
 rajaslot93.my.id
 rajavirgo.com
@@ -5292,6 +5294,7 @@ web.pohotels.co.id
 web.sman1garum.sch.id
 web101.co.id
 webapp.mmpc.ph
+webinar.papdi.or.id
 webmail.binahusada.ac.id
 webmail.hdaudio.com
 webnovel.com
@@ -5371,6 +5374,7 @@ wisuda.umt.ac.id
 witchuniversity.com
 witny.org
 wiz.or.id
+wizard-805.pages.dev
 wizkhalifa-x500.pages.dev
 wjeffreyscott.com
 wnbfactory.com
