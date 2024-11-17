@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 12:58:42",
+  "updated": "2024-11-17 13:03:48",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 906,
+      "count": 910,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40836,6 +40836,30 @@
           "domain": "isenmulangkonveksi.co.id",
           "raw_url": "https://isenmulangkonveksi.co.id/turbo/?terbang=bandar+togel+sgp",
           "found_time": "2024-11-17 05:57:20",
+          "status": "active"
+        },
+        {
+          "domain": "tathongperkasa.pages.dev",
+          "raw_url": "https://tathongperkasa.pages.dev/?legacy=DEPO-88-TOGEL",
+          "found_time": "2024-11-17 05:58:41",
+          "status": "active"
+        },
+        {
+          "domain": "texas5galliance.com",
+          "raw_url": "https://texas5galliance.com/",
+          "found_time": "2024-11-17 06:01:45",
+          "status": "active"
+        },
+        {
+          "domain": "hostalbianco.com",
+          "raw_url": "https://hostalbianco.com/",
+          "found_time": "2024-11-17 06:01:45",
+          "status": "active"
+        },
+        {
+          "domain": "graficajk.com.br",
+          "raw_url": "https://www.graficajk.com.br/",
+          "found_time": "2024-11-17 06:02:46",
           "status": "active"
         }
       ]

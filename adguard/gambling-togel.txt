@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 12:58:42
+! Last Updated: 2024-11-17 13:03:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 906
+! Number of unique domains: 910
 !
 
 ||087ina.com^
@@ -314,6 +314,7 @@
 ||goodfoodbarnsley.org^
 ||goodthinkingsociety.org^
 ||gopos.id^
+||graficajk.com.br^
 ||grandefabrictex.com^
 ||greengownawards.org^
 ||greshamsistercity.org^
@@ -340,6 +341,7 @@
 ||holywin88sunday.com^
 ||hometeamconstruction.ca^
 ||hoppa.co.za^
+||hostalbianco.com^
 ||hpps.com.hr^
 ||hris.pgn-perkasa.co.id^
 ||hucksstumpgrinding.com^
@@ -790,11 +792,13 @@
 ||survey.fk.umi.ac.id^
 ||takaha-japan.com^
 ||tasteofshanghai.com.au^
+||tathongperkasa.pages.dev^
 ||tecjobs.net^
 ||tedxavenuedespepinieres.com^
 ||tenisplaya.com^
 ||tennisadsales.com^
 ||termotehnik.rs^
+||texas5galliance.com^
 ||tgl123.com^
 ||thatsthenorm.com^
 ||theenamelproject.com^
