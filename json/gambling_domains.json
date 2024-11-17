@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 00:04:34",
+  "updated": "2024-11-18 00:08:44",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 945,
+      "count": 949,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -42072,6 +42072,30 @@
           "domain": "towsonmddental.com",
           "raw_url": "https://www.towsonmddental.com/",
           "found_time": "2024-11-17 17:02:29",
+          "status": "active"
+        },
+        {
+          "domain": "homify.com.br",
+          "raw_url": "https://www.homify.com.br/profissionais/8746781/situs-bandar-togel-singapore-hadiah-prize-terbesar-daftar-situs-togel-tanpa-diskon",
+          "found_time": "2024-11-17 17:04:33",
+          "status": "active"
+        },
+        {
+          "domain": "snervous.com",
+          "raw_url": "https://www.snervous.com/",
+          "found_time": "2024-11-17 17:05:37",
+          "status": "active"
+        },
+        {
+          "domain": "totallylookslike.com",
+          "raw_url": "https://totallylookslike.com/",
+          "found_time": "2024-11-17 17:05:37",
+          "status": "active"
+        },
+        {
+          "domain": "tuzyeksav.org.tr",
+          "raw_url": "https://www.tuzyeksav.org.tr/",
+          "found_time": "2024-11-17 17:08:43",
           "status": "active"
         }
       ]
