@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 08:11:02",
+  "updated": "2024-11-17 08:48:11",
   "categories": {
     "slot": {
-      "count": 5342,
+      "count": 5346,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32054,6 +32054,30 @@
           "domain": "manitowocjobcenter.org",
           "raw_url": "https://manitowocjobcenter.org/lpsaamping/betwin/",
           "found_time": "2024-11-17 01:09:58",
+          "status": "active"
+        },
+        {
+          "domain": "betika.et",
+          "raw_url": "https://betika.et/",
+          "found_time": "2024-11-17 01:11:01",
+          "status": "active"
+        },
+        {
+          "domain": "tancap.pages.dev",
+          "raw_url": "https://tancap.pages.dev/",
+          "found_time": "2024-11-17 01:48:10",
+          "status": "active"
+        },
+        {
+          "domain": "ina88.pages.dev",
+          "raw_url": "https://ina88.pages.dev/",
+          "found_time": "2024-11-17 01:48:10",
+          "status": "active"
+        },
+        {
+          "domain": "weeblebooks-v2.pages.dev",
+          "raw_url": "https://weeblebooks-v2.pages.dev/",
+          "found_time": "2024-11-17 01:48:11",
           "status": "active"
         }
       ]
