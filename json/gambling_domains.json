@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 02:59:12",
+  "updated": "2024-11-18 03:02:24",
   "categories": {
     "slot": {
-      "count": 5520,
+      "count": 5525,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33122,6 +33122,36 @@
           "domain": "churreriadelcarmen.com",
           "raw_url": "https://www.churreriadelcarmen.com/",
           "found_time": "2024-11-17 19:59:12",
+          "status": "active"
+        },
+        {
+          "domain": "warrioronewgw.com",
+          "raw_url": "https://warrioronewgw.com/",
+          "found_time": "2024-11-17 19:59:12",
+          "status": "active"
+        },
+        {
+          "domain": "nevernautgames.com",
+          "raw_url": "https://nevernautgames.com/",
+          "found_time": "2024-11-17 20:01:18",
+          "status": "active"
+        },
+        {
+          "domain": "mccanntesting.com",
+          "raw_url": "http://www.mccanntesting.com/",
+          "found_time": "2024-11-17 20:01:18",
+          "status": "active"
+        },
+        {
+          "domain": "ttdevasthanams.ap.gov.in",
+          "raw_url": "https://ttdevasthanams.ap.gov.in/",
+          "found_time": "2024-11-17 20:02:23",
+          "status": "active"
+        },
+        {
+          "domain": "sabarimala.kerala.gov.in",
+          "raw_url": "https://sabarimala.kerala.gov.in/",
+          "found_time": "2024-11-17 20:02:23",
           "status": "active"
         }
       ]

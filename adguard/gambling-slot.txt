@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 02:59:12
+! Last Updated: 2024-11-18 03:02:24
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5520
+! Number of unique domains: 5525
 !
 
 ||103.115.28.6^
@@ -3071,6 +3071,7 @@
 ||mbalms.mgmt.cmb.ac.lk^
 ||mbasso.in^
 ||mbj.wisnuwardhana.ac.id^
+||mccanntesting.com^
 ||mcctic.ese.ipsantarem.pt^
 ||mclarenparksf.org^
 ||mcmichaelhigh.org^
@@ -3416,6 +3417,7 @@
 ||netmeds.com^
 ||neumaticosdesegundamano.com^
 ||neurofitnessfoundation.org^
+||nevernautgames.com^
 ||newchinatownnorfolk.com^
 ||newenglandmanagementgroup.com^
 ||newfreespinsnodepositbonus.com^
@@ -4250,6 +4252,7 @@
 ||ryancfordistrict833.com^
 ||s-tech.id^
 ||saat-2610b.web.app^
+||sabarimala.kerala.gov.in^
 ||sabarimalaonline.org^
 ||sabarketua.pages.dev^
 ||sabda.net^
@@ -5141,6 +5144,7 @@
 ||tsn.go.tz^
 ||tsncdnpunjabi.truescoopnews.com^
 ||tsubaki-hg.com^
+||ttdevasthanams.ap.gov.in^
 ||tto.nust.edu.pk^
 ||tubosdeled.com^
 ||tuffstuffitness.com^
@@ -5320,6 +5324,7 @@
 ||wardscottfiles.com^
 ||waringinjaya-desa.id^
 ||warriorbet88.pages.dev^
+||warrioronewgw.com^
 ||warta.darunnajah.ac.id^
 ||wartabromo.com^
 ||wartadesaku.com^
