@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 12:54:12",
+  "updated": "2024-11-17 12:58:42",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 899,
+      "count": 906,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40794,6 +40794,48 @@
           "domain": "min1bintan.sch.id",
           "raw_url": "https://min1bintan.sch.id/tan/",
           "found_time": "2024-11-17 05:54:11",
+          "status": "active"
+        },
+        {
+          "domain": "vozzhelmets.com",
+          "raw_url": "https://www.vozzhelmets.com/",
+          "found_time": "2024-11-17 05:54:12",
+          "status": "active"
+        },
+        {
+          "domain": "sakaemachi-ichiba.net",
+          "raw_url": "https://sakaemachi-ichiba.net/",
+          "found_time": "2024-11-17 05:55:15",
+          "status": "active"
+        },
+        {
+          "domain": "ojdf.org",
+          "raw_url": "https://www.ojdf.org/",
+          "found_time": "2024-11-17 05:55:15",
+          "status": "active"
+        },
+        {
+          "domain": "wikivividly.com",
+          "raw_url": "https://wikivividly.com/pedya/",
+          "found_time": "2024-11-17 05:56:17",
+          "status": "active"
+        },
+        {
+          "domain": "wvrrc.org",
+          "raw_url": "https://www.wvrrc.org/",
+          "found_time": "2024-11-17 05:57:19",
+          "status": "active"
+        },
+        {
+          "domain": "togoembassylondon.com",
+          "raw_url": "https://www.togoembassylondon.com/",
+          "found_time": "2024-11-17 05:57:20",
+          "status": "active"
+        },
+        {
+          "domain": "isenmulangkonveksi.co.id",
+          "raw_url": "https://isenmulangkonveksi.co.id/turbo/?terbang=bandar+togel+sgp",
+          "found_time": "2024-11-17 05:57:20",
           "status": "active"
         }
       ]
