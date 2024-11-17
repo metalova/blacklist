@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:25:00",
+  "updated": "2024-11-17 21:29:08",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 560,
+      "count": 562,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36355,6 +36355,18 @@
           "domain": "warhorsecasino.com",
           "raw_url": "https://www.warhorsecasino.com/sportsbook/",
           "found_time": "2024-11-17 14:23:58",
+          "status": "active"
+        },
+        {
+          "domain": "nytimes.com",
+          "raw_url": "https://www.nytimes.com/2024/08/21/opinion/online-betting-gambling.html",
+          "found_time": "2024-11-17 14:25:00",
+          "status": "active"
+        },
+        {
+          "domain": "nairobiwire.com",
+          "raw_url": "https://nairobiwire.com/2024/11/online-casino-gaming-opportunities.html",
+          "found_time": "2024-11-17 14:28:06",
           "status": "active"
         }
       ]
