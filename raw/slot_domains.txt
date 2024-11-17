@@ -1624,6 +1624,7 @@ fdee.org
 fe.unbari.ac.id
 feb.bhamada.ac.id
 feb.nuol.edu.la
+feb.ulb.ac.id
 federalinsubd.com
 feelhomeqatar.com
 feelmagi.com
@@ -2518,6 +2519,7 @@ kecuranganpemilu.com
 kedaisingkawang.pages.dev
 kejakimpolnews.com
 kejari-bondowoso.go.id
+kejari-karawang.go.id
 kelaspersonalia.id
 kelmatras.bangka.go.id
 keluaran-sdy.pa-tembilahan.go.id

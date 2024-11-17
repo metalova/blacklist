@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 18:28:52",
+  "updated": "2024-11-17 18:34:41",
   "categories": {
     "slot": {
-      "count": 5445,
+      "count": 5447,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32672,6 +32672,18 @@
           "domain": "imadiklus-orid.web.app",
           "raw_url": "https://imadiklus-orid.web.app/?imback=TOTO4D",
           "found_time": "2024-11-17 11:28:52",
+          "status": "active"
+        },
+        {
+          "domain": "feb.ulb.ac.id",
+          "raw_url": "https://feb.ulb.ac.id/BANDAR%20TOTO%204D.html",
+          "found_time": "2024-11-17 11:28:52",
+          "status": "active"
+        },
+        {
+          "domain": "kejari-karawang.go.id",
+          "raw_url": "https://kejari-karawang.go.id/anies/dana4d/",
+          "found_time": "2024-11-17 11:34:40",
           "status": "active"
         }
       ]

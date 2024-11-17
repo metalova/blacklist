@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 18:28:52
+! Last Updated: 2024-11-17 18:34:41
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5445
+! Number of unique domains: 5447
 !
 
 ||103.115.28.6^
@@ -1630,6 +1630,7 @@
 ||fe.unbari.ac.id^
 ||feb.bhamada.ac.id^
 ||feb.nuol.edu.la^
+||feb.ulb.ac.id^
 ||federalinsubd.com^
 ||feelhomeqatar.com^
 ||feelmagi.com^
@@ -2524,6 +2525,7 @@
 ||kedaisingkawang.pages.dev^
 ||kejakimpolnews.com^
 ||kejari-bondowoso.go.id^
+||kejari-karawang.go.id^
 ||kelaspersonalia.id^
 ||kelmatras.bangka.go.id^
 ||keluaran-sdy.pa-tembilahan.go.id^
