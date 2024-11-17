@@ -1682,6 +1682,7 @@ forums.opera.com
 foundationeast.org
 foundrywellington.com
 foxbusiness.com
+francebleu.fr
 frankenforiowa.com
 frankespada.com
 franksmarathon.com
@@ -1837,6 +1838,7 @@ grandnailssalons.com
 grandroyal-web.firebaseapp.com
 grandslot777.com
 grandwin-casino.en.softonic.com
+grandwin-slots-free-casino.soft112.com
 grandwin.ca
 grandwin.id.uptodown.com
 grandwinlegal.com.au
@@ -1924,6 +1926,7 @@ hccon.id
 hccuonline.com
 hcd.moreno.gob.ar
 hcs777linksitus.id
+healthline.com
 healthpostcovid-19.org
 healthy-house.co.uk
 hearthis.at
@@ -2831,6 +2834,7 @@ m.royalbet888.co
 m.slotvip.ph
 m.soundersfc.com
 m.twitch.tv
+m.yelp.com
 m1.valdemarefilhos.com
 m5.jayatogelabadi.com
 maa.ac.in
@@ -4512,6 +4516,7 @@ spspatriotbangsa.sch.id
 squarepie.com
 srb1.go.th
 srbaindia.in
+sreality.cz
 srisaibharathgroup.org
 srj777power.com
 sso.agc.gov.sg

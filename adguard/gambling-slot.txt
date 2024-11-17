@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 08:59:27
+! Last Updated: 2024-11-17 09:03:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5355
+! Number of unique domains: 5360
 !
 
 ||103.115.28.6^
@@ -1688,6 +1688,7 @@
 ||foundationeast.org^
 ||foundrywellington.com^
 ||foxbusiness.com^
+||francebleu.fr^
 ||frankenforiowa.com^
 ||frankespada.com^
 ||franksmarathon.com^
@@ -1843,6 +1844,7 @@
 ||grandroyal-web.firebaseapp.com^
 ||grandslot777.com^
 ||grandwin-casino.en.softonic.com^
+||grandwin-slots-free-casino.soft112.com^
 ||grandwin.ca^
 ||grandwin.id.uptodown.com^
 ||grandwinlegal.com.au^
@@ -1930,6 +1932,7 @@
 ||hccuonline.com^
 ||hcd.moreno.gob.ar^
 ||hcs777linksitus.id^
+||healthline.com^
 ||healthpostcovid-19.org^
 ||healthy-house.co.uk^
 ||hearthis.at^
@@ -2837,6 +2840,7 @@
 ||m.slotvip.ph^
 ||m.soundersfc.com^
 ||m.twitch.tv^
+||m.yelp.com^
 ||m1.valdemarefilhos.com^
 ||m5.jayatogelabadi.com^
 ||maa.ac.in^
@@ -4518,6 +4522,7 @@
 ||squarepie.com^
 ||srb1.go.th^
 ||srbaindia.in^
+||sreality.cz^
 ||srisaibharathgroup.org^
 ||srj777power.com^
 ||sso.agc.gov.sg^
