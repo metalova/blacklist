@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 19:43:58
+! Last Updated: 2024-11-17 19:49:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5479
+! Number of unique domains: 5484
 !
 
 ||103.115.28.6^
@@ -594,6 +594,7 @@
 ||betking-mobile.en.uptodown.com^
 ||betking-mobile.id.uptodown.com^
 ||betking-sports-betting-app.en.softonic.com^
+||betking.co.ke^
 ||betking.my.site.com^
 ||betkingagency.com^
 ||betkingwood.com^
@@ -742,6 +743,7 @@
 ||bookies.com^
 ||booking.com^
 ||booyahsbarandgrill.com^
+||borcella.my^
 ||borderline-uk.org^
 ||boswin77n.com^
 ||boutiqueplasticsurgery.com^
@@ -1039,6 +1041,7 @@
 ||cointelegraph.com^
 ||cointerra.io^
 ||coinvestasi.com^
+||colab.gov.vn^
 ||coldwellbanker.com^
 ||coldwellbankerhomes.com^
 ||colegioarboleda.edu.mx^
@@ -3674,6 +3677,7 @@
 ||pemdes.muktimakmur.desa.id^
 ||penadaran.id^
 ||pend.fisika.unismuh.ac.id^
+||pendaftaran-maxwin.pages.dev^
 ||pendakimaxwin.pages.dev^
 ||pendampingdesa.com^
 ||pendleslotracing.co.uk^
@@ -3897,6 +3901,7 @@
 ||prolegalnews.id^
 ||prometheusgm.com^
 ||promo-hyundai-jakarta.com^
+||propedal.sorongkab.go.id^
 ||property24.com^
 ||propertyneedsyou.com^
 ||propertypal.com^
