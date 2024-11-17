@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 04:15:16
+! Last Updated: 2024-11-18 04:24:24
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5543
+! Number of unique domains: 5544
 !
 
 ||103.115.28.6^
@@ -2332,6 +2332,7 @@
 ||jasaberdikari.co.id^
 ||jasacuan-idn.com^
 ||jasminenuneaton.com^
+||jasoncollinstenor.com^
 ||jaspermorello.com^
 ||jatim.jpnn.com^
 ||javis.co.id^
