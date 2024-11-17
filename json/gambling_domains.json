@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 11:34:18",
+  "updated": "2024-11-17 11:39:25",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 535,
+      "count": 538,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44476,6 +44476,24 @@
           "domain": "digilib.unila.ac.id",
           "raw_url": "http://digilib.unila.ac.id/275/10/BAB%20II.pdf",
           "found_time": "2024-11-17 04:33:15",
+          "status": "active"
+        },
+        {
+          "domain": "rightlink-beta.test.rightscale.com",
+          "raw_url": "http://rightlink-beta.test.rightscale.com/",
+          "found_time": "2024-11-17 04:34:18",
+          "status": "active"
+        },
+        {
+          "domain": "qq289-daftar-game.glitch.me",
+          "raw_url": "https://qq289-daftar-game.glitch.me/",
+          "found_time": "2024-11-17 04:35:19",
+          "status": "active"
+        },
+        {
+          "domain": "desa-kaliputu.kuduskab.go.id",
+          "raw_url": "https://desa-kaliputu.kuduskab.go.id/?data=agen-bola-liga-jepang",
+          "found_time": "2024-11-17 04:36:21",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 11:34:18
+! Last Updated: 2024-11-17 11:39:25
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 535
+! Number of unique domains: 538
 !
 
 ||9sarang188.com^
@@ -122,6 +122,7 @@
 ||darulmaarif.net^
 ||decathlon.co.id^
 ||dempelrejo-ngampel.desa.id^
+||desa-kaliputu.kuduskab.go.id^
 ||desafiocreativo.com^
 ||devpost.com^
 ||digilib.ptiq.ac.id^
@@ -394,6 +395,7 @@
 ||publicrepo.geaviation.com^
 ||puyehuechile.cl^
 ||qiuqiujurnal.wordpress.com^
+||qq289-daftar-game.glitch.me^
 ||qqslottres.com^
 ||rbtv.disway.id^
 ||readingroomco.com^
@@ -407,6 +409,7 @@
 ||repository.unpra.ac.id^
 ||revistas.ufpi.br^
 ||rg-leotard.com^
+||rightlink-beta.test.rightscale.com^
 ||rondiskey.ca^
 ||rspantiwaluyopurworejo.com^
 ||rsproklamasi.co.id^
