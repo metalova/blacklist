@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 07:37:27
+! Last Updated: 2024-11-17 07:43:39
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5300
+! Number of unique domains: 5312
 !
 
 ||103.115.28.6^
@@ -273,6 +273,7 @@
 ||amp-rtp.b-cdn.net^
 ||amp-spacemanslot.com^
 ||amp.kontan.co.id^
+||amp2-ungu508.pages.dev^
 ||amp6-592.pages.dev^
 ||amparmyslot.com^
 ||ampboztazir.it.com^
@@ -289,6 +290,7 @@
 ||ampsoul.pages.dev^
 ||ampst170.com^
 ||ampt4d.pages.dev^
+||ampun-bang-seo.pages.dev^
 ||ampun.diblast.com^
 ||ampv99.pages.dev^
 ||amrut.mohua.gov.in^
@@ -2517,11 +2519,13 @@
 ||kkpsak.co.id^
 ||klikdokter.com^
 ||klikjatim.com^
+||klikkaltim.com^
 ||klikslotsfly.com^
 ||klinikpratamapoldajambi.com^
 ||klobility.id^
 ||klzevents.com^
 ||kmi.id^
+||knkt.go.id^
 ||knockknockny.com^
 ||knotjustyarn.com^
 ||knowdifferent.net^
@@ -2667,6 +2671,7 @@
 ||lewis.unimus.ac.id^
 ||lexus234a.com^
 ||lfwdaily.com^
+||lgobola-slot.com^
 ||lgobola004.com^
 ||lgurjcsit.lgu.edu.pk^
 ||lib.iaincurup.ac.id^
@@ -3509,6 +3514,7 @@
 ||pasitive.com^
 ||passionraw.com^
 ||pasteleriasanonofre.com^
+||pastiagenpuas.pages.dev^
 ||pastimeroket.pages.dev^
 ||pasundan2bdg.sekolahan.id^
 ||patagoniaqueen.com^
@@ -4060,6 +4066,7 @@
 ||rudenimkupang.com^
 ||rudyrasmus.com^
 ||ruitoqueparkhouse.co^
+||rujuklagi.pages.dev^
 ||ruktisedyo-desa.id^
 ||rumahmpoapp.com^
 ||rumahmpoweb.com^
@@ -4075,6 +4082,7 @@
 ||s-tech.id^
 ||saat-2610b.web.app^
 ||sabarimalaonline.org^
+||sabarketua.pages.dev^
 ||sabda.net^
 ||sabetslot4.net^
 ||sacbee.com^
@@ -4131,6 +4139,7 @@
 ||satpolpp.sumbarprov.go.id^
 ||satpolppdamkar.bonebolangokab.go.id^
 ||satreads.com^
+||satudata-478.pages.dev^
 ||satvaliving.com^
 ||savoiesprimeurs.com^
 ||savyamirawcc.com^
@@ -4427,6 +4436,7 @@
 ||songtradr.com^
 ||sonoraindustrial.com.mx^
 ||sonoscanhealthcare.com^
+||sooverthis.com^
 ||sosabecatering.com^
 ||sosgamers.com^
 ||sosial.sippikola.langsakota.go.id^
@@ -4560,6 +4570,7 @@
 ||summaedu.org^
 ||summitmidwestdrags.com^
 ||sumsel.akurat.co^
+||sumsel.bpk.go.id^
 ||sumut.antaranews.com^
 ||sumut.suara.com^
 ||sumut24.co^
@@ -5254,6 +5265,7 @@
 ||yesplay.bet^
 ||yogasciencefoundation.org^
 ||yoguifeliz.com^
+||yoguifeliz.pages.dev^
 ||yogyakarta.tvri.go.id^
 ||yoomen-wearegacor.web.app^
 ||yosonhartz.com^

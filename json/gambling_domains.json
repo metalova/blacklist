@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:37:27",
+  "updated": "2024-11-17 07:43:39",
   "categories": {
     "slot": {
-      "count": 5300,
+      "count": 5312,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31802,6 +31802,78 @@
           "domain": "bengkayangkab.go.id",
           "raw_url": "https://bengkayangkab.go.id/",
           "found_time": "2024-11-17 00:36:25",
+          "status": "active"
+        },
+        {
+          "domain": "sumsel.bpk.go.id",
+          "raw_url": "https://sumsel.bpk.go.id/",
+          "found_time": "2024-11-17 00:37:27",
+          "status": "active"
+        },
+        {
+          "domain": "lgobola-slot.com",
+          "raw_url": "https://lgobola-slot.com/",
+          "found_time": "2024-11-17 00:42:33",
+          "status": "active"
+        },
+        {
+          "domain": "klikkaltim.com",
+          "raw_url": "https://klikkaltim.com/category/regional/perputaran-uang-situs-judi-online-jenis-slot-bisa-meraih-rp-22-triliun-per-bulan",
+          "found_time": "2024-11-17 00:42:34",
+          "status": "active"
+        },
+        {
+          "domain": "pastiagenpuas.pages.dev",
+          "raw_url": "https://pastiagenpuas.pages.dev/data/?360=SITUS%20GACOR",
+          "found_time": "2024-11-17 00:42:34",
+          "status": "active"
+        },
+        {
+          "domain": "yoguifeliz.pages.dev",
+          "raw_url": "https://yoguifeliz.pages.dev/",
+          "found_time": "2024-11-17 00:42:34",
+          "status": "active"
+        },
+        {
+          "domain": "ampun-bang-seo.pages.dev",
+          "raw_url": "https://ampun-bang-seo.pages.dev/ngeri/?js=SITUS%20GACOR",
+          "found_time": "2024-11-17 00:42:35",
+          "status": "active"
+        },
+        {
+          "domain": "rujuklagi.pages.dev",
+          "raw_url": "https://rujuklagi.pages.dev/system/core/?mihok=SITUS%20GACOR",
+          "found_time": "2024-11-17 00:42:35",
+          "status": "active"
+        },
+        {
+          "domain": "sabarketua.pages.dev",
+          "raw_url": "https://sabarketua.pages.dev/index-php?id_IDSITUSGACOR.html",
+          "found_time": "2024-11-17 00:42:35",
+          "status": "active"
+        },
+        {
+          "domain": "amp2-ungu508.pages.dev",
+          "raw_url": "https://amp2-ungu508.pages.dev/",
+          "found_time": "2024-11-17 00:42:36",
+          "status": "active"
+        },
+        {
+          "domain": "satudata-478.pages.dev",
+          "raw_url": "https://satudata-478.pages.dev/rawr/?smile=SITUS%20GACOR",
+          "found_time": "2024-11-17 00:42:36",
+          "status": "active"
+        },
+        {
+          "domain": "sooverthis.com",
+          "raw_url": "https://www.sooverthis.com/",
+          "found_time": "2024-11-17 00:43:38",
+          "status": "active"
+        },
+        {
+          "domain": "knkt.go.id",
+          "raw_url": "https://www.knkt.go.id/Theme/detail.aspx?min91404424.html",
+          "found_time": "2024-11-17 00:43:39",
           "status": "active"
         }
       ]
