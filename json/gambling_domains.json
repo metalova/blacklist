@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:54:15",
+  "updated": "2024-11-17 07:59:32",
   "categories": {
     "slot": {
-      "count": 5320,
+      "count": 5326,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31922,6 +31922,42 @@
           "domain": "bm-ami.id",
           "raw_url": "https://bm-ami.id/bandarmpo/",
           "found_time": "2024-11-17 00:51:11",
+          "status": "active"
+        },
+        {
+          "domain": "amanah.sch.id",
+          "raw_url": "https://amanah.sch.id/vendor/public/?id=raja88",
+          "found_time": "2024-11-17 00:54:14",
+          "status": "active"
+        },
+        {
+          "domain": "curadmir.com",
+          "raw_url": "https://curadmir.com/",
+          "found_time": "2024-11-17 00:56:17",
+          "status": "active"
+        },
+        {
+          "domain": "rajavirgo.com.atlaq.com",
+          "raw_url": "https://rajavirgo.com.atlaq.com/",
+          "found_time": "2024-11-17 00:56:17",
+          "status": "active"
+        },
+        {
+          "domain": "mbasso.in",
+          "raw_url": "https://mbasso.in/",
+          "found_time": "2024-11-17 00:57:18",
+          "status": "active"
+        },
+        {
+          "domain": "iwip.co.id",
+          "raw_url": "https://iwip.co.id/",
+          "found_time": "2024-11-17 00:58:19",
+          "status": "active"
+        },
+        {
+          "domain": "undip.ac.id",
+          "raw_url": "https://www.undip.ac.id/",
+          "found_time": "2024-11-17 00:58:19",
           "status": "active"
         }
       ]
