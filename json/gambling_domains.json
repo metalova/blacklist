@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 16:05:46",
+  "updated": "2024-11-17 16:25:04",
   "categories": {
     "slot": {
-      "count": 5390,
+      "count": 5391,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32342,6 +32342,12 @@
           "domain": "happyski.it",
           "raw_url": "https://happyski.it/en/",
           "found_time": "2024-11-17 09:04:44",
+          "status": "active"
+        },
+        {
+          "domain": "dragon777storm.com",
+          "raw_url": "https://dragon777storm.com/",
+          "found_time": "2024-11-17 09:05:46",
           "status": "active"
         }
       ]
