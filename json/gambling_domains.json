@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 11:43:38",
+  "updated": "2024-11-17 11:47:48",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 543,
+      "count": 544,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44524,6 +44524,12 @@
           "domain": "chereads.com",
           "raw_url": "https://www.chereads.com/chapterlist/24709223406819105",
           "found_time": "2024-11-17 04:43:37",
+          "status": "active"
+        },
+        {
+          "domain": "vicare.viessmann.de",
+          "raw_url": "https://www.vicare.viessmann.de/",
+          "found_time": "2024-11-17 04:43:38",
           "status": "active"
         }
       ]
