@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 20:31:23",
+  "updated": "2024-11-17 21:07:31",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 547,
+      "count": 548,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36277,6 +36277,12 @@
           "domain": "mykonoscasino.co.za",
           "raw_url": "https://www.mykonoscasino.co.za/gaming/slots/slots-payout/",
           "found_time": "2024-11-17 13:29:16",
+          "status": "active"
+        },
+        {
+          "domain": "ktm303.smansabumiayu.sch.id",
+          "raw_url": "https://ktm303.smansabumiayu.sch.id/",
+          "found_time": "2024-11-17 13:31:23",
           "status": "active"
         }
       ]
