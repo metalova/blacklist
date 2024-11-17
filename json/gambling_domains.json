@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 11:59:43",
+  "updated": "2024-11-17 12:04:53",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 875,
+      "count": 883,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40650,6 +40650,54 @@
           "domain": "makeruh.desa.id",
           "raw_url": "https://makeruh.desa.id/",
           "found_time": "2024-11-17 04:59:43",
+          "status": "active"
+        },
+        {
+          "domain": "pgrisitubondo.id",
+          "raw_url": "https://pgrisitubondo.id/",
+          "found_time": "2024-11-17 04:59:43",
+          "status": "active"
+        },
+        {
+          "domain": "barcelonagalleryweekend.com",
+          "raw_url": "https://www.barcelonagalleryweekend.com/",
+          "found_time": "2024-11-17 05:00:45",
+          "status": "active"
+        },
+        {
+          "domain": "nocommentparis.com",
+          "raw_url": "https://www.nocommentparis.com/",
+          "found_time": "2024-11-17 05:02:46",
+          "status": "active"
+        },
+        {
+          "domain": "acupofkarachi.com",
+          "raw_url": "https://www.acupofkarachi.com/",
+          "found_time": "2024-11-17 05:03:49",
+          "status": "active"
+        },
+        {
+          "domain": "jpii.upri.ac.id",
+          "raw_url": "https://jpii.upri.ac.id/data/?panel=prediksi+mbah+togel+sgp",
+          "found_time": "2024-11-17 05:03:49",
+          "status": "active"
+        },
+        {
+          "domain": "smkitbaitunnur.sch.id",
+          "raw_url": "https://smkitbaitunnur.sch.id/wp-includes/php/?sdy=syair-togel-sdy-keraton",
+          "found_time": "2024-11-17 05:04:51",
+          "status": "active"
+        },
+        {
+          "domain": "maumgeneralstore.com",
+          "raw_url": "https://maumgeneralstore.com/",
+          "found_time": "2024-11-17 05:04:52",
+          "status": "active"
+        },
+        {
+          "domain": "jurnal2.untagsmg.ac.id",
+          "raw_url": "https://jurnal2.untagsmg.ac.id/admin/index.php?aculgg=kawan+togel+sdy",
+          "found_time": "2024-11-17 05:04:52",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 11:59:43
+! Last Updated: 2024-11-17 12:04:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 875
+! Number of unique domains: 883
 !
 
 ||087ina.com^
@@ -17,6 +17,7 @@
 ||abadikini.com^
 ||abdxcv.b-cdn.net^
 ||accesss.net^
+||acupofkarachi.com^
 ||adamelements.com^
 ||adktla.com^
 ||admin.internity.smkn1cibinong.sch.id^
@@ -68,6 +69,7 @@
 ||balpos.com^
 ||banksuryakencana.com^
 ||barahsinghe.com^
+||barcelonagalleryweekend.com^
 ||baritopost.co.id^
 ||barneschirocolorado.com^
 ||batman88pro.com^
@@ -382,7 +384,9 @@
 ||journals.smartinsight.id^
 ||journalstih.amsir.ac.id^
 ||jphelleniccenter.com^
+||jpii.upri.ac.id^
 ||jurnal.stiedarulfalahmojokerto.ac.id^
+||jurnal2.untagsmg.ac.id^
 ||just5moreminutes.com^
 ||justiceforbruce.com^
 ||kabar.sanggau.go.id^
@@ -479,6 +483,7 @@
 ||marysmedkitchen.com^
 ||massarosestate.com.au^
 ||master-togel.koni.or.id^
+||maumgeneralstore.com^
 ||maxcasa.com^
 ||medeortherapeutics.com^
 ||megaarvia.com^
@@ -536,6 +541,7 @@
 ||ninoscollection.com^
 ||niphkeys.com^
 ||njpaincenter.com^
+||nocommentparis.com^
 ||notexchange.com.au^
 ||npcpass.org^
 ||nqiegypt.org^
@@ -576,6 +582,7 @@
 ||performancebasedfinancing.org^
 ||petircuan-88.web.app^
 ||pgp4d.co^
+||pgrisitubondo.id^
 ||phantomthailand.com^
 ||phyllisforcongress.com^
 ||pideoven.com^
@@ -724,6 +731,7 @@
 ||slbn11jkt.sch.id^
 ||smallcakesofsurprise.com^
 ||sman1salatiga.sch.id^
+||smkitbaitunnur.sch.id^
 ||smksyanuristonjong.com^
 ||smp-muhammadiyah1-smg.sch.id^
 ||snox365.com^
