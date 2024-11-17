@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 03:57:59",
+  "updated": "2024-11-18 04:01:03",
   "categories": {
     "slot": {
-      "count": 5537,
+      "count": 5539,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33224,6 +33224,18 @@
           "domain": "unl-edu.pages.dev",
           "raw_url": "https://unl-edu.pages.dev/",
           "found_time": "2024-11-17 20:57:58",
+          "status": "active"
+        },
+        {
+          "domain": "semmelweis.org",
+          "raw_url": "https://www.semmelweis.org/",
+          "found_time": "2024-11-17 20:57:59",
+          "status": "active"
+        },
+        {
+          "domain": "alatanindonesia-35k.pages.dev",
+          "raw_url": "https://alatanindonesia-35k.pages.dev/",
+          "found_time": "2024-11-17 21:01:03",
           "status": "active"
         }
       ]
