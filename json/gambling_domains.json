@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 12:18:59",
+  "updated": "2024-11-17 12:21:06",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 893,
+      "count": 896,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40758,6 +40758,24 @@
           "domain": "sakutotobox.com",
           "raw_url": "https://sakutotobox.com/",
           "found_time": "2024-11-17 05:18:58",
+          "status": "active"
+        },
+        {
+          "domain": "arenatogel.com",
+          "raw_url": "https://arenatogel.com/",
+          "found_time": "2024-11-17 05:18:59",
+          "status": "active"
+        },
+        {
+          "domain": "shopdesertridge.com",
+          "raw_url": "https://shopdesertridge.com/result-togel-terlengkap-panduan-lengkap-untuk-menganalisis-dan-memahami-hasil-togel/",
+          "found_time": "2024-11-17 05:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "greengownawards.org",
+          "raw_url": "https://www.greengownawards.org/",
+          "found_time": "2024-11-17 05:21:05",
           "status": "active"
         }
       ]
