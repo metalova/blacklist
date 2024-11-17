@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 22:44:37",
+  "updated": "2024-11-17 22:47:43",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 573,
+      "count": 577,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -46084,6 +46084,30 @@
           "domain": "tim-hortons.co.kr",
           "raw_url": "http://tim-hortons.co.kr/",
           "found_time": "2024-11-17 15:42:34",
+          "status": "active"
+        },
+        {
+          "domain": "ahaslides.com",
+          "raw_url": "https://ahaslides.com/id/blog/fun-punishment/",
+          "found_time": "2024-11-17 15:44:37",
+          "status": "active"
+        },
+        {
+          "domain": "aeeaz.com",
+          "raw_url": "https://aeeaz.com/",
+          "found_time": "2024-11-17 15:46:41",
+          "status": "active"
+        },
+        {
+          "domain": "bolapoin.com",
+          "raw_url": "https://bolapoin.com/feature/situs-live-streaming-sepak-bola-terbaru/",
+          "found_time": "2024-11-17 15:46:42",
+          "status": "active"
+        },
+        {
+          "domain": "bkn.go.id",
+          "raw_url": "https://www.bkn.go.id/",
+          "found_time": "2024-11-17 15:47:43",
           "status": "active"
         }
       ]
