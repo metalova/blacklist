@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 12:21:06",
+  "updated": "2024-11-17 12:54:12",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 896,
+      "count": 899,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40776,6 +40776,24 @@
           "domain": "greengownawards.org",
           "raw_url": "https://www.greengownawards.org/",
           "found_time": "2024-11-17 05:21:05",
+          "status": "active"
+        },
+        {
+          "domain": "aktriyo.ac.id",
+          "raw_url": "https://aktriyo.ac.id/",
+          "found_time": "2024-11-17 05:21:05",
+          "status": "active"
+        },
+        {
+          "domain": "sottopellespain.es",
+          "raw_url": "https://sottopellespain.es/plugin/PREDIKSI%20TOGEL%20SGP.html",
+          "found_time": "2024-11-17 05:53:08",
+          "status": "active"
+        },
+        {
+          "domain": "min1bintan.sch.id",
+          "raw_url": "https://min1bintan.sch.id/tan/",
+          "found_time": "2024-11-17 05:54:11",
           "status": "active"
         }
       ]
