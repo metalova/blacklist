@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 16:04:44",
+  "updated": "2024-11-17 16:05:46",
   "categories": {
     "slot": {
-      "count": 5389,
+      "count": 5390,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32336,6 +32336,12 @@
           "domain": "journals.ablaikhan.kz",
           "raw_url": "https://journals.ablaikhan.kz/",
           "found_time": "2024-11-17 09:02:42",
+          "status": "active"
+        },
+        {
+          "domain": "happyski.it",
+          "raw_url": "https://happyski.it/en/",
+          "found_time": "2024-11-17 09:04:44",
           "status": "active"
         }
       ]
