@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 10:29:21
+! Last Updated: 2024-11-17 10:33:48
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 7919
+! Number of domains: 7924
 !
 
 ! Category: SLOT
@@ -5905,6 +5905,7 @@
 ||dinosaurtoyworld.com^
 ||hyperstorm.uk^
 ||gopay.indonesianjournalofcancer.or.id^
+||craftbd.org^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
@@ -7395,6 +7396,10 @@
 ||koran-gala.id^
 ||portalmedia.id^
 ||equatoronline.id^
+||cegs.dfci.harvard.edu^
+||autodesk.com^
+||afastamento.fiocruz.br^
+||inlislite.sultengprov.go.id^
 
 ! Category: ESPORTS
 ||exactitudeconsultancy.com^

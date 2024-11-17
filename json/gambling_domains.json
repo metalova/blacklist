@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:29:21",
+  "updated": "2024-11-17 10:33:48",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 534,
+      "count": 535,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35388,6 +35388,12 @@
         {
           "domain": "gopay.indonesianjournalofcancer.or.id",
           "raw_url": "https://gopay.indonesianjournalofcancer.or.id/",
+          "found_time": "2024-11-17 03:29:20",
+          "status": "active"
+        },
+        {
+          "domain": "craftbd.org",
+          "raw_url": "https://www.craftbd.org/assets/source/bokep_hd/casino-deposit-gopay.html",
           "found_time": "2024-11-17 03:29:20",
           "status": "active"
         }
@@ -41260,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 508,
+      "count": 512,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44308,6 +44314,30 @@
           "domain": "equatoronline.id",
           "raw_url": "https://equatoronline.id/wp-includes/buzz/",
           "found_time": "2024-11-16 17:41:00",
+          "status": "active"
+        },
+        {
+          "domain": "cegs.dfci.harvard.edu",
+          "raw_url": "http://cegs.dfci.harvard.edu/php/?tbk=casino%20deposit%20gopay",
+          "found_time": "2024-11-17 03:30:23",
+          "status": "active"
+        },
+        {
+          "domain": "autodesk.com",
+          "raw_url": "https://www.autodesk.com/community/gallery/project/162163/ciri-ciri-situs-judi-bola-agen-resmi-sbobet",
+          "found_time": "2024-11-17 03:31:24",
+          "status": "active"
+        },
+        {
+          "domain": "afastamento.fiocruz.br",
+          "raw_url": "https://www.afastamento.fiocruz.br/dominoqq/",
+          "found_time": "2024-11-17 03:32:26",
+          "status": "active"
+        },
+        {
+          "domain": "inlislite.sultengprov.go.id",
+          "raw_url": "https://inlislite.sultengprov.go.id/inlislite3/vendor/?a=read_inlislite3&id=3422",
+          "found_time": "2024-11-17 03:33:47",
           "status": "active"
         }
       ]
