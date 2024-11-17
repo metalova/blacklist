@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 20:24:06",
+  "updated": "2024-11-17 20:29:16",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 540,
+      "count": 546,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36235,6 +36235,42 @@
           "domain": "saanvihospitalagra.com",
           "raw_url": "https://www.saanvihospitalagra.com/",
           "found_time": "2024-11-17 13:24:05",
+          "status": "active"
+        },
+        {
+          "domain": "atlanticjetcenter.com",
+          "raw_url": "https://atlanticjetcenter.com/",
+          "found_time": "2024-11-17 13:24:05",
+          "status": "active"
+        },
+        {
+          "domain": "skyshop.mx",
+          "raw_url": "https://skyshop.mx/best-roulette-strategy-how-to-be-able-to-win-at-roulette/",
+          "found_time": "2024-11-17 13:25:07",
+          "status": "active"
+        },
+        {
+          "domain": "kgns.tv",
+          "raw_url": "https://www.kgns.tv/2024/11/12/laredo-guest-wins-million-dollar-jackpot-eagle-pass-casino/",
+          "found_time": "2024-11-17 13:26:13",
+          "status": "active"
+        },
+        {
+          "domain": "thv11.com",
+          "raw_url": "https://www.thv11.com/article/news/local/arkansas-player-wins-record-breaking-jackpot-saracen/91-3069ca15-7a82-48c7-8eb7-2cae70d3243a",
+          "found_time": "2024-11-17 13:26:13",
+          "status": "active"
+        },
+        {
+          "domain": "monarchblackhawk.com",
+          "raw_url": "https://monarchblackhawk.com/casino/table-games",
+          "found_time": "2024-11-17 13:26:13",
+          "status": "active"
+        },
+        {
+          "domain": "pcgamer.com",
+          "raw_url": "https://www.pcgamer.com/starfield-casino-location-almagest-jackpot/",
+          "found_time": "2024-11-17 13:26:14",
           "status": "active"
         }
       ]

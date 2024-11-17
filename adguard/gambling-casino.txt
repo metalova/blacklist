@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 20:24:06
+! Last Updated: 2024-11-17 20:29:16
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 540
+! Number of unique domains: 546
 !
 
 ||24liveblog.com^
@@ -35,6 +35,7 @@
 ||arspb.org^
 ||ascentinternationalschool.com^
 ||ashevilledatenight.com^
+||atlanticjetcenter.com^
 ||attorneypeterkelley.com^
 ||audio-constructor.com^
 ||av-voyages.fr^
@@ -265,6 +266,7 @@
 ||kbivirtual.id^
 ||kec-ganding.com^
 ||keystotranquilityca.com^
+||kgns.tv^
 ||kick.com^
 ||kingswordplay.ca^
 ||know.nsmtltd.co.uk^
@@ -311,6 +313,7 @@
 ||moesandjoes.com^
 ||moesandjoes.pages.dev^
 ||mojadipro.com^
+||monarchblackhawk.com^
 ||moodycenteratx.com^
 ||moovitapp.com^
 ||mrbit.bg^
@@ -362,6 +365,7 @@
 ||parqvancouver.com^
 ||patrimoniomundialmexico.inah.gob.mx^
 ||paysbig.com^
+||pcgamer.com^
 ||pelajarmu.id^
 ||pencoeddental.com^
 ||pennstakes.com^
@@ -437,6 +441,7 @@
 ||skycityadelaide.com.au^
 ||skycityauckland.co.nz^
 ||skyriver.com^
+||skyshop.mx^
 ||slotgacorocean88.com^
 ||sman1tunjungan.sch.id^
 ||smaryssundernagar.com^
@@ -492,6 +497,7 @@
 ||thewokdallas.com^
 ||thirdmonkeysports.com^
 ||thrivemedicalaesthetics.ca^
+||thv11.com^
 ||tib.co.id^
 ||tickets.riverspirittulsa.com^
 ||tiki-talk.com^
