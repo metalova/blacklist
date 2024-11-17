@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 00:08:44",
+  "updated": "2024-11-18 00:12:51",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 949,
+      "count": 952,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -42096,6 +42096,24 @@
           "domain": "tuzyeksav.org.tr",
           "raw_url": "https://www.tuzyeksav.org.tr/",
           "found_time": "2024-11-17 17:08:43",
+          "status": "active"
+        },
+        {
+          "domain": "atlantapodiatryspecialists.com",
+          "raw_url": "https://atlantapodiatryspecialists.com/",
+          "found_time": "2024-11-17 17:08:44",
+          "status": "active"
+        },
+        {
+          "domain": "cardiolinc.pages.dev",
+          "raw_url": "https://cardiolinc.pages.dev/",
+          "found_time": "2024-11-17 17:10:47",
+          "status": "active"
+        },
+        {
+          "domain": "apps-test.convertibill.com",
+          "raw_url": "https://apps-test.convertibill.com/togel-hongkong-pools-777one/",
+          "found_time": "2024-11-17 17:11:50",
           "status": "active"
         }
       ]
