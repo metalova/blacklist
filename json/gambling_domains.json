@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 04:39:40",
+  "updated": "2024-11-18 05:14:52",
   "categories": {
     "slot": {
-      "count": 5552,
+      "count": 5554,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33314,6 +33314,18 @@
           "domain": "fatuweb.uncoma.edu.ar",
           "raw_url": "https://fatuweb.uncoma.edu.ar/",
           "found_time": "2024-11-17 21:39:39",
+          "status": "active"
+        },
+        {
+          "domain": "wowobarunaik.pages.dev",
+          "raw_url": "https://wowobarunaik.pages.dev/",
+          "found_time": "2024-11-17 21:39:40",
+          "status": "active"
+        },
+        {
+          "domain": "home.gocloudtechnologies.com",
+          "raw_url": "http://home.gocloudtechnologies.com/",
+          "found_time": "2024-11-17 22:14:51",
           "status": "active"
         }
       ]
