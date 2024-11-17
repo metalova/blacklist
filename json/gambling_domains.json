@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 00:19:01",
+  "updated": "2024-11-18 00:22:06",
   "categories": {
     "slot": {
       "count": 5498,
@@ -46383,7 +46383,7 @@
       ]
     },
     "esports": {
-      "count": 282,
+      "count": 284,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -48075,6 +48075,18 @@
           "domain": "lingkarjateng.id",
           "raw_url": "https://lingkarjateng.id/artikel/7-daftar-game-yang-bisa-ubah-hobi-jadi-prestasi/",
           "found_time": "2024-11-17 17:19:01",
+          "status": "active"
+        },
+        {
+          "domain": "honorofkings.com",
+          "raw_url": "https://www.honorofkings.com/id/",
+          "found_time": "2024-11-17 17:19:01",
+          "status": "active"
+        },
+        {
+          "domain": "skor.id",
+          "raw_url": "https://skor.id/post/tim-esport-milik-sergio-aguero-gandeng-agen-komersial-ternama-01375823",
+          "found_time": "2024-11-17 17:20:03",
           "status": "active"
         }
       ]

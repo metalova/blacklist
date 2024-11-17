@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-18 00:19:01
+! Last Updated: 2024-11-18 00:22:06
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 282
+! Number of unique domains: 284
 !
 
 ||1001liga.pages.dev^
@@ -116,6 +116,7 @@
 ||hatredspeaks.com^
 ||himpol.com^
 ||hippu.lppm.ulb.ac.id^
+||honorofkings.com^
 ||howard-hilman-dmd.com^
 ||huddle.tech^
 ||hybrid.co.id^
@@ -240,6 +241,7 @@
 ||sinarfakta.com^
 ||siouxfallsmusic.com^
 ||sis.tv^
+||skor.id^
 ||sky123menang.com^
 ||skyscanner.co.id^
 ||slotnesia77aa.com^
