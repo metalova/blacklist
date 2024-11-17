@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 09:03:38",
+  "updated": "2024-11-17 09:09:48",
   "categories": {
     "slot": {
-      "count": 5360,
+      "count": 5363,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32163,11 +32163,29 @@
           "raw_url": "https://m.yelp.com/biz/grand-win-supermarket-new-york",
           "found_time": "2024-11-17 02:02:37",
           "status": "active"
+        },
+        {
+          "domain": "bloomberg.com",
+          "raw_url": "https://www.bloomberg.com/profile/company/1029687D:HK",
+          "found_time": "2024-11-17 02:03:38",
+          "status": "active"
+        },
+        {
+          "domain": "rosewaterrestaurants.com",
+          "raw_url": "https://rosewaterrestaurants.com/",
+          "found_time": "2024-11-17 02:05:41",
+          "status": "active"
+        },
+        {
+          "domain": "blokmsquare.co.id",
+          "raw_url": "https://blokmsquare.co.id/data/?data=situs138",
+          "found_time": "2024-11-17 02:06:42",
+          "status": "active"
         }
       ]
     },
     "casino": {
-      "count": 487,
+      "count": 488,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35089,6 +35107,12 @@
           "domain": "elyseenails.com",
           "raw_url": "https://elyseenails.com/",
           "found_time": "2024-11-16 16:20:38",
+          "status": "active"
+        },
+        {
+          "domain": "newtownhotel.com.au",
+          "raw_url": "https://newtownhotel.com.au/live-casino/",
+          "found_time": "2024-11-17 02:08:46",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 09:03:38
+! Last Updated: 2024-11-17 09:09:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5360
+! Number of unique domains: 5363
 !
 
 ||103.115.28.6^
@@ -698,6 +698,8 @@
 ||blog.siep.be^
 ||blog.ulifestyle.com.hk^
 ||blogger.com^
+||blokmsquare.co.id^
+||bloomberg.com^
 ||bloombergtechnoz.com^
 ||blud.co.id^
 ||bluejaysnation.com^
@@ -4042,6 +4044,7 @@
 ||rosabar.com^
 ||rosamunddean.com^
 ||rosatispizzawaukee.com^
+||rosewaterrestaurants.com^
 ||rossetti-productions.com^
 ||rotibakar88.com^
 ||rotowire.com^
