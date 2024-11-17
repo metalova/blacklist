@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 21:29:08
+! Last Updated: 2024-11-17 21:34:18
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 562
+! Number of unique domains: 564
 !
 
 ||24liveblog.com^
@@ -101,6 +101,7 @@
 ||cciudadano.org.mx^
 ||cdcgaming.com^
 ||cenest.iift.ac.in^
+||chainplay.gg^
 ||checkup.umchltd.com^
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
@@ -383,6 +384,7 @@
 ||peppermillreno.com^
 ||perchance.org^
 ||peshtigotimes.net^
+||pewarta.co^
 ||pharmaciepolders.fr^
 ||phatphilsfireworks.com^
 ||philadelphia.livecasinohotel.com^
