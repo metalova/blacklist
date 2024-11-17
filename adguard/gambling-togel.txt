@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 11:54:07
+! Last Updated: 2024-11-17 11:59:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 864
+! Number of unique domains: 875
 !
 
 ||087ina.com^
@@ -37,6 +37,7 @@
 ||alephjs.org^
 ||allaboutsaws.com^
 ||altegrity.com^
+||amazonecoadventures.com^
 ||amfacilities.com^
 ||amguema.com^
 ||amigo.vet^
@@ -108,6 +109,7 @@
 ||buah4damp.gacorclouds.workers.dev^
 ||bubblemaineia.com^
 ||buddypress.org^
+||buenavistaroadanimalhospitalgeorgia.com^
 ||bunburyswimmingclub.org^
 ||burlapandlacemetterga.com^
 ||buruan-daftar.pages.dev^
@@ -287,6 +289,7 @@
 ||galmaq.com.br^
 ||ganadosdelrey.com^
 ||gardenbakery.co.id^
+||gastromercat.cat^
 ||gatling-tool.org^
 ||geekbinge.com^
 ||geminiresort.com.au^
@@ -316,6 +319,7 @@
 ||halosekolah.id^
 ||handalonline.com^
 ||hantogel.indonesianet.co.id^
+||hayfieldmontessori.com^
 ||hcglawoffice.com^
 ||heartoftexasmotelaustin.com^
 ||heladosyanel.com.ar^
@@ -332,6 +336,7 @@
 ||hpps.com.hr^
 ||hris.pgn-perkasa.co.id^
 ||hucksstumpgrinding.com^
+||hutanpanjang.desa.id^
 ||hyitph.com^
 ||i-dental-office.jp^
 ||iamchairbox.com^
@@ -360,6 +365,7 @@
 ||itbully.com^
 ||itls.es^
 ||ittelkom.ac.id^
+||itvdr.com^
 ||iuroncologia.com.br^
 ||jamaicanfoodsouthdaytona.com^
 ||jamestowndds.com^
@@ -460,6 +466,7 @@
 ||mainefoodstrategy.org^
 ||majalahindonesia.id^
 ||makado.pages.dev^
+||makeruh.desa.id^
 ||malajunta.org^
 ||manigua.co^
 ||manoirdelesperance.fr^
@@ -571,6 +578,7 @@
 ||pgp4d.co^
 ||phantomthailand.com^
 ||phyllisforcongress.com^
+||pideoven.com^
 ||piramidamister.pages.dev^
 ||piromae.com^
 ||pixels.com^
@@ -633,6 +641,7 @@
 ||ravenshawuniversity.ac.in^
 ||raymitevlaw.com^
 ||rdm.mtsjeumalaamal.sch.id^
+||readcomicfree.org^
 ||rec-room.com^
 ||redalianzalatina.org^
 ||redhenrestaurant.com^
@@ -804,6 +813,7 @@
 ||tribratanews.sulut.polri.go.id^
 ||tribratanews.sumsel.polri.go.id^
 ||trindade.org^
+||tripadvisor.com.gr^
 ||triplercomposites.com^
 ||ttwfa.com^
 ||tualnews.com^
@@ -844,6 +854,7 @@
 ||wasabiplano.com^
 ||webgemglovecare.com^
 ||webportal.bangkok.go.th^
+||westbathurstpreschool.nsw.edu.au^
 ||westportalca.com^
 ||wholesomeeatingllc.com^
 ||wibu69ol.vercel.app^

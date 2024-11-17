@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 11:54:07",
+  "updated": "2024-11-17 11:59:43",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 864,
+      "count": 875,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40584,6 +40584,72 @@
           "domain": "westportalca.com",
           "raw_url": "https://westportalca.com/",
           "found_time": "2024-11-17 04:54:07",
+          "status": "active"
+        },
+        {
+          "domain": "amazonecoadventures.com",
+          "raw_url": "https://www.amazonecoadventures.com/",
+          "found_time": "2024-11-17 04:54:07",
+          "status": "active"
+        },
+        {
+          "domain": "pideoven.com",
+          "raw_url": "https://www.pideoven.com/",
+          "found_time": "2024-11-17 04:56:29",
+          "status": "active"
+        },
+        {
+          "domain": "buenavistaroadanimalhospitalgeorgia.com",
+          "raw_url": "https://www.buenavistaroadanimalhospitalgeorgia.com/",
+          "found_time": "2024-11-17 04:56:29",
+          "status": "active"
+        },
+        {
+          "domain": "hayfieldmontessori.com",
+          "raw_url": "https://hayfieldmontessori.com/",
+          "found_time": "2024-11-17 04:56:29",
+          "status": "active"
+        },
+        {
+          "domain": "readcomicfree.org",
+          "raw_url": "https://readcomicfree.org/",
+          "found_time": "2024-11-17 04:56:30",
+          "status": "active"
+        },
+        {
+          "domain": "tripadvisor.com.gr",
+          "raw_url": "https://www.tripadvisor.com.gr/LocationPhotoDirectLink-g34297-d619725-i491282721-Bali_Hai_Beach_Resort-Holmes_Beach_Anna_Maria_Island_Florida.html",
+          "found_time": "2024-11-17 04:57:35",
+          "status": "active"
+        },
+        {
+          "domain": "itvdr.com",
+          "raw_url": "https://itvdr.com/rudal%20toto-244/",
+          "found_time": "2024-11-17 04:57:35",
+          "status": "active"
+        },
+        {
+          "domain": "hutanpanjang.desa.id",
+          "raw_url": "https://hutanpanjang.desa.id/",
+          "found_time": "2024-11-17 04:59:42",
+          "status": "active"
+        },
+        {
+          "domain": "gastromercat.cat",
+          "raw_url": "https://gastromercat.cat/",
+          "found_time": "2024-11-17 04:59:42",
+          "status": "active"
+        },
+        {
+          "domain": "westbathurstpreschool.nsw.edu.au",
+          "raw_url": "https://westbathurstpreschool.nsw.edu.au/",
+          "found_time": "2024-11-17 04:59:42",
+          "status": "active"
+        },
+        {
+          "domain": "makeruh.desa.id",
+          "raw_url": "https://makeruh.desa.id/",
+          "found_time": "2024-11-17 04:59:43",
           "status": "active"
         }
       ]
