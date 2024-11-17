@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 13:43:16
+! Last Updated: 2024-11-17 14:19:29
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 8043
+! Number of domains: 8054
 !
 
 ! Category: SLOT
@@ -7773,6 +7773,7 @@
 ||officialhankjones.com^
 ||eddra.com^
 ||skyscanner.co.id^
+||brrruangplay.live^
 
 ! Category: OTHERS
 ||ppatk.go.id^
@@ -8061,4 +8062,14 @@
 ||detik60.com^
 ||findyourrightfit.ca^
 ||ulasan.co^
+||graduate.binus.ac.id^
+||iainkediri.ac.id^
+||iainkerinci.ac.id^
+||umsida.ac.id^
+||tebingtinggikota.go.id^
+||memoindonesia.co.id^
+||dephub.go.id^
+||rsjrw.id^
+||urbanfonts.com^
+||viar1.pages.dev^
 

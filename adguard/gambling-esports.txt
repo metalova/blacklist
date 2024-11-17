@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 13:43:16
+! Last Updated: 2024-11-17 14:19:29
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 277
+! Number of unique domains: 278
 !
 
 ||1001liga.pages.dev^
@@ -46,6 +46,7 @@
 ||blog.tribunjualbeli.com^
 ||brg.ina-sdi.or.id^
 ||britadao.com^
+||brrruangplay.live^
 ||businessresearchinsights.com^
 ||c200mhits.com^
 ||cakrawalajabar.com^

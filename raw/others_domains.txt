@@ -50,6 +50,7 @@ context.id
 curupekspress.bacakoran.co
 dataindonesia.id
 deduktif.id
+dephub.go.id
 detail.id
 detik60.com
 didaktis.metaniskala.co.id
@@ -78,6 +79,7 @@ froken.com.ar
 geraifastpay.co.id
 gizmologi.id
 gorajuara.com
+graduate.binus.ac.id
 guetilang.com
 harianaceh.co.id
 help.grab.com
@@ -88,6 +90,8 @@ historia.id
 homify.co.id
 hukamanews.com
 hulondalo.id
+iainkediri.ac.id
+iainkerinci.ac.id
 iblam.ac.id
 id.advantaseeds.com
 id.glosbe.com
@@ -168,6 +172,7 @@ mediajustitia.com
 mediawarta.com
 melihatindonesia.id
 melintas.id
+memoindonesia.co.id
 menpan.go.id
 merconspecialty.com
 mistar.id
@@ -233,6 +238,7 @@ reviewaspg.com
 ricksbarandgrill.com
 rmolsumut.id
 roth.azulik.com
+rsjrw.id
 ruanganinfo.com
 runningguild.com
 sawitku.id
@@ -252,6 +258,7 @@ supremetoys.ca
 swa.co.id
 tangerangkota.go.id
 tatarmedia.id
+tebingtinggikota.go.id
 techno.rakyat.news
 teknologi.id
 telematicsnews.info
@@ -269,7 +276,10 @@ tribratanews.metro.polri.go.id
 tvrisumbar.co.id
 ugm.ac.id
 ulasan.co
+umsida.ac.id
+urbanfonts.com
 uzone.id
+viar1.pages.dev
 victorynews.id
 video.medcom.id
 vidio.com
