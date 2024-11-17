@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-17 14:57:23
+! Last Updated: 2024-11-17 15:02:32
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 125
+! Number of unique domains: 126
 !
 
 ||63.142.240.221^
@@ -72,6 +72,7 @@
 ||magellanic-cloud.com^
 ||mahap.net^
 ||massachusettshearing.com^
+||metzdemenagement.com^
 ||micreiros.com^
 ||modalreceheu9.com^
 ||mountzionmedicalcollege.com^

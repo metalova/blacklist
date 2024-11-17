@@ -1,5 +1,5 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 14:57:23
+! Last Updated: 2024-11-17 15:02:32
 ! Description: Automatically generated gambling domain blocklist
 ! Number of unique domains: 5363
 !
