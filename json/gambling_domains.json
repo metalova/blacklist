@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:53:50",
+  "updated": "2024-11-17 10:55:55",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 522,
+      "count": 524,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44398,6 +44398,18 @@
           "domain": "vitessenieuws.nl",
           "raw_url": "https://vitessenieuws.nl/?products=CARA-MENANG-MIX-PARLAY",
           "found_time": "2024-11-17 03:52:46",
+          "status": "active"
+        },
+        {
+          "domain": "amp.warislabel.com",
+          "raw_url": "https://amp.warislabel.com/doyanbola/join/",
+          "found_time": "2024-11-17 03:53:50",
+          "status": "active"
+        },
+        {
+          "domain": "cooperationcommons.org",
+          "raw_url": "https://www.cooperationcommons.org/",
+          "found_time": "2024-11-17 03:55:54",
           "status": "active"
         }
       ]
