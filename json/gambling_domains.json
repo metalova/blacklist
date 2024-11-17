@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 06:52:02",
+  "updated": "2024-11-17 07:24:10",
   "categories": {
     "slot": {
-      "count": 5285,
+      "count": 5293,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31712,6 +31712,54 @@
           "domain": "kuda4d.taka.or.id",
           "raw_url": "http://kuda4d.taka.or.id/",
           "found_time": "2024-11-16 23:50:52",
+          "status": "active"
+        },
+        {
+          "domain": "assemblee-nationale.tg",
+          "raw_url": "https://assemblee-nationale.tg/",
+          "found_time": "2024-11-16 23:52:02",
+          "status": "active"
+        },
+        {
+          "domain": "ampst170.com",
+          "raw_url": "https://ampst170.com/",
+          "found_time": "2024-11-17 00:23:07",
+          "status": "active"
+        },
+        {
+          "domain": "pintusamping.com",
+          "raw_url": "https://pintusamping.com/toto2/togel88/",
+          "found_time": "2024-11-17 00:23:07",
+          "status": "active"
+        },
+        {
+          "domain": "linklogin-tototogel.pages.dev",
+          "raw_url": "https://linklogin-tototogel.pages.dev/",
+          "found_time": "2024-11-17 00:23:07",
+          "status": "active"
+        },
+        {
+          "domain": "supernatam.com",
+          "raw_url": "https://supernatam.com/nolep/detol/",
+          "found_time": "2024-11-17 00:23:08",
+          "status": "active"
+        },
+        {
+          "domain": "terusansuez.com",
+          "raw_url": "https://terusansuez.com/tg88/drskershman.com/",
+          "found_time": "2024-11-17 00:23:08",
+          "status": "active"
+        },
+        {
+          "domain": "ampojol.onrender.com",
+          "raw_url": "https://ampojol.onrender.com/",
+          "found_time": "2024-11-17 00:23:08",
+          "status": "active"
+        },
+        {
+          "domain": "t88.link-active.net",
+          "raw_url": "https://t88.link-active.net/",
+          "found_time": "2024-11-17 00:23:09",
           "status": "active"
         }
       ]

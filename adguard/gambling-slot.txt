@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 06:52:02
+! Last Updated: 2024-11-17 07:24:10
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5285
+! Number of unique domains: 5293
 !
 
 ||103.115.28.6^
@@ -281,11 +281,13 @@
 ||ampfiftoto.com^
 ||amplineslot88.pages.dev^
 ||ampmegah138.com^
+||ampojol.onrender.com^
 ||ampplanet.com^
 ||ampq.org^
 ||ampsakti.ivermectinytab.com^
 ||ampslotvalid.offcolortv.com^
 ||ampsoul.pages.dev^
+||ampst170.com^
 ||ampt4d.pages.dev^
 ||ampun.diblast.com^
 ||ampv99.pages.dev^
@@ -387,6 +389,7 @@
 ||asn.kbjatim.id^
 ||asopenbac.com^
 ||aspikom.org^
+||assemblee-nationale.tg^
 ||assetstore.unity.com^
 ||assopoker.com^
 ||asteel.sk^
@@ -2691,6 +2694,7 @@
 ||lini.or.id^
 ||link-register.pages.dev^
 ||link.space^
+||linklogin-tototogel.pages.dev^
 ||linkpandora.co^
 ||linkqu.id^
 ||linkr.bio^
@@ -3614,6 +3618,7 @@
 ||pintoresprofesionalescancun.com^
 ||pintu.co.id^
 ||pintureriassanandres.com^
+||pintusamping.com^
 ||pipenhotgrill.com^
 ||piperade.com^
 ||piperbaycafe.com^
@@ -4563,6 +4568,7 @@
 ||superasian88win.com^
 ||superiorhomerenovations.com^
 ||supermpoweb.com^
+||supernatam.com^
 ||superpicks.com^
 ||supervisi.relawanjurnal.id^
 ||suples.com^
@@ -4598,6 +4604,7 @@
 ||t.ly^
 ||t.me^
 ||t3mag.lat^
+||t88.link-active.net^
 ||tab.edesaku.org^
 ||tabaloglamping.com^
 ||tablo.com^
@@ -4681,6 +4688,7 @@
 ||terraartgallery.com^
 ||terraceskybar.com^
 ||terracotaresidencial.com^
+||terusansuez.com^
 ||teryori-oya.com^
 ||test-smon.cez.cz^
 ||test.ppdeh.sch.id^
