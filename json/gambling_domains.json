@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 22:39:24",
+  "updated": "2024-11-17 22:44:37",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 566,
+      "count": 573,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -46042,6 +46042,48 @@
           "domain": "kinhmatnami.com",
           "raw_url": "https://kinhmatnami.com/",
           "found_time": "2024-11-17 15:38:23",
+          "status": "active"
+        },
+        {
+          "domain": "pertanian.jatimprov.go.id",
+          "raw_url": "https://pertanian.jatimprov.go.id/?id=SBOBET-TERPERCAYA",
+          "found_time": "2024-11-17 15:39:24",
+          "status": "active"
+        },
+        {
+          "domain": "mnctrijaya.com",
+          "raw_url": "https://www.mnctrijaya.com/news/detail/51800/dibongkar-ini-trik-bandar-judi-online-bikin-pemain-tak-bakal",
+          "found_time": "2024-11-17 15:40:26",
+          "status": "active"
+        },
+        {
+          "domain": "xprizeme.com",
+          "raw_url": "https://xprizeme.com/tag/taruhan-judi-bola/",
+          "found_time": "2024-11-17 15:40:27",
+          "status": "active"
+        },
+        {
+          "domain": "agungjaya.go-desa.id",
+          "raw_url": "https://agungjaya.go-desa.id/?lapo=BOLA-PARLAY",
+          "found_time": "2024-11-17 15:41:32",
+          "status": "active"
+        },
+        {
+          "domain": "systemica.gr",
+          "raw_url": "https://systemica.gr/",
+          "found_time": "2024-11-17 15:41:32",
+          "status": "active"
+        },
+        {
+          "domain": "polteksmi.ac.id",
+          "raw_url": "https://polteksmi.ac.id/",
+          "found_time": "2024-11-17 15:41:33",
+          "status": "active"
+        },
+        {
+          "domain": "tim-hortons.co.kr",
+          "raw_url": "http://tim-hortons.co.kr/",
+          "found_time": "2024-11-17 15:42:34",
           "status": "active"
         }
       ]
