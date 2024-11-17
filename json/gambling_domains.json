@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 14:48:12",
+  "updated": "2024-11-17 14:52:18",
   "categories": {
     "slot": {
       "count": 5363,
@@ -46580,7 +46580,7 @@
       ]
     },
     "others": {
-      "count": 325,
+      "count": 328,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -48530,6 +48530,24 @@
           "domain": "kapanlagi.com",
           "raw_url": "https://www.kapanlagi.com/foto/berita-foto/indonesia/potret-artis-yang-terseret-kasus-dugaan-promosi-judi-online-ada-denny-cagur-hingga-amanda-manopo.html",
           "found_time": "2024-11-17 07:48:12",
+          "status": "active"
+        },
+        {
+          "domain": "jurnaltinta.com",
+          "raw_url": "https://www.jurnaltinta.com/nasional/44713926349/kasus-promosi-judi-online-gunawan-sadbor-polisi-diduga-tangguhkan-penahanan-ini-alasannya",
+          "found_time": "2024-11-17 07:48:12",
+          "status": "active"
+        },
+        {
+          "domain": "fgfoodlabs.nl",
+          "raw_url": "https://www.fgfoodlabs.nl/",
+          "found_time": "2024-11-17 07:50:15",
+          "status": "active"
+        },
+        {
+          "domain": "eranasional.com",
+          "raw_url": "https://eranasional.com/80231/kades-di-lahat-pakai-ana-desa-rp-663-m-untuk-judi-online-dan-karaoke",
+          "found_time": "2024-11-17 07:52:17",
           "status": "active"
         }
       ]
