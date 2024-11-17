@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 22:24:53",
+  "updated": "2024-11-17 22:29:03",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 554,
+      "count": 556,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -45970,6 +45970,18 @@
           "domain": "zimbabwesoccer.com",
           "raw_url": "https://zimbabwesoccer.com/",
           "found_time": "2024-11-17 14:51:46",
+          "status": "active"
+        },
+        {
+          "domain": "sportsline.com",
+          "raw_url": "https://www.sportsline.com/tools/parlay-calculator/",
+          "found_time": "2024-11-17 15:24:53",
+          "status": "active"
+        },
+        {
+          "domain": "tisseursdechimeres.org",
+          "raw_url": "https://tisseursdechimeres.org/prediksi-bola-jitu-20/",
+          "found_time": "2024-11-17 15:27:56",
           "status": "active"
         }
       ]
