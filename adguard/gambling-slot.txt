@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 04:29:29
+! Last Updated: 2024-11-18 04:34:35
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5547
+! Number of unique domains: 5550
 !
 
 ||103.115.28.6^
@@ -452,6 +452,7 @@
 ||ave-africa.com^
 ||avifischeri.com^
 ||awnstailoring.com^
+||axensoft.com^
 ||ayamjpcore.com^
 ||ayanacampbell.pages.dev^
 ||ayobandung.com^
@@ -595,6 +596,7 @@
 ||betclan.com^
 ||bethanychurchpec.ca^
 ||bethelparkfarmersmarket.com^
+||bethforindiana.com^
 ||bethsadahospital.com^
 ||betika.et^
 ||betking-mobile.en.uptodown.com^
@@ -1947,6 +1949,7 @@
 ||gurjone.com^
 ||guruvayurdevaswom.in^
 ||guttercapflorida.com^
+||gythrigdonmusic.com^
 ||h4hmcgill.ca^
 ||habanero188amp.xyz^
 ||habaneroslot.pro^

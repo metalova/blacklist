@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 04:29:29",
+  "updated": "2024-11-18 04:34:35",
   "categories": {
     "slot": {
-      "count": 5547,
+      "count": 5550,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33284,6 +33284,24 @@
           "domain": "tripadvisor.com.tw",
           "raw_url": "https://www.tripadvisor.com.tw/LocationPhotoDirectLink-g294229-d6475944-i677457394-Kinokawa-Jakarta_Java.html",
           "found_time": "2024-11-17 21:25:25",
+          "status": "active"
+        },
+        {
+          "domain": "gythrigdonmusic.com",
+          "raw_url": "https://www.gythrigdonmusic.com/",
+          "found_time": "2024-11-17 21:29:29",
+          "status": "active"
+        },
+        {
+          "domain": "bethforindiana.com",
+          "raw_url": "https://www.bethforindiana.com/",
+          "found_time": "2024-11-17 21:32:32",
+          "status": "active"
+        },
+        {
+          "domain": "axensoft.com",
+          "raw_url": "https://www.axensoft.com/",
+          "found_time": "2024-11-17 21:34:34",
           "status": "active"
         }
       ]
