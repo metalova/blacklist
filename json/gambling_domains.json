@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 02:39:27",
+  "updated": "2024-11-18 02:44:41",
   "categories": {
     "slot": {
-      "count": 5500,
+      "count": 5503,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33002,6 +33002,24 @@
           "domain": "esumsel.sumselprov.go.id",
           "raw_url": "https://esumsel.sumselprov.go.id/min96249661.html",
           "found_time": "2024-11-17 19:37:21",
+          "status": "active"
+        },
+        {
+          "domain": "daytonalocation.com",
+          "raw_url": "https://daytonalocation.com/",
+          "found_time": "2024-11-17 19:39:27",
+          "status": "active"
+        },
+        {
+          "domain": "journal-mandiracendikia.com",
+          "raw_url": "https://journal-mandiracendikia.com/",
+          "found_time": "2024-11-17 19:40:32",
+          "status": "active"
+        },
+        {
+          "domain": "hitamhitamscatter.pages.dev",
+          "raw_url": "https://hitamhitamscatter.pages.dev/pusat/",
+          "found_time": "2024-11-17 19:41:34",
           "status": "active"
         }
       ]
