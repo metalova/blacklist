@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 20:29:16
+! Last Updated: 2024-11-17 20:31:23
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 546
+! Number of unique domains: 547
 !
 
 ||24liveblog.com^
@@ -323,6 +323,7 @@
 ||mumbaicoworking.com^
 ||muvi.com^
 ||my.ciomas2.sch.id^
+||mykonoscasino.co.za^
 ||nalarpolitik.com^
 ||narasiterkini.com^
 ||ncpg.org.sg^

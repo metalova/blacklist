@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 20:29:16",
+  "updated": "2024-11-17 20:31:23",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 546,
+      "count": 547,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36271,6 +36271,12 @@
           "domain": "pcgamer.com",
           "raw_url": "https://www.pcgamer.com/starfield-casino-location-almagest-jackpot/",
           "found_time": "2024-11-17 13:26:14",
+          "status": "active"
+        },
+        {
+          "domain": "mykonoscasino.co.za",
+          "raw_url": "https://www.mykonoscasino.co.za/gaming/slots/slots-payout/",
+          "found_time": "2024-11-17 13:29:16",
           "status": "active"
         }
       ]
