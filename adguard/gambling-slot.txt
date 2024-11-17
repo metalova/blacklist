@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 18:34:41
+! Last Updated: 2024-11-17 18:37:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5447
+! Number of unique domains: 5448
 !
 
 ||103.115.28.6^
@@ -3428,6 +3428,7 @@
 ||nrsmc.edu.in^
 ||nttbersuara.com^
 ||nu.or.id^
+||numerouspost.com^
 ||nured.uowm.gr^
 ||nusaggbromo.com^
 ||nvlandman.org^
