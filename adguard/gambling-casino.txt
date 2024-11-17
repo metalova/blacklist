@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 21:12:38
+! Last Updated: 2024-11-17 21:19:50
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 549
+! Number of unique domains: 555
 !
 
 ||24liveblog.com^
@@ -14,6 +14,7 @@
 ||accounts.hbtu.ac.in^
 ||acescaldes.com^
 ||acma.gov.au^
+||activetradermag.com^
 ||affpapa.com^
 ||afronation.com^
 ||agen-casino.online^
@@ -48,6 +49,7 @@
 ||ballislife.com^
 ||ballycasino.com^
 ||bappeda.jatengprov.go.id^
+||batamnow.com^
 ||bbtn4dgood.com^
 ||bearrivercasino.com^
 ||beijinggreenbeltmd.com^
@@ -175,6 +177,7 @@
 ||gambleaware.org^
 ||gamblingcounting.com^
 ||games.washingtonpost.com^
+||gazzetta.it^
 ||gdqpan.udn.vn^
 ||geoffreyparker.com^
 ||gettyimages.co.nz^
@@ -344,6 +347,7 @@
 ||nuxgame.com^
 ||oag.ca.gov^
 ||oaklawn.com^
+||obake2ai.com^
 ||ocs.upnvj.ac.id^
 ||oddsonpromotions.com^
 ||ojs.stieprasetiyamandiri.ac.id^
@@ -363,6 +367,7 @@
 ||pa-bengkulukota.go.id^
 ||pafinatuna.org^
 ||palms.com^
+||pancarpos.com^
 ||paoyouth.org^
 ||parqvancouver.com^
 ||patrimoniomundialmexico.inah.gob.mx^
@@ -424,6 +429,7 @@
 ||salamsatukopi.com^
 ||sayma.fnfcomputer.com^
 ||scarletpearlcasino.com^
+||scmp.com^
 ||sdlccorp.com^
 ||senator.hr^
 ||senecabuffalocreekcasino.com^

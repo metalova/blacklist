@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:12:38",
+  "updated": "2024-11-17 21:19:50",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 549,
+      "count": 555,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36289,6 +36289,42 @@
           "domain": "visionfoundationofindia.org",
           "raw_url": "https://www.visionfoundationofindia.org/Advertising20241116bet%20rummy%20circle%20kaise%20khele.phtml",
           "found_time": "2024-11-17 14:07:31",
+          "status": "active"
+        },
+        {
+          "domain": "activetradermag.com",
+          "raw_url": "https://activetradermag.com/",
+          "found_time": "2024-11-17 14:12:38",
+          "status": "active"
+        },
+        {
+          "domain": "gazzetta.it",
+          "raw_url": "https://www.gazzetta.it/scommesse/casino/",
+          "found_time": "2024-11-17 14:16:44",
+          "status": "active"
+        },
+        {
+          "domain": "batamnow.com",
+          "raw_url": "https://batamnow.com/kasino-terbesar-pertama-di-hotel-hilltop-batam/",
+          "found_time": "2024-11-17 14:17:47",
+          "status": "active"
+        },
+        {
+          "domain": "obake2ai.com",
+          "raw_url": "https://obake2ai.com/",
+          "found_time": "2024-11-17 14:17:47",
+          "status": "active"
+        },
+        {
+          "domain": "scmp.com",
+          "raw_url": "https://www.scmp.com/week-asia/economics/article/3273831/bali-casino-impossible-dream-or-economically-sound-gamble-indonesia",
+          "found_time": "2024-11-17 14:17:47",
+          "status": "active"
+        },
+        {
+          "domain": "pancarpos.com",
+          "raw_url": "https://pancarpos.com/06/08/2024/jadi-member-casino-dunia-bang-togar-bali-paling-maju-di-indonesia/",
+          "found_time": "2024-11-17 14:18:49",
           "status": "active"
         }
       ]
