@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 20:08:38",
+  "updated": "2024-11-17 20:10:43",
   "categories": {
     "slot": {
-      "count": 5495,
+      "count": 5497,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32972,6 +32972,18 @@
           "domain": "archiveofourown.org",
           "raw_url": "https://archiveofourown.org/works/60604330",
           "found_time": "2024-11-17 13:05:34",
+          "status": "active"
+        },
+        {
+          "domain": "universpiti.foititikanea.gr",
+          "raw_url": "https://universpiti.foititikanea.gr/index.php?page=item&id=5587",
+          "found_time": "2024-11-17 13:08:38",
+          "status": "active"
+        },
+        {
+          "domain": "ampgrandjp.pages.dev",
+          "raw_url": "https://ampgrandjp.pages.dev/",
+          "found_time": "2024-11-17 13:10:42",
           "status": "active"
         }
       ]

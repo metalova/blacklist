@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 20:08:38
+! Last Updated: 2024-11-17 20:10:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5495
+! Number of unique domains: 5497
 !
 
 ||103.115.28.6^
@@ -286,6 +286,7 @@
 ||ampdeposlot88.com^
 ||ampdewacukong88.com^
 ||ampfiftoto.com^
+||ampgrandjp.pages.dev^
 ||amplineslot88.pages.dev^
 ||ampmegah138.com^
 ||ampojol.onrender.com^
@@ -5186,6 +5187,7 @@
 ||unitest.co.id^
 ||unitomo.ac.id^
 ||universitetite.com^
+||universpiti.foititikanea.gr^
 ||univmeroket.pages.dev^
 ||unsri.ac.id^
 ||unsriberjayakembali.pages.dev^
