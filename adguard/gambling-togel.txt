@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 11:47:48
+! Last Updated: 2024-11-17 11:54:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 852
+! Number of unique domains: 864
 !
 
 ||087ina.com^
@@ -175,6 +175,7 @@
 ||dccourts.gov^
 ||ddpu.edu.ua^
 ||ddviagens.com^
+||dearbearandbeany.com^
 ||deborafoundation.org^
 ||defineagile.com^
 ||delhiheights.net^
@@ -304,6 +305,7 @@
 ||golockersid.com^
 ||goodfoodbarnsley.org^
 ||goodthinkingsociety.org^
+||gopos.id^
 ||grandefabrictex.com^
 ||greshamsistercity.org^
 ||grupedsac.mx^
@@ -312,6 +314,7 @@
 ||gwenchanna.com^
 ||hackerrank.com^
 ||halosekolah.id^
+||handalonline.com^
 ||hantogel.indonesianet.co.id^
 ||hcglawoffice.com^
 ||heartoftexasmotelaustin.com^
@@ -574,6 +577,7 @@
 ||playking88sunday.com^
 ||playtogrowmd.com^
 ||pmb.itbriau.ac.id^
+||pmb.staikap.ac.id^
 ||pmblapemba.umt.ac.id^
 ||polatpres.com^
 ||politicayeducacion.com^
@@ -591,6 +595,7 @@
 ||prediksiabujitu.com^
 ||prediksijitu.id^
 ||prediksiwap.com^
+||premier-promenade.id^
 ||premier333vv.com^
 ||premierenglishmadrid.com^
 ||premiumdentalmedellin.com^
@@ -675,12 +680,14 @@
 ||scet.in^
 ||schamuellsart.com^
 ||scienceoflearning.jhu.edu^
+||scorto.com^
 ||sdgaccord.org^
 ||sdykastoto.pages.dev^
 ||seededprojects.co.za^
 ||sentrillion.com^
 ||seo-bonau.b-cdn.net^
 ||seogrey.xyz^
+||seputarpapua.com^
 ||servicemanagementfusion.com^
 ||servotogo.com^
 ||sevagroupfoundation.org^
@@ -744,6 +751,7 @@
 ||sumateraekspres.bacakoran.co^
 ||sundazedla.com^
 ||sundollarenergy.com^
+||sunpeakshealth.com^
 ||survei-ikm-polri.id^
 ||survey.fk.umi.ac.id^
 ||takaha-japan.com^
@@ -752,6 +760,7 @@
 ||tedxavenuedespepinieres.com^
 ||tenisplaya.com^
 ||tennisadsales.com^
+||termotehnik.rs^
 ||tgl123.com^
 ||thatsthenorm.com^
 ||theenamelproject.com^
@@ -809,6 +818,7 @@
 ||umi.ac.ug^
 ||universaleco.id^
 ||unizikentrepjournal.com^
+||unuedo.org^
 ||uoz.edu.krd^
 ||updateikn.com^
 ||uptownavenue7.com^
@@ -832,7 +842,9 @@
 ||warteg4damp.gacorclouds.workers.dev^
 ||warteg4dmaju.com^
 ||wasabiplano.com^
+||webgemglovecare.com^
 ||webportal.bangkok.go.th^
+||westportalca.com^
 ||wholesomeeatingllc.com^
 ||wibu69ol.vercel.app^
 ||wildomarchamber.org^
