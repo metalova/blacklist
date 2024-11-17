@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 09:34:32
+! Last Updated: 2024-11-17 09:35:34
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 510
+! Number of unique domains: 511
 !
 
 ||24liveblog.com^
@@ -157,6 +157,7 @@
 ||familydentalrockville.com^
 ||forbes.com^
 ||fortunebay.com^
+||foysuperfoods.com^
 ||fpmipa.ikip-saraswati.ac.id^
 ||gambierc.ca^
 ||gambleaware.nsw.gov.au^

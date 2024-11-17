@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 09:34:32",
+  "updated": "2024-11-17 09:35:34",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 510,
+      "count": 511,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35245,6 +35245,12 @@
           "domain": "dreamstime.com",
           "raw_url": "https://www.dreamstime.com/jackpot-casino-big-win-slots-fortune-king-banner-vector-illustration-jackpot-casino-slots-fortune-king-banner-image99914078",
           "found_time": "2024-11-17 02:33:31",
+          "status": "active"
+        },
+        {
+          "domain": "foysuperfoods.com",
+          "raw_url": "https://foysuperfoods.com/",
+          "found_time": "2024-11-17 02:34:32",
           "status": "active"
         }
       ]
