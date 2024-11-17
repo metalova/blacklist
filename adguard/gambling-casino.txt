@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 20:19:56
+! Last Updated: 2024-11-17 20:24:06
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 535
+! Number of unique domains: 540
 !
 
 ||24liveblog.com^
@@ -43,6 +43,7 @@
 ||baccarathotels.com^
 ||baccaratstrategysystem.com^
 ||badanbahasa.kemdikbud.go.id^
+||balahbantuan.pages.dev^
 ||ballislife.com^
 ||ballycasino.com^
 ||bappeda.jatengprov.go.id^
@@ -165,6 +166,7 @@
 ||familydentalrockville.com^
 ||forbes.com^
 ||fortunebay.com^
+||fortunewheel.com^
 ||foysuperfoods.com^
 ||fpmipa.ikip-saraswati.ac.id^
 ||gambierc.ca^
@@ -268,6 +270,7 @@
 ||know.nsmtltd.co.uk^
 ||kputulungagung.com^
 ||krakatauinternationalport.co.id^
+||kupangkab.pages.dev^
 ||kupuku.id^
 ||lanerosacasino.wordpress.com^
 ||lanyardkilat.co.id^
@@ -408,9 +411,11 @@
 ||rugbyobserver.co.uk^
 ||rwcatskills.com^
 ||rwnewyork.com^
+||saanvihospitalagra.com^
 ||sacredheartcathedraldelhi.org^
 ||sacredheartchd.com^
 ||sakurakjcrownpoint.com^
+||salamsatukopi.com^
 ||sayma.fnfcomputer.com^
 ||scarletpearlcasino.com^
 ||sdlccorp.com^

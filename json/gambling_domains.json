@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 20:19:56",
+  "updated": "2024-11-17 20:24:06",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 535,
+      "count": 540,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36205,6 +36205,36 @@
           "domain": "craftbd.org",
           "raw_url": "https://www.craftbd.org/assets/source/bokep_hd/casino-deposit-gopay.html",
           "found_time": "2024-11-17 03:29:20",
+          "status": "active"
+        },
+        {
+          "domain": "balahbantuan.pages.dev",
+          "raw_url": "https://balahbantuan.pages.dev/?tolong=AGEN%20CASINO%20IGM247%20TERBESAR",
+          "found_time": "2024-11-17 13:19:55",
+          "status": "active"
+        },
+        {
+          "domain": "salamsatukopi.com",
+          "raw_url": "https://salamsatukopi.com/",
+          "found_time": "2024-11-17 13:21:59",
+          "status": "active"
+        },
+        {
+          "domain": "kupangkab.pages.dev",
+          "raw_url": "https://kupangkab.pages.dev/98-spin/",
+          "found_time": "2024-11-17 13:23:01",
+          "status": "active"
+        },
+        {
+          "domain": "fortunewheel.com",
+          "raw_url": "https://www.fortunewheel.com/4",
+          "found_time": "2024-11-17 13:24:05",
+          "status": "active"
+        },
+        {
+          "domain": "saanvihospitalagra.com",
+          "raw_url": "https://www.saanvihospitalagra.com/",
+          "found_time": "2024-11-17 13:24:05",
           "status": "active"
         }
       ]
