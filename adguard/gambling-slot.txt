@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 02:55:01
+! Last Updated: 2024-11-18 02:59:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5512
+! Number of unique domains: 5520
 !
 
 ||103.115.28.6^
@@ -978,6 +978,7 @@
 ||christ-rock.com^
 ||christelleisflabbergasting.com^
 ||churchofsatan.com^
+||churreriadelcarmen.com^
 ||churrocoaustin.com^
 ||ciagicompressori.it^
 ||cialisorder.com^
@@ -2048,6 +2049,7 @@
 ||home.smartsch.id^
 ||homecare4u.pt^
 ||homemaidbakery.com^
+||hongkongoktoberfest.com^
 ||hoochiedaddyshorts.shop^
 ||hookahbarlasvegas.com^
 ||hooveryetkiliservisi.com^
@@ -2263,6 +2265,7 @@
 ||ipclogistic.co.id^
 ||iphoneappsfinder.com^
 ||ipjibaskembali.pages.dev^
+||ipowerenergygroup.com^
 ||iqos.com^
 ||irafu.id^
 ||iraqistudentproject.org^
@@ -3083,6 +3086,7 @@
 ||medanjaya-9hl.pages.dev^
 ||medanposonline.com^
 ||medee.mn^
+||media.ama.edu^
 ||media24.ps^
 ||mediacenter.kepulauanarukab.go.id^
 ||mediacenter.paserkab.go.id^
@@ -3405,6 +3409,7 @@
 ||nbsbangladesh.info^
 ||nciet.id^
 ||nealsfurnishings.com^
+||nebobcatsports.com^
 ||neofeederdikti.unsri.ac.id^
 ||nergyalspa.com^
 ||nespa-jp.com^
@@ -3500,6 +3505,7 @@
 ||oke168pass.com^
 ||oke4d.com^
 ||okulumevde.net^
+||okymexico.com^
 ||olav-duun.no^
 ||olbg.com^
 ||olgc-follybeach.org^
@@ -4602,6 +4608,7 @@
 ||softorb.co.id^
 ||soinsdepiedsmarthe.com^
 ||solagodoorcounty.com^
+||solarinstallersofwa.org^
 ||solotecnologia.net^
 ||soluxesalon.com^
 ||solve.mit.edu^
@@ -4776,6 +4783,7 @@
 ||surgawd-bos.pro^
 ||surge.media^
 ||survey-ipak.apps-batola.id^
+||survey.petrolab.co.id^
 ||sushibapontedera.it^
 ||sushikappo.com^
 ||sushilmedical.com^

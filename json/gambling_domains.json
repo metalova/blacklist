@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 02:55:01",
+  "updated": "2024-11-18 02:59:12",
   "categories": {
     "slot": {
-      "count": 5512,
+      "count": 5520,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33074,6 +33074,54 @@
           "domain": "personeriadefloridablanca.gov.co",
           "raw_url": "https://personeriadefloridablanca.gov.co/",
           "found_time": "2024-11-17 19:53:59",
+          "status": "active"
+        },
+        {
+          "domain": "ipowerenergygroup.com",
+          "raw_url": "https://www.ipowerenergygroup.com/",
+          "found_time": "2024-11-17 19:55:00",
+          "status": "active"
+        },
+        {
+          "domain": "okymexico.com",
+          "raw_url": "https://okymexico.com/amp/",
+          "found_time": "2024-11-17 19:57:06",
+          "status": "active"
+        },
+        {
+          "domain": "hongkongoktoberfest.com",
+          "raw_url": "https://www.hongkongoktoberfest.com/",
+          "found_time": "2024-11-17 19:57:06",
+          "status": "active"
+        },
+        {
+          "domain": "media.ama.edu",
+          "raw_url": "https://media.ama.edu/",
+          "found_time": "2024-11-17 19:58:07",
+          "status": "active"
+        },
+        {
+          "domain": "nebobcatsports.com",
+          "raw_url": "https://www.nebobcatsports.com/amp/",
+          "found_time": "2024-11-17 19:58:07",
+          "status": "active"
+        },
+        {
+          "domain": "solarinstallersofwa.org",
+          "raw_url": "https://solarinstallersofwa.org/",
+          "found_time": "2024-11-17 19:59:11",
+          "status": "active"
+        },
+        {
+          "domain": "survey.petrolab.co.id",
+          "raw_url": "https://survey.petrolab.co.id/pulsa/",
+          "found_time": "2024-11-17 19:59:11",
+          "status": "active"
+        },
+        {
+          "domain": "churreriadelcarmen.com",
+          "raw_url": "https://www.churreriadelcarmen.com/",
+          "found_time": "2024-11-17 19:59:12",
           "status": "active"
         }
       ]
