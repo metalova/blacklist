@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 07:28:16
+! Last Updated: 2024-11-17 07:32:21
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5296
+! Number of unique domains: 5298
 !
 
 ||103.115.28.6^
@@ -1438,6 +1438,7 @@
 ||ejournal.unzah.ac.id^
 ||ejournal.warmadewa.ac.id^
 ||ejurnal.stie-trianandra.ac.id^
+||ejurnal.stikbudikemuliaan.ac.id^
 ||ejurnal.unikarta.ac.id^
 ||eka-prasetya.ac.id^
 ||ekinerja.muaraenimkab.go.id^
@@ -2774,6 +2775,7 @@
 ||luckybrewgrille.com^
 ||lucysgr.com^
 ||lukaszklimowicz.com^
+||luki-la.org^
 ||lumen-learning.com^
 ||lunchbox4you.com^
 ||lunenburgdiner.com^

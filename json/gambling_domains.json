@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:28:16",
+  "updated": "2024-11-17 07:32:21",
   "categories": {
     "slot": {
-      "count": 5296,
+      "count": 5298,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31778,6 +31778,18 @@
           "domain": "warriorbet88.pages.dev",
           "raw_url": "https://warriorbet88.pages.dev/",
           "found_time": "2024-11-17 00:27:12",
+          "status": "active"
+        },
+        {
+          "domain": "luki-la.org",
+          "raw_url": "https://luki-la.org/ampps01/",
+          "found_time": "2024-11-17 00:28:16",
+          "status": "active"
+        },
+        {
+          "domain": "ejurnal.stikbudikemuliaan.ac.id",
+          "raw_url": "https://ejurnal.stikbudikemuliaan.ac.id/js/?_id=indotogel",
+          "found_time": "2024-11-17 00:31:19",
           "status": "active"
         }
       ]

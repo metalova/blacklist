@@ -1432,6 +1432,7 @@ ejournal.unimugo.ac.id
 ejournal.unzah.ac.id
 ejournal.warmadewa.ac.id
 ejurnal.stie-trianandra.ac.id
+ejurnal.stikbudikemuliaan.ac.id
 ejurnal.unikarta.ac.id
 eka-prasetya.ac.id
 ekinerja.muaraenimkab.go.id
@@ -2768,6 +2769,7 @@ lucky-winner-tsx.en.softonic.com
 luckybrewgrille.com
 lucysgr.com
 lukaszklimowicz.com
+luki-la.org
 lumen-learning.com
 lunchbox4you.com
 lunenburgdiner.com
