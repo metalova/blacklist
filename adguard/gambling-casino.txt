@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 09:11:57
+! Last Updated: 2024-11-17 09:19:11
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 496
+! Number of unique domains: 502
 !
 
 ||24liveblog.com^
@@ -154,6 +154,7 @@
 ||fai.unuha.ac.id^
 ||familydentalrockville.com^
 ||forbes.com^
+||fortunebay.com^
 ||fpmipa.ikip-saraswati.ac.id^
 ||gambierc.ca^
 ||gambleaware.nsw.gov.au^
@@ -331,6 +332,7 @@
 ||p-city.com^
 ||pa-bengkulukota.go.id^
 ||pafinatuna.org^
+||palms.com^
 ||paoyouth.org^
 ||parqvancouver.com^
 ||patrimoniomundialmexico.inah.gob.mx^
@@ -339,6 +341,7 @@
 ||pencoeddental.com^
 ||pennstakes.com^
 ||peppermillreno.com^
+||perchance.org^
 ||peshtigotimes.net^
 ||phatphilsfireworks.com^
 ||philadelphia.livecasinohotel.com^
@@ -368,6 +371,7 @@
 ||recipecommunity.com.au^
 ||reku.id^
 ||respectrichmond.com^
+||restaurantroulette.co^
 ||revpanda.com^
 ||rockymountainrep.com^
 ||roulette-online.id.uptodown.com^
@@ -469,6 +473,7 @@
 ||tuyendungacbh.com^
 ||uhintl.com^
 ||unity.hardrock.com^
+||unovegascuz.online^
 ||unsplash.com^
 ||vannlifepench.com^
 ||vendor.diblast.com^
@@ -495,6 +500,7 @@
 ||westgateresorts.com^
 ||westmorelandmall.com^
 ||whatlock.com^
+||wheeldecide.com^
 ||wheelofnames.com^
 ||wordwall.net^
 ||wtae.com^

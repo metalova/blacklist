@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 09:11:57",
+  "updated": "2024-11-17 09:19:11",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 496,
+      "count": 502,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35161,6 +35161,42 @@
           "domain": "cciudadano.org.mx",
           "raw_url": "https://cciudadano.org.mx/",
           "found_time": "2024-11-17 02:11:56",
+          "status": "active"
+        },
+        {
+          "domain": "unovegascuz.online",
+          "raw_url": "https://unovegascuz.online/our-games/pg-soft",
+          "found_time": "2024-11-17 02:11:57",
+          "status": "active"
+        },
+        {
+          "domain": "palms.com",
+          "raw_url": "https://www.palms.com/casino/table-games/baccarat",
+          "found_time": "2024-11-17 02:15:01",
+          "status": "active"
+        },
+        {
+          "domain": "perchance.org",
+          "raw_url": "https://perchance.org/russianroulette",
+          "found_time": "2024-11-17 02:17:04",
+          "status": "active"
+        },
+        {
+          "domain": "wheeldecide.com",
+          "raw_url": "https://wheeldecide.com/wheels/comedy/russian-roullette-spinner/",
+          "found_time": "2024-11-17 02:18:06",
+          "status": "active"
+        },
+        {
+          "domain": "restaurantroulette.co",
+          "raw_url": "https://restaurantroulette.co/",
+          "found_time": "2024-11-17 02:18:06",
+          "status": "active"
+        },
+        {
+          "domain": "fortunebay.com",
+          "raw_url": "https://fortunebay.com/index.php/casino/blackjack",
+          "found_time": "2024-11-17 02:19:11",
           "status": "active"
         }
       ]
