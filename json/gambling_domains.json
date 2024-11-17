@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 05:37:05",
+  "updated": "2024-11-18 05:42:10",
   "categories": {
     "slot": {
-      "count": 5570,
+      "count": 5571,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33422,6 +33422,12 @@
           "domain": "reskriminal.com",
           "raw_url": "https://reskriminal.com/wp-includes/public/",
           "found_time": "2024-11-17 22:35:24",
+          "status": "active"
+        },
+        {
+          "domain": "joseta.faperta.unand.ac.id",
+          "raw_url": "http://joseta.faperta.unand.ac.id/hk/",
+          "found_time": "2024-11-17 22:37:05",
           "status": "active"
         }
       ]
