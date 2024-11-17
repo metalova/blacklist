@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 06:49:17
+! Last Updated: 2024-11-18 06:51:42
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5592
+! Number of unique domains: 5595
 !
 
 ||103.115.28.6^
@@ -270,6 +270,7 @@
 ||ami.uinsgd.ac.id^
 ||amirharb.com^
 ||amki.ac.id^
+||amob.kz^
 ||amorizjewelry.com^
 ||amoxicillinnrd.com^
 ||amp-jackpotgacor.pages.dev^
@@ -1304,6 +1305,7 @@
 ||digilib.stkipyasika.ac.id^
 ||digitalghatak.com^
 ||dilmil-yogyakarta.go.id^
+||dilmilti-jakarta.go.id^
 ||dim-kythn.kyk.sch.gr^
 ||dimcurrency.com^
 ||dimitriospizza.com^
@@ -3944,6 +3946,7 @@
 ||pressrelease.com^
 ||prhospitalmathura.com^
 ||pria.org^
+||pricepointeyewear.com^
 ||pricesavertickets.com^
 ||pridesband.com^
 ||priestperformancehorses.com^

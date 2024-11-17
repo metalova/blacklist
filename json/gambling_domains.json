@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 06:49:17",
+  "updated": "2024-11-18 06:51:42",
   "categories": {
     "slot": {
-      "count": 5592,
+      "count": 5595,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33554,6 +33554,24 @@
           "domain": "tallinnakaart.com",
           "raw_url": "https://www.tallinnakaart.com/wp-content/index.php?id_ID=winslot+777",
           "found_time": "2024-11-17 23:49:17",
+          "status": "active"
+        },
+        {
+          "domain": "amob.kz",
+          "raw_url": "https://amob.kz/images/meta/winslot-19055",
+          "found_time": "2024-11-17 23:49:17",
+          "status": "active"
+        },
+        {
+          "domain": "pricepointeyewear.com",
+          "raw_url": "https://www.pricepointeyewear.com/",
+          "found_time": "2024-11-17 23:51:41",
+          "status": "active"
+        },
+        {
+          "domain": "dilmilti-jakarta.go.id",
+          "raw_url": "https://dilmilti-jakarta.go.id/berita/WIN88/",
+          "found_time": "2024-11-17 23:51:42",
           "status": "active"
         }
       ]
