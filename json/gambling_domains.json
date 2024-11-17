@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:59:12",
+  "updated": "2024-11-18 02:32:15",
   "categories": {
     "slot": {
       "count": 5498,
@@ -48170,7 +48170,7 @@
       ]
     },
     "others": {
-      "count": 366,
+      "count": 367,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50366,6 +50366,12 @@
           "domain": "radarsumbar.com",
           "raw_url": "https://radarsumbar.com/berita/145286/promosi-judi-online-dua-akun-pemengaruh-diblokir-kemkomdigi-hari-ini/",
           "found_time": "2024-11-17 18:56:09",
+          "status": "active"
+        },
+        {
+          "domain": "ajnn.net",
+          "raw_url": "https://www.ajnn.net/news/polda-aceh-serahkan-selebgram-promosi-judi-online-ke-jaksa/index.html",
+          "found_time": "2024-11-17 18:59:11",
           "status": "active"
         }
       ]
