@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 07:24:10
+! Last Updated: 2024-11-17 07:28:16
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5293
+! Number of unique domains: 5296
 !
 
 ||103.115.28.6^
@@ -1423,6 +1423,7 @@
 ||edensedgemassage.com^
 ||edesaku.org^
 ||editorialdigitaltecdemonterrey.com^
+||edmedicationguide.net^
 ||edmontonrealestate.pro^
 ||egr.global^
 ||egt-digital.com^
@@ -2840,6 +2841,7 @@
 ||mahrlastore.com^
 ||mail.banjarmasinkota.go.id^
 ||maindemogratis.wordpress.com^
+||mainmulan.com^
 ||mainuno.com^
 ||mairamediterranean.com^
 ||maisconsultoria.com.br^
@@ -5101,6 +5103,7 @@
 ||wallstreetent.com^
 ||wardscottfiles.com^
 ||waringinjaya-desa.id^
+||warriorbet88.pages.dev^
 ||warta.darunnajah.ac.id^
 ||wartabromo.com^
 ||wartadesaku.com^

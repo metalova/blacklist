@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:24:10",
+  "updated": "2024-11-17 07:28:16",
   "categories": {
     "slot": {
-      "count": 5293,
+      "count": 5296,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31760,6 +31760,24 @@
           "domain": "t88.link-active.net",
           "raw_url": "https://t88.link-active.net/",
           "found_time": "2024-11-17 00:23:09",
+          "status": "active"
+        },
+        {
+          "domain": "mainmulan.com",
+          "raw_url": "https://mainmulan.com/amp-mulansakti2/",
+          "found_time": "2024-11-17 00:24:09",
+          "status": "active"
+        },
+        {
+          "domain": "edmedicationguide.net",
+          "raw_url": "https://edmedicationguide.net/",
+          "found_time": "2024-11-17 00:25:10",
+          "status": "active"
+        },
+        {
+          "domain": "warriorbet88.pages.dev",
+          "raw_url": "https://warriorbet88.pages.dev/",
+          "found_time": "2024-11-17 00:27:12",
           "status": "active"
         }
       ]
