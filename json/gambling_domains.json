@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 00:31:39",
+  "updated": "2024-11-18 01:09:50",
   "categories": {
     "slot": {
       "count": 5498,
@@ -46383,7 +46383,7 @@
       ]
     },
     "esports": {
-      "count": 289,
+      "count": 291,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -48117,6 +48117,18 @@
           "domain": "thecanadianpressnews.ca",
           "raw_url": "https://www.thecanadianpressnews.ca/globenewswire_press_releases/rivalry-to-report-third-quarter-2024-results-on-november-29/article_75a5e817-021c-5719-a94f-fb59f7f6bf43.html",
           "found_time": "2024-11-17 17:30:37",
+          "status": "active"
+        },
+        {
+          "domain": "rawsoundfilm.ca",
+          "raw_url": "https://rawsoundfilm.ca/my-slot-88/",
+          "found_time": "2024-11-17 17:31:39",
+          "status": "active"
+        },
+        {
+          "domain": "kaltenglima.com",
+          "raw_url": "https://www.kaltenglima.com/techno/35113966483/tumbangkan-hilda-dengan-3-hero-ini-bikin-tank-fighter-tak-berkutik",
+          "found_time": "2024-11-17 18:09:50",
           "status": "active"
         }
       ]
