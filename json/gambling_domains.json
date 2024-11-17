@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 23:16:21",
+  "updated": "2024-11-17 23:49:47",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 931,
+      "count": 935,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -41988,6 +41988,30 @@
           "domain": "minnehahasheriff.org",
           "raw_url": "https://www.minnehahasheriff.org/",
           "found_time": "2024-11-17 16:13:18",
+          "status": "active"
+        },
+        {
+          "domain": "anesthesiaconsultantsnj.com",
+          "raw_url": "https://anesthesiaconsultantsnj.com/",
+          "found_time": "2024-11-17 16:16:21",
+          "status": "active"
+        },
+        {
+          "domain": "ppid.ppb.ac.id",
+          "raw_url": "https://ppid.ppb.ac.id/gacor/?ABKISGOD=angka+jitu+rumus+silang+togel",
+          "found_time": "2024-11-17 16:47:42",
+          "status": "active"
+        },
+        {
+          "domain": "fazz.com",
+          "raw_url": "https://fazz.com/id/agen/",
+          "found_time": "2024-11-17 16:48:44",
+          "status": "active"
+        },
+        {
+          "domain": "situsbandartogeldana.wordpress.com",
+          "raw_url": "https://situsbandartogeldana.wordpress.com/tag/bandar-togel-online/",
+          "found_time": "2024-11-17 16:48:45",
           "status": "active"
         }
       ]
