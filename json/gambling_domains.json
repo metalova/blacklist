@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:09:50",
+  "updated": "2024-11-18 01:13:56",
   "categories": {
     "slot": {
       "count": 5498,
@@ -46383,7 +46383,7 @@
       ]
     },
     "esports": {
-      "count": 291,
+      "count": 292,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -48128,6 +48128,12 @@
         {
           "domain": "kaltenglima.com",
           "raw_url": "https://www.kaltenglima.com/techno/35113966483/tumbangkan-hilda-dengan-3-hero-ini-bikin-tank-fighter-tak-berkutik",
+          "found_time": "2024-11-17 18:09:50",
+          "status": "active"
+        },
+        {
+          "domain": "koranmandala.com",
+          "raw_url": "https://www.koranmandala.com/tekno/120979/bongkar-kode-redeem-ml-untuk-dapatkan-skin-alucard-legend-secara-gratis/",
           "found_time": "2024-11-17 18:09:50",
           "status": "active"
         }
