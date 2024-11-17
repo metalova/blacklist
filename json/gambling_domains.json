@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:44:28",
+  "updated": "2024-11-17 17:47:31",
   "categories": {
     "slot": {
-      "count": 5439,
+      "count": 5441,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32636,6 +32636,18 @@
           "domain": "maxwin138ez.vercel.app",
           "raw_url": "https://maxwin138ez.vercel.app/",
           "found_time": "2024-11-17 10:44:28",
+          "status": "active"
+        },
+        {
+          "domain": "anakwar.net",
+          "raw_url": "https://anakwar.net/amp/motor138/",
+          "found_time": "2024-11-17 10:44:28",
+          "status": "active"
+        },
+        {
+          "domain": "aspireinastale.com",
+          "raw_url": "https://aspireinastale.com/",
+          "found_time": "2024-11-17 10:45:29",
           "status": "active"
         }
       ]
