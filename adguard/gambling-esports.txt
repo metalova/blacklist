@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-18 00:22:06
+! Last Updated: 2024-11-18 00:28:34
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 284
+! Number of unique domains: 287
 !
 
 ||1001liga.pages.dev^
@@ -54,6 +54,7 @@
 ||cbssports.com^
 ||cerdasbelanja.grid.id^
 ||ciremainews.com^
+||coworkingfullerton.com^
 ||cryptsy.com^
 ||daftaresports.com^
 ||dailypost.id^
@@ -194,11 +195,13 @@
 ||otcmarkets.com^
 ||owner.polgan.ac.id^
 ||pandascore.co^
+||pelabuhantoto.online^
 ||periodontitis-treatment.com^
 ||piubet.amphtml.org^
 ||play.mobilelegends.com^
 ||playvalorant.com^
 ||plinko1win.com^
+||plywoodcowboy.com^
 ||podiumesports.com^
 ||ponislot.amphtml.org^
 ||ponlix.wordpress.com^

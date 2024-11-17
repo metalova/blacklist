@@ -1,5 +1,5 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-18 00:22:06
+! Last Updated: 2024-11-18 00:28:34
 ! Description: Automatically generated gambling domain blocklist
 ! Number of unique domains: 567
 !

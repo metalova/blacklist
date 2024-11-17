@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 00:22:06",
+  "updated": "2024-11-18 00:28:34",
   "categories": {
     "slot": {
       "count": 5498,
@@ -46383,7 +46383,7 @@
       ]
     },
     "esports": {
-      "count": 284,
+      "count": 287,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -48087,6 +48087,24 @@
           "domain": "skor.id",
           "raw_url": "https://skor.id/post/tim-esport-milik-sergio-aguero-gandeng-agen-komersial-ternama-01375823",
           "found_time": "2024-11-17 17:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "coworkingfullerton.com",
+          "raw_url": "https://coworkingfullerton.com/amp/",
+          "found_time": "2024-11-17 17:22:06",
+          "status": "active"
+        },
+        {
+          "domain": "plywoodcowboy.com",
+          "raw_url": "https://plywoodcowboy.com/",
+          "found_time": "2024-11-17 17:25:31",
+          "status": "active"
+        },
+        {
+          "domain": "pelabuhantoto.online",
+          "raw_url": "https://pelabuhantoto.online/",
+          "found_time": "2024-11-17 17:25:31",
           "status": "active"
         }
       ]
