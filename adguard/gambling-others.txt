@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-18 01:25:13
+! Last Updated: 2024-11-18 01:34:32
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 333
+! Number of unique domains: 336
 !
 
 ||a.deliserdangkab.com^
@@ -119,6 +119,7 @@
 ||infoekonomi.id^
 ||infoindonesia.id^
 ||inionline.id^
+||investasiku.id^
 ||investor.id^
 ||itjen.menlhk.go.id^
 ||izytech.com^
@@ -175,6 +176,7 @@
 ||lppl.purwakartakab.go.id^
 ||lvonline17064192239.pages.dev^
 ||m.harianjogja.com^
+||m.industry.co.id^
 ||m.kontan.co.id^
 ||magdalene.co^
 ||mahara.hu^
@@ -316,6 +318,7 @@
 ||tribratanews.metro.polri.go.id^
 ||tvrisumbar.co.id^
 ||ugm.ac.id^
+||uinjambi.ac.id^
 ||ulasan.co^
 ||umsida.ac.id^
 ||urbanfonts.com^

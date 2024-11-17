@@ -113,6 +113,7 @@ indonews.id
 infoekonomi.id
 infoindonesia.id
 inionline.id
+investasiku.id
 investor.id
 itjen.menlhk.go.id
 izytech.com
@@ -169,6 +170,7 @@ lokapalanews.com
 lppl.purwakartakab.go.id
 lvonline17064192239.pages.dev
 m.harianjogja.com
+m.industry.co.id
 m.kontan.co.id
 magdalene.co
 mahara.hu
@@ -310,6 +312,7 @@ tribratanews.jambi.polri.go.id
 tribratanews.metro.polri.go.id
 tvrisumbar.co.id
 ugm.ac.id
+uinjambi.ac.id
 ulasan.co
 umsida.ac.id
 urbanfonts.com

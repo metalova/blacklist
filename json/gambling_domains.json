@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:25:14",
+  "updated": "2024-11-18 01:34:32",
   "categories": {
     "slot": {
       "count": 5498,
@@ -48170,7 +48170,7 @@
       ]
     },
     "others": {
-      "count": 333,
+      "count": 336,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50168,6 +50168,24 @@
           "domain": "ppid.surabaya.go.id",
           "raw_url": "https://ppid.surabaya.go.id/stop-judi-online",
           "found_time": "2024-11-17 18:24:12",
+          "status": "active"
+        },
+        {
+          "domain": "uinjambi.ac.id",
+          "raw_url": "https://uinjambi.ac.id/darurat-judi-online-negara-harus-hadir/",
+          "found_time": "2024-11-17 18:25:13",
+          "status": "active"
+        },
+        {
+          "domain": "m.industry.co.id",
+          "raw_url": "https://m.industry.co.id/read/137956/promosi-judi-online-dua-akun-pemengaruh-diblokir-kemkomdigi-hari-ini",
+          "found_time": "2024-11-17 18:33:30",
+          "status": "active"
+        },
+        {
+          "domain": "investasiku.id",
+          "raw_url": "https://www.investasiku.id/eduvest/lifestyle/artis-promosi-judi-online",
+          "found_time": "2024-11-17 18:33:31",
           "status": "active"
         }
       ]
