@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 23:09:53",
+  "updated": "2024-11-17 23:13:18",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 928,
+      "count": 930,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -41970,6 +41970,18 @@
           "domain": "jp.localhost.pa-bawean.go.id",
           "raw_url": "https://jp.localhost.pa-bawean.go.id/clbk7-wap/",
           "found_time": "2024-11-17 16:08:51",
+          "status": "active"
+        },
+        {
+          "domain": "project-lotus.org",
+          "raw_url": "https://www.project-lotus.org/",
+          "found_time": "2024-11-17 16:09:52",
+          "status": "active"
+        },
+        {
+          "domain": "ladistilleriedesaintmalo.com",
+          "raw_url": "https://ladistilleriedesaintmalo.com/",
+          "found_time": "2024-11-17 16:13:17",
           "status": "active"
         }
       ]

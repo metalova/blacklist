@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 23:09:53
+! Last Updated: 2024-11-17 23:13:18
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 928
+! Number of unique domains: 930
 !
 
 ||087ina.com^
@@ -438,6 +438,7 @@
 ||lab.lumut.id^
 ||labaraquettemaisondamis.com^
 ||labuubuu.com^
+||ladistilleriedesaintmalo.com^
 ||lafre.com.sg^
 ||laluzresort.com^
 ||lampungprovrov.pages.dev^
@@ -646,6 +647,7 @@
 ||proakademia.wsnp.edu.pl^
 ||probuildersgy.com^
 ||producthunt.com^
+||project-lotus.org^
 ||prospectmotorgroup.co.id^
 ||protectnepa.org^
 ||provalenslearning.com^
