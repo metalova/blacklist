@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 13:03:49
+! Last Updated: 2024-11-17 13:09:57
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 8015
+! Number of domains: 8019
 !
 
 ! Category: SLOT
@@ -6818,6 +6818,9 @@
 ||texas5galliance.com^
 ||hostalbianco.com^
 ||graficajk.com.br^
+||jalan-pintas.xyz^
+||ppdb.smpn1pdh.sch.id^
+||sgibhopal.edu.in^
 
 ! Category: POKER
 ||goodshepherdshawnee.org^
@@ -7745,6 +7748,7 @@
 ||rez-tech.com^
 ||c200mhits.com^
 ||ahcfacilities.com^
+||bellaredsalon.com^
 
 ! Category: OTHERS
 ||ppatk.go.id^

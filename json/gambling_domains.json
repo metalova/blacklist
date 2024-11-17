@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 13:03:48",
+  "updated": "2024-11-17 13:09:57",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 910,
+      "count": 913,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40861,6 +40861,24 @@
           "raw_url": "https://www.graficajk.com.br/",
           "found_time": "2024-11-17 06:02:46",
           "status": "active"
+        },
+        {
+          "domain": "jalan-pintas.xyz",
+          "raw_url": "https://jalan-pintas.xyz/amp",
+          "found_time": "2024-11-17 06:03:48",
+          "status": "active"
+        },
+        {
+          "domain": "ppdb.smpn1pdh.sch.id",
+          "raw_url": "https://ppdb.smpn1pdh.sch.id/ame1/kondusif/?toko=BANDAR%20TOGEL%20RESMI",
+          "found_time": "2024-11-17 06:05:51",
+          "status": "active"
+        },
+        {
+          "domain": "sgibhopal.edu.in",
+          "raw_url": "https://sgibhopal.edu.in/gastogel/",
+          "found_time": "2024-11-17 06:06:52",
+          "status": "active"
         }
       ]
     },
@@ -44889,7 +44907,7 @@
       ]
     },
     "esports": {
-      "count": 252,
+      "count": 253,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -46401,6 +46419,12 @@
           "domain": "ahcfacilities.com",
           "raw_url": "https://www.ahcfacilities.com/sport/parlay/",
           "found_time": "2024-11-16 19:37:03",
+          "status": "active"
+        },
+        {
+          "domain": "bellaredsalon.com",
+          "raw_url": "https://bellaredsalon.com/",
+          "found_time": "2024-11-17 06:08:55",
           "status": "active"
         }
       ]

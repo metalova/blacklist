@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 13:03:48
+! Last Updated: 2024-11-17 13:09:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 252
+! Number of unique domains: 253
 !
 
 ||1xbet.id.uptodown.com^
@@ -24,6 +24,7 @@
 ||barquiote.com^
 ||battlegroundsmobileindia.com^
 ||beechhollowgolf.com^
+||bellaredsalon.com^
 ||beritaesports.com^
 ||bernama.com^
 ||bet365.id.uptodown.com^

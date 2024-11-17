@@ -1,5 +1,5 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 13:03:48
+! Last Updated: 2024-11-17 13:09:57
 ! Description: Automatically generated gambling domain blocklist
 ! Number of unique domains: 545
 !
