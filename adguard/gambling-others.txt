@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 14:44:05
+! Last Updated: 2024-11-17 14:48:12
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 319
+! Number of unique domains: 325
 !
 
 ||a.deliserdangkab.com^
@@ -48,6 +48,7 @@
 ||boss99-baritoselatankab-paling-gacor.pages.dev^
 ||bspjimedan.kemenperin.go.id^
 ||bukamatanews.id^
+||bvetbanjarbaru.ditjenpkh.pertanian.go.id^
 ||cantz.or.tz^
 ||casabellabb.com^
 ||cavamenzies.com^
@@ -113,6 +114,7 @@
 ||indonews.id^
 ||infoekonomi.id^
 ||infoindonesia.id^
+||inionline.id^
 ||investor.id^
 ||itjen.menlhk.go.id^
 ||izytech.com^
@@ -137,6 +139,7 @@
 ||kabarpapua.co^
 ||kalimantanpost.com^
 ||kalselpos.com^
+||kapanlagi.com^
 ||karosatuklik.com^
 ||katakini.com^
 ||kemenparekraf.go.id^
@@ -227,6 +230,7 @@
 ||pngwing.com^
 ||pojokbaca.id^
 ||polresbanjarbaru.org^
+||poltag.pages.dev^
 ||portal.akademik.trinita.ac.id^
 ||portal.sukoharjokab.go.id^
 ||portaljepe.id^
@@ -247,6 +251,7 @@
 ||radarindramayu.disway.id^
 ||radarkepahiang.bacakoran.co^
 ||radarlampung.disway.id^
+||radarmukomuko.bacakoran.co^
 ||radarutara.bacakoran.co^
 ||red-creatives.com^
 ||reksadanacommunity.com^
@@ -261,6 +266,7 @@
 ||rmolsumut.id^
 ||roth.azulik.com^
 ||rsjrw.id^
+||rspengayoman.com^
 ||ruanganinfo.com^
 ||rubicnews.com^
 ||runningguild.com^

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 14:44:05",
+  "updated": "2024-11-17 14:48:12",
   "categories": {
     "slot": {
       "count": 5363,
@@ -46580,7 +46580,7 @@
       ]
     },
     "others": {
-      "count": 319,
+      "count": 325,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -48494,6 +48494,42 @@
           "domain": "bbs.zhizhuyx.com",
           "raw_url": "http://bbs.zhizhuyx.com/?4859801",
           "found_time": "2024-11-17 07:44:05",
+          "status": "active"
+        },
+        {
+          "domain": "rspengayoman.com",
+          "raw_url": "https://rspengayoman.com/2024/07/18/himbauan-tentang-larangan-judi-online/",
+          "found_time": "2024-11-17 07:44:05",
+          "status": "active"
+        },
+        {
+          "domain": "bvetbanjarbaru.ditjenpkh.pertanian.go.id",
+          "raw_url": "https://bvetbanjarbaru.ditjenpkh.pertanian.go.id/berita-285-katakan-tidak-pada-judi-online.html",
+          "found_time": "2024-11-17 07:45:07",
+          "status": "active"
+        },
+        {
+          "domain": "inionline.id",
+          "raw_url": "https://inionline.id/2024/07/waspada-dimainkan-anak-berikut-ini-daftar-game-yang-ternyata-judi-online/",
+          "found_time": "2024-11-17 07:45:07",
+          "status": "active"
+        },
+        {
+          "domain": "poltag.pages.dev",
+          "raw_url": "https://poltag.pages.dev/188bet/",
+          "found_time": "2024-11-17 07:46:09",
+          "status": "active"
+        },
+        {
+          "domain": "radarmukomuko.bacakoran.co",
+          "raw_url": "https://radarmukomuko.bacakoran.co/listtag/8112/terkait-promosi-judi-online",
+          "found_time": "2024-11-17 07:47:11",
+          "status": "active"
+        },
+        {
+          "domain": "kapanlagi.com",
+          "raw_url": "https://www.kapanlagi.com/foto/berita-foto/indonesia/potret-artis-yang-terseret-kasus-dugaan-promosi-judi-online-ada-denny-cagur-hingga-amanda-manopo.html",
+          "found_time": "2024-11-17 07:48:12",
           "status": "active"
         }
       ]
