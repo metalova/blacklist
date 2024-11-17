@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:46:43",
+  "updated": "2024-11-17 07:54:15",
   "categories": {
     "slot": {
-      "count": 5314,
+      "count": 5320,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31886,6 +31886,42 @@
           "domain": "creative-funeral-ideas.com",
           "raw_url": "https://www.creative-funeral-ideas.com/",
           "found_time": "2024-11-17 00:45:41",
+          "status": "active"
+        },
+        {
+          "domain": "masagaamp.pages.dev",
+          "raw_url": "https://masagaamp.pages.dev/kopiko/?bmw_f30i=SITUS%20JUDI%2088",
+          "found_time": "2024-11-17 00:46:42",
+          "status": "active"
+        },
+        {
+          "domain": "millennia-institute.id",
+          "raw_url": "https://millennia-institute.id/bandarmpo/",
+          "found_time": "2024-11-17 00:51:10",
+          "status": "active"
+        },
+        {
+          "domain": "sman1tempeh.sch.id",
+          "raw_url": "https://sman1tempeh.sch.id/slinder/bandarmpo/",
+          "found_time": "2024-11-17 00:51:10",
+          "status": "active"
+        },
+        {
+          "domain": "mtsdailkhairaat.sch.id",
+          "raw_url": "https://mtsdailkhairaat.sch.id/summon/bandarmpo/",
+          "found_time": "2024-11-17 00:51:10",
+          "status": "active"
+        },
+        {
+          "domain": "alfakids.org",
+          "raw_url": "https://alfakids.org/bandar-mpo-keju88/",
+          "found_time": "2024-11-17 00:51:11",
+          "status": "active"
+        },
+        {
+          "domain": "bm-ami.id",
+          "raw_url": "https://bm-ami.id/bandarmpo/",
+          "found_time": "2024-11-17 00:51:11",
           "status": "active"
         }
       ]

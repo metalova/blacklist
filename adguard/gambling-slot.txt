@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 07:46:43
+! Last Updated: 2024-11-17 07:54:15
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5314
+! Number of unique domains: 5320
 !
 
 ||103.115.28.6^
@@ -224,6 +224,7 @@
 ||albeacon.com^
 ||albertina.academy^
 ||alexanderchristie.pages.dev^
+||alfakids.org^
 ||alfalahjkt.sch.id^
 ||algomaveterans.pages.dev^
 ||aliexpress.com^
@@ -700,6 +701,7 @@
 ||bluelotusmind.com^
 ||blvdir.com^
 ||blvdlic.com^
+||bm-ami.id^
 ||bmbk-lampung.id^
 ||bmpgtpq.com^
 ||bniexperience.bni.co.id^
@@ -2904,6 +2906,7 @@
 ||marshmallowfestival.com^
 ||marymeyer.com^
 ||masaba.id^
+||masagaamp.pages.dev^
 ||masahsplcon.com^
 ||masil-astro-imaging.com^
 ||maskinvestments.com^
@@ -3062,6 +3065,7 @@
 ||milenialindonesia.id^
 ||miliarmpoina.net^
 ||milkmansbar.com^
+||millennia-institute.id^
 ||millerjonesinc.com^
 ||millisbasketball.org^
 ||millsrivercreamery.com^
@@ -3205,6 +3209,7 @@
 ||msudenverchampions.com^
 ||mtecenergia.com^
 ||mtsalmukarromah.sch.id^
+||mtsdailkhairaat.sch.id^
 ||mtsmacintamulya.sch.id^
 ||mtsn2kotamagelang.sch.id^
 ||mtsn7kediri.sch.id^
@@ -4369,6 +4374,7 @@
 ||sman10depok.sch.id^
 ||sman12jakarta.sch.id^
 ||sman1sukodadi.sch.id^
+||sman1tempeh.sch.id^
 ||sman1trenggalek.sch.id^
 ||smapaulus.sch.id^
 ||smartbusinessbox.in^
