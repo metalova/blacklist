@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 19:53:19",
+  "updated": "2024-11-17 20:01:30",
   "categories": {
     "slot": {
-      "count": 5492,
+      "count": 5493,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32953,6 +32953,12 @@
         {
           "domain": "apktodo.net",
           "raw_url": "https://apktodo.net/3246/",
+          "found_time": "2024-11-17 12:53:19",
+          "status": "active"
+        },
+        {
+          "domain": "mu.bless.gs",
+          "raw_url": "https://mu.bless.gs/index.php?page=services&act=virtualbank",
           "found_time": "2024-11-17 12:53:19",
           "status": "active"
         }
