@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 04:24:24",
+  "updated": "2024-11-18 04:29:29",
   "categories": {
     "slot": {
-      "count": 5544,
+      "count": 5547,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33266,6 +33266,24 @@
           "domain": "jasoncollinstenor.com",
           "raw_url": "https://jasoncollinstenor.com/",
           "found_time": "2024-11-17 21:15:16",
+          "status": "active"
+        },
+        {
+          "domain": "persianasbucaramanga.com",
+          "raw_url": "https://www.persianasbucaramanga.com/",
+          "found_time": "2024-11-17 21:24:24",
+          "status": "active"
+        },
+        {
+          "domain": "vivalapeparestaurant.com",
+          "raw_url": "https://www.vivalapeparestaurant.com/",
+          "found_time": "2024-11-17 21:25:25",
+          "status": "active"
+        },
+        {
+          "domain": "tripadvisor.com.tw",
+          "raw_url": "https://www.tripadvisor.com.tw/LocationPhotoDirectLink-g294229-d6475944-i677457394-Kinokawa-Jakarta_Java.html",
+          "found_time": "2024-11-17 21:25:25",
           "status": "active"
         }
       ]
