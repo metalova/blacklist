@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 22:34:13",
+  "updated": "2024-11-17 22:39:24",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 561,
+      "count": 566,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -46012,6 +46012,36 @@
           "domain": "darylwoodhouse.com",
           "raw_url": "https://darylwoodhouse.com/",
           "found_time": "2024-11-17 15:33:11",
+          "status": "active"
+        },
+        {
+          "domain": "ivfootball.org",
+          "raw_url": "https://ivfootball.org/",
+          "found_time": "2024-11-17 15:34:13",
+          "status": "active"
+        },
+        {
+          "domain": "daftarsitussbobet.quora.com",
+          "raw_url": "https://daftarsitussbobet.quora.com/Tips-Memilih-Bandar-Bola-Online-Terpercaya",
+          "found_time": "2024-11-17 15:35:14",
+          "status": "active"
+        },
+        {
+          "domain": "nabhitsolutions.in",
+          "raw_url": "https://nabhitsolutions.in/situs-agen-maxbet-bola/",
+          "found_time": "2024-11-17 15:36:18",
+          "status": "active"
+        },
+        {
+          "domain": "andrew2022.ca",
+          "raw_url": "https://andrew2022.ca/agen-maxbet/",
+          "found_time": "2024-11-17 15:36:19",
+          "status": "active"
+        },
+        {
+          "domain": "kinhmatnami.com",
+          "raw_url": "https://kinhmatnami.com/",
+          "found_time": "2024-11-17 15:38:23",
           "status": "active"
         }
       ]

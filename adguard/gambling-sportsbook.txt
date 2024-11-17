@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 22:34:13
+! Last Updated: 2024-11-17 22:39:24
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 561
+! Number of unique domains: 566
 !
 
 ||9sarang188.com^
@@ -35,6 +35,7 @@
 ||amphola88.com^
 ||amphtml-bzq.pages.dev^
 ||ampoperabola.info^
+||andrew2022.ca^
 ||apace138mantap.com^
 ||apaituamp.com^
 ||apollo.io^
@@ -119,6 +120,7 @@
 ||cuttari.quora.com^
 ||cvbola.pages.dev^
 ||cyberthreat.id^
+||daftarsitussbobet.quora.com^
 ||dafunda.com^
 ||damirich.id^
 ||darasaletu.com^
@@ -230,6 +232,7 @@
 ||itd.imss.gob.mx^
 ||itiahaiti.org^
 ||itworks.id^
+||ivfootball.org^
 ||iwalletslotgacor.pages.dev^
 ||izinnaikmas.pages.dev^
 ||izinngacakmas.pages.dev^
@@ -257,6 +260,7 @@
 ||kemkaker.pages.dev^
 ||kesatu.co^
 ||kezkaprinting.com^
+||kinhmatnami.com^
 ||kliklegal.com^
 ||klinikrestubunda.com^
 ||koma.id^
@@ -326,6 +330,7 @@
 ||mufakatalbanna.or.id^
 ||myham.akademisi.co.id^
 ||n1info.rs^
+||nabhitsolutions.in^
 ||naumc.org^
 ||neliti.com^
 ||neosoftservices.in^
