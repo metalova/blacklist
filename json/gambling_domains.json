@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 05:33:16",
+  "updated": "2024-11-18 05:37:05",
   "categories": {
     "slot": {
-      "count": 5567,
+      "count": 5570,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33404,6 +33404,24 @@
           "domain": "wa.peradaban.ac.id",
           "raw_url": "https://wa.peradaban.ac.id/drive/?search=zona4d",
           "found_time": "2024-11-17 22:31:14",
+          "status": "active"
+        },
+        {
+          "domain": "bankslot.co",
+          "raw_url": "https://bankslot.co/JEEP4D-LINK-ALTERNATIF",
+          "found_time": "2024-11-17 22:33:15",
+          "status": "active"
+        },
+        {
+          "domain": "alzette.edu.eu",
+          "raw_url": "https://alzette.edu.eu/university/",
+          "found_time": "2024-11-17 22:35:23",
+          "status": "active"
+        },
+        {
+          "domain": "reskriminal.com",
+          "raw_url": "https://reskriminal.com/wp-includes/public/",
+          "found_time": "2024-11-17 22:35:24",
           "status": "active"
         }
       ]

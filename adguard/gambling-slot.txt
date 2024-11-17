@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 05:33:16
+! Last Updated: 2024-11-18 05:37:05
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5567
+! Number of unique domains: 5570
 !
 
 ||103.115.28.6^
@@ -256,6 +256,7 @@
 ||altahospicecare.com^
 ||alukola.cz^
 ||aluminio.siscam.com.br^
+||alzette.edu.eu^
 ||amanah.sch.id^
 ||amaracisadane.co.id^
 ||amazon.ca^
@@ -500,6 +501,7 @@
 ||bangsamakmur.click^
 ||baniarbitration.org^
 ||banjarmasinkota.com^
+||bankslot.co^
 ||banquanlynhaosinhvien.thaibinh.gov.vn^
 ||bantuan.penjalin.desa.id^
 ||bantupori.com^
@@ -4139,6 +4141,7 @@
 ||researchgate.net^
 ||reset.etsii.upm.es^
 ||resimu.net^
+||reskriminal.com^
 ||respic.zacatecas.gob.mx^
 ||restaurantdebacon.com^
 ||restaurantealbora.com^
