@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 05:14:52",
+  "updated": "2024-11-18 05:16:57",
   "categories": {
     "slot": {
-      "count": 5554,
+      "count": 5560,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33326,6 +33326,42 @@
           "domain": "home.gocloudtechnologies.com",
           "raw_url": "http://home.gocloudtechnologies.com/",
           "found_time": "2024-11-17 22:14:51",
+          "status": "active"
+        },
+        {
+          "domain": "abcnews.go.com",
+          "raw_url": "https://abcnews.go.com/Sports/wireStory/taysom-hill-runs-3-tds-saints-top-jameis-115950420",
+          "found_time": "2024-11-17 22:14:52",
+          "status": "active"
+        },
+        {
+          "domain": "cermat.co.id",
+          "raw_url": "https://www.cermat.co.id/silaturahmi-dengan-warga-halmahera-utara-penyambutan-sultan-tidore-bernuansa-adat/",
+          "found_time": "2024-11-17 22:15:55",
+          "status": "active"
+        },
+        {
+          "domain": "nuansamalut.com",
+          "raw_url": "https://www.nuansamalut.com/2024/11/15/di-halmahera-utara-sultan-husain-disambut-meriah-dengan-tarian-adat/",
+          "found_time": "2024-11-17 22:15:55",
+          "status": "active"
+        },
+        {
+          "domain": "umijapanesehouse.com",
+          "raw_url": "https://www.umijapanesehouse.com/",
+          "found_time": "2024-11-17 22:15:55",
+          "status": "active"
+        },
+        {
+          "domain": "remax.com",
+          "raw_url": "https://www.remax.com/la/baton-rouge/home-details/4000-lake-beau-pre-blvd-apt-138-baton-rouge-la-70820/1729383607547716514/M00000298/2024016823",
+          "found_time": "2024-11-17 22:15:56",
+          "status": "active"
+        },
+        {
+          "domain": "halmaheranesia.com",
+          "raw_url": "https://www.halmaheranesia.com/2024/11/17/di-halut-sultan-husain-disebut-tokoh-perdamaian-maluku-utara/",
+          "found_time": "2024-11-17 22:16:57",
           "status": "active"
         }
       ]

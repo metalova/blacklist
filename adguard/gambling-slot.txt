@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 05:14:52
+! Last Updated: 2024-11-18 05:16:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5554
+! Number of unique domains: 5560
 !
 
 ||103.115.28.6^
@@ -110,6 +110,7 @@
 ||a1gate.co.kr^
 ||aaca-wa.org^
 ||abc12.com^
+||abcnews.go.com^
 ||abdipersadafm.co.id^
 ||abgbet88win10.top^
 ||ablebeer.com^
@@ -943,6 +944,7 @@
 ||centurygames.helpshift.com^
 ||cercleareopage.org^
 ||ceria.kemkes.go.id^
+||cermat.co.id^
 ||cerseucontabilidad.unmsm.edu.pe^
 ||certjoin.com^
 ||cewriting.org^
@@ -1968,6 +1970,7 @@
 ||haleiwasurfandyoga.com^
 ||halfmoonfarm.co^
 ||halfordbar.com.au^
+||halmaheranesia.com^
 ||halopotatodonuts.com^
 ||halsbarandgrill.com^
 ||hamdanilawyer.com^
@@ -3494,6 +3497,7 @@
 ||nrsmc.edu.in^
 ||nttbersuara.com^
 ||nu.or.id^
+||nuansamalut.com^
 ||numerouspost.com^
 ||nured.uowm.gr^
 ||nusaggbromo.com^
@@ -4116,6 +4120,7 @@
 ||rekrutmen-tni.vercel.app^
 ||rekryteringstraff.arbetsformedlingen.se^
 ||remax.ca^
+||remax.com^
 ||remedyinc.org^
 ||reneeshairstyling.com^
 ||rentalmobiljogja.co.id^
@@ -5215,6 +5220,7 @@
 ||umiba-www.vercel.app^
 ||umiba.info^
 ||umigrillsushibar.com^
+||umijapanesehouse.com^
 ||umla.ac.id^
 ||ummidees.com^
 ||umnu.ac.id^
