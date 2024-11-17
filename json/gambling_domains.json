@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:44:56",
+  "updated": "2024-11-17 21:46:18",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 548,
+      "count": 551,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -45934,6 +45934,24 @@
           "domain": "ngacaklaginih.pages.dev",
           "raw_url": "https://ngacaklaginih.pages.dev/?bmw_f30i=BELAJAR%20MIX%20PARLAY",
           "found_time": "2024-11-17 14:44:55",
+          "status": "active"
+        },
+        {
+          "domain": "stkipyasika.pages.dev",
+          "raw_url": "https://stkipyasika.pages.dev/",
+          "found_time": "2024-11-17 14:44:55",
+          "status": "active"
+        },
+        {
+          "domain": "jurnalborneo.com",
+          "raw_url": "https://jurnalborneo.com/dispora-kaltim-ajak-pelaku-balap-liar-manfaatkan-kemampuan-di-ajang-resmi/",
+          "found_time": "2024-11-17 14:46:17",
+          "status": "active"
+        },
+        {
+          "domain": "situsjudibolaresmiterpercaya.com",
+          "raw_url": "https://situsjudibolaresmiterpercaya.com/bola-resmi/",
+          "found_time": "2024-11-17 14:46:17",
           "status": "active"
         }
       ]
