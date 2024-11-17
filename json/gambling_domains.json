@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 13:12:01",
+  "updated": "2024-11-17 13:18:32",
   "categories": {
     "slot": {
       "count": 5363,
@@ -44907,7 +44907,7 @@
       ]
     },
     "esports": {
-      "count": 256,
+      "count": 261,
       "domains": [
         {
           "domain": "exactitudeconsultancy.com",
@@ -46443,6 +46443,36 @@
           "domain": "wespeakon.org",
           "raw_url": "https://wespeakon.org/agen-togel-cyber-pasaran-terbesar-game-saba-esports-gelinding/",
           "found_time": "2024-11-17 06:12:01",
+          "status": "active"
+        },
+        {
+          "domain": "intenta.digital",
+          "raw_url": "https://intenta.digital/gambling/esports-betting/",
+          "found_time": "2024-11-17 06:12:01",
+          "status": "active"
+        },
+        {
+          "domain": "toptrenta.com",
+          "raw_url": "https://toptrenta.com/amp/mobile-legends/",
+          "found_time": "2024-11-17 06:15:06",
+          "status": "active"
+        },
+        {
+          "domain": "lankatalks-id.pages.dev",
+          "raw_url": "https://lankatalks-id.pages.dev/JUDI%20ESPORTS%20ONLINE",
+          "found_time": "2024-11-17 06:18:30",
+          "status": "active"
+        },
+        {
+          "domain": "ponislot.amphtml.org",
+          "raw_url": "https://ponislot.amphtml.org/",
+          "found_time": "2024-11-17 06:18:31",
+          "status": "active"
+        },
+        {
+          "domain": "amp-bosjp.firebaseapp.com",
+          "raw_url": "https://amp-bosjp.firebaseapp.com/",
+          "found_time": "2024-11-17 06:18:31",
           "status": "active"
         }
       ]
