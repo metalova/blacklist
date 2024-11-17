@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 17:28:50
+! Last Updated: 2024-11-17 17:34:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5415
+! Number of unique domains: 5421
 !
 
 ||103.115.28.6^
@@ -281,6 +281,7 @@
 ||amparmyslot.com^
 ||ampboztazir.it.com^
 ||ampdagwoodsvb.com^
+||ampdeposlot88.com^
 ||ampdewacukong88.com^
 ||ampfiftoto.com^
 ||amplineslot88.pages.dev^
@@ -1503,6 +1504,7 @@
 ||elliottstreet.com^
 ||elprofesionaldelainformacion.com^
 ||elpueblopresidente.com^
+||elpueblopresidente.pages.dev^
 ||elraspinell.com^
 ||eltast.net^
 ||eman-rese.ca^
@@ -3662,6 +3664,7 @@
 ||pewarta.org^
 ||pfipartners.org^
 ||pgplay24.io^
+||pgslot88rtp.com^
 ||pgsoft.com^
 ||pgsoftgames.com^
 ||pgsoftslot.com^
@@ -4152,6 +4155,7 @@
 ||ruitoqueparkhouse.co^
 ||rujuklagi.pages.dev^
 ||ruktisedyo-desa.id^
+||rumahlistrik.com^
 ||rumahmpoapp.com^
 ||rumahmpoweb.com^
 ||rumahpusbin.kemdikbud.go.id^
@@ -4621,6 +4625,7 @@
 ||strasburgfilm.com^
 ||straw-spreading-machines.com^
 ||streetinsider.com^
+||streetsblog.pages.dev^
 ||striketips.com^
 ||strivemental.com^
 ||stroke2023.org^
@@ -4633,6 +4638,7 @@
 ||su-journal.com^
 ||suarasurabaya.net^
 ||suarausu.or.id^
+||suaspress.pages.dev^
 ||subito.it^
 ||suburbiajournal.com^
 ||suelos.org.mx^

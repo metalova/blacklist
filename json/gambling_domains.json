@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:28:50",
+  "updated": "2024-11-17 17:34:59",
   "categories": {
     "slot": {
-      "count": 5415,
+      "count": 5421,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32492,6 +32492,42 @@
           "domain": "cityoflakebutler.org",
           "raw_url": "https://cityoflakebutler.org/slots",
           "found_time": "2024-11-17 10:27:48",
+          "status": "active"
+        },
+        {
+          "domain": "streetsblog.pages.dev",
+          "raw_url": "https://streetsblog.pages.dev/",
+          "found_time": "2024-11-17 10:28:49",
+          "status": "active"
+        },
+        {
+          "domain": "rumahlistrik.com",
+          "raw_url": "https://rumahlistrik.com/",
+          "found_time": "2024-11-17 10:31:53",
+          "status": "active"
+        },
+        {
+          "domain": "elpueblopresidente.pages.dev",
+          "raw_url": "https://elpueblopresidente.pages.dev/",
+          "found_time": "2024-11-17 10:32:55",
+          "status": "active"
+        },
+        {
+          "domain": "suaspress.pages.dev",
+          "raw_url": "https://suaspress.pages.dev/",
+          "found_time": "2024-11-17 10:32:55",
+          "status": "active"
+        },
+        {
+          "domain": "ampdeposlot88.com",
+          "raw_url": "https://ampdeposlot88.com/amp/",
+          "found_time": "2024-11-17 10:32:56",
+          "status": "active"
+        },
+        {
+          "domain": "pgslot88rtp.com",
+          "raw_url": "https://pgslot88rtp.com/amp/",
+          "found_time": "2024-11-17 10:33:57",
           "status": "active"
         }
       ]
