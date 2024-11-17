@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 23:49:47
+! Last Updated: 2024-11-17 23:54:56
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 935
+! Number of unique domains: 938
 !
 
 ||087ina.com^
@@ -390,6 +390,7 @@
 ||jalan-pintas.xyz^
 ||jamaicanfoodsouthdaytona.com^
 ||jamestowndds.com^
+||jamintotoo.pages.dev^
 ||janville-sur-juine.fr^
 ||japos.co^
 ||jawaharlalcolleges.com^
@@ -588,6 +589,7 @@
 ||oswegobeatsandeats.com^
 ||ovo.bumipersada.ac.id^
 ||oxyglow.id^
+||pa-mamuju.go.id^
 ||pa-martapuraokut.go.id^
 ||pactodeproductividad.com^
 ||pahgncb.com^
@@ -609,6 +611,7 @@
 ||pennstateupac.org^
 ||performancebasedfinancing.org^
 ||petircuan-88.web.app^
+||pfipartners1.pages.dev^
 ||pgp4d.co^
 ||pgrisitubondo.id^
 ||phantomthailand.com^

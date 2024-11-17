@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 23:49:47",
+  "updated": "2024-11-17 23:54:56",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 935,
+      "count": 938,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -42012,6 +42012,24 @@
           "domain": "situsbandartogeldana.wordpress.com",
           "raw_url": "https://situsbandartogeldana.wordpress.com/tag/bandar-togel-online/",
           "found_time": "2024-11-17 16:48:45",
+          "status": "active"
+        },
+        {
+          "domain": "pa-mamuju.go.id",
+          "raw_url": "https://pa-mamuju.go.id/index.php/index.php?option=com_content&view=article&id=79&Itemid=144",
+          "found_time": "2024-11-17 16:49:47",
+          "status": "active"
+        },
+        {
+          "domain": "pfipartners1.pages.dev",
+          "raw_url": "https://pfipartners1.pages.dev/",
+          "found_time": "2024-11-17 16:52:53",
+          "status": "active"
+        },
+        {
+          "domain": "jamintotoo.pages.dev",
+          "raw_url": "https://jamintotoo.pages.dev/",
+          "found_time": "2024-11-17 16:52:53",
           "status": "active"
         }
       ]
