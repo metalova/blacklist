@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 12:13:49
+! Last Updated: 2024-11-17 12:18:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 888
+! Number of unique domains: 893
 !
 
 ||087ina.com^
@@ -318,6 +318,7 @@
 ||gunesgozlugu.com^
 ||gvscolombia.com^
 ||gwenchanna.com^
+||gwopa.org^
 ||hackerrank.com^
 ||halosekolah.id^
 ||handalonline.com^
@@ -689,6 +690,7 @@
 ||sage-tx.com^
 ||sakip.kedirikota.go.id^
 ||saku.bpkad.mesujikab.go.id^
+||sakutotobox.com^
 ||salemharvestfest.com^
 ||sandramilesdentistry.com^
 ||sansparti.org^
@@ -727,6 +729,7 @@
 ||sindikatpost.com^
 ||sinpo.id^
 ||sinreladokkesgto.id^
+||sipinter.uinjambi.ac.id^
 ||sipnap.kemkes.go.id^
 ||sipp.pn-sukamakmue.go.id^
 ||sjm.anubih.ba^
@@ -759,6 +762,7 @@
 ||sscmt.org^
 ||stag.self-point.com^
 ||stage32.com^
+||staisman.ac.id^
 ||stanleypean.com^
 ||startupconclave2023.com^
 ||steeringwheel.com.pk^
@@ -785,6 +789,7 @@
 ||tgl123.com^
 ||thatsthenorm.com^
 ||theenamelproject.com^
+||thegocf.org^
 ||thehomehandymanbc.ca^
 ||theknot.com^
 ||thelakesidesuite.co.uk^

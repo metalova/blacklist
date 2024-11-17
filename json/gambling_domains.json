@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 12:13:49",
+  "updated": "2024-11-17 12:18:59",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 888,
+      "count": 893,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40728,6 +40728,36 @@
           "domain": "krsspicyfood.com",
           "raw_url": "https://krsspicyfood.com/",
           "found_time": "2024-11-17 05:12:48",
+          "status": "active"
+        },
+        {
+          "domain": "gwopa.org",
+          "raw_url": "https://gwopa.org/what-we-do/projects/",
+          "found_time": "2024-11-17 05:13:49",
+          "status": "active"
+        },
+        {
+          "domain": "thegocf.org",
+          "raw_url": "https://thegocf.org/amp/",
+          "found_time": "2024-11-17 05:15:54",
+          "status": "active"
+        },
+        {
+          "domain": "sipinter.uinjambi.ac.id",
+          "raw_url": "https://sipinter.uinjambi.ac.id/bloon/",
+          "found_time": "2024-11-17 05:15:54",
+          "status": "active"
+        },
+        {
+          "domain": "staisman.ac.id",
+          "raw_url": "https://staisman.ac.id/",
+          "found_time": "2024-11-17 05:16:56",
+          "status": "active"
+        },
+        {
+          "domain": "sakutotobox.com",
+          "raw_url": "https://sakutotobox.com/",
+          "found_time": "2024-11-17 05:18:58",
           "status": "active"
         }
       ]
