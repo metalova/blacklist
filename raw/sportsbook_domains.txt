@@ -129,6 +129,7 @@ decathlon.co.id
 dempelrejo-ngampel.desa.id
 desa-kaliputu.kuduskab.go.id
 desafiocreativo.com
+dessertstreetcafe.ca
 devpost.com
 digilib.ptiq.ac.id
 digilib.unila.ac.id
@@ -257,6 +258,7 @@ katantt.com
 kayabola6.pages.dev
 keepcorporate.com
 kemkaker.pages.dev
+kerrobertbakery.com
 kesatu.co
 kezkaprinting.com
 kinhmatnami.com
@@ -324,6 +326,7 @@ mnctrijaya.com
 monitoring-siasn.bkn.go.id
 morehere.org
 morningdough.com
+mrdiy.com
 msoundersfc.pages.dev
 mspbaseball.com
 mtsn3ende.sch.id

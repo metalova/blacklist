@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 22:47:43",
+  "updated": "2024-11-17 22:52:55",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 577,
+      "count": 580,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -46108,6 +46108,24 @@
           "domain": "bkn.go.id",
           "raw_url": "https://www.bkn.go.id/",
           "found_time": "2024-11-17 15:47:43",
+          "status": "active"
+        },
+        {
+          "domain": "mrdiy.com",
+          "raw_url": "https://www.mrdiy.com/id/",
+          "found_time": "2024-11-17 15:47:43",
+          "status": "active"
+        },
+        {
+          "domain": "dessertstreetcafe.ca",
+          "raw_url": "https://dessertstreetcafe.ca/agen-vegas338/",
+          "found_time": "2024-11-17 15:52:54",
+          "status": "active"
+        },
+        {
+          "domain": "kerrobertbakery.com",
+          "raw_url": "https://kerrobertbakery.com/",
+          "found_time": "2024-11-17 15:52:54",
           "status": "active"
         }
       ]
