@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 21:07:31
+! Last Updated: 2024-11-17 21:12:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 548
+! Number of unique domains: 549
 !
 
 ||24liveblog.com^
@@ -533,6 +533,7 @@
 ||vipchartercoaches.com^
 ||vipgamblingtours.com^
 ||virginvoyages.com^
+||visionfoundationofindia.org^
 ||visithowardcounty.com^
 ||visitmaryland.org^
 ||visitmississippi.org^

@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:07:31",
+  "updated": "2024-11-17 21:12:38",
   "categories": {
     "slot": {
       "count": 5498,
@@ -32995,7 +32995,7 @@
       ]
     },
     "casino": {
-      "count": 548,
+      "count": 549,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -36283,6 +36283,12 @@
           "domain": "ktm303.smansabumiayu.sch.id",
           "raw_url": "https://ktm303.smansabumiayu.sch.id/",
           "found_time": "2024-11-17 13:31:23",
+          "status": "active"
+        },
+        {
+          "domain": "visionfoundationofindia.org",
+          "raw_url": "https://www.visionfoundationofindia.org/Advertising20241116bet%20rummy%20circle%20kaise%20khele.phtml",
+          "found_time": "2024-11-17 14:07:31",
           "status": "active"
         }
       ]
