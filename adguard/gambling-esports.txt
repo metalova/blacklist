@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - ESPORTS
-! Last Updated: 2024-11-17 13:24:43
+! Last Updated: 2024-11-17 13:29:52
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 267
+! Number of unique domains: 271
 !
 
 ||1001liga.pages.dev^
@@ -28,6 +28,7 @@
 ||battlegroundsmobileindia.com^
 ||beechhollowgolf.com^
 ||bellaredsalon.com^
+||benteng786hope.com^
 ||beritaesports.com^
 ||bernama.com^
 ||bet365.id.uptodown.com^
@@ -181,6 +182,7 @@
 ||okinews.disway.id^
 ||oneesports.id^
 ||otcmarkets.com^
+||owner.polgan.ac.id^
 ||pandascore.co^
 ||periodontitis-treatment.com^
 ||piubet.amphtml.org^
@@ -207,8 +209,10 @@
 ||repository.uinsi.ac.id^
 ||repository.uir.ac.id^
 ||responsiblegambling.vic.gov.au^
+||resultnew.jabincollege.com^
 ||rez-tech.com^
 ||rodamaxwin.com^
+||ruangmania.com^
 ||sabplay.com^
 ||sactr.com^
 ||sakti55-sip.pages.dev^
