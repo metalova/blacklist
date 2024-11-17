@@ -78,6 +78,7 @@ forums.autodesk.com
 froken.com.ar
 geraifastpay.co.id
 gizmologi.id
+gmrairports.com
 gorajuara.com
 graduate.binus.ac.id
 guetilang.com
@@ -131,6 +132,7 @@ keuangan.kontan.co.id
 klikbantuan.com
 komdigi.go.id
 komparatif.id
+korankota.com
 korantimor.com
 kpdsabah.com
 krazy4drivingschool.ca
@@ -236,12 +238,14 @@ resbanjarbaru.kalsel.polri.go.id
 review-unes.com
 reviewaspg.com
 ricksbarandgrill.com
+rmoljabar.id
 rmolsumut.id
 roth.azulik.com
 rsjrw.id
 ruanganinfo.com
 runningguild.com
 sawitku.id
+securitynews.co.id
 selingkarwilis.com
 selular.id
 setneg.go.id
@@ -269,6 +273,7 @@ thebestsryxxx.com
 theedadvocate.org
 timesindonesia.co.id
 topdewi365bos.com
+tozan.org
 transformingcenter.org
 transifex.com
 transparannews.id
@@ -280,6 +285,7 @@ ulasan.co
 umsida.ac.id
 urbanfonts.com
 uzone.id
+validnews.id
 viar1.pages.dev
 victorynews.id
 video.medcom.id

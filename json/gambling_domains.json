@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 14:23:33",
+  "updated": "2024-11-17 14:29:44",
   "categories": {
     "slot": {
       "count": 5363,
@@ -46580,7 +46580,7 @@
       ]
     },
     "others": {
-      "count": 297,
+      "count": 303,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -48362,6 +48362,42 @@
           "domain": "supertechgurgaon.com",
           "raw_url": "https://www.supertechgurgaon.com/amp/",
           "found_time": "2024-11-17 07:19:29",
+          "status": "active"
+        },
+        {
+          "domain": "tozan.org",
+          "raw_url": "https://tozan.org/",
+          "found_time": "2024-11-17 07:23:33",
+          "status": "active"
+        },
+        {
+          "domain": "gmrairports.com",
+          "raw_url": "https://www.gmrairports.com/",
+          "found_time": "2024-11-17 07:25:36",
+          "status": "active"
+        },
+        {
+          "domain": "korankota.com",
+          "raw_url": "https://www.korankota.com/v151/t502/82258/diduga-video-denny-cagur-promosi-judi-online-viral-di-medsos",
+          "found_time": "2024-11-17 07:26:38",
+          "status": "active"
+        },
+        {
+          "domain": "securitynews.co.id",
+          "raw_url": "https://securitynews.co.id/raup-untung-15-30-juta-sepekan-sindikat-judi-online-baccarat-digerebek-polisi/",
+          "found_time": "2024-11-17 07:27:40",
+          "status": "active"
+        },
+        {
+          "domain": "rmoljabar.id",
+          "raw_url": "https://www.rmoljabar.id/bahayakan-bonus-demografi-pemerintah-harus-serius-berantas-judi-online",
+          "found_time": "2024-11-17 07:28:42",
+          "status": "active"
+        },
+        {
+          "domain": "validnews.id",
+          "raw_url": "https://validnews.id/nasional/mpr-bonus-demografi-jadi-target-pasar-judi-online-dan-narkoba",
+          "found_time": "2024-11-17 07:28:42",
           "status": "active"
         }
       ]

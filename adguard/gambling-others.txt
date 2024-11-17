@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 14:23:33
+! Last Updated: 2024-11-17 14:29:44
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 297
+! Number of unique domains: 303
 !
 
 ||abatanews.com^
@@ -84,6 +84,7 @@
 ||froken.com.ar^
 ||geraifastpay.co.id^
 ||gizmologi.id^
+||gmrairports.com^
 ||gorajuara.com^
 ||graduate.binus.ac.id^
 ||guetilang.com^
@@ -137,6 +138,7 @@
 ||klikbantuan.com^
 ||komdigi.go.id^
 ||komparatif.id^
+||korankota.com^
 ||korantimor.com^
 ||kpdsabah.com^
 ||krazy4drivingschool.ca^
@@ -242,12 +244,14 @@
 ||review-unes.com^
 ||reviewaspg.com^
 ||ricksbarandgrill.com^
+||rmoljabar.id^
 ||rmolsumut.id^
 ||roth.azulik.com^
 ||rsjrw.id^
 ||ruanganinfo.com^
 ||runningguild.com^
 ||sawitku.id^
+||securitynews.co.id^
 ||selingkarwilis.com^
 ||selular.id^
 ||setneg.go.id^
@@ -275,6 +279,7 @@
 ||theedadvocate.org^
 ||timesindonesia.co.id^
 ||topdewi365bos.com^
+||tozan.org^
 ||transformingcenter.org^
 ||transifex.com^
 ||transparannews.id^
@@ -286,6 +291,7 @@
 ||umsida.ac.id^
 ||urbanfonts.com^
 ||uzone.id^
+||validnews.id^
 ||viar1.pages.dev^
 ||victorynews.id^
 ||video.medcom.id^
