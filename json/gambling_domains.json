@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 22:58:25",
+  "updated": "2024-11-17 23:02:37",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 916,
+      "count": 922,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -41898,6 +41898,42 @@
           "domain": "benuanews.com",
           "raw_url": "https://benuanews.com/diduga-bermain-judi-togel-online-seorang-pria-di-mataram-ditangkap-polisi/",
           "found_time": "2024-11-17 15:58:24",
+          "status": "active"
+        },
+        {
+          "domain": "conferenceproceedings.ump.ac.id",
+          "raw_url": "https://conferenceproceedings.ump.ac.id/pssh/article/view/1161",
+          "found_time": "2024-11-17 15:58:24",
+          "status": "active"
+        },
+        {
+          "domain": "uzmanhk.com",
+          "raw_url": "https://www.uzmanhk.com/",
+          "found_time": "2024-11-17 16:00:31",
+          "status": "active"
+        },
+        {
+          "domain": "smartbisby.kemenperin.go.id",
+          "raw_url": "https://smartbisby.kemenperin.go.id/foto_user/sgppools/",
+          "found_time": "2024-11-17 16:01:33",
+          "status": "active"
+        },
+        {
+          "domain": "dosen.itbriau.ac.id",
+          "raw_url": "https://www.dosen.itbriau.ac.id/DATA-TOGEL-HONGKONG-2402/",
+          "found_time": "2024-11-17 16:01:34",
+          "status": "active"
+        },
+        {
+          "domain": "roberthunterent.com",
+          "raw_url": "https://roberthunterent.com/",
+          "found_time": "2024-11-17 16:01:34",
+          "status": "active"
+        },
+        {
+          "domain": "aronwright.com",
+          "raw_url": "https://www.aronwright.com/",
+          "found_time": "2024-11-17 16:01:34",
           "status": "active"
         }
       ]

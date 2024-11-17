@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 22:58:25
+! Last Updated: 2024-11-17 23:02:37
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 916
+! Number of unique domains: 922
 !
 
 ||087ina.com^
@@ -51,6 +51,7 @@
 ||ap3kni.or.id^
 ||apgicl.com^
 ||arenatogel.com^
+||aronwright.com^
 ||arpegediamonds.com^
 ||arraialresort.com.br^
 ||artfolioannual.com^
@@ -164,6 +165,7 @@
 ||compound13.org^
 ||conference.eka-prasetya.ac.id^
 ||conferencecallstomeatballs.com^
+||conferenceproceedings.ump.ac.id^
 ||contigosinfronteras.org^
 ||corinne-demarest-lepretre.fr^
 ||cosmimilano.com^
@@ -210,6 +212,7 @@
 ||dlibrary.kebunbuku-smanusa.info:8123^
 ||dma-arch.com^
 ||dorpsbelang.eu^
+||dosen.itbriau.ac.id^
 ||douglashigh.com^
 ||dpmptsp.tanatorajakab.go.id^
 ||dprint.id^
@@ -689,6 +692,7 @@
 ||riungburger.id^
 ||rmoljawatengah.id^
 ||rmolsumsel.id^
+||roberthunterent.com^
 ||rockinghamcountymiddle.org^
 ||rotibengkak.com^
 ||rsdbagaswaras.id^
@@ -754,6 +758,7 @@
 ||slides.com^
 ||smallcakesofsurprise.com^
 ||sman1salatiga.sch.id^
+||smartbisby.kemenperin.go.id^
 ||smkitbaitunnur.sch.id^
 ||smksyanuristonjong.com^
 ||smp-muhammadiyah1-smg.sch.id^
@@ -871,6 +876,7 @@
 ||updateikn.com^
 ||uptownavenue7.com^
 ||uscompounding.com^
+||uzmanhk.com^
 ||valormmanyc.com^
 ||vegantouchfoods.com^
 ||vermellagrandwisata.co.id^
