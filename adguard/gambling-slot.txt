@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 17:18:36
+! Last Updated: 2024-11-17 17:24:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5408
+! Number of unique domains: 5410
 !
 
 ||103.115.28.6^
@@ -1795,6 +1795,7 @@
 ||ggitalia.com^
 ||ghanaguardian.com^
 ||ghhandyman.com^
+||ghostlorestudios.com^
 ||ghousiagroup.com^
 ||gicm.org^
 ||gifyu.com^
@@ -1912,6 +1913,7 @@
 ||hackmd.io^
 ||hacksaw.info^
 ||hadiah138apk.com^
+||haendle.com^
 ||hahahihihuhu.my.id^
 ||hahnextremefitness.com^
 ||haka.by^

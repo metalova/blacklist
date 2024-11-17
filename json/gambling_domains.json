@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:18:36",
+  "updated": "2024-11-17 17:24:43",
   "categories": {
     "slot": {
-      "count": 5408,
+      "count": 5410,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32450,6 +32450,18 @@
           "domain": "pasiremas.desa.id",
           "raw_url": "https://www.pasiremas.desa.id/",
           "found_time": "2024-11-17 10:17:35",
+          "status": "active"
+        },
+        {
+          "domain": "ghostlorestudios.com",
+          "raw_url": "https://ghostlorestudios.com/",
+          "found_time": "2024-11-17 10:18:36",
+          "status": "active"
+        },
+        {
+          "domain": "haendle.com",
+          "raw_url": "https://www.haendle.com/",
+          "found_time": "2024-11-17 10:22:40",
           "status": "active"
         }
       ]
