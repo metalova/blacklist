@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 12:04:53",
+  "updated": "2024-11-17 12:06:15",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 883,
+      "count": 885,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40698,6 +40698,18 @@
           "domain": "jurnal2.untagsmg.ac.id",
           "raw_url": "https://jurnal2.untagsmg.ac.id/admin/index.php?aculgg=kawan+togel+sdy",
           "found_time": "2024-11-17 05:04:52",
+          "status": "active"
+        },
+        {
+          "domain": "lovetbk.com",
+          "raw_url": "https://www.lovetbk.com/",
+          "found_time": "2024-11-17 05:04:52",
+          "status": "active"
+        },
+        {
+          "domain": "tnesa.com",
+          "raw_url": "https://www.tnesa.com/",
+          "found_time": "2024-11-17 05:06:14",
           "status": "active"
         }
       ]
