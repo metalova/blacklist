@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 18:49:59
+! Last Updated: 2024-11-17 18:53:06
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5456
+! Number of unique domains: 5460
 !
 
 ||103.115.28.6^
@@ -1992,6 +1992,7 @@
 ||hepsiburada.com^
 ||heritagefoodanddrink.com^
 ||herramientasrenzomilani.com^
+||hexagonkh9.com^
 ||heylink.me^
 ||heyo.at^
 ||hhassistancellc.com^
@@ -3146,6 +3147,7 @@
 ||michiganlottery.com^
 ||michirlearning.org^
 ||mickeysoasis.com^
+||microesports.web.id^
 ||micultura.gob.pa^
 ||midmodandmore.com^
 ||midor.co^
@@ -3732,6 +3734,7 @@
 ||pinkrabbitlens.id^
 ||pinospizzerialawrenceville.com^
 ||pinossicilianpizzeria.com^
+||pintoe.co^
 ||pintoresprofesionalescancun.com^
 ||pintu.co.id^
 ||pintureriassanandres.com^
@@ -4192,6 +4195,7 @@
 ||rumkitsiantar.com^
 ||rusrb.org.rs^
 ||russellstreetreport.com^
+||rutanjogja.org^
 ||rutherglenltc.com^
 ||rvl168.org^
 ||rwaqalkotob.com^
