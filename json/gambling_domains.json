@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 11:39:25",
+  "updated": "2024-11-17 11:43:38",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 538,
+      "count": 543,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44494,6 +44494,36 @@
           "domain": "desa-kaliputu.kuduskab.go.id",
           "raw_url": "https://desa-kaliputu.kuduskab.go.id/?data=agen-bola-liga-jepang",
           "found_time": "2024-11-17 04:36:21",
+          "status": "active"
+        },
+        {
+          "domain": "parlay.iism.or.id",
+          "raw_url": "https://parlay.iism.or.id/",
+          "found_time": "2024-11-17 04:39:25",
+          "status": "active"
+        },
+        {
+          "domain": "sushiconilsakana.com",
+          "raw_url": "https://sushiconilsakana.com/",
+          "found_time": "2024-11-17 04:41:27",
+          "status": "active"
+        },
+        {
+          "domain": "situsbolaslotonline.quora.com",
+          "raw_url": "https://situsbolaslotonline.quora.com/Bandar-Bola-Resmi-Taruhan-Judi-Bola-Mix-Parlay-Terbaik-https-qr-ae-p2k1kn-Visibet88-situs-taruhan-bola-resmi-h",
+          "found_time": "2024-11-17 04:43:37",
+          "status": "active"
+        },
+        {
+          "domain": "stagehakuvodka.suntory.com",
+          "raw_url": "https://stagehakuvodka.suntory.com/",
+          "found_time": "2024-11-17 04:43:37",
+          "status": "active"
+        },
+        {
+          "domain": "chereads.com",
+          "raw_url": "https://www.chereads.com/chapterlist/24709223406819105",
+          "found_time": "2024-11-17 04:43:37",
           "status": "active"
         }
       ]

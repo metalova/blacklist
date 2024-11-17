@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-17 11:39:25
+! Last Updated: 2024-11-17 11:43:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 538
+! Number of unique domains: 543
 !
 
 ||9sarang188.com^
@@ -95,6 +95,7 @@
 ||cbt.smk-ypc.sch.id^
 ||cegs.dfci.harvard.edu^
 ||chatsports.com^
+||chereads.com^
 ||ciamiskabwede.pages.dev^
 ||cincoquinas.net^
 ||citydeliva.com^
@@ -352,6 +353,7 @@
 ||parganz.pages.dev^
 ||parisgame.bola1.net^
 ||park328.com^
+||parlay.iism.or.id^
 ||parlay855bet.pages.dev^
 ||parlaybola.org^
 ||parlaycsbola.com^
@@ -450,6 +452,7 @@
 ||sipengolahlimbahb3.sulselprov.go.id^
 ||sipp.pn-meureudu.go.id^
 ||sitam.ekon.go.id^
+||situsbolaslotonline.quora.com^
 ||situsbolaterpercaya.quora.com^
 ||skripsi.undana.ac.id^
 ||slbnaciteureupcimahi.sch.id^
@@ -477,12 +480,14 @@
 ||sportcorner.id^
 ||sportsauxpuceslevis.com^
 ||stadion.uz^
+||stagehakuvodka.suntory.com^
 ||staging.arbusa.com^
 ||stisnq.ac.id^
 ||stroomlijnadvies.nl^
 ||sttpresbyterian.ac.id^
 ||sumberkini.my^
 ||superball.bolasport.com^
+||sushiconilsakana.com^
 ||tacomp.cloud^
 ||tamanramadenpasar.sch.id^
 ||tanjuangalai.solokkab.go.id^
