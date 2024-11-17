@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-17 14:33:50
+! Last Updated: 2024-11-17 14:37:56
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 308
+! Number of unique domains: 313
 !
 
 ||a.deliserdangkab.com^
@@ -136,6 +136,7 @@
 ||kalselpos.com^
 ||karosatuklik.com^
 ||katakini.com^
+||kemenparekraf.go.id^
 ||kepaniteraan.mahkamahagung.go.id^
 ||keuangan.kontan.co.id^
 ||klikbantuan.com^
@@ -217,6 +218,7 @@
 ||permatabank.com^
 ||pervasivedatarush.com^
 ||pipsm.com^
+||pks.id^
 ||pmb.poltekkeshermina.ac.id^
 ||pngwing.com^
 ||pojokbaca.id^
@@ -241,6 +243,8 @@
 ||radarkepahiang.bacakoran.co^
 ||radarlampung.disway.id^
 ||radarutara.bacakoran.co^
+||red-creatives.com^
+||reksadanacommunity.com^
 ||repository.upbatam.ac.id^
 ||republika.id^
 ||resbanjarbaru.kalsel.polri.go.id^
@@ -262,6 +266,7 @@
 ||setneg.go.id^
 ||setwan.jogjakota.go.id^
 ||sfcv.org^
+||soasik.bpsaceh.com^
 ||southloopcampusministry.org^
 ||srisakthirolling.com^
 ||suaradewata.com^

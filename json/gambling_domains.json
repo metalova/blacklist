@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 14:33:50",
+  "updated": "2024-11-17 14:37:56",
   "categories": {
     "slot": {
       "count": 5363,
@@ -46580,7 +46580,7 @@
       ]
     },
     "others": {
-      "count": 308,
+      "count": 313,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -48428,6 +48428,36 @@
           "domain": "a.deliserdangkab.com",
           "raw_url": "https://a.deliserdangkab.com/2024/tnl/news/?satu=JUDI-BOLA",
           "found_time": "2024-11-17 07:32:48",
+          "status": "active"
+        },
+        {
+          "domain": "red-creatives.com",
+          "raw_url": "https://red-creatives.com/cara-mengatasi-website-yang-redirect-ke-situs-judi-online/",
+          "found_time": "2024-11-17 07:33:49",
+          "status": "active"
+        },
+        {
+          "domain": "kemenparekraf.go.id",
+          "raw_url": "https://kemenparekraf.go.id/berita/siaran-pers-menekraf-ajak-santri-ikut-sebarkan-informasi-bahaya-judi-online-melalui-konten-digital",
+          "found_time": "2024-11-17 07:35:51",
+          "status": "active"
+        },
+        {
+          "domain": "pks.id",
+          "raw_url": "https://pks.id/content/indonesia-darurat-judi-online-begini-tanggapan-wakil-ketua-dprd-jateng",
+          "found_time": "2024-11-17 07:36:53",
+          "status": "active"
+        },
+        {
+          "domain": "soasik.bpsaceh.com",
+          "raw_url": "https://soasik.bpsaceh.com/data/?asik=judi+pakai+gopay",
+          "found_time": "2024-11-17 07:37:55",
+          "status": "active"
+        },
+        {
+          "domain": "reksadanacommunity.com",
+          "raw_url": "https://reksadanacommunity.com/judi-online-adalah-maut-mending-investasi-reksa-dana/",
+          "found_time": "2024-11-17 07:37:56",
           "status": "active"
         }
       ]

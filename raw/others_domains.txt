@@ -130,6 +130,7 @@ kalimantanpost.com
 kalselpos.com
 karosatuklik.com
 katakini.com
+kemenparekraf.go.id
 kepaniteraan.mahkamahagung.go.id
 keuangan.kontan.co.id
 klikbantuan.com
@@ -211,6 +212,7 @@ people-qa.int.sap
 permatabank.com
 pervasivedatarush.com
 pipsm.com
+pks.id
 pmb.poltekkeshermina.ac.id
 pngwing.com
 pojokbaca.id
@@ -235,6 +237,8 @@ radarindramayu.disway.id
 radarkepahiang.bacakoran.co
 radarlampung.disway.id
 radarutara.bacakoran.co
+red-creatives.com
+reksadanacommunity.com
 repository.upbatam.ac.id
 republika.id
 resbanjarbaru.kalsel.polri.go.id
@@ -256,6 +260,7 @@ selular.id
 setneg.go.id
 setwan.jogjakota.go.id
 sfcv.org
+soasik.bpsaceh.com
 southloopcampusministry.org
 srisakthirolling.com
 suaradewata.com
