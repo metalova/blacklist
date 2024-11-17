@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 14:19:29",
+  "updated": "2024-11-17 14:23:33",
   "categories": {
     "slot": {
       "count": 5363,
@@ -46580,7 +46580,7 @@
       ]
     },
     "others": {
-      "count": 296,
+      "count": 297,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -48356,6 +48356,12 @@
           "domain": "viar1.pages.dev",
           "raw_url": "https://viar1.pages.dev/",
           "found_time": "2024-11-17 07:18:28",
+          "status": "active"
+        },
+        {
+          "domain": "supertechgurgaon.com",
+          "raw_url": "https://www.supertechgurgaon.com/amp/",
+          "found_time": "2024-11-17 07:19:29",
           "status": "active"
         }
       ]
