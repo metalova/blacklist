@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 08:54:21
+! Last Updated: 2024-11-17 08:59:27
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5351
+! Number of unique domains: 5355
 !
 
 ||103.115.28.6^
@@ -1847,6 +1847,7 @@
 ||grandwin.id.uptodown.com^
 ||grandwinlegal.com.au^
 ||grandwinscasino.com^
+||grandwisata-bekasi.co.id^
 ||granitoscabanillas.com^
 ||granthdwar.com^
 ||grasshopperhill.net^
@@ -2763,6 +2764,7 @@
 ||locourbanstreetfood.com^
 ||login-prakerja.purbalinggakab.go.id^
 ||login.penjalin.desa.id^
+||lolpros.gg^
 ||lonepinecafe.com^
 ||lonestarplc.com^
 ||longandfoster.com^
@@ -4068,6 +4070,7 @@
 ||royalkokoh.com^
 ||royallepage.ca^
 ||royalpaintsnepal.com^
+||royaltogel.muscleagetest.in^
 ||rpg.co.id^
 ||rrdigital.id^
 ||rrhetf.com^
@@ -5176,6 +5179,7 @@
 ||web.arcasia.org^
 ||web.hondacikarang.co.id^
 ||web.pohotels.co.id^
+||web.sman1garum.sch.id^
 ||web101.co.id^
 ||webapp.mmpc.ph^
 ||webmail.binahusada.ac.id^

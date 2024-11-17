@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 08:54:21",
+  "updated": "2024-11-17 08:59:27",
   "categories": {
     "slot": {
-      "count": 5351,
+      "count": 5355,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32108,6 +32108,30 @@
           "domain": "disdukcapil.tanatorajakab.go.id",
           "raw_url": "https://disdukcapil.tanatorajakab.go.id/wp-includes/lib/?cartel=royalbet",
           "found_time": "2024-11-17 01:54:21",
+          "status": "active"
+        },
+        {
+          "domain": "web.sman1garum.sch.id",
+          "raw_url": "https://web.sman1garum.sch.id/pages/?id=royalbet",
+          "found_time": "2024-11-17 01:54:21",
+          "status": "active"
+        },
+        {
+          "domain": "grandwisata-bekasi.co.id",
+          "raw_url": "https://grandwisata-bekasi.co.id/",
+          "found_time": "2024-11-17 01:55:23",
+          "status": "active"
+        },
+        {
+          "domain": "royaltogel.muscleagetest.in",
+          "raw_url": "https://royaltogel.muscleagetest.in/",
+          "found_time": "2024-11-17 01:57:24",
+          "status": "active"
+        },
+        {
+          "domain": "lolpros.gg",
+          "raw_url": "https://lolpros.gg/player/hiro-4",
+          "found_time": "2024-11-17 01:58:26",
           "status": "active"
         }
       ]
