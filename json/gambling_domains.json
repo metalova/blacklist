@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 04:14:15",
+  "updated": "2024-11-18 04:15:16",
   "categories": {
     "slot": {
-      "count": 5542,
+      "count": 5543,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33254,6 +33254,12 @@
           "domain": "polresciko.com",
           "raw_url": "https://polresciko.com/",
           "found_time": "2024-11-17 21:13:13",
+          "status": "active"
+        },
+        {
+          "domain": "ppdb.ytpsnukhadijah.sch.id",
+          "raw_url": "https://ppdb.ytpsnukhadijah.sch.id/build/",
+          "found_time": "2024-11-17 21:14:15",
           "status": "active"
         }
       ]
