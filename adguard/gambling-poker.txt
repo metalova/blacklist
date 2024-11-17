@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - POKER
-! Last Updated: 2024-11-17 14:52:18
+! Last Updated: 2024-11-17 14:57:23
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 124
+! Number of unique domains: 125
 !
 
 ||63.142.240.221^
@@ -116,6 +116,7 @@
 ||tessiecastillo.com^
 ||thaiafprs.org^
 ||thousandoaksinformation.com^
+||topuksuz.pages.dev^
 ||tripadvisor.com^
 ||tripadvisor.fr^
 ||tripadvisor.ru^

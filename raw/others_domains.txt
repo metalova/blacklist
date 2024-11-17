@@ -65,6 +65,7 @@ djkn.kemenkeu.go.id
 djpb.kemenkeu.go.id
 dkisp.tarakankota.go.id
 dprd-dkijakartaprov.go.id
+dprd.jogjakota.go.id
 edisi.co.id
 ejournal.warunayama.org
 ejurnal.kampusakademik.co.id

@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 14:52:18
+! Last Updated: 2024-11-17 14:57:23
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 8086
+! Number of domains: 8088
 !
 
 ! Category: SLOT
@@ -6947,6 +6947,7 @@
 ||poker338gas.net^
 ||sonamandijewel.com^
 ||agrsdronesagricolas.com.br^
+||topuksuz.pages.dev^
 
 ! Category: SPORTSBOOK
 ||e-proc.pamjaya.co.id^
@@ -8104,4 +8105,5 @@
 ||jurnaltinta.com^
 ||fgfoodlabs.nl^
 ||eranasional.com^
+||dprd.jogjakota.go.id^
 
