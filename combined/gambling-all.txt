@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-17 10:24:07
+! Last Updated: 2024-11-17 10:29:21
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 7912
+! Number of domains: 7919
 !
 
 ! Category: SLOT
@@ -5898,6 +5898,13 @@
 ||swanadmin.second-sight.com^
 ||swanadminstaging.second-sight.com^
 ||oxfordmail.co.uk^
+||portal.halorealestate.com^
+||iprofesional.com^
+||crash.net^
+||publicmarketfurniture.com^
+||dinosaurtoyworld.com^
+||hyperstorm.uk^
+||gopay.indonesianjournalofcancer.or.id^
 
 ! Category: TOGEL
 ||tupac-berlin.com^

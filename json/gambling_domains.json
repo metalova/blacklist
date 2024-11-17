@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:24:07",
+  "updated": "2024-11-17 10:29:21",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 527,
+      "count": 534,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35347,6 +35347,48 @@
           "domain": "oxfordmail.co.uk",
           "raw_url": "https://www.oxfordmail.co.uk/news/24208905.popular-online-blackjack-sites-uk-play-blackjack-games-2024/",
           "found_time": "2024-11-17 03:24:06",
+          "status": "active"
+        },
+        {
+          "domain": "portal.halorealestate.com",
+          "raw_url": "https://portal.halorealestate.com/live-blackjack-casino/",
+          "found_time": "2024-11-17 03:24:07",
+          "status": "active"
+        },
+        {
+          "domain": "iprofesional.com",
+          "raw_url": "https://www.iprofesional.com/servicios/405620-best-real-money-online-casinos",
+          "found_time": "2024-11-17 03:25:08",
+          "status": "active"
+        },
+        {
+          "domain": "crash.net",
+          "raw_url": "https://www.crash.net/id/moto2/results/1060190/1/moto2-solidaritas-2024-canet-pole-mario-kehilangan-slot-q2-setelah-terjatuh",
+          "found_time": "2024-11-17 03:28:14",
+          "status": "active"
+        },
+        {
+          "domain": "publicmarketfurniture.com",
+          "raw_url": "https://publicmarketfurniture.com/",
+          "found_time": "2024-11-17 03:28:14",
+          "status": "active"
+        },
+        {
+          "domain": "dinosaurtoyworld.com",
+          "raw_url": "https://dinosaurtoyworld.com/",
+          "found_time": "2024-11-17 03:29:19",
+          "status": "active"
+        },
+        {
+          "domain": "hyperstorm.uk",
+          "raw_url": "https://hyperstorm.uk/amp/358-Casino/",
+          "found_time": "2024-11-17 03:29:20",
+          "status": "active"
+        },
+        {
+          "domain": "gopay.indonesianjournalofcancer.or.id",
+          "raw_url": "https://gopay.indonesianjournalofcancer.or.id/",
+          "found_time": "2024-11-17 03:29:20",
           "status": "active"
         }
       ]

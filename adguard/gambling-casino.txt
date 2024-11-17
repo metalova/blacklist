@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 10:24:07
+! Last Updated: 2024-11-17 10:29:21
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 527
+! Number of unique domains: 534
 !
 
 ||24liveblog.com^
@@ -115,6 +115,7 @@
 ||corporeacompanhiadecorpos.com^
 ||coy99.net^
 ||craftroulette.live^
+||crash.net^
 ||creedroomz.com^
 ||crescent.edu^
 ||crossingbroad.com^
@@ -133,6 +134,7 @@
 ||desatales.id^
 ||dev-ecom.demant.com^
 ||deviantart.com^
+||dinosaurtoyworld.com^
 ||dkcreativeworks.co.za^
 ||dolby.io^
 ||downtowngrand.com^
@@ -179,6 +181,7 @@
 ||goldenmesa.com^
 ||goldensteersteakhouse.com^
 ||golkar.or.id^
+||gopay.indonesianjournalofcancer.or.id^
 ||gopay.unbp.ac.id^
 ||gotocompany.com^
 ||gotravelly.com^
@@ -208,6 +211,7 @@
 ||hortaverde.com.br^
 ||hotel.hardrock.com^
 ||hq2ac.com^
+||hyperstorm.uk^
 ||id.bignox.com^
 ||id.foursquare.com^
 ||id.hotels.com^
@@ -239,6 +243,7 @@
 ||insider-gaming.com^
 ||instituteforpr.org^
 ||investopedia.com^
+||iprofesional.com^
 ||isleta.com^
 ||it.piliapp.com^
 ||iziloh.id^
@@ -372,12 +377,14 @@
 ||policarbonatoecuador.com^
 ||pontas.id^
 ||portal.careerguidancecollege.com^
+||portal.halorealestate.com^
 ||ppdb.darulhidayah.ponpes.id^
 ||ppdb.sma1blora.sch.id^
 ||pressofatlanticcity.com^
 ||psu.com^
 ||ptjmi.co.id^
 ||publication.iift.ac.in^
+||publicmarketfurniture.com^
 ||pulsagacor99.com^
 ||puskopkardki.id^
 ||pustakaarsip.tanjungpinangkota.go.id^
