@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 15:44:56",
+  "updated": "2024-11-17 15:49:08",
   "categories": {
     "slot": {
-      "count": 5368,
+      "count": 5373,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32210,6 +32210,36 @@
           "domain": "lonecedargolf.com",
           "raw_url": "https://www.lonecedargolf.com/",
           "found_time": "2024-11-17 08:43:54",
+          "status": "active"
+        },
+        {
+          "domain": "dimcurrency.com",
+          "raw_url": "https://dimcurrency.com/",
+          "found_time": "2024-11-17 08:44:56",
+          "status": "active"
+        },
+        {
+          "domain": "pa-sukabumi.go.id",
+          "raw_url": "https://pa-sukabumi.go.id/",
+          "found_time": "2024-11-17 08:47:00",
+          "status": "active"
+        },
+        {
+          "domain": "beachcycling.com",
+          "raw_url": "https://www.beachcycling.com/",
+          "found_time": "2024-11-17 08:47:00",
+          "status": "active"
+        },
+        {
+          "domain": "sipanda.rsudjombang.com",
+          "raw_url": "https://sipanda.rsudjombang.com/",
+          "found_time": "2024-11-17 08:48:02",
+          "status": "active"
+        },
+        {
+          "domain": "extendeddisc.org",
+          "raw_url": "https://www.extendeddisc.org/",
+          "found_time": "2024-11-17 08:49:08",
           "status": "active"
         }
       ]
