@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:32:21",
+  "updated": "2024-11-17 07:37:27",
   "categories": {
     "slot": {
-      "count": 5298,
+      "count": 5300,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31790,6 +31790,18 @@
           "domain": "ejurnal.stikbudikemuliaan.ac.id",
           "raw_url": "https://ejurnal.stikbudikemuliaan.ac.id/js/?_id=indotogel",
           "found_time": "2024-11-17 00:31:19",
+          "status": "active"
+        },
+        {
+          "domain": "review-schoolmedia.pages.dev",
+          "raw_url": "https://review-schoolmedia.pages.dev/?page=LUXURY777",
+          "found_time": "2024-11-17 00:32:21",
+          "status": "active"
+        },
+        {
+          "domain": "bengkayangkab.go.id",
+          "raw_url": "https://bengkayangkab.go.id/",
+          "found_time": "2024-11-17 00:36:25",
           "status": "active"
         }
       ]

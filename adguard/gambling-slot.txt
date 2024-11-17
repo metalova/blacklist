@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 07:32:21
+! Last Updated: 2024-11-17 07:37:27
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5298
+! Number of unique domains: 5300
 !
 
 ||103.115.28.6^
@@ -548,6 +548,7 @@
 ||bellavidanatick.com^
 ||beltline3.com^
 ||belutwin.us^
+||bengkayangkab.go.id^
 ||benjamasondarby.com^
 ||beqooqoo.com^
 ||berandawarisansumatra.or.id^
@@ -3954,6 +3955,7 @@
 ||reutilizak.org^
 ||revenue.nsw.gov.au^
 ||reverbnation.com^
+||review-schoolmedia.pages.dev^
 ||revista.ahf-filosofia.es^
 ||revistafraude.ufba.br^
 ||revistapsipro.com^
