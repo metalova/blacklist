@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 05:59:27
+! Last Updated: 2024-11-18 06:04:39
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5575
+! Number of unique domains: 5581
 !
 
 ||103.115.28.6^
@@ -2358,6 +2358,7 @@
 ||jbeyecare.com^
 ||jbgroup-salome.pages.dev^
 ||jbms360.com^
+||jcocoomaha.com^
 ||jcsd.org^
 ||jcvdcme.com^
 ||jdc.edu.co^
@@ -3505,6 +3506,7 @@
 ||nuansamalut.com^
 ||numerouspost.com^
 ||nured.uowm.gr^
+||nurjamancenter.id^
 ||nusaggbromo.com^
 ||nutrishopcookeville.com^
 ||nvlandman.org^
@@ -3659,6 +3661,7 @@
 ||pam.edesaku.org^
 ||pampapizza.com^
 ||pampling.com^
+||panama-gbs.com^
 ||panamalifeinsider.com^
 ||pancabudi.com^
 ||pancarkan.com^
@@ -4116,6 +4119,7 @@
 ||redirect-logins.web.app^
 ||redonionaspen.com^
 ||redrabbitfarm.com^
+||redunia.org^
 ||refaccionariamario.com^
 ||reflectionwindow.com^
 ||refugemcr.co.uk^
@@ -4558,6 +4562,7 @@
 ||skillslabcr.com^
 ||skilucifer.pages.dev^
 ||skripsi.fk.uwks.ac.id^
+||slatecube.com^
 ||slinginginthesmokies.com^
 ||slot16c10.xyz^
 ||slot212zzzz.com^
@@ -5193,6 +5198,7 @@
 ||tumblr.com^
 ||tunnelwalkofshame.com^
 ||turing.org.tr^
+||turnbackhoax.id^
 ||tuttobenemilano.com^
 ||tv.bioskop21.gay^
 ||tv1.nontonjavid.net^

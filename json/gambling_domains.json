@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 05:59:27",
+  "updated": "2024-11-18 06:04:39",
   "categories": {
     "slot": {
-      "count": 5575,
+      "count": 5581,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33452,6 +33452,42 @@
           "domain": "zedextata.co.in",
           "raw_url": "https://zedextata.co.in/?pafi=SITUSGACOR",
           "found_time": "2024-11-17 22:57:25",
+          "status": "active"
+        },
+        {
+          "domain": "panama-gbs.com",
+          "raw_url": "https://panama-gbs.com/",
+          "found_time": "2024-11-17 22:59:26",
+          "status": "active"
+        },
+        {
+          "domain": "turnbackhoax.id",
+          "raw_url": "https://turnbackhoax.id/",
+          "found_time": "2024-11-17 23:03:32",
+          "status": "active"
+        },
+        {
+          "domain": "jcocoomaha.com",
+          "raw_url": "https://www.jcocoomaha.com/",
+          "found_time": "2024-11-17 23:03:32",
+          "status": "active"
+        },
+        {
+          "domain": "slatecube.com",
+          "raw_url": "https://www.slatecube.com/",
+          "found_time": "2024-11-17 23:03:33",
+          "status": "active"
+        },
+        {
+          "domain": "redunia.org",
+          "raw_url": "https://www.redunia.org/",
+          "found_time": "2024-11-17 23:04:38",
+          "status": "active"
+        },
+        {
+          "domain": "nurjamancenter.id",
+          "raw_url": "https://nurjamancenter.id/bandarmpo/",
+          "found_time": "2024-11-17 23:04:38",
           "status": "active"
         }
       ]
