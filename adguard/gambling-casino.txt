@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 09:09:48
+! Last Updated: 2024-11-17 09:11:57
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 488
+! Number of unique domains: 496
 !
 
 ||24liveblog.com^
@@ -40,9 +40,11 @@
 ||baccarat-online.yapenhasboediluhur.sch.id^
 ||baccarat.com^
 ||baccaratstrategysystem.com^
+||badanbahasa.kemdikbud.go.id^
 ||ballislife.com^
 ||ballycasino.com^
 ||bappeda.jatengprov.go.id^
+||bbtn4dgood.com^
 ||bearrivercasino.com^
 ||beijinggreenbeltmd.com^
 ||bendosari.desa.id^
@@ -86,6 +88,7 @@
 ||casinos.ballys.com^
 ||cbsnews.com^
 ||cc.iift.ac.in^
+||cciudadano.org.mx^
 ||cdcgaming.com^
 ||cenest.iift.ac.in^
 ||checkup.umchltd.com^
@@ -161,6 +164,7 @@
 ||geoffreyparker.com^
 ||gettyimages.co.nz^
 ||ggbmagazine.com^
+||gilbertbbqislands.com^
 ||gms.edu.in^
 ||golaurelhighlands.com^
 ||goldenmesa.com^
@@ -179,6 +183,7 @@
 ||haldynglass.com^
 ||hardrock.bet^
 ||harrahspoolac.com^
+||harrisburghavoc.com^
 ||hazrestaurant.co.uk^
 ||heartstartny.com^
 ||herminahospitals.com^
@@ -290,6 +295,7 @@
 ||mspisang.pages.dev^
 ||mudbidrijaintemple.com^
 ||mumbaicoworking.com^
+||muvi.com^
 ||my.ciomas2.sch.id^
 ||nalarpolitik.com^
 ||narasiterkini.com^
@@ -303,6 +309,7 @@
 ||newtownhotel.com.au^
 ||nflgaziabad.fssai.gov.in^
 ||nj.com^
+||northcoastjournal.com^
 ||northstarcasinoresort.com^
 ||notosb362.org^
 ||nuxgame.com^
@@ -343,6 +350,7 @@
 ||pmb.stikesyapika.ac.id^
 ||pointplacecasino.com^
 ||policarbonatoecuador.com^
+||pontas.id^
 ||portal.careerguidancecollege.com^
 ||ppdb.darulhidayah.ponpes.id^
 ||ppdb.sma1blora.sch.id^

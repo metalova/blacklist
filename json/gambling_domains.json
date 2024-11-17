@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 09:09:48",
+  "updated": "2024-11-17 09:11:57",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 488,
+      "count": 496,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35113,6 +35113,54 @@
           "domain": "newtownhotel.com.au",
           "raw_url": "https://newtownhotel.com.au/live-casino/",
           "found_time": "2024-11-17 02:08:46",
+          "status": "active"
+        },
+        {
+          "domain": "muvi.com",
+          "raw_url": "https://www.muvi.com/blogs/live-casino-streaming/",
+          "found_time": "2024-11-17 02:09:48",
+          "status": "active"
+        },
+        {
+          "domain": "badanbahasa.kemdikbud.go.id",
+          "raw_url": "https://badanbahasa.kemdikbud.go.id/cache/one/index.php?cola=ab+casino",
+          "found_time": "2024-11-17 02:10:50",
+          "status": "active"
+        },
+        {
+          "domain": "pontas.id",
+          "raw_url": "https://pontas.id/2020/02/10/akibat-corona-bandar-judi-kasino-di-makau-rugi-besar/",
+          "found_time": "2024-11-17 02:10:50",
+          "status": "active"
+        },
+        {
+          "domain": "gilbertbbqislands.com",
+          "raw_url": "https://gilbertbbqislands.com/",
+          "found_time": "2024-11-17 02:11:55",
+          "status": "active"
+        },
+        {
+          "domain": "bbtn4dgood.com",
+          "raw_url": "https://bbtn4dgood.com/",
+          "found_time": "2024-11-17 02:11:55",
+          "status": "active"
+        },
+        {
+          "domain": "harrisburghavoc.com",
+          "raw_url": "https://www.harrisburghavoc.com/",
+          "found_time": "2024-11-17 02:11:56",
+          "status": "active"
+        },
+        {
+          "domain": "northcoastjournal.com",
+          "raw_url": "https://www.northcoastjournal.com/humboldt/agen-casino-indonesia/Profile?oid=16696982",
+          "found_time": "2024-11-17 02:11:56",
+          "status": "active"
+        },
+        {
+          "domain": "cciudadano.org.mx",
+          "raw_url": "https://cciudadano.org.mx/",
+          "found_time": "2024-11-17 02:11:56",
           "status": "active"
         }
       ]
