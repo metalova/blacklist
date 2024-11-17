@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 10:19:58
+! Last Updated: 2024-11-17 10:24:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 521
+! Number of unique domains: 527
 !
 
 ||24liveblog.com^
@@ -100,6 +100,7 @@
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
 ||chirurgie-digestif-proctologie.re^
+||cincinnati.com^
 ||circalasvegas.com^
 ||circuscircus.com^
 ||cjmambala.in^
@@ -342,6 +343,7 @@
 ||osagecasino.com^
 ||ottawabluesfest.ca^
 ||ourladyoffatimapatiala.com^
+||oxfordmail.co.uk^
 ||oyolasvegas.com^
 ||p-city.com^
 ||pa-bengkulukota.go.id^
@@ -357,6 +359,7 @@
 ||peppermillreno.com^
 ||perchance.org^
 ||peshtigotimes.net^
+||pharmaciepolders.fr^
 ||phatphilsfireworks.com^
 ||philadelphia.livecasinohotel.com^
 ||piacasinogiris.com^
@@ -437,6 +440,7 @@
 ||spmi.ubest.ac.id^
 ||spstbt.iift.ac.in^
 ||star.com.au^
+||stellamarisconvent.net^
 ||steveabrown.com^
 ||stjohnschandigarh.com^
 ||stkarensmontessorischool.com^
@@ -446,6 +450,8 @@
 ||sunsetranchptc.org^
 ||superlive.id^
 ||suryaguds.com^
+||swanadmin.second-sight.com^
+||swanadminstaging.second-sight.com^
 ||swearandshake.com^
 ||swinomishcasinoandlodge.com^
 ||sycuan.com^
