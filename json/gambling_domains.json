@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 03:21:54",
+  "updated": "2024-11-18 03:57:59",
   "categories": {
     "slot": {
-      "count": 5535,
+      "count": 5537,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33212,6 +33212,18 @@
           "domain": "turing.org.tr",
           "raw_url": "https://www.turing.org.tr/",
           "found_time": "2024-11-17 20:17:48",
+          "status": "active"
+        },
+        {
+          "domain": "nutrishopcookeville.com",
+          "raw_url": "https://nutrishopcookeville.com/amp/",
+          "found_time": "2024-11-17 20:21:54",
+          "status": "active"
+        },
+        {
+          "domain": "unl-edu.pages.dev",
+          "raw_url": "https://unl-edu.pages.dev/",
+          "found_time": "2024-11-17 20:57:58",
           "status": "active"
         }
       ]
