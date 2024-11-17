@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 12:06:15",
+  "updated": "2024-11-17 12:13:49",
   "categories": {
     "slot": {
       "count": 5363,
@@ -35400,7 +35400,7 @@
       ]
     },
     "togel": {
-      "count": 885,
+      "count": 888,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -40710,6 +40710,24 @@
           "domain": "tnesa.com",
           "raw_url": "https://www.tnesa.com/",
           "found_time": "2024-11-17 05:06:14",
+          "status": "active"
+        },
+        {
+          "domain": "cmuscioly.org",
+          "raw_url": "https://cmuscioly.org/",
+          "found_time": "2024-11-17 05:06:15",
+          "status": "active"
+        },
+        {
+          "domain": "slides.com",
+          "raw_url": "https://slides.com/daftar4d/daftar4d-togel-deposit-pulsa",
+          "found_time": "2024-11-17 05:12:47",
+          "status": "active"
+        },
+        {
+          "domain": "krsspicyfood.com",
+          "raw_url": "https://krsspicyfood.com/",
+          "found_time": "2024-11-17 05:12:48",
           "status": "active"
         }
       ]
