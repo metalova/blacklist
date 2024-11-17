@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:50:00",
+  "updated": "2024-11-18 01:54:07",
   "categories": {
     "slot": {
       "count": 5498,
@@ -48170,7 +48170,7 @@
       ]
     },
     "others": {
-      "count": 358,
+      "count": 364,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50318,6 +50318,42 @@
           "domain": "aloveisblind.com",
           "raw_url": "https://aloveisblind.com/voxalyze.com/",
           "found_time": "2024-11-17 18:50:00",
+          "status": "active"
+        },
+        {
+          "domain": "judipokerqqdepositpulsa.wordpress.com",
+          "raw_url": "https://judipokerqqdepositpulsa.wordpress.com/",
+          "found_time": "2024-11-17 18:50:00",
+          "status": "active"
+        },
+        {
+          "domain": "home.datacenterjourney.com",
+          "raw_url": "http://home.datacenterjourney.com/",
+          "found_time": "2024-11-17 18:51:02",
+          "status": "active"
+        },
+        {
+          "domain": "diskominfo.kotimkab.go.id",
+          "raw_url": "https://diskominfo.kotimkab.go.id/cegah-judi-online-meluas-menkominfo-ambil-enam-langkah-tegas/",
+          "found_time": "2024-11-17 18:52:03",
+          "status": "active"
+        },
+        {
+          "domain": "enimekspres.bacakoran.co",
+          "raw_url": "https://enimekspres.bacakoran.co/read/7642/bri-blokir-lebih-3000-rekening-terkait-judi-online-yang-merusak-dan-meresahkan-masyarakat",
+          "found_time": "2024-11-17 18:52:04",
+          "status": "active"
+        },
+        {
+          "domain": "tek.id",
+          "raw_url": "https://www.tek.id/tek/kominfo-blokir-15-situs-judi-online-b2foA9ovH",
+          "found_time": "2024-11-17 18:53:05",
+          "status": "active"
+        },
+        {
+          "domain": "corusgroup.in",
+          "raw_url": "https://corusgroup.in/sana/?q=agen-judi-bola-terpercaya",
+          "found_time": "2024-11-17 18:53:06",
           "status": "active"
         }
       ]

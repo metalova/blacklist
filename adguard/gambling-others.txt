@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-18 01:50:00
+! Last Updated: 2024-11-18 01:54:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 358
+! Number of unique domains: 364
 !
 
 ||a.deliserdangkab.com^
@@ -61,6 +61,7 @@
 ||cloud.wg.ugm.ac.id^
 ||concursoguarda.com^
 ||context.id^
+||corusgroup.in^
 ||curupekspress.bacakoran.co^
 ||dataindonesia.id^
 ||deduktif.id^
@@ -69,6 +70,7 @@
 ||detik60.com^
 ||didaktis.metaniskala.co.id^
 ||diskominfo.kaltimprov.go.id^
+||diskominfo.kotimkab.go.id^
 ||diskominfotik.lampungprov.go.id^
 ||disway.id^
 ||djkn.kemenkeu.go.id^
@@ -81,6 +83,7 @@
 ||ejurnal.kampusakademik.co.id^
 ||emitennews.com^
 ||encounterghosts.com^
+||enimekspres.bacakoran.co^
 ||eprints.uny.ac.id^
 ||era.id^
 ||eranasional.com^
@@ -110,6 +113,7 @@
 ||heylaw.id^
 ||hispanicleadershipfund.org^
 ||historia.id^
+||home.datacenterjourney.com^
 ||homify.co.id^
 ||hukamanews.com^
 ||hulondalo.id^
@@ -147,6 +151,7 @@
 ||journal2.um.ac.id^
 ||journalnusantara.com^
 ||jpnn.com^
+||judipokerqqdepositpulsa.wordpress.com^
 ||judiresmiofficial.com^
 ||jurnal.stisummulayman.ac.id^
 ||jurnal.unigo.ac.id^
@@ -324,6 +329,7 @@
 ||tatarmedia.id^
 ||tebingtinggikota.go.id^
 ||techno.rakyat.news^
+||tek.id^
 ||teknologi.id^
 ||telematicsnews.info^
 ||tennismag.com.ua^
