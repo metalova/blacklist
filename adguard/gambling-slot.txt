@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 15:02:32
+! Last Updated: 2024-11-17 15:38:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5363
+! Number of unique domains: 5365
 !
 
 ||103.115.28.6^
@@ -3754,6 +3754,7 @@
 ||ppid.pandeglangkab.go.id^
 ||ppid.surakarta.go.id^
 ||ppk.ac.th^
+||ppki.umsu.ac.id^
 ||ppkmindonesia.com^
 ||ppnijateng.org^
 ||ppnikaltim.org^
@@ -4679,6 +4680,7 @@
 ||taichibardc.com^
 ||tailorproshop.com^
 ||taipan78play.biz^
+||tajindiancincinnati.com^
 ||tajukrakyat.com^
 ||taktstudio.com^
 ||talkislam.info^

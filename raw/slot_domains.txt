@@ -3748,6 +3748,7 @@ ppid.bappeda.jatengprov.go.id
 ppid.pandeglangkab.go.id
 ppid.surakarta.go.id
 ppk.ac.th
+ppki.umsu.ac.id
 ppkmindonesia.com
 ppnijateng.org
 ppnikaltim.org
@@ -4673,6 +4674,7 @@ tacosnmiches.com
 taichibardc.com
 tailorproshop.com
 taipan78play.biz
+tajindiancincinnati.com
 tajukrakyat.com
 taktstudio.com
 talkislam.info

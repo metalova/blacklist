@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 15:02:32",
+  "updated": "2024-11-17 15:38:48",
   "categories": {
     "slot": {
-      "count": 5363,
+      "count": 5365,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32180,6 +32180,18 @@
           "domain": "blokmsquare.co.id",
           "raw_url": "https://blokmsquare.co.id/data/?data=situs138",
           "found_time": "2024-11-17 02:06:42",
+          "status": "active"
+        },
+        {
+          "domain": "ppki.umsu.ac.id",
+          "raw_url": "https://ppki.umsu.ac.id/akreditasi/",
+          "found_time": "2024-11-17 08:02:32",
+          "status": "active"
+        },
+        {
+          "domain": "tajindiancincinnati.com",
+          "raw_url": "https://tajindiancincinnati.com/",
+          "found_time": "2024-11-17 08:37:44",
           "status": "active"
         }
       ]
