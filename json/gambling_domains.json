@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:51:47",
+  "updated": "2024-11-17 22:24:53",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 553,
+      "count": 554,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -45963,6 +45963,12 @@
         {
           "domain": "bihepistudios.com",
           "raw_url": "https://bihepistudios.com/situs-agen-maxbet-bola/",
+          "found_time": "2024-11-17 14:51:46",
+          "status": "active"
+        },
+        {
+          "domain": "zimbabwesoccer.com",
+          "raw_url": "https://zimbabwesoccer.com/",
           "found_time": "2024-11-17 14:51:46",
           "status": "active"
         }
