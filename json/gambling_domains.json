@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 02:44:41",
+  "updated": "2024-11-18 02:48:49",
   "categories": {
     "slot": {
-      "count": 5503,
+      "count": 5504,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33020,6 +33020,12 @@
           "domain": "hitamhitamscatter.pages.dev",
           "raw_url": "https://hitamhitamscatter.pages.dev/pusat/",
           "found_time": "2024-11-17 19:41:34",
+          "status": "active"
+        },
+        {
+          "domain": "bigoisback.pages.dev",
+          "raw_url": "https://bigoisback.pages.dev/",
+          "found_time": "2024-11-17 19:44:41",
           "status": "active"
         }
       ]

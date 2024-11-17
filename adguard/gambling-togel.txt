@@ -1,5 +1,5 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-18 02:44:41
+! Last Updated: 2024-11-18 02:48:49
 ! Description: Automatically generated gambling domain blocklist
 ! Number of unique domains: 953
 !

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 02:44:41
+! Last Updated: 2024-11-18 02:48:49
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5503
+! Number of unique domains: 5504
 !
 
 ||103.115.28.6^
@@ -657,6 +657,7 @@
 ||bigfishgames.com^
 ||biggo.id^
 ||bigkidschicago.com^
+||bigoisback.pages.dev^
 ||bigomasuksaja.pages.dev^
 ||bigomuncrat.pages.dev^
 ||bigpokefresh.com^
