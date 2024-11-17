@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 18:53:06
+! Last Updated: 2024-11-17 18:59:22
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5460
+! Number of unique domains: 5470
 !
 
 ||103.115.28.6^
@@ -207,6 +207,7 @@
 ||airpurifierguide.org^
 ||ajef.net^
 ||ajemjournal.com^
+||ajoh.oauife.edu.ng^
 ||ajotembung.pages.dev^
 ||ajsonthegreen.com^
 ||akademik.untag-sby.ac.id^
@@ -275,6 +276,7 @@
 ||amp-pls.web.app^
 ||amp-rtp.b-cdn.net^
 ||amp-spacemanslot.com^
+||amp.artsellers.org^
 ||amp.kontan.co.id^
 ||amp2-ungu508.pages.dev^
 ||amp6-592.pages.dev^
@@ -1040,6 +1042,7 @@
 ||coldwellbanker.com^
 ||coldwellbankerhomes.com^
 ||colegioarboleda.edu.mx^
+||colegiodelsalvador.edu.ar^
 ||colescountyanimalshelter.com^
 ||colessouthernbbq.com^
 ||combinespaces.com^
@@ -1653,6 +1656,7 @@
 ||fewmilessouth.com^
 ||fgshlb.gov.ng^
 ||fh.uika-bogor.ac.id^
+||fh.unsoed.ac.id^
 ||fiahomefoods.com^
 ||fib.unkhair.ac.id^
 ||fifthmariandogma.com^
@@ -1790,6 +1794,7 @@
 ||gcsec.org^
 ||gctilesbangalore.com^
 ||gd4d.co^
+||geetaschool.pages.dev^
 ||gelpolishchicago.com^
 ||gelrenieuws.nl^
 ||gemmabeautypalace.com^
@@ -2139,6 +2144,7 @@
 ||ijimes.org^
 ||ijisc.com.pk^
 ||ijmpr.org^
+||ijobsor.pelnus.ac.id^
 ||ijsenchocolade.shop^
 ||ijstm.inarah.co.id^
 ||ijstm.pages.dev^
@@ -2428,6 +2434,7 @@
 ||juliangayarre.com^
 ||julianthayn.com^
 ||junkremovalspokane.org^
+||junta.spe.org.co^
 ||jupendik.or.id^
 ||jurakunman.stiesuryanusantara.ac.id^
 ||jurnal-ekonomi.uho.ac.id^
@@ -2525,6 +2532,7 @@
 ||kebudayaan.jogjakota.go.id^
 ||kec-laham.mahakamulukab.go.id^
 ||kecamatanjonggol.com^
+||keckapontori.butonkab.go.id^
 ||kecmuarakomam.paserkab.go.id^
 ||kectanahgrogot.paserkab.go.id^
 ||kecuranganpemilu.com^
@@ -3054,6 +3062,7 @@
 ||medanposonline.com^
 ||medee.mn^
 ||media24.ps^
+||mediacenter.kepulauanarukab.go.id^
 ||mediacenter.paserkab.go.id^
 ||mediacenter.singkawangkota.go.id^
 ||mediacenter.temanggungkab.go.id^
@@ -4670,6 +4679,7 @@
 ||sttpk-medan.ac.id^
 ||students.stfi.ac.id^
 ||studyx.ai^
+||stylebeyonce.com^
 ||styleteamlighting.com^
 ||su-journal.com^
 ||suarasurabaya.net^
