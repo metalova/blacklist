@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 15:38:48",
+  "updated": "2024-11-17 15:44:56",
   "categories": {
     "slot": {
-      "count": 5365,
+      "count": 5368,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32192,6 +32192,24 @@
           "domain": "tajindiancincinnati.com",
           "raw_url": "https://tajindiancincinnati.com/",
           "found_time": "2024-11-17 08:37:44",
+          "status": "active"
+        },
+        {
+          "domain": "desawisatajatimulyo.com",
+          "raw_url": "https://www.desawisatajatimulyo.com/",
+          "found_time": "2024-11-17 08:38:47",
+          "status": "active"
+        },
+        {
+          "domain": "testing-suaragresik.gresikkab.go.id",
+          "raw_url": "https://testing-suaragresik.gresikkab.go.id/",
+          "found_time": "2024-11-17 08:42:53",
+          "status": "active"
+        },
+        {
+          "domain": "lonecedargolf.com",
+          "raw_url": "https://www.lonecedargolf.com/",
+          "found_time": "2024-11-17 08:43:54",
           "status": "active"
         }
       ]
