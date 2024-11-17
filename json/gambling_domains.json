@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 07:43:39",
+  "updated": "2024-11-17 07:46:43",
   "categories": {
     "slot": {
-      "count": 5312,
+      "count": 5314,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -31874,6 +31874,18 @@
           "domain": "knkt.go.id",
           "raw_url": "https://www.knkt.go.id/Theme/detail.aspx?min91404424.html",
           "found_time": "2024-11-17 00:43:39",
+          "status": "active"
+        },
+        {
+          "domain": "pmb.ua.ac.id",
+          "raw_url": "https://pmb.ua.ac.id/file/?story=situs+mpo",
+          "found_time": "2024-11-17 00:43:39",
+          "status": "active"
+        },
+        {
+          "domain": "creative-funeral-ideas.com",
+          "raw_url": "https://www.creative-funeral-ideas.com/",
+          "found_time": "2024-11-17 00:45:41",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 07:43:39
+! Last Updated: 2024-11-17 07:46:43
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5312
+! Number of unique domains: 5314
 !
 
 ||103.115.28.6^
@@ -1089,6 +1089,7 @@
 ||crankypm.com^
 ||crashthepartyband.com^
 ||crazygames.co.id^
+||creative-funeral-ideas.com^
 ||crescentcitycatclub.com^
 ||crescentsushiandthai.com^
 ||crestoneinvestmentconference.com^
@@ -3662,6 +3663,7 @@
 ||pm.bmh.or.id^
 ||pma.bku.ac.id^
 ||pmb.ipbcirebon.ac.id^
+||pmb.ua.ac.id^
 ||pmb.unaki.ac.id^
 ||pmb.uniasman.ac.id^
 ||pmb.universitasmandiri.ac.id^
