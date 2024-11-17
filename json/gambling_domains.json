@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 06:44:54",
+  "updated": "2024-11-18 06:49:17",
   "categories": {
     "slot": {
-      "count": 5590,
+      "count": 5592,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33542,6 +33542,18 @@
           "domain": "modernhandreadingforum.sukajago.com",
           "raw_url": "https://modernhandreadingforum.sukajago.com/",
           "found_time": "2024-11-17 23:42:52",
+          "status": "active"
+        },
+        {
+          "domain": "lightstreamresources.com",
+          "raw_url": "http://www.lightstreamresources.com/",
+          "found_time": "2024-11-17 23:44:54",
+          "status": "active"
+        },
+        {
+          "domain": "tallinnakaart.com",
+          "raw_url": "https://www.tallinnakaart.com/wp-content/index.php?id_ID=winslot+777",
+          "found_time": "2024-11-17 23:49:17",
           "status": "active"
         }
       ]

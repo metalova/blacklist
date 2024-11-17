@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 06:44:54
+! Last Updated: 2024-11-18 06:49:17
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5590
+! Number of unique domains: 5592
 !
 
 ||103.115.28.6^
@@ -2825,6 +2825,7 @@
 ||ligacuantogel.com^
 ||lightpanel.en.made-in-china.com^
 ||lightsfantasticpro.com^
+||lightstreamresources.com^
 ||lilaccityrealestate.com^
 ||liliasmexicancuisine.com^
 ||linchinaga.com^
@@ -4886,6 +4887,7 @@
 ||talksport.com^
 ||talktotucker.com^
 ||tallerstavern.com^
+||tallinnakaart.com^
 ||tamanasri.id^
 ||tamigrass.com^
 ||tampapooldecks.com^
