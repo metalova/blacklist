@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 23:54:56",
+  "updated": "2024-11-17 23:58:02",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 938,
+      "count": 941,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -42030,6 +42030,24 @@
           "domain": "jamintotoo.pages.dev",
           "raw_url": "https://jamintotoo.pages.dev/",
           "found_time": "2024-11-17 16:52:53",
+          "status": "active"
+        },
+        {
+          "domain": "sditbtr-mumtaz.sch.id",
+          "raw_url": "https://sditbtr-mumtaz.sch.id/link/depo-pulsa-tanpa-potongan/?tranta=BANDAR%20TOGEL%20TERPERCAYA%20DI%20DUNIA",
+          "found_time": "2024-11-17 16:54:56",
+          "status": "active"
+        },
+        {
+          "domain": "redballoonchildcare.com",
+          "raw_url": "https://redballoonchildcare.com/",
+          "found_time": "2024-11-17 16:55:57",
+          "status": "active"
+        },
+        {
+          "domain": "edgewaterinnfmb.com",
+          "raw_url": "https://edgewaterinnfmb.com/",
+          "found_time": "2024-11-17 16:56:59",
           "status": "active"
         }
       ]
