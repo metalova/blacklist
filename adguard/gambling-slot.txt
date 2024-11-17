@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 02:48:49
+! Last Updated: 2024-11-18 02:55:01
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5504
+! Number of unique domains: 5512
 !
 
 ||103.115.28.6^
@@ -562,6 +562,7 @@
 ||bejo500.com^
 ||belalangsembahpetruk303.pages.dev^
 ||belibis.poltekkeskupang.ac.id^
+||bellalunabeautywellness.com^
 ||bellavancestudio.com^
 ||bellavidanatick.com^
 ||beltline3.com^
@@ -1074,6 +1075,7 @@
 ||connection.nesco.gov.bd^
 ||connectusglobal.com^
 ||conocer.gob.mx^
+||conradfestival.pl^
 ||conservationresearchinstitute.org^
 ||constcourt.ge^
 ||consumer.huawei.com^
@@ -2108,6 +2110,7 @@
 ||iberianlawyer.com^
 ||ibericcglobal.eu^
 ||ibmi-medan.com^
+||ibmr.edu.in^
 ||ibshospitals.com^
 ||ibu4d-solusi-alternatif-terbaik-hari-ini.pages.dev^
 ||ibudani.visitblitar.com^
@@ -3711,6 +3714,7 @@
 ||persi.or.id^
 ||persib.co.id^
 ||personal.co.id^
+||personeriadefloridablanca.gov.co^
 ||perumdatirtawening.co.id^
 ||perumnas.co.id^
 ||perusdambs.com^
@@ -3893,6 +3897,7 @@
 ||pressrelease.com^
 ||prhospitalmathura.com^
 ||pria.org^
+||pricesavertickets.com^
 ||pridesband.com^
 ||priestperformancehorses.com^
 ||primetacogrille.com^
@@ -4930,6 +4935,7 @@
 ||thedressshopsa.com^
 ||thedrivein.london^
 ||thefashionfabrique.com^
+||thefatcrust.com^
 ||thefleurdelys.com^
 ||thefriedguys.com^
 ||thegamehaus.com^
@@ -5205,6 +5211,7 @@
 ||upcycleafrica.org^
 ||update.hatena.id^
 ||uppmaccinibaji.org^
+||uprank1amer4d.com^
 ||upt-komputer.umk.ac.id^
 ||uptppwa.ummat.ac.id^
 ||urbanoctober.unhabitat.org^
@@ -5477,6 +5484,7 @@
 ||yummycakesbysue.co.uk^
 ||ywca.ps^
 ||yxm.astroawani.com^
+||z-et-ma.com^
 ||zakatkedah.com.my^
 ||zanders1901.com^
 ||zanesvillevision.com^

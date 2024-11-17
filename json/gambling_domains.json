@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 02:48:49",
+  "updated": "2024-11-18 02:55:01",
   "categories": {
     "slot": {
-      "count": 5504,
+      "count": 5512,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33026,6 +33026,54 @@
           "domain": "bigoisback.pages.dev",
           "raw_url": "https://bigoisback.pages.dev/",
           "found_time": "2024-11-17 19:44:41",
+          "status": "active"
+        },
+        {
+          "domain": "uprank1amer4d.com",
+          "raw_url": "https://uprank1amer4d.com/",
+          "found_time": "2024-11-17 19:48:48",
+          "status": "active"
+        },
+        {
+          "domain": "bellalunabeautywellness.com",
+          "raw_url": "https://www.bellalunabeautywellness.com/",
+          "found_time": "2024-11-17 19:50:51",
+          "status": "active"
+        },
+        {
+          "domain": "thefatcrust.com",
+          "raw_url": "https://www.thefatcrust.com/",
+          "found_time": "2024-11-17 19:50:51",
+          "status": "active"
+        },
+        {
+          "domain": "z-et-ma.com",
+          "raw_url": "https://z-et-ma.com/",
+          "found_time": "2024-11-17 19:53:58",
+          "status": "active"
+        },
+        {
+          "domain": "ibmr.edu.in",
+          "raw_url": "https://www.ibmr.edu.in/",
+          "found_time": "2024-11-17 19:53:58",
+          "status": "active"
+        },
+        {
+          "domain": "conradfestival.pl",
+          "raw_url": "https://conradfestival.pl/",
+          "found_time": "2024-11-17 19:53:58",
+          "status": "active"
+        },
+        {
+          "domain": "pricesavertickets.com",
+          "raw_url": "https://pricesavertickets.com/",
+          "found_time": "2024-11-17 19:53:59",
+          "status": "active"
+        },
+        {
+          "domain": "personeriadefloridablanca.gov.co",
+          "raw_url": "https://personeriadefloridablanca.gov.co/",
+          "found_time": "2024-11-17 19:53:59",
           "status": "active"
         }
       ]
