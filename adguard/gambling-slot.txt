@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 17:24:43
+! Last Updated: 2024-11-17 17:28:50
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5410
+! Number of unique domains: 5415
 !
 
 ||103.115.28.6^
@@ -645,6 +645,7 @@
 ||bigfishgames.com^
 ||biggo.id^
 ||bigkidschicago.com^
+||bigomasuksaja.pages.dev^
 ||bigomuncrat.pages.dev^
 ||bigpokefresh.com^
 ||bigskyfriends.com^
@@ -979,6 +980,7 @@
 ||cityclean.jp^
 ||citycollisionctr.com^
 ||cityofdreamsmanila.com^
+||cityoflakebutler.org^
 ||citywidecourier.com^
 ||cjspubweedsport.com^
 ||claremontpiefestival.com^
@@ -1459,6 +1461,7 @@
 ||egyptembassy.org^
 ||eih.ae^
 ||eism.web.id^
+||ejmi.org^
 ||ejournal.insuriponorogo.ac.id^
 ||ejournal.poltekpel-sorong.ac.id^
 ||ejournal.sembilanpemuda.id^
@@ -2811,6 +2814,7 @@
 ||lostwagestours.com^
 ||lottomatica.it^
 ||lotus2gaul.us^
+||lotuscurryhouse.com^
 ||lotusdasie.com^
 ||lotusmultispecialityhospital.com^
 ||lovedisfigure.com^
@@ -4521,6 +4525,7 @@
 ||somos.pangeia.eco^
 ||songgolangit.pikiran-rakyat.com^
 ||songtradr.com^
+||sonorabandung.com^
 ||sonoraindustrial.com.mx^
 ||sonoscanhealthcare.com^
 ||sooverthis.com^

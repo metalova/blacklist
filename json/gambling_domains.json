@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:24:43",
+  "updated": "2024-11-17 17:28:50",
   "categories": {
     "slot": {
-      "count": 5410,
+      "count": 5415,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32462,6 +32462,36 @@
           "domain": "haendle.com",
           "raw_url": "https://www.haendle.com/",
           "found_time": "2024-11-17 10:22:40",
+          "status": "active"
+        },
+        {
+          "domain": "bigomasuksaja.pages.dev",
+          "raw_url": "https://bigomasuksaja.pages.dev/",
+          "found_time": "2024-11-17 10:24:43",
+          "status": "active"
+        },
+        {
+          "domain": "lotuscurryhouse.com",
+          "raw_url": "https://www.lotuscurryhouse.com/",
+          "found_time": "2024-11-17 10:25:45",
+          "status": "active"
+        },
+        {
+          "domain": "ejmi.org",
+          "raw_url": "https://www.ejmi.org/",
+          "found_time": "2024-11-17 10:25:45",
+          "status": "active"
+        },
+        {
+          "domain": "sonorabandung.com",
+          "raw_url": "https://www.sonorabandung.com/",
+          "found_time": "2024-11-17 10:27:48",
+          "status": "active"
+        },
+        {
+          "domain": "cityoflakebutler.org",
+          "raw_url": "https://cityoflakebutler.org/slots",
+          "found_time": "2024-11-17 10:27:48",
           "status": "active"
         }
       ]
