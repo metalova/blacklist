@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - OTHERS
-! Last Updated: 2024-11-18 01:24:12
+! Last Updated: 2024-11-18 01:25:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 332
+! Number of unique domains: 333
 !
 
 ||a.deliserdangkab.com^
@@ -244,6 +244,7 @@
 ||ppatk.go.id^
 ||ppid.lampungprov.go.id^
 ||ppid.ppatk.go.id^
+||ppid.surabaya.go.id^
 ||prabumulihpos.bacakoran.co^
 ||prabunews.com^
 ||prakerin.smktaq-wsb.sch.id^

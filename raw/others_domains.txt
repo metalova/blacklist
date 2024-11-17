@@ -238,6 +238,7 @@ poscyber.com
 ppatk.go.id
 ppid.lampungprov.go.id
 ppid.ppatk.go.id
+ppid.surabaya.go.id
 prabumulihpos.bacakoran.co
 prabunews.com
 prakerin.smktaq-wsb.sch.id

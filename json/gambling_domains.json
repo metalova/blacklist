@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:24:12",
+  "updated": "2024-11-18 01:25:14",
   "categories": {
     "slot": {
       "count": 5498,
@@ -48170,7 +48170,7 @@
       ]
     },
     "others": {
-      "count": 332,
+      "count": 333,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50162,6 +50162,12 @@
           "domain": "usu.ac.id",
           "raw_url": "https://www.usu.ac.id/id/berita/usu-gelar-sosialisasi-bahaya-judi-online-bagi-dosen-dan-tenaga-kependidikan",
           "found_time": "2024-11-17 18:24:11",
+          "status": "active"
+        },
+        {
+          "domain": "ppid.surabaya.go.id",
+          "raw_url": "https://ppid.surabaya.go.id/stop-judi-online",
+          "found_time": "2024-11-17 18:24:12",
           "status": "active"
         }
       ]
