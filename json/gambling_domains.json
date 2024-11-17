@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 03:02:24",
+  "updated": "2024-11-18 03:09:38",
   "categories": {
     "slot": {
-      "count": 5525,
+      "count": 5533,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33152,6 +33152,54 @@
           "domain": "sabarimala.kerala.gov.in",
           "raw_url": "https://sabarimala.kerala.gov.in/",
           "found_time": "2024-11-17 20:02:23",
+          "status": "active"
+        },
+        {
+          "domain": "goodreads.com",
+          "raw_url": "https://www.goodreads.com/turquoisey",
+          "found_time": "2024-11-17 20:02:23",
+          "status": "active"
+        },
+        {
+          "domain": "jurnal.perhapi.or.id",
+          "raw_url": "https://jurnal.perhapi.or.id/old/pages/",
+          "found_time": "2024-11-17 20:07:29",
+          "status": "active"
+        },
+        {
+          "domain": "elearning.iainkendari.ac.id",
+          "raw_url": "https://elearning.iainkendari.ac.id/",
+          "found_time": "2024-11-17 20:07:30",
+          "status": "active"
+        },
+        {
+          "domain": "ibbylac.org",
+          "raw_url": "https://ibbylac.org/",
+          "found_time": "2024-11-17 20:08:35",
+          "status": "active"
+        },
+        {
+          "domain": "my.rovac.org",
+          "raw_url": "https://my.rovac.org/",
+          "found_time": "2024-11-17 20:08:36",
+          "status": "active"
+        },
+        {
+          "domain": "cortlandcars.com",
+          "raw_url": "https://cortlandcars.com/",
+          "found_time": "2024-11-17 20:08:36",
+          "status": "active"
+        },
+        {
+          "domain": "lppm.wisnuwardhana.ac.id",
+          "raw_url": "https://lppm.wisnuwardhana.ac.id/",
+          "found_time": "2024-11-17 20:08:36",
+          "status": "active"
+        },
+        {
+          "domain": "salford.myhomecare.co.uk",
+          "raw_url": "https://salford.myhomecare.co.uk/",
+          "found_time": "2024-11-17 20:08:37",
           "status": "active"
         }
       ]

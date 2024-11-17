@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 03:02:24
+! Last Updated: 2024-11-18 03:09:38
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5525
+! Number of unique domains: 5533
 !
 
 ||103.115.28.6^
@@ -1098,6 +1098,7 @@
 ||corsoecm.it^
 ||cortezgames.com^
 ||cortijoamaya.com^
+||cortlandcars.com^
 ||coruhturizm.com^
 ||corygated.com^
 ||cosmosdeli.net^
@@ -1506,6 +1507,7 @@
 ||eksya.staikap.ac.id^
 ||elangs2.pages.dev^
 ||elcargol.com^
+||elearning.iainkendari.ac.id^
 ||elearning.jec.co.id^
 ||elearning.mappiq.sch.id^
 ||elearning.mtsasyrofuddin.sch.id^
@@ -1872,6 +1874,7 @@
 ||gonzalorodriguez.org^
 ||goodburgeruae.com^
 ||goodchefrestaurant.com^
+||goodreads.com^
 ||goodvybzrestaurant.com^
 ||googletod.tubaba.go.id^
 ||gopay.co.id^
@@ -2108,6 +2111,7 @@
 ||iameonline.com^
 ||iamfruitful.org^
 ||iamtashajones.com^
+||ibbylac.org^
 ||ibenedictines.org^
 ||iberianlawyer.com^
 ||ibericcglobal.eu^
@@ -2471,6 +2475,7 @@
 ||jurnal.larisma.or.id^
 ||jurnal.law.uniba-bpn.ac.id^
 ||jurnal.peneliti.net^
+||jurnal.perhapi.or.id^
 ||jurnal.politeknikyakpermas.ac.id^
 ||jurnal.polkesban.ac.id^
 ||jurnal.sdl.ac.id^
@@ -2883,6 +2888,7 @@
 ||lppi.ums.ac.id^
 ||lppm.stiami.ac.id^
 ||lppm.uis.ac.id^
+||lppm.wisnuwardhana.ac.id^
 ||lppmp.ubharajaya.ac.id^
 ||lrnglobal.org^
 ||lspkesehatanindohusada.com^
@@ -3359,6 +3365,7 @@
 ||mvagusta-brno.cz^
 ||mxaddc01.mx.dentons.com^
 ||my.omsystem.com^
+||my.rovac.org^
 ||myflowergirl.com^
 ||mygreendotbenefits.com^
 ||myhealthturkey.com^
@@ -4274,6 +4281,7 @@
 ||saldobetbz.com^
 ||salemboard.com^
 ||salempearce.com^
+||salford.myhomecare.co.uk^
 ||salim.ponpes.id^
 ||sallycapp.com^
 ||salonfifty4thirty.com^
