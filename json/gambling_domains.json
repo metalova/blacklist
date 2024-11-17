@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 18:37:43",
+  "updated": "2024-11-17 18:49:59",
   "categories": {
     "slot": {
-      "count": 5448,
+      "count": 5456,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32690,6 +32690,54 @@
           "domain": "numerouspost.com",
           "raw_url": "https://numerouspost.com/",
           "found_time": "2024-11-17 11:34:40",
+          "status": "active"
+        },
+        {
+          "domain": "unitest.co.id",
+          "raw_url": "https://unitest.co.id/layanan/TOGELCC/",
+          "found_time": "2024-11-17 11:37:43",
+          "status": "active"
+        },
+        {
+          "domain": "csirt.semarangkota.go.id",
+          "raw_url": "https://csirt.semarangkota.go.id/blog/Situs-Kampus-Menjadi-Sasaran-Empuk-Peretasan-dan-Disulap-Jadi-Judi-Online",
+          "found_time": "2024-11-17 11:47:53",
+          "status": "active"
+        },
+        {
+          "domain": "blitarkota.go.id",
+          "raw_url": "https://blitarkota.go.id/saber-hoaks/hoaks-tvone-mempromosikan-situs-judi-online",
+          "found_time": "2024-11-17 11:47:53",
+          "status": "active"
+        },
+        {
+          "domain": "csirt.batangkab.go.id",
+          "raw_url": "https://csirt.batangkab.go.id/portal/berita/55",
+          "found_time": "2024-11-17 11:47:54",
+          "status": "active"
+        },
+        {
+          "domain": "pitutur.id",
+          "raw_url": "https://www.pitutur.id/hukum/1403038434/sudah-ada-ratusan-ribu-situs-judi-online-diblokir-kominfo-mengapa-sebagian-masyarakat-masih-saja-kecanduan",
+          "found_time": "2024-11-17 11:47:54",
+          "status": "active"
+        },
+        {
+          "domain": "newchinatownnorfolk.com",
+          "raw_url": "https://www.newchinatownnorfolk.com/",
+          "found_time": "2024-11-17 11:49:58",
+          "status": "active"
+        },
+        {
+          "domain": "hoh.dekinurl.ly",
+          "raw_url": "https://hoh.dekinurl.ly/detik365/alm/index.html",
+          "found_time": "2024-11-17 11:49:58",
+          "status": "active"
+        },
+        {
+          "domain": "bolangkabeh.pages.dev",
+          "raw_url": "https://bolangkabeh.pages.dev/?earth=situs+gacor",
+          "found_time": "2024-11-17 11:49:58",
           "status": "active"
         }
       ]

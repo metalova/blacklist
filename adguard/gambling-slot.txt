@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 18:37:43
+! Last Updated: 2024-11-17 18:49:59
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5448
+! Number of unique domains: 5456
 !
 
 ||103.115.28.6^
@@ -699,6 +699,7 @@
 ||blanchospital.com.br^
 ||bleachernation.com^
 ||blended-living.com^
+||blitarkota.go.id^
 ||blockaway.net^
 ||bloempot.fr^
 ||blog.arfadia.com^
@@ -729,6 +730,7 @@
 ||bokunosensou.xyz^
 ||bola.com^
 ||bola.net^
+||bolangkabeh.pages.dev^
 ||bolegsbbq.com^
 ||boletindiversidad.org^
 ||boltimrsud.id^
@@ -1134,8 +1136,10 @@
 ||csauk.ac.in^
 ||csdronline.org^
 ||csibainschool.org^
+||csirt.batangkab.go.id^
 ||csirt.bmkg.go.id^
 ||csirt.grobogan.go.id^
+||csirt.semarangkota.go.id^
 ||csr.cianjurkab.go.id^
 ||ct-interactive.com^
 ||ctcfsa.org^
@@ -2014,6 +2018,7 @@
 ||hnue.edu.vn^
 ||hogardecristo.org.ar^
 ||hogriverbrewing.com^
+||hoh.dekinurl.ly^
 ||hoki77amp.com^
 ||hokiwonjackpot.com^
 ||hollywoodburbankairport.com^
@@ -3371,6 +3376,7 @@
 ||netmeds.com^
 ||neumaticosdesegundamano.com^
 ||neurofitnessfoundation.org^
+||newchinatownnorfolk.com^
 ||newenglandmanagementgroup.com^
 ||newfreespinsnodepositbonus.com^
 ||newmamen.pages.dev^
@@ -3739,6 +3745,7 @@
 ||pisanglailiau.com^
 ||pissjar.com^
 ||pitchbook.com^
+||pitutur.id^
 ||pixabay.com^
 ||pixelhub.me^
 ||pkbmibadurrahman.sch.id^
@@ -5139,6 +5146,7 @@
 ||unirse.nur.edu^
 ||uniska-kediri.ac.id^
 ||unitedthemes.com^
+||unitest.co.id^
 ||unitomo.ac.id^
 ||universitetite.com^
 ||univmeroket.pages.dev^
