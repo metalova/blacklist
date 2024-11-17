@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 08:48:11",
+  "updated": "2024-11-17 08:54:21",
   "categories": {
     "slot": {
-      "count": 5346,
+      "count": 5351,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32078,6 +32078,36 @@
           "domain": "weeblebooks-v2.pages.dev",
           "raw_url": "https://weeblebooks-v2.pages.dev/",
           "found_time": "2024-11-17 01:48:11",
+          "status": "active"
+        },
+        {
+          "domain": "vitamastering.com",
+          "raw_url": "https://vitamastering.com/",
+          "found_time": "2024-11-17 01:48:11",
+          "status": "active"
+        },
+        {
+          "domain": "sultan-login.pages.dev",
+          "raw_url": "https://sultan-login.pages.dev/",
+          "found_time": "2024-11-17 01:50:12",
+          "status": "active"
+        },
+        {
+          "domain": "groupehardy.com",
+          "raw_url": "https://groupehardy.com/royal-88-1",
+          "found_time": "2024-11-17 01:53:14",
+          "status": "active"
+        },
+        {
+          "domain": "royalbetgirislinki.live",
+          "raw_url": "https://royalbetgirislinki.live/",
+          "found_time": "2024-11-17 01:54:20",
+          "status": "active"
+        },
+        {
+          "domain": "disdukcapil.tanatorajakab.go.id",
+          "raw_url": "https://disdukcapil.tanatorajakab.go.id/wp-includes/lib/?cartel=royalbet",
+          "found_time": "2024-11-17 01:54:21",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 08:48:11
+! Last Updated: 2024-11-17 08:54:21
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5346
+! Number of unique domains: 5351
 !
 
 ||103.115.28.6^
@@ -1286,6 +1286,7 @@
 ||disdiklangkat.com^
 ||disdiksupiori.org^
 ||disdukcapil.meranginkab.go.id^
+||disdukcapil.tanatorajakab.go.id^
 ||dishub.banjarbarukota.go.id^
 ||diskominfo.grobogan.go.id^
 ||diskominfo.morowaliutarakab.go.id^
@@ -1861,6 +1862,7 @@
 ||gringosoysterbar.com^
 ||groovyduckbakery.net^
 ||groupebgfibank.com^
+||groupehardy.com^
 ||growgreenconference.com^
 ||grrrl.net^
 ||gsis-accra.org^
@@ -4055,6 +4057,7 @@
 ||royalbet.org^
 ||royalbet33.net^
 ||royalbet88.org^
+||royalbetgirislinki.live^
 ||royalbetking.life^
 ||royalbeto.com^
 ||royalbets.vip^
@@ -4582,6 +4585,7 @@
 ||suka.chokichoki.xyz^
 ||sukanegeri-pringsewu.desa.id^
 ||sukarjomesim.desa.id^
+||sultan-login.pages.dev^
 ||sultan.untirta.ac.id^
 ||sultan777.jp.net^
 ||sultan777.me^
@@ -5124,6 +5128,7 @@
 ||viskikokteyl.com^
 ||vitalcarbon.pages.dev^
 ||vitalmtb.com^
+||vitamastering.com^
 ||vittajob.com.br^
 ||vivamanaus.com^
 ||vktr.id^
