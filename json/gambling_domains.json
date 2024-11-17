@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 18:24:45",
+  "updated": "2024-11-17 18:28:52",
   "categories": {
     "slot": {
-      "count": 5443,
+      "count": 5445,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32660,6 +32660,18 @@
           "domain": "jmcpds.com",
           "raw_url": "https://jmcpds.com/japri138-27/",
           "found_time": "2024-11-17 11:18:32",
+          "status": "active"
+        },
+        {
+          "domain": "talenta-ayu.indramayukab.go.id",
+          "raw_url": "https://talenta-ayu.indramayukab.go.id/news/?portal=zona4d",
+          "found_time": "2024-11-17 11:24:44",
+          "status": "active"
+        },
+        {
+          "domain": "imadiklus-orid.web.app",
+          "raw_url": "https://imadiklus-orid.web.app/?imback=TOTO4D",
+          "found_time": "2024-11-17 11:28:52",
           "status": "active"
         }
       ]

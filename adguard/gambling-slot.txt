@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 18:24:45
+! Last Updated: 2024-11-17 18:28:52
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5443
+! Number of unique domains: 5445
 !
 
 ||103.115.28.6^
@@ -2143,6 +2143,7 @@
 ||iloveshells.com^
 ||iluvphosnellville.com^
 ||im3ooredoo.com^
+||imadiklus-orid.web.app^
 ||imctekno.co.id^
 ||imigrasi-tasikmalaya.com^
 ||impactcollege.co.in^
@@ -4757,6 +4758,7 @@
 ||tajindiancincinnati.com^
 ||tajukrakyat.com^
 ||taktstudio.com^
+||talenta-ayu.indramayukab.go.id^
 ||talkislam.info^
 ||talksport.com^
 ||talktotucker.com^
