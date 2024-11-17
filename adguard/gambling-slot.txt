@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 05:16:57
+! Last Updated: 2024-11-18 05:23:07
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5560
+! Number of unique domains: 5565
 !
 
 ||103.115.28.6^
@@ -4112,6 +4112,7 @@
 ||redrabbitfarm.com^
 ||refaccionariamario.com^
 ||reflectionwindow.com^
+||refugemcr.co.uk^
 ||registrationfiling.com^
 ||registroaula.pocsed.educacao.sp.gov.br^
 ||reidsvillehigh.org^
@@ -4277,6 +4278,7 @@
 ||rwc77net.com^
 ||ryancfordistrict833.com^
 ||s-tech.id^
+||s2ilmuhukum.fh.unri.ac.id^
 ||saat-2610b.web.app^
 ||sabarimala.kerala.gov.in^
 ||sabarimalaonline.org^
@@ -4782,6 +4784,7 @@
 ||sultanjpking.com^
 ||sultanmain4d.org^
 ||sultansgrilllv.com^
+||sumbabaratkab.go.id^
 ||sumbartodaynews.com^
 ||sumbawanews.com^
 ||sumeks.disway.id^
@@ -4827,6 +4830,7 @@
 ||svps17huda.com^
 ||swamijuicetampa.com^
 ||swansondelivery.com^
+||swaramalut.com^
 ||sweetberryusa.com^
 ||sweetcreationsva.com^
 ||sweetolivehair.com^
@@ -5272,6 +5276,7 @@
 ||v8sleuth.com.au^
 ||vaccine-info.com^
 ||vaccine.medparkhospital.com^
+||valentinyauriosteo.fr^
 ||vallas.winlive4dmobile.com^
 ||valleystreamfoodtruck.com^
 ||valleyviewmotel.info^

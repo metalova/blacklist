@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 05:16:57",
+  "updated": "2024-11-18 05:23:07",
   "categories": {
     "slot": {
-      "count": 5560,
+      "count": 5565,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33362,6 +33362,36 @@
           "domain": "halmaheranesia.com",
           "raw_url": "https://www.halmaheranesia.com/2024/11/17/di-halut-sultan-husain-disebut-tokoh-perdamaian-maluku-utara/",
           "found_time": "2024-11-17 22:16:57",
+          "status": "active"
+        },
+        {
+          "domain": "swaramalut.com",
+          "raw_url": "https://swaramalut.com/warga-bido-batang-dua-pastikan-paslon-syahril-makmur-menang-diatas-70-persen/",
+          "found_time": "2024-11-17 22:16:57",
+          "status": "active"
+        },
+        {
+          "domain": "refugemcr.co.uk",
+          "raw_url": "https://www.refugemcr.co.uk/",
+          "found_time": "2024-11-17 22:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "valentinyauriosteo.fr",
+          "raw_url": "https://valentinyauriosteo.fr/angka-keluar-sidney-hongkong-singapura/",
+          "found_time": "2024-11-17 22:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "s2ilmuhukum.fh.unri.ac.id",
+          "raw_url": "https://s2ilmuhukum.fh.unri.ac.id/",
+          "found_time": "2024-11-17 22:20:03",
+          "status": "active"
+        },
+        {
+          "domain": "sumbabaratkab.go.id",
+          "raw_url": "http://sumbabaratkab.go.id/sidn/",
+          "found_time": "2024-11-17 22:20:04",
           "status": "active"
         }
       ]
