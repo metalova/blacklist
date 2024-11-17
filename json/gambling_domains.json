@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 08:09:58",
+  "updated": "2024-11-17 08:11:02",
   "categories": {
     "slot": {
-      "count": 5341,
+      "count": 5342,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32048,6 +32048,12 @@
           "domain": "meroketrank.pages.dev",
           "raw_url": "https://meroketrank.pages.dev/file/?story=WINNER88",
           "found_time": "2024-11-17 01:07:54",
+          "status": "active"
+        },
+        {
+          "domain": "manitowocjobcenter.org",
+          "raw_url": "https://manitowocjobcenter.org/lpsaamping/betwin/",
+          "found_time": "2024-11-17 01:09:58",
           "status": "active"
         }
       ]
