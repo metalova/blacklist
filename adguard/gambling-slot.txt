@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 17:10:26
+! Last Updated: 2024-11-17 17:18:36
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5404
+! Number of unique domains: 5408
 !
 
 ||103.115.28.6^
@@ -365,6 +365,7 @@
 ||archcrown.com^
 ||archivodocente.upea.bo^
 ||arcorbetttourism.com^
+||arfagility.com^
 ||argotchicago.com^
 ||aristocratgaming.com^
 ||aritac.com^
@@ -1336,6 +1337,7 @@
 ||dogelexusin.cyou^
 ||dogelexusin.skin^
 ||dogeliens.io^
+||dogonrestaurant.com^
 ||dogsandpupsmagazine.com^
 ||doi.apji.org^
 ||dokum.pasuruankota.go.id^
@@ -3075,6 +3077,7 @@
 ||mercmanifesto.org^
 ||merdeka.com^
 ||meroketrank.pages.dev^
+||mersudi.dingkoding.com^
 ||mesajil.com^
 ||mesastila100ultra.com^
 ||mesin-ft.uki.ac.id^
@@ -3576,6 +3579,7 @@
 ||partaitogel124.com^
 ||pasangan-aktortogel.com^
 ||pasarmodalsyariah.com^
+||pasiremas.desa.id^
 ||pasitive.com^
 ||passionraw.com^
 ||pasteleriasanonofre.com^

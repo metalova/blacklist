@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:10:26",
+  "updated": "2024-11-17 17:18:36",
   "categories": {
     "slot": {
-      "count": 5404,
+      "count": 5408,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32426,6 +32426,30 @@
           "domain": "mademoisellesemontre.com",
           "raw_url": "https://www.mademoisellesemontre.com/",
           "found_time": "2024-11-17 10:09:24",
+          "status": "active"
+        },
+        {
+          "domain": "mersudi.dingkoding.com",
+          "raw_url": "https://mersudi.dingkoding.com/maxwin/",
+          "found_time": "2024-11-17 10:10:25",
+          "status": "active"
+        },
+        {
+          "domain": "arfagility.com",
+          "raw_url": "https://www.arfagility.com/",
+          "found_time": "2024-11-17 10:16:33",
+          "status": "active"
+        },
+        {
+          "domain": "dogonrestaurant.com",
+          "raw_url": "https://dogonrestaurant.com/",
+          "found_time": "2024-11-17 10:16:33",
+          "status": "active"
+        },
+        {
+          "domain": "pasiremas.desa.id",
+          "raw_url": "https://www.pasiremas.desa.id/",
+          "found_time": "2024-11-17 10:17:35",
           "status": "active"
         }
       ]
