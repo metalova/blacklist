@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:48:35",
+  "updated": "2024-11-17 10:53:50",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 519,
+      "count": 522,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44380,6 +44380,24 @@
           "domain": "tekhelet.com",
           "raw_url": "https://www.tekhelet.com/project/bermain-judi-bola-dengan-agen-bola-parlay-terbaik/",
           "found_time": "2024-11-17 03:47:33",
+          "status": "active"
+        },
+        {
+          "domain": "fp2.menlhk.go.id:8080",
+          "raw_url": "http://fp2.menlhk.go.id:8080/playvideo/?ruay=Suara%20bola",
+          "found_time": "2024-11-17 03:48:34",
+          "status": "active"
+        },
+        {
+          "domain": "parlaybola.org",
+          "raw_url": "https://parlaybola.org/",
+          "found_time": "2024-11-17 03:50:40",
+          "status": "active"
+        },
+        {
+          "domain": "vitessenieuws.nl",
+          "raw_url": "https://vitessenieuws.nl/?products=CARA-MENANG-MIX-PARLAY",
+          "found_time": "2024-11-17 03:52:46",
           "status": "active"
         }
       ]

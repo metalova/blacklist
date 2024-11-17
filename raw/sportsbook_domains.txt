@@ -152,6 +152,7 @@ focus-cinema.com
 footlockerwest.com
 footystats.org
 forum.fanatec.com
+fp2.menlhk.go.id:8080
 freecovoiturage.fr
 ft95soundersfc.pages.dev
 ftp.dbd.puc-rio.br
@@ -336,6 +337,7 @@ parganz.pages.dev
 parisgame.bola1.net
 park328.com
 parlay855bet.pages.dev
+parlaybola.org
 parlaycsbola.com
 pdi-perjuangan.pages.dev
 pendidikan.malangkab.go.id:8099
@@ -498,6 +500,7 @@ upscale-technology.com
 usgbc.org
 utprw2.com
 view.publitas.com
+vitessenieuws.nl
 vod.in.th
 wartatransparansi.com
 watch.billboard.com
