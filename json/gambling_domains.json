@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 09:35:34",
+  "updated": "2024-11-17 10:14:48",
   "categories": {
     "slot": {
       "count": 5363,
@@ -32185,7 +32185,7 @@
       ]
     },
     "casino": {
-      "count": 511,
+      "count": 516,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -35251,6 +35251,36 @@
           "domain": "foysuperfoods.com",
           "raw_url": "https://foysuperfoods.com/",
           "found_time": "2024-11-17 02:34:32",
+          "status": "active"
+        },
+        {
+          "domain": "thehollywoodtrainerclub.com",
+          "raw_url": "https://thehollywoodtrainerclub.com/pragmatic-play-casinos.html",
+          "found_time": "2024-11-17 02:35:34",
+          "status": "active"
+        },
+        {
+          "domain": "hajosok.hu",
+          "raw_url": "https://hajosok.hu/",
+          "found_time": "2024-11-17 03:12:41",
+          "status": "active"
+        },
+        {
+          "domain": "amp.lashcafe.com",
+          "raw_url": "https://amp.lashcafe.com/",
+          "found_time": "2024-11-17 03:13:44",
+          "status": "active"
+        },
+        {
+          "domain": "michigan.gov",
+          "raw_url": "https://www.michigan.gov/mgcb/resources/responsible-gaming",
+          "found_time": "2024-11-17 03:14:47",
+          "status": "active"
+        },
+        {
+          "domain": "bi.team",
+          "raw_url": "https://www.bi.team/focus-areas/economy/gambling/",
+          "found_time": "2024-11-17 03:14:47",
           "status": "active"
         }
       ]

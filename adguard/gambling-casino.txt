@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-17 09:35:34
+! Last Updated: 2024-11-17 10:14:48
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 511
+! Number of unique domains: 516
 !
 
 ||24liveblog.com^
@@ -26,6 +26,7 @@
 ||amazon.de^
 ||amny.com^
 ||amodiva.com^
+||amp.lashcafe.com^
 ||anekatoto3win.com^
 ||anis.icar.gov.in^
 ||anj.fr^
@@ -54,6 +55,7 @@
 ||betgede.org^
 ||betkansas.com^
 ||betterhealth.vic.gov.au^
+||bi.team^
 ||bicyclecards.com^
 ||bicyclesonmain.com^
 ||bizhare.id^
@@ -184,6 +186,7 @@
 ||grasz.id^
 ||greatcanadian.com^
 ||greenvalleyranch.com^
+||hajosok.hu^
 ||haldynglass.com^
 ||hardrock.bet^
 ||harrahspoolac.com^
@@ -286,6 +289,7 @@
 ||mexicanfoodhackensack.com^
 ||mexicanrestaurantspringfield.com^
 ||mga.games^
+||michigan.gov^
 ||mikeklubnika.itch.io^
 ||millelacs.com^
 ||mindilbeachcasinoresort.com.au^
@@ -453,6 +457,7 @@
 ||thefosterfarm.org^
 ||thegamer.com^
 ||thegolfbusiness.co.uk^
+||thehollywoodtrainerclub.com^
 ||thehypemagazine.com^
 ||theoceanac.com^
 ||theofficedubai.com^
