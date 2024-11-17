@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 17:04:16",
+  "updated": "2024-11-17 17:09:24",
   "categories": {
     "slot": {
-      "count": 5399,
+      "count": 5403,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32396,6 +32396,30 @@
           "domain": "seberazvitie.com",
           "raw_url": "https://seberazvitie.com/",
           "found_time": "2024-11-17 10:04:16",
+          "status": "active"
+        },
+        {
+          "domain": "shutters.com.my",
+          "raw_url": "https://www.shutters.com.my/",
+          "found_time": "2024-11-17 10:04:16",
+          "status": "active"
+        },
+        {
+          "domain": "selot-tergatjor.pages.dev",
+          "raw_url": "https://selot-tergatjor.pages.dev/",
+          "found_time": "2024-11-17 10:05:17",
+          "status": "active"
+        },
+        {
+          "domain": "chandigarhphilosophers.com",
+          "raw_url": "https://www.chandigarhphilosophers.com/lib/",
+          "found_time": "2024-11-17 10:07:21",
+          "status": "active"
+        },
+        {
+          "domain": "labelinspi.com",
+          "raw_url": "https://labelinspi.com/label/",
+          "found_time": "2024-11-17 10:08:22",
           "status": "active"
         }
       ]
