@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 05:42:10
+! Last Updated: 2024-11-18 05:59:27
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5571
+! Number of unique domains: 5575
 !
 
 ||103.115.28.6^
@@ -3192,6 +3192,7 @@
 ||metropolis.id^
 ||metrorakyat.com^
 ||mewah89gucci.com^
+||mexicanfoodvictorville.com^
 ||mexicanxpro.mex.com^
 ||mexikingsgrill.com^
 ||mexiqnow.com^
@@ -3713,6 +3714,7 @@
 ||pdqpickup.com^
 ||peake-endurance.com^
 ||peasoupeats.com^
+||pecah77-resmi.pages.dev^
 ||pecah77a60.site^
 ||pechanga.com^
 ||pedalroom.com^
@@ -4545,6 +4547,7 @@
 ||sivajibuilders.com^
 ||siwalimanews.com^
 ||sixlasvegas.com^
+||sixsmadenpasar.sch.id^
 ||sizi99petir.com^
 ||sizzlenightclub.com^
 ||sizzlinggrilllakewales.com^
@@ -5550,6 +5553,7 @@
 ||zarahnailsparockford.com^
 ||zaufane-apteki.pl^
 ||zbozi.cz^
+||zedextata.co.in^
 ||zefflin.com^
 ||zellscafe.com^
 ||zendesk.next.co.uk^

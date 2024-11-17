@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 05:42:10",
+  "updated": "2024-11-18 05:59:27",
   "categories": {
     "slot": {
-      "count": 5571,
+      "count": 5575,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33428,6 +33428,30 @@
           "domain": "joseta.faperta.unand.ac.id",
           "raw_url": "http://joseta.faperta.unand.ac.id/hk/",
           "found_time": "2024-11-17 22:37:05",
+          "status": "active"
+        },
+        {
+          "domain": "sixsmadenpasar.sch.id",
+          "raw_url": "https://sixsmadenpasar.sch.id/anies/dana4d/",
+          "found_time": "2024-11-17 22:42:09",
+          "status": "active"
+        },
+        {
+          "domain": "pecah77-resmi.pages.dev",
+          "raw_url": "https://pecah77-resmi.pages.dev/",
+          "found_time": "2024-11-17 22:56:22",
+          "status": "active"
+        },
+        {
+          "domain": "mexicanfoodvictorville.com",
+          "raw_url": "https://mexicanfoodvictorville.com/",
+          "found_time": "2024-11-17 22:56:22",
+          "status": "active"
+        },
+        {
+          "domain": "zedextata.co.in",
+          "raw_url": "https://zedextata.co.in/?pafi=SITUSGACOR",
+          "found_time": "2024-11-17 22:57:25",
           "status": "active"
         }
       ]
