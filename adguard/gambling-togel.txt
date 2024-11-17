@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-17 23:13:18
+! Last Updated: 2024-11-17 23:16:21
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 930
+! Number of unique domains: 931
 !
 
 ||087ina.com^
@@ -527,6 +527,7 @@
 ||min1bintan.sch.id^
 ||mindscapeketamine.com^
 ||minitoto.pages.dev^
+||minnehahasheriff.org^
 ||missionfirefly.org^
 ||mlvintagemeet.com^
 ||morrisfarm.org^

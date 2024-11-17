@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 23:13:18",
+  "updated": "2024-11-17 23:16:21",
   "categories": {
     "slot": {
       "count": 5498,
@@ -36402,7 +36402,7 @@
       ]
     },
     "togel": {
-      "count": 930,
+      "count": 931,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -41982,6 +41982,12 @@
           "domain": "ladistilleriedesaintmalo.com",
           "raw_url": "https://ladistilleriedesaintmalo.com/",
           "found_time": "2024-11-17 16:13:17",
+          "status": "active"
+        },
+        {
+          "domain": "minnehahasheriff.org",
+          "raw_url": "https://www.minnehahasheriff.org/",
+          "found_time": "2024-11-17 16:13:18",
           "status": "active"
         }
       ]
