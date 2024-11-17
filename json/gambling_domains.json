@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-17 19:09:34",
+  "updated": "2024-11-17 19:43:58",
   "categories": {
     "slot": {
-      "count": 5476,
+      "count": 5479,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -32858,6 +32858,24 @@
           "domain": "dinkes.tangerangselatankota.go.id",
           "raw_url": "https://dinkes.tangerangselatankota.go.id/?kesehatan=depo138",
           "found_time": "2024-11-17 12:08:32",
+          "status": "active"
+        },
+        {
+          "domain": "organisasi.keranggan.desa.id",
+          "raw_url": "https://organisasi.keranggan.desa.id/muaro/?jambi=depo138",
+          "found_time": "2024-11-17 12:09:33",
+          "status": "active"
+        },
+        {
+          "domain": "imadiklus.or.id",
+          "raw_url": "https://imadiklus.or.id/?imback=dana+winslot",
+          "found_time": "2024-11-17 12:42:56",
+          "status": "active"
+        },
+        {
+          "domain": "piraattiliitto.org",
+          "raw_url": "https://www.piraattiliitto.org/",
+          "found_time": "2024-11-17 12:42:56",
           "status": "active"
         }
       ]

@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-17 19:09:34
+! Last Updated: 2024-11-17 19:43:58
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5476
+! Number of unique domains: 5479
 !
 
 ||103.115.28.6^
@@ -2159,6 +2159,7 @@
 ||iluvphosnellville.com^
 ||im3ooredoo.com^
 ||imadiklus-orid.web.app^
+||imadiklus.or.id^
 ||imctekno.co.id^
 ||imigrasi-tasikmalaya.com^
 ||impactcollege.co.in^
@@ -3518,6 +3519,7 @@
 ||orderredpigasiankitchen.com^
 ||orfo.ru^
 ||organicnailscdmx.com^
+||organisasi.keranggan.desa.id^
 ||origenapartamentos.com^
 ||orizon-digital.fr^
 ||orori.com^
@@ -3756,6 +3758,7 @@
 ||piperbaycafe.com^
 ||pipinoveg.com^
 ||pipsqueaking.com^
+||piraattiliitto.org^
 ||pisangbet-cvi.pages.dev^
 ||pisanglailiau.com^
 ||pissjar.com^
