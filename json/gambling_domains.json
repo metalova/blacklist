@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 21:46:18",
+  "updated": "2024-11-17 21:51:47",
   "categories": {
     "slot": {
       "count": 5498,
@@ -42646,7 +42646,7 @@
       ]
     },
     "sportsbook": {
-      "count": 551,
+      "count": 553,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -45952,6 +45952,18 @@
           "domain": "situsjudibolaresmiterpercaya.com",
           "raw_url": "https://situsjudibolaresmiterpercaya.com/bola-resmi/",
           "found_time": "2024-11-17 14:46:17",
+          "status": "active"
+        },
+        {
+          "domain": "haluansultra.id",
+          "raw_url": "https://haluansultra.id/2024/11/17/pra-popnas-zona-iv-sulawesi-tenggara-resmi-bergulir-sekda-jaga-sportivitas/",
+          "found_time": "2024-11-17 14:46:18",
+          "status": "active"
+        },
+        {
+          "domain": "bihepistudios.com",
+          "raw_url": "https://bihepistudios.com/situs-agen-maxbet-bola/",
+          "found_time": "2024-11-17 14:51:46",
           "status": "active"
         }
       ]
