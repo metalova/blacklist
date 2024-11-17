@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 01:34:32",
+  "updated": "2024-11-18 01:39:38",
   "categories": {
     "slot": {
       "count": 5498,
@@ -48170,7 +48170,7 @@
       ]
     },
     "others": {
-      "count": 336,
+      "count": 340,
       "domains": [
         {
           "domain": "ppatk.go.id",
@@ -50186,6 +50186,30 @@
           "domain": "investasiku.id",
           "raw_url": "https://www.investasiku.id/eduvest/lifestyle/artis-promosi-judi-online",
           "found_time": "2024-11-17 18:33:31",
+          "status": "active"
+        },
+        {
+          "domain": "ircell.iitkgp.ac.in",
+          "raw_url": "https://ircell.iitkgp.ac.in/media/index.php?cola=freebet+judi",
+          "found_time": "2024-11-17 18:34:32",
+          "status": "active"
+        },
+        {
+          "domain": "info.populix.co",
+          "raw_url": "https://info.populix.co/articles/judi-online/",
+          "found_time": "2024-11-17 18:36:34",
+          "status": "active"
+        },
+        {
+          "domain": "eprints.uny.ac.id",
+          "raw_url": "https://eprints.uny.ac.id/22643/4/4.%20BAB%20II%20.pdf",
+          "found_time": "2024-11-17 18:36:35",
+          "status": "active"
+        },
+        {
+          "domain": "journal.lps2h.com",
+          "raw_url": "https://journal.lps2h.com/academica/article/download/146/96/565",
+          "found_time": "2024-11-17 18:38:37",
           "status": "active"
         }
       ]

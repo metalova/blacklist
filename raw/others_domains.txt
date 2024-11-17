@@ -72,6 +72,7 @@ ejournal.warunayama.org
 ejurnal.kampusakademik.co.id
 emitennews.com
 encounterghosts.com
+eprints.uny.ac.id
 era.id
 eranasional.com
 fajarsatu.com
@@ -110,11 +111,13 @@ inanews.co.id
 indonesia.go.id
 indonesiainside.id
 indonews.id
+info.populix.co
 infoekonomi.id
 infoindonesia.id
 inionline.id
 investasiku.id
 investor.id
+ircell.iitkgp.ac.in
 itjen.menlhk.go.id
 izytech.com
 j5newsroom.com
@@ -125,6 +128,7 @@ jernih.co
 jogjapolitan.harianjogja.com
 journal-stiayappimakassar.ac.id
 journal.appihi.or.id
+journal.lps2h.com
 journal.unimma.ac.id
 journal2.um.ac.id
 journalnusantara.com
