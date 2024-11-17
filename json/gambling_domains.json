@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-17 10:38:16",
+  "updated": "2024-11-17 10:41:21",
   "categories": {
     "slot": {
       "count": 5363,
@@ -41266,7 +41266,7 @@
       ]
     },
     "sportsbook": {
-      "count": 514,
+      "count": 515,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -44349,6 +44349,12 @@
         {
           "domain": "oke303.wordpress.com",
           "raw_url": "https://oke303.wordpress.com/cara-menghitung-mix-parlay-atau-taruhan-berganda/",
+          "found_time": "2024-11-17 03:38:15",
+          "status": "active"
+        },
+        {
+          "domain": "calculatormixparlay.com",
+          "raw_url": "https://calculatormixparlay.com/",
           "found_time": "2024-11-17 03:38:15",
           "status": "active"
         }
