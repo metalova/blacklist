@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:34:26",
+  "updated": "2024-11-18 08:35:28",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 592,
+      "count": 593,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37231,6 +37231,12 @@
           "domain": "casino.fanatics.com",
           "raw_url": "https://casino.fanatics.com/",
           "found_time": "2024-11-18 01:34:25",
+          "status": "active"
+        },
+        {
+          "domain": "continent8.com",
+          "raw_url": "https://www.continent8.com/solutions/manage/live-dealer-and-streaming/",
+          "found_time": "2024-11-18 01:34:26",
           "status": "active"
         }
       ]
