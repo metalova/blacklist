@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 09:39:55",
+  "updated": "2024-11-18 09:42:01",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 606,
+      "count": 609,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47416,6 +47416,24 @@
           "domain": "bolabulat.pages.dev",
           "raw_url": "https://bolabulat.pages.dev/",
           "found_time": "2024-11-18 02:39:54",
+          "status": "active"
+        },
+        {
+          "domain": "ledonline.it",
+          "raw_url": "https://www.ledonline.it/public/files/journals/3/articles/3216/submission/original/3216-11899-1-SM.html",
+          "found_time": "2024-11-18 02:39:54",
+          "status": "active"
+        },
+        {
+          "domain": "elearning.ulb.ac.id",
+          "raw_url": "https://elearning.ulb.ac.id/?view=bola%20mix%20parlay",
+          "found_time": "2024-11-18 02:40:58",
+          "status": "active"
+        },
+        {
+          "domain": "something-sweet.co",
+          "raw_url": "https://something-sweet.co/mix-parlay-bola-88/",
+          "found_time": "2024-11-18 02:40:59",
           "status": "active"
         }
       ]

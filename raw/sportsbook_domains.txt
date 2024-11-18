@@ -162,6 +162,7 @@ ejournal.amertamedia.co.id
 ejournal.ps.fisip-unmul.ac.id
 ejurnal.stiewidyapersada.id
 ekorantt.com
+elearning.ulb.ac.id
 eminhaqverdiyev.com
 enterthemetaverse.io
 eportfolio.unideb.hu
@@ -294,6 +295,7 @@ lartsana.com
 lartsana.pages.dev
 lashdoll.ca
 leban.desa.id
+ledonline.it
 leibykletzkymemorialfund.com
 lesok.in.ua
 letrachuecapress.com
@@ -514,6 +516,7 @@ smpitim8.sch.id
 smpn6meureubo.sch.id
 soccer.indozone.id
 somersetcosmic.org
+something-sweet.co
 sorongselatankab.ina-sdi.or.id
 specs.id
 spiceandall.co.za
