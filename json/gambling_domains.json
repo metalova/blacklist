@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 09:24:15",
+  "updated": "2024-11-18 09:25:18",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 595,
+      "count": 596,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47350,6 +47350,12 @@
           "domain": "jenniferlie.quora.com",
           "raw_url": "https://jenniferlie.quora.com/",
           "found_time": "2024-11-18 02:22:12",
+          "status": "active"
+        },
+        {
+          "domain": "manoneambon.sch.id",
+          "raw_url": "https://manoneambon.sch.id/style/jbl/",
+          "found_time": "2024-11-18 02:24:15",
           "status": "active"
         }
       ]
