@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:47:52",
+  "updated": "2024-11-18 09:18:54",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 590,
+      "count": 591,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47319,6 +47319,12 @@
         {
           "domain": "djpod.com",
           "raw_url": "https://djpod.com/agenbola",
+          "found_time": "2024-11-18 01:47:52",
+          "status": "active"
+        },
+        {
+          "domain": "agen-bola-terpercaya.com",
+          "raw_url": "https://www.agen-bola-terpercaya.com/",
           "found_time": "2024-11-18 01:47:52",
           "status": "active"
         }
