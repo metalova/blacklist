@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:01:40",
+  "updated": "2024-11-18 08:06:44",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 576,
+      "count": 577,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37135,6 +37135,12 @@
           "domain": "gpdibangkam.com",
           "raw_url": "https://gpdibangkam.com/cox/",
           "found_time": "2024-11-18 01:01:39",
+          "status": "active"
+        },
+        {
+          "domain": "egger2024.eysportal.com",
+          "raw_url": "https://egger2024.eysportal.com/css/data/",
+          "found_time": "2024-11-18 01:01:40",
           "status": "active"
         }
       ]
