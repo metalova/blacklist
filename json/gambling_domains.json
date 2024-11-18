@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:42:40",
+  "updated": "2024-11-18 08:47:52",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 599,
+      "count": 600,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37273,6 +37273,12 @@
           "domain": "thevalleyplaza.com",
           "raw_url": "https://thevalleyplaza.com/",
           "found_time": "2024-11-18 01:42:39",
+          "status": "active"
+        },
+        {
+          "domain": "coldroofing.com",
+          "raw_url": "https://coldroofing.com/Taya-777-Online-Casino-Real-Money-Philippines/",
+          "found_time": "2024-11-18 01:42:40",
           "status": "active"
         }
       ]
@@ -43774,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 582,
+      "count": 590,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47266,6 +47272,54 @@
           "domain": "dewandireksi.pages.dev",
           "raw_url": "https://dewandireksi.pages.dev/",
           "found_time": "2024-11-17 15:55:59",
+          "status": "active"
+        },
+        {
+          "domain": "stpkat.ac.id",
+          "raw_url": "https://stpkat.ac.id/kopiko/?bmw_f30i=taruhan+bola+online",
+          "found_time": "2024-11-18 01:45:45",
+          "status": "active"
+        },
+        {
+          "domain": "indonesian.alibaba.com",
+          "raw_url": "https://indonesian.alibaba.com/g/ac-blowing-agent.html",
+          "found_time": "2024-11-18 01:46:48",
+          "status": "active"
+        },
+        {
+          "domain": "f6s.com",
+          "raw_url": "https://www.f6s.com/member/agen-bola-judi-piala-dunia",
+          "found_time": "2024-11-18 01:46:48",
+          "status": "active"
+        },
+        {
+          "domain": "iribilangbosss.pages.dev",
+          "raw_url": "https://iribilangbosss.pages.dev/?smile=AGEN%20BOLA%20LIGA%20INDONESIA",
+          "found_time": "2024-11-18 01:46:49",
+          "status": "active"
+        },
+        {
+          "domain": "tunel-hoki.pages.dev",
+          "raw_url": "https://tunel-hoki.pages.dev/",
+          "found_time": "2024-11-18 01:46:49",
+          "status": "active"
+        },
+        {
+          "domain": "mommymedspa.com",
+          "raw_url": "https://mommymedspa.com/",
+          "found_time": "2024-11-18 01:47:51",
+          "status": "active"
+        },
+        {
+          "domain": "estripora.semarangkota.go.id",
+          "raw_url": "https://estripora.semarangkota.go.id/img/turbo/csn/",
+          "found_time": "2024-11-18 01:47:51",
+          "status": "active"
+        },
+        {
+          "domain": "djpod.com",
+          "raw_url": "https://djpod.com/agenbola",
+          "found_time": "2024-11-18 01:47:52",
           "status": "active"
         }
       ]

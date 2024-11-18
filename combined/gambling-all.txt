@@ -1,8 +1,8 @@
 ! Title: Combined Gambling Domain Blocklist
-! Last Updated: 2024-11-18 08:42:40
+! Last Updated: 2024-11-18 08:47:52
 ! Description: Combined list of all gambling domains
 ! Format: AdGuard
-! Number of domains: 8538
+! Number of domains: 8547
 !
 
 ! Category: SLOT
@@ -6219,6 +6219,7 @@
 ||sport.enci.it^
 ||fwglobaltrading.com^
 ||thevalleyplaza.com^
+||coldroofing.com^
 
 ! Category: TOGEL
 ||tupac-berlin.com^
@@ -7888,6 +7889,14 @@
 ||kerrobertbakery.com^
 ||sdm.bku.ac.id^
 ||dewandireksi.pages.dev^
+||stpkat.ac.id^
+||indonesian.alibaba.com^
+||f6s.com^
+||iribilangbosss.pages.dev^
+||tunel-hoki.pages.dev^
+||mommymedspa.com^
+||estripora.semarangkota.go.id^
+||djpod.com^
 
 ! Category: ESPORTS
 ||exactitudeconsultancy.com^

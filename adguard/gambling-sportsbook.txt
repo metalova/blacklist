@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-18 08:42:40
+! Last Updated: 2024-11-18 08:47:52
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 582
+! Number of unique domains: 590
 !
 
 ||9sarang188.com^
@@ -143,6 +143,7 @@
 ||digilibadmin.unismuh.ac.id^
 ||dinkesmbd.net^
 ||discoveriesinamericanart.com^
+||djpod.com^
 ||dlhk.inhilkab.go.id^
 ||docdroid.net^
 ||dorangadget.com^
@@ -167,7 +168,9 @@
 ||equatoronline.id^
 ||erty.ee^
 ||espace-client.autobilan-systems.com^
+||estripora.semarangkota.go.id^
 ||eventbrite.com^
+||f6s.com^
 ||faktanasional.id^
 ||faroukmiya.com^
 ||finansial.bisnis.com^
@@ -222,6 +225,7 @@
 ||impresadiretta.net^
 ||indianahawksbaseball.com^
 ||indonesiakini.go.id^
+||indonesian.alibaba.com^
 ||indonesiaplant.com^
 ||indrabooks.com^
 ||indrabooks.pages.dev^
@@ -235,6 +239,7 @@
 ||interbankwholesale.com^
 ||intrend.id^
 ||investortrust.id^
+||iribilangbosss.pages.dev^
 ||iskaposmeatmarket.com^
 ||itd.imss.gob.mx^
 ||itiahaiti.org^
@@ -330,6 +335,7 @@
 ||mitrabratanews.com^
 ||mitrawp.co.id^
 ||mnctrijaya.com^
+||mommymedspa.com^
 ||monitoring-siasn.bkn.go.id^
 ||morehere.org^
 ||morningdough.com^
@@ -514,6 +520,7 @@
 ||staging.arbusa.com^
 ||stisnq.ac.id^
 ||stkipyasika.pages.dev^
+||stpkat.ac.id^
 ||stroomlijnadvies.nl^
 ||sttpresbyterian.ac.id^
 ||sumberkini.my^
@@ -548,6 +555,7 @@
 ||tribratanewsntt.com^
 ||tripadvisor.it^
 ||tulangbawang.pages.dev^
+||tunel-hoki.pages.dev^
 ||ubest.ac.id^
 ||ucosigtau.com^
 ||uijar.com^

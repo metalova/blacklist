@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-18 08:42:40
+! Last Updated: 2024-11-18 08:47:52
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 599
+! Number of unique domains: 600
 !
 
 ||24liveblog.com^
@@ -124,6 +124,7 @@
 ||cms-gb.com^
 ||cnnindonesia.com^
 ||coingabbar.com^
+||coldroofing.com^
 ||columbiapacificuniversity.com^
 ||conference.upnvj.ac.id^
 ||continent8.com^
