@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 09:48:15",
+  "updated": "2024-11-18 09:54:23",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 616,
+      "count": 619,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47476,6 +47476,24 @@
           "domain": "volusiabeachpass.com",
           "raw_url": "https://www.volusiabeachpass.com/",
           "found_time": "2024-11-18 02:47:13",
+          "status": "active"
+        },
+        {
+          "domain": "abyssunderground.co.uk",
+          "raw_url": "http://www.abyssunderground.co.uk/",
+          "found_time": "2024-11-18 02:48:15",
+          "status": "active"
+        },
+        {
+          "domain": "laboratoriodrribeiro.uniexames.com.br",
+          "raw_url": "https://laboratoriodrribeiro.uniexames.com.br/plugins/su/?p=NEXUS-TOGEL",
+          "found_time": "2024-11-18 02:50:18",
+          "status": "active"
+        },
+        {
+          "domain": "id.puma.com",
+          "raw_url": "https://id.puma.com/in/home",
+          "found_time": "2024-11-18 02:54:22",
           "status": "active"
         }
       ]
