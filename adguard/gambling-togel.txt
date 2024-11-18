@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - TOGEL
-! Last Updated: 2024-11-18 10:04:56
+! Last Updated: 2024-11-18 10:09:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 956
+! Number of unique domains: 968
 !
 
 ||087ina.com^
@@ -151,6 +151,7 @@
 ||childrensshelterhome.org^
 ||chinnaveedurestaurant.com^
 ||christianlyricist.com^
+||christiestrategies.com^
 ||chunkythread.com^
 ||cirdap.org^
 ||cisummit2023.com^
@@ -200,6 +201,7 @@
 ||deborafoundation.org^
 ||defineagile.com^
 ||delhiheights.net^
+||demarretafermebio.com^
 ||denneyforidaho.com^
 ||dentistoftijuana.com^
 ||denv.gouv.sn^
@@ -355,6 +357,7 @@
 ||hifivecafe.com^
 ||hin-trip.com^
 ||historiadelacomunicacion.com^
+||hmuconference.com^
 ||hofstetter-sports.ch^
 ||holistickitchenacademy.com^
 ||holywin88sunday.com^
@@ -381,6 +384,7 @@
 ||inlislite.kamparkab.go.id^
 ||inm.org.bd^
 ||inside-global.com^
+||inspectmania.com^
 ||institutogth.edu.ec^
 ||institutoparanaodontologia.com.br^
 ||insurance.tsue.uz^
@@ -417,10 +421,12 @@
 ||jp.localhost.pa-bawean.go.id^
 ||jphelleniccenter.com^
 ||jpii.upri.ac.id^
+||jrsmithlaw.com^
 ||jurnal.stiedarulfalahmojokerto.ac.id^
 ||jurnal2.untagsmg.ac.id^
 ||just5moreminutes.com^
 ||justiceforbruce.com^
+||jwmarmer.com^
 ||kabar.sanggau.go.id^
 ||kabarsulsel-indonesia.com^
 ||kachadoorian.com^
@@ -530,6 +536,7 @@
 ||metrotvnews.com^
 ||mexrugby.com^
 ||michelangeloprezioso.com^
+||microtas2022.org^
 ||middletownjamaicanrestaurant.com^
 ||mids4d.co.uk^
 ||midwestfh.com^
@@ -537,6 +544,7 @@
 ||milknroll.com^
 ||millenniumsaloninc.com^
 ||millerlbr.com^
+||millersoilsllc.com^
 ||millesima-technologies.com^
 ||min1bintan.sch.id^
 ||mindscapeketamine.com^
@@ -671,6 +679,7 @@
 ||provalenslearning.com^
 ||proyek-besar.pages.dev^
 ||psb.alrifaiedua.sch.id^
+||psbtamaddun.pprq.sch.id^
 ||psy-peujard.fr^
 ||ptat.org^
 ||puela.gob.ec^
@@ -710,6 +719,7 @@
 ||reynoldsburgumc.com^
 ||rfconnect.com^
 ||rgonside.com^
+||riawc.com^
 ||ricetteamericane.com^
 ||rickmk.com^
 ||rineranimalhospital.com^
@@ -777,6 +787,7 @@
 ||sindikatpost.com^
 ||sinpo.id^
 ||sinreladokkesgto.id^
+||sipayirestaurant.com^
 ||sipinter.uinjambi.ac.id^
 ||sipnap.kemkes.go.id^
 ||sipp.pn-sukamakmue.go.id^
@@ -918,6 +929,7 @@
 ||veteranstee.org^
 ||vgkh.ru^
 ||victoriaresidence.co.id^
+||vijayarajhospitals.com^
 ||vivancoculturadevino.es^
 ||vivasulut.com^
 ||vozzhelmets.com^

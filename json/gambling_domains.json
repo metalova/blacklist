@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 10:04:56",
+  "updated": "2024-11-18 10:09:13",
   "categories": {
     "slot": {
       "count": 5612,
@@ -37284,7 +37284,7 @@
       ]
     },
     "togel": {
-      "count": 956,
+      "count": 968,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -43020,6 +43020,78 @@
           "domain": "ams.cppluscloud.com",
           "raw_url": "https://ams.cppluscloud.com/logic/",
           "found_time": "2024-11-18 03:04:56",
+          "status": "active"
+        },
+        {
+          "domain": "psbtamaddun.pprq.sch.id",
+          "raw_url": "https://psbtamaddun.pprq.sch.id/tant/tpub/",
+          "found_time": "2024-11-18 03:04:56",
+          "status": "active"
+        },
+        {
+          "domain": "riawc.com",
+          "raw_url": "https://riawc.com/",
+          "found_time": "2024-11-18 03:06:01",
+          "status": "active"
+        },
+        {
+          "domain": "demarretafermebio.com",
+          "raw_url": "https://www.demarretafermebio.com/",
+          "found_time": "2024-11-18 03:07:04",
+          "status": "active"
+        },
+        {
+          "domain": "microtas2022.org",
+          "raw_url": "https://www.microtas2022.org/",
+          "found_time": "2024-11-18 03:07:05",
+          "status": "active"
+        },
+        {
+          "domain": "inspectmania.com",
+          "raw_url": "https://www.inspectmania.com/",
+          "found_time": "2024-11-18 03:07:05",
+          "status": "active"
+        },
+        {
+          "domain": "jrsmithlaw.com",
+          "raw_url": "https://www.jrsmithlaw.com/",
+          "found_time": "2024-11-18 03:07:05",
+          "status": "active"
+        },
+        {
+          "domain": "christiestrategies.com",
+          "raw_url": "https://www.christiestrategies.com/",
+          "found_time": "2024-11-18 03:07:06",
+          "status": "active"
+        },
+        {
+          "domain": "vijayarajhospitals.com",
+          "raw_url": "https://vijayarajhospitals.com/amp/",
+          "found_time": "2024-11-18 03:08:08",
+          "status": "active"
+        },
+        {
+          "domain": "jwmarmer.com",
+          "raw_url": "https://jwmarmer.com/amp/",
+          "found_time": "2024-11-18 03:08:08",
+          "status": "active"
+        },
+        {
+          "domain": "sipayirestaurant.com",
+          "raw_url": "https://sipayirestaurant.com/",
+          "found_time": "2024-11-18 03:09:11",
+          "status": "active"
+        },
+        {
+          "domain": "millersoilsllc.com",
+          "raw_url": "https://millersoilsllc.com/amp/",
+          "found_time": "2024-11-18 03:09:12",
+          "status": "active"
+        },
+        {
+          "domain": "hmuconference.com",
+          "raw_url": "https://hmuconference.com/",
+          "found_time": "2024-11-18 03:09:12",
           "status": "active"
         }
       ]
