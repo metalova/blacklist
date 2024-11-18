@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:35:28",
+  "updated": "2024-11-18 08:42:40",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 593,
+      "count": 599,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37237,6 +37237,42 @@
           "domain": "continent8.com",
           "raw_url": "https://www.continent8.com/solutions/manage/live-dealer-and-streaming/",
           "found_time": "2024-11-18 01:34:26",
+          "status": "active"
+        },
+        {
+          "domain": "heraldscotland.com",
+          "raw_url": "https://www.heraldscotland.com/life_style/23845160.live-casino-online-top-live-dealer-casinos-ranked/",
+          "found_time": "2024-11-18 01:35:28",
+          "status": "active"
+        },
+        {
+          "domain": "youthpickleballacademy.com",
+          "raw_url": "https://youthpickleballacademy.com/",
+          "found_time": "2024-11-18 01:41:36",
+          "status": "active"
+        },
+        {
+          "domain": "chucknicholsongmc.com",
+          "raw_url": "https://www.chucknicholsongmc.com/",
+          "found_time": "2024-11-18 01:41:37",
+          "status": "active"
+        },
+        {
+          "domain": "sport.enci.it",
+          "raw_url": "https://sport.enci.it/",
+          "found_time": "2024-11-18 01:42:39",
+          "status": "active"
+        },
+        {
+          "domain": "fwglobaltrading.com",
+          "raw_url": "https://fwglobaltrading.com/Lucky-777-Casino-Download/",
+          "found_time": "2024-11-18 01:42:39",
+          "status": "active"
+        },
+        {
+          "domain": "thevalleyplaza.com",
+          "raw_url": "https://thevalleyplaza.com/",
+          "found_time": "2024-11-18 01:42:39",
           "status": "active"
         }
       ]

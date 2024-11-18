@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-18 08:35:28
+! Last Updated: 2024-11-18 08:42:40
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 593
+! Number of unique domains: 599
 !
 
 ||24liveblog.com^
@@ -114,6 +114,7 @@
 ||cherokeelodgenc.com^
 ||chetanalaya.org^
 ||chirurgie-digestif-proctologie.re^
+||chucknicholsongmc.com^
 ||cincinnati.com^
 ||circalasvegas.com^
 ||circuscircus.com^
@@ -188,6 +189,7 @@
 ||fortunewheel.com^
 ||foysuperfoods.com^
 ||fpmipa.ikip-saraswati.ac.id^
+||fwglobaltrading.com^
 ||gambierc.ca^
 ||gambleaware.nsw.gov.au^
 ||gambleaware.org^
@@ -225,6 +227,7 @@
 ||harrisburghavoc.com^
 ||hazrestaurant.co.uk^
 ||heartstartny.com^
+||heraldscotland.com^
 ||herminahospitals.com^
 ||hidayatullah.com^
 ||hindcompo.com^
@@ -496,6 +499,7 @@
 ||southshoredive.com^
 ||spilnosylno.in.ua^
 ||spmi.ubest.ac.id^
+||sport.enci.it^
 ||spstbt.iift.ac.in^
 ||star.com.au^
 ||stellamarisconvent.net^
@@ -536,6 +540,7 @@
 ||thepointcasinoandhotel.com^
 ||theresortatsummerlin.com^
 ||theskagit.com^
+||thevalleyplaza.com^
 ||thewokdallas.com^
 ||thirdmonkeysports.com^
 ||thrivemedicalaesthetics.ca^
@@ -597,3 +602,4 @@
 ||www2.gov.bc.ca^
 ||wwww.septa.org^
 ||xaviersbehror.org^
+||youthpickleballacademy.com^
