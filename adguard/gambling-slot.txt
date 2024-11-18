@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 07:05:00
+! Last Updated: 2024-11-18 07:08:04
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5603
+! Number of unique domains: 5605
 !
 
 ||103.115.28.6^
@@ -516,6 +516,7 @@
 ||bapenda.tangerangselatankota.go.id^
 ||bappeda.jatimprov.go.id^
 ||bappeda.malutprov.go.id^
+||bappedalitbangkutaibaratkab.pages.dev^
 ||bappelitbangda.tanatorajakab.go.id^
 ||barbeqbarbies.com^
 ||barefootcovemarina.com^
@@ -1436,6 +1437,7 @@
 ||dsv.deliserdangkab.com^
 ||dtswe.org^
 ||dublinairport.com^
+||dudukcapa.pages.dev^
 ||duitggsinar.com^
 ||dukcapil.padangpanjang.go.id^
 ||dukcapil.tapinkab.go.id^

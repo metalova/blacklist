@@ -510,6 +510,7 @@ bapenda.sumbabaratkab.go.id
 bapenda.tangerangselatankota.go.id
 bappeda.jatimprov.go.id
 bappeda.malutprov.go.id
+bappedalitbangkutaibaratkab.pages.dev
 bappelitbangda.tanatorajakab.go.id
 barbeqbarbies.com
 barefootcovemarina.com
@@ -1430,6 +1431,7 @@ dsd2035.com
 dsv.deliserdangkab.com
 dtswe.org
 dublinairport.com
+dudukcapa.pages.dev
 duitggsinar.com
 dukcapil.padangpanjang.go.id
 dukcapil.tapinkab.go.id

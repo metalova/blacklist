@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 07:05:00",
+  "updated": "2024-11-18 07:08:04",
   "categories": {
     "slot": {
-      "count": 5603,
+      "count": 5605,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33620,6 +33620,18 @@
           "domain": "ips88.pages.dev",
           "raw_url": "https://ips88.pages.dev/",
           "found_time": "2024-11-18 00:02:58",
+          "status": "active"
+        },
+        {
+          "domain": "bappedalitbangkutaibaratkab.pages.dev",
+          "raw_url": "https://bappedalitbangkutaibaratkab.pages.dev/setengah/?ngembang=SULTANJP",
+          "found_time": "2024-11-18 00:04:59",
+          "status": "active"
+        },
+        {
+          "domain": "dudukcapa.pages.dev",
+          "raw_url": "https://dudukcapa.pages.dev/wp-includes/lib/?cartel=ROYALBET",
+          "found_time": "2024-11-18 00:08:03",
           "status": "active"
         }
       ]
