@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-18 07:25:29
+! Last Updated: 2024-11-18 07:59:36
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 571
+! Number of unique domains: 572
 !
 
 ||24liveblog.com^
@@ -364,6 +364,7 @@
 ||online-roulette-information.co.uk^
 ||online-stopwatch.com^
 ||onlineliveroulette.net^
+||opac.fhukum.unpatti.ac.id^
 ||ordercityteriayki.com^
 ||organisasi.koltimkab.com^
 ||orlandomagazine.com^
