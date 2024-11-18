@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:20:01",
+  "updated": "2024-11-18 08:24:07",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 582,
+      "count": 584,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37171,6 +37171,18 @@
           "domain": "inspire-vip.jp",
           "raw_url": "https://inspire-vip.jp/en/",
           "found_time": "2024-11-18 01:20:00",
+          "status": "active"
+        },
+        {
+          "domain": "bergsteinlaw.com",
+          "raw_url": "https://bergsteinlaw.com/en/english-international-bid-luxury-casino-hotel-in-carmelo/",
+          "found_time": "2024-11-18 01:20:01",
+          "status": "active"
+        },
+        {
+          "domain": "exploreminnesota.com",
+          "raw_url": "https://www.exploreminnesota.com/profile/grand-casino-mille-lacs/1538",
+          "found_time": "2024-11-18 01:22:04",
           "status": "active"
         }
       ]
