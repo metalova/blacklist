@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:13:51",
+  "updated": "2024-11-18 08:20:01",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 578,
+      "count": 582,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37147,6 +37147,30 @@
           "domain": "pustakapelajar.co.id",
           "raw_url": "https://pustakapelajar.co.id/",
           "found_time": "2024-11-18 01:06:44",
+          "status": "active"
+        },
+        {
+          "domain": "dhub.co.id",
+          "raw_url": "https://www.dhub.co.id/BACCARAT-ONLINE-526/",
+          "found_time": "2024-11-18 01:13:51",
+          "status": "active"
+        },
+        {
+          "domain": "antrian.pn-sampang.go.id",
+          "raw_url": "https://www.antrian.pn-sampang.go.id/PRAGMATIC-LIVE-CASINO-307/",
+          "found_time": "2024-11-18 01:16:56",
+          "status": "active"
+        },
+        {
+          "domain": "auto-lada.cz",
+          "raw_url": "https://www.auto-lada.cz/",
+          "found_time": "2024-11-18 01:16:56",
+          "status": "active"
+        },
+        {
+          "domain": "inspire-vip.jp",
+          "raw_url": "https://inspire-vip.jp/en/",
+          "found_time": "2024-11-18 01:20:00",
           "status": "active"
         }
       ]
