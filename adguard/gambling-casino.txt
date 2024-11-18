@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-18 08:24:07
+! Last Updated: 2024-11-18 08:28:13
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 584
+! Number of unique domains: 585
 !
 
 ||24liveblog.com^
@@ -576,6 +576,7 @@
 ||wap.lojascala.com.br^
 ||warhorsecasino.com^
 ||washington.org^
+||washingtoncitypaper.com^
 ||web.margasari.desa.id^
 ||weirdal.com^
 ||wendiartit.com^
