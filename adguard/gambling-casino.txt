@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-18 07:18:17
+! Last Updated: 2024-11-18 07:24:28
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 567
+! Number of unique domains: 570
 !
 
 ||24liveblog.com^
@@ -28,6 +28,7 @@
 ||amny.com^
 ||amodiva.com^
 ||amp.lashcafe.com^
+||anandarishi.com^
 ||anekatoto3win.com^
 ||anis.icar.gov.in^
 ||anj.fr^
@@ -55,6 +56,7 @@
 ||beijinggreenbeltmd.com^
 ||bendosari.desa.id^
 ||beritakriminalkepri.com^
+||bernasnews.id^
 ||betblocker.org^
 ||betgede.org^
 ||betkansas.com^
@@ -268,6 +270,7 @@
 ||journalofmedula.com^
 ||jti.respati.ac.id^
 ||jurnal.sties-baktiya.ac.id^
+||kas.gpdibangkam.com^
 ||kbivirtual.id^
 ||kec-ganding.com^
 ||keystotranquilityca.com^

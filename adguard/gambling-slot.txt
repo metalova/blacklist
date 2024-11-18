@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 07:18:17
+! Last Updated: 2024-11-18 07:24:28
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5608
+! Number of unique domains: 5612
 !
 
 ||103.115.28.6^
@@ -469,6 +469,7 @@
 ||azbalanceandhearing.com^
 ||azzahra.ac.id^
 ||b.hatena.ne.jp^
+||baa.umus.ac.id^
 ||baarjournal.org^
 ||babakama.co.il^
 ||babel-prov.pages.dev^
@@ -3966,6 +3967,7 @@
 ||prioritas.co.id^
 ||prjah.org^
 ||prnewswire.com^
+||pro889.pages.dev^
 ||proclaimjustice.org^
 ||produk.perumnas.co.id^
 ||professionaltouchqc.com^
@@ -4435,6 +4437,7 @@
 ||serang.ut.ac.id^
 ||serenitynow-massage.com^
 ||serespecial.org.br^
+||sertifikasi.narasumber.id^
 ||server-luar.joyeriarosse.com^
 ||servingtop.com^
 ||seteranglangitbiru.com^
@@ -4835,6 +4838,7 @@
 ||sumutpost.id^
 ||sunat123.com^
 ||sunenergy.id^
+||sunmarswindowfilm.com^
 ||sunnyspizzapdx.com^
 ||sunsetlanescda.com^
 ||sunshinecafes.com^
