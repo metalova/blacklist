@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 09:42:01",
+  "updated": "2024-11-18 09:48:15",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 609,
+      "count": 616,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47434,6 +47434,48 @@
           "domain": "something-sweet.co",
           "raw_url": "https://something-sweet.co/mix-parlay-bola-88/",
           "found_time": "2024-11-18 02:40:59",
+          "status": "active"
+        },
+        {
+          "domain": "semuttotoamp.pages.dev",
+          "raw_url": "https://semuttotoamp.pages.dev/",
+          "found_time": "2024-11-18 02:42:01",
+          "status": "active"
+        },
+        {
+          "domain": "yellowpages-sxm.com",
+          "raw_url": "https://www.yellowpages-sxm.com/",
+          "found_time": "2024-11-18 02:45:07",
+          "status": "active"
+        },
+        {
+          "domain": "nicksmobilemechanics.co.za",
+          "raw_url": "https://nicksmobilemechanics.co.za/aplikasi-judi-bola-uang-asli/",
+          "found_time": "2024-11-18 02:46:09",
+          "status": "active"
+        },
+        {
+          "domain": "pronaturestettler.ca",
+          "raw_url": "https://pronaturestettler.ca/aplikasi-judi-bola-uang-asli/",
+          "found_time": "2024-11-18 02:46:10",
+          "status": "active"
+        },
+        {
+          "domain": "iai-tabah.ac.id",
+          "raw_url": "https://iai-tabah.ac.id/",
+          "found_time": "2024-11-18 02:47:13",
+          "status": "active"
+        },
+        {
+          "domain": "malfitlife.com",
+          "raw_url": "https://malfitlife.com/",
+          "found_time": "2024-11-18 02:47:13",
+          "status": "active"
+        },
+        {
+          "domain": "volusiabeachpass.com",
+          "raw_url": "https://www.volusiabeachpass.com/",
+          "found_time": "2024-11-18 02:47:13",
           "status": "active"
         }
       ]

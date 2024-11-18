@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-18 09:42:01
+! Last Updated: 2024-11-18 09:48:15
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 609
+! Number of unique domains: 616
 !
 
 ||9sarang188.com^
@@ -222,6 +222,7 @@
 ||hoteldelaplage02.fr^
 ||htn.staiduba.ac.id^
 ||hura.es^
+||iai-tabah.ac.id^
 ||ibudanbalita.com^
 ||icobios.akademisi.co.id^
 ||ictdemy.com^
@@ -325,6 +326,7 @@
 ||mail.yeu.or.id^
 ||mainbasket.com^
 ||majalahdunia.org^
+||malfitlife.com^
 ||malinaukab.ina-sdi.or.id^
 ||manoneambon.sch.id^
 ||maxbet855com.pages.dev^
@@ -369,6 +371,7 @@
 ||newsroom.id^
 ||nft.borneofc.id^
 ||ngacaklaginih.pages.dev^
+||nicksmobilemechanics.co.za^
 ||niletheater.com^
 ||nobartvpro.com^
 ||novobrew.com^
@@ -437,6 +440,7 @@
 ||prioritastv.com^
 ||professores.uff.br^
 ||prolog.co.id^
+||pronaturestettler.ca^
 ||property-lippocikarang.com^
 ||provenexpert.com^
 ||psb.alhasan.co.id^
@@ -485,6 +489,7 @@
 ||sdn34bandaaceh.sch.id^
 ||sdncipinangmelayu04.sch.id^
 ||seleksi.akperkesdam6tpr.ac.id^
+||semuttotoamp.pages.dev^
 ||seohaji.pages.dev^
 ||seoin.pages.dev^
 ||seojahad-masbroh.web.app^
@@ -589,6 +594,7 @@
 ||view.publitas.com^
 ||vitessenieuws.nl^
 ||vod.in.th^
+||volusiabeachpass.com^
 ||wartatransparansi.com^
 ||watch.billboard.com^
 ||waterberginfo.co.za^
@@ -606,6 +612,7 @@
 ||xqshdn.cb-silesia.edu.pl^
 ||xuecafe.us^
 ||ydsf.org^
+||yellowpages-sxm.com^
 ||yukmainsbobet.pages.dev^
 ||zainproperty.id^
 ||zenbutoh.com^
