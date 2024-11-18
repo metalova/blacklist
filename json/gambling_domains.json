@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 08:28:13",
+  "updated": "2024-11-18 08:34:26",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 585,
+      "count": 592,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37189,6 +37189,48 @@
           "domain": "washingtoncitypaper.com",
           "raw_url": "https://washingtoncitypaper.com/article/580894/wild-casino-review/",
           "found_time": "2024-11-18 01:24:07",
+          "status": "active"
+        },
+        {
+          "domain": "lucknowloreto.com",
+          "raw_url": "https://www.lucknowloreto.com/bet/fishing%20famous%20sports%20of%20west%20bengal",
+          "found_time": "2024-11-18 01:28:12",
+          "status": "active"
+        },
+        {
+          "domain": "dummies.com",
+          "raw_url": "https://www.dummies.com/article/home-auto-hobbies/games/betting/casino-gambling-for-dummies-cheat-sheet-209476/",
+          "found_time": "2024-11-18 01:30:15",
+          "status": "active"
+        },
+        {
+          "domain": "xaviersbehror.org",
+          "raw_url": "https://xaviersbehror.org/bet/sitemap%20At%20stake%20meaning%20relationship",
+          "found_time": "2024-11-18 01:30:16",
+          "status": "active"
+        },
+        {
+          "domain": "fortismedia.com",
+          "raw_url": "https://www.fortismedia.com/en/articles/online-gambling-laws/",
+          "found_time": "2024-11-18 01:31:17",
+          "status": "active"
+        },
+        {
+          "domain": "phuket-thaifood.com",
+          "raw_url": "https://www.phuket-thaifood.com/",
+          "found_time": "2024-11-18 01:32:20",
+          "status": "active"
+        },
+        {
+          "domain": "bv-efl.de",
+          "raw_url": "https://www.bv-efl.de/",
+          "found_time": "2024-11-18 01:33:21",
+          "status": "active"
+        },
+        {
+          "domain": "casino.fanatics.com",
+          "raw_url": "https://casino.fanatics.com/",
+          "found_time": "2024-11-18 01:34:25",
           "status": "active"
         }
       ]
