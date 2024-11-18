@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 07:24:28",
+  "updated": "2024-11-18 07:25:29",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 570,
+      "count": 571,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37099,6 +37099,12 @@
           "domain": "anandarishi.com",
           "raw_url": "https://anandarishi.com/includes/uploads/",
           "found_time": "2024-11-18 00:23:26",
+          "status": "active"
+        },
+        {
+          "domain": "informatika.stei.itb.ac.id",
+          "raw_url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Makalah2022/Makalah-Matdis-2022%20(7).pdf",
+          "found_time": "2024-11-18 00:24:28",
           "status": "active"
         }
       ]
