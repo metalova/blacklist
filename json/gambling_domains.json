@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 09:34:33",
+  "updated": "2024-11-18 09:39:55",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 599,
+      "count": 606,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47374,6 +47374,48 @@
           "domain": "chez-mell.fr",
           "raw_url": "https://chez-mell.fr/cara-menang-main-judi-parlay/",
           "found_time": "2024-11-18 02:34:32",
+          "status": "active"
+        },
+        {
+          "domain": "devote.se",
+          "raw_url": "https://www.devote.se/prediksibolaparlay/tips-menang-besar-taruhan-judi-bola-online-mix-parlay-31279233",
+          "found_time": "2024-11-18 02:34:33",
+          "status": "active"
+        },
+        {
+          "domain": "genefrankel.com",
+          "raw_url": "https://genefrankel.com/",
+          "found_time": "2024-11-18 02:36:44",
+          "status": "active"
+        },
+        {
+          "domain": "michaelgymtall.com.br",
+          "raw_url": "https://michaelgymtall.com.br/situs-judi-agen-bola-resmi/",
+          "found_time": "2024-11-18 02:36:44",
+          "status": "active"
+        },
+        {
+          "domain": "dayurejo.desa.id",
+          "raw_url": "https://dayurejo.desa.id/assets/test/?main=AGEN%20BOLA%20RESMI",
+          "found_time": "2024-11-18 02:37:46",
+          "status": "active"
+        },
+        {
+          "domain": "mbliberalcaucus.ca",
+          "raw_url": "https://mbliberalcaucus.ca/tips-parlay-bola/",
+          "found_time": "2024-11-18 02:38:48",
+          "status": "active"
+        },
+        {
+          "domain": "sman3meulaboh.sch.id",
+          "raw_url": "https://sman3meulaboh.sch.id/agenda/rapat/",
+          "found_time": "2024-11-18 02:38:48",
+          "status": "active"
+        },
+        {
+          "domain": "bolabulat.pages.dev",
+          "raw_url": "https://bolabulat.pages.dev/",
+          "found_time": "2024-11-18 02:39:54",
           "status": "active"
         }
       ]

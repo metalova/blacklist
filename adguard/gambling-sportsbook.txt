@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SPORTSBOOK
-! Last Updated: 2024-11-18 09:34:33
+! Last Updated: 2024-11-18 09:39:55
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 599
+! Number of unique domains: 606
 !
 
 ||9sarang188.com^
@@ -83,6 +83,7 @@
 ||bola365g.pages.dev^
 ||bola808.org^
 ||bola888.mystrikingly.com^
+||bolabulat.pages.dev^
 ||bolahiukerens.com^
 ||bolakita.farm^
 ||bolakita5.pages.dev^
@@ -133,11 +134,13 @@
 ||darasaletu.com^
 ||darulmaarif.net^
 ||darylwoodhouse.com^
+||dayurejo.desa.id^
 ||decathlon.co.id^
 ||dempelrejo-ngampel.desa.id^
 ||desa-kaliputu.kuduskab.go.id^
 ||desafiocreativo.com^
 ||dessertstreetcafe.ca^
+||devote.se^
 ||devpost.com^
 ||dewandireksi.pages.dev^
 ||digilib.ptiq.ac.id^
@@ -193,6 +196,7 @@
 ||gdlite.saint-gobain.com^
 ||geiptest.org^
 ||gelora.id^
+||genefrankel.com^
 ||gilabola.com^
 ||gites-ville-seran.com^
 ||givegab.com^
@@ -324,6 +328,7 @@
 ||maxbet855com.pages.dev^
 ||maxbet855soundersfc.pages.dev^
 ||maytechcr.com^
+||mbliberalcaucus.ca^
 ||media.diblast.com^
 ||media.neliti.com^
 ||mediaaceh.co.id^
@@ -332,6 +337,7 @@
 ||mespharmacy.org^
 ||messimiamishop.com^
 ||metooo.io^
+||michaelgymtall.com.br^
 ||mightydreamforum.com^
 ||migranberdaulat.org^
 ||millenniumparkwaymedical.ca^
@@ -502,6 +508,7 @@
 ||sman1bontang.sch.id^
 ||sman1sigi.sch.id^
 ||sman2meulaboh.sch.id^
+||sman3meulaboh.sch.id^
 ||smarthomehuahin.com^
 ||smkn1sukadana.sch.id^
 ||smkn1surakarta.sch.id^
