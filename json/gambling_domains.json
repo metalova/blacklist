@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 07:59:36",
+  "updated": "2024-11-18 08:01:40",
   "categories": {
     "slot": {
       "count": 5612,
@@ -33679,7 +33679,7 @@
       ]
     },
     "casino": {
-      "count": 572,
+      "count": 576,
       "domains": [
         {
           "domain": "newszechuan.com",
@@ -37111,6 +37111,30 @@
           "domain": "opac.fhukum.unpatti.ac.id",
           "raw_url": "https://opac.fhukum.unpatti.ac.id/index.php?p=fstream-pdf&fid=4417&bid=7689",
           "found_time": "2024-11-18 00:25:29",
+          "status": "active"
+        },
+        {
+          "domain": "moskov-slot777.pages.dev",
+          "raw_url": "https://moskov-slot777.pages.dev/",
+          "found_time": "2024-11-18 00:59:35",
+          "status": "active"
+        },
+        {
+          "domain": "angetea.com",
+          "raw_url": "http://angetea.com/",
+          "found_time": "2024-11-18 01:00:37",
+          "status": "active"
+        },
+        {
+          "domain": "saffmedic.com",
+          "raw_url": "https://saffmedic.com/artikel/daftar-roulette-online-terpercaya",
+          "found_time": "2024-11-18 01:00:38",
+          "status": "active"
+        },
+        {
+          "domain": "gpdibangkam.com",
+          "raw_url": "https://gpdibangkam.com/cox/",
+          "found_time": "2024-11-18 01:01:39",
           "status": "active"
         }
       ]

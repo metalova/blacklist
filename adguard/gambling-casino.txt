@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - CASINO
-! Last Updated: 2024-11-18 07:59:36
+! Last Updated: 2024-11-18 08:01:40
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 572
+! Number of unique domains: 576
 !
 
 ||24liveblog.com^
@@ -30,6 +30,7 @@
 ||amp.lashcafe.com^
 ||anandarishi.com^
 ||anekatoto3win.com^
+||angetea.com^
 ||anis.icar.gov.in^
 ||anj.fr^
 ||antiquespride.edu.ph^
@@ -197,6 +198,7 @@
 ||gotocompany.com^
 ||gotravelly.com^
 ||gov.uk^
+||gpdibangkam.com^
 ||grandcasino-bern.ch^
 ||grandcasinotirana.com^
 ||grandsierraresort.com^
@@ -327,6 +329,7 @@
 ||monarchblackhawk.com^
 ||moodycenteratx.com^
 ||moovitapp.com^
+||moskov-slot777.pages.dev^
 ||mrbit.bg^
 ||mshairco.com^
 ||mspisang.pages.dev^
@@ -437,6 +440,7 @@
 ||saanvihospitalagra.com^
 ||sacredheartcathedraldelhi.org^
 ||sacredheartchd.com^
+||saffmedic.com^
 ||sakurakjcrownpoint.com^
 ||salamsatukopi.com^
 ||sayma.fnfcomputer.com^
