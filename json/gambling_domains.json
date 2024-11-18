@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 09:54:23",
+  "updated": "2024-11-18 09:58:32",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 619,
+      "count": 620,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47494,6 +47494,12 @@
           "domain": "id.puma.com",
           "raw_url": "https://id.puma.com/in/home",
           "found_time": "2024-11-18 02:54:22",
+          "status": "active"
+        },
+        {
+          "domain": "bulukumbakab.go.id",
+          "raw_url": "https://bulukumbakab.go.id/",
+          "found_time": "2024-11-18 02:54:23",
           "status": "active"
         }
       ]
