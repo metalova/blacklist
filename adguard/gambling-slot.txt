@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 06:51:42
+! Last Updated: 2024-11-18 06:58:53
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5595
+! Number of unique domains: 5599
 !
 
 ||103.115.28.6^
@@ -364,6 +364,7 @@
 ||aptika.kominfo.go.id^
 ||aptitude.gunadarma.ac.id^
 ||aptprocess.com^
+||apuesta.com.mx^
 ||apuestasdeportivasenlinea.mx^
 ||apuestasenmexico.mx^
 ||apufoc.olivertrific.de^
@@ -390,6 +391,7 @@
 ||arthapuspamega.com^
 ||arthasetia.co.id^
 ||artofproblemsolving.com^
+||artoncairncross.com.au^
 ||artscrea.com^
 ||asclepio.id^
 ||ascubaya.id^
@@ -1018,6 +1020,7 @@
 ||clashofslots.com^
 ||classicfootballshirts.co.uk^
 ||claxindia.com^
+||cleancoaltechnologiesinc.com^
 ||clearwatercasino.com^
 ||clermontseniors.com^
 ||climateprotectioncampaign.org^
@@ -3519,6 +3522,7 @@
 ||nvlandman.org^
 ||nyataberjuang.org^
 ||nycdoorrepairinstall.com^
+||nypost.com^
 ||nytqro.com.mx^
 ||nyxmitology.pages.dev^
 ||oabes.org.br^

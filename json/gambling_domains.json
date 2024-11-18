@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 06:51:42",
+  "updated": "2024-11-18 06:58:53",
   "categories": {
     "slot": {
-      "count": 5595,
+      "count": 5599,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33572,6 +33572,30 @@
           "domain": "dilmilti-jakarta.go.id",
           "raw_url": "https://dilmilti-jakarta.go.id/berita/WIN88/",
           "found_time": "2024-11-17 23:51:42",
+          "status": "active"
+        },
+        {
+          "domain": "cleancoaltechnologiesinc.com",
+          "raw_url": "https://www.cleancoaltechnologiesinc.com/",
+          "found_time": "2024-11-17 23:51:42",
+          "status": "active"
+        },
+        {
+          "domain": "apuesta.com.mx",
+          "raw_url": "https://apuesta.com.mx/casas-de-apuestas/betmaster/",
+          "found_time": "2024-11-17 23:56:49",
+          "status": "active"
+        },
+        {
+          "domain": "nypost.com",
+          "raw_url": "https://nypost.com/2024/11/17/betting/betmgm-bonus-code-nyp1500dm-grants-a-deposit-match-up-to-1-5k-for-any-sport-including-nfl/",
+          "found_time": "2024-11-17 23:57:50",
+          "status": "active"
+        },
+        {
+          "domain": "artoncairncross.com.au",
+          "raw_url": "https://www.artoncairncross.com.au/",
+          "found_time": "2024-11-17 23:58:52",
           "status": "active"
         }
       ]
