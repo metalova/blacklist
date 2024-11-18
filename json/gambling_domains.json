@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 09:25:18",
+  "updated": "2024-11-18 09:34:33",
   "categories": {
     "slot": {
       "count": 5612,
@@ -43780,7 +43780,7 @@
       ]
     },
     "sportsbook": {
-      "count": 596,
+      "count": 599,
       "domains": [
         {
           "domain": "e-proc.pamjaya.co.id",
@@ -47356,6 +47356,24 @@
           "domain": "manoneambon.sch.id",
           "raw_url": "https://manoneambon.sch.id/style/jbl/",
           "found_time": "2024-11-18 02:24:15",
+          "status": "active"
+        },
+        {
+          "domain": "wenxiongchef.com",
+          "raw_url": "https://wenxiongchef.com/wp-content/judi-bola",
+          "found_time": "2024-11-18 02:25:17",
+          "status": "active"
+        },
+        {
+          "domain": "lommonline.nl",
+          "raw_url": "https://lommonline.nl/2020/12/25/sistem-terbaik-dalam-bermain-handball-hdp-di-agen-judi-bola-online/",
+          "found_time": "2024-11-18 02:31:24",
+          "status": "active"
+        },
+        {
+          "domain": "chez-mell.fr",
+          "raw_url": "https://chez-mell.fr/cara-menang-main-judi-parlay/",
+          "found_time": "2024-11-18 02:34:32",
           "status": "active"
         }
       ]
