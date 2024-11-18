@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 07:08:04
+! Last Updated: 2024-11-18 07:18:17
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5605
+! Number of unique domains: 5608
 !
 
 ||103.115.28.6^
@@ -1638,6 +1638,7 @@
 ||extendeddisc.org^
 ||extollo.hu^
 ||exwifesfamouschicken.com^
+||eyleditores.com^
 ||ezeperfumes.com^
 ||ezsport.no^
 ||f1exhibition.com^
@@ -4606,6 +4607,7 @@
 ||slotvip.ph^
 ||slotvip.tech^
 ||slotvipwarrior.homes^
+||sma1blora.sch.id^
 ||smabmone.sch.id^
 ||smalldataforum.com^
 ||sman1-ciamis.com^
@@ -4909,6 +4911,7 @@
 ||tangselpos.id^
 ||tangselxpress.com^
 ||tanjungpura.sidesadigital.com^
+||tanjungsetelungnatuna.pages.dev^
 ||tap.bio^
 ||taponmainst.com^
 ||taraboulsi.com^
