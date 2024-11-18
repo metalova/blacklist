@@ -1,7 +1,7 @@
 ! Title: Gambling Domain Blocklist - SLOT
-! Last Updated: 2024-11-18 06:58:53
+! Last Updated: 2024-11-18 07:05:00
 ! Description: Automatically generated gambling domain blocklist
-! Number of unique domains: 5599
+! Number of unique domains: 5603
 !
 
 ||103.115.28.6^
@@ -206,6 +206,7 @@
 ||airmet.pt^
 ||airpaz.com^
 ||airpurifierguide.org^
+||ajarin-dong-bang-seo.pages.dev^
 ||ajef.net^
 ||ajemjournal.com^
 ||ajoh.oauife.edu.ng^
@@ -2290,6 +2291,7 @@
 ||iphoneappsfinder.com^
 ||ipjibaskembali.pages.dev^
 ||ipowerenergygroup.com^
+||ips88.pages.dev^
 ||iqos.com^
 ||irafu.id^
 ||iraqistudentproject.org^
@@ -2707,6 +2709,7 @@
 ||kuda4da.com^
 ||kuda4dslot.com^
 ||kui.unmuha.ac.id^
+||kuisioner.blubalaihatpen.id^
 ||kumbangmaju.biz^
 ||kumbangmaju.store^
 ||kumiuniversity.ac.ug^
@@ -4354,6 +4357,7 @@
 ||santuariosanmichele.it^
 ||sapahukum.kumhamjogja.id^
 ||sapos.co.id^
+||saptawarna.co.id^
 ||sarahhospital.com^
 ||sarahkeyhealthvacations.com^
 ||sariasih.com^

@@ -1,8 +1,8 @@
 {
-  "updated": "2024-11-18 06:58:53",
+  "updated": "2024-11-18 07:05:00",
   "categories": {
     "slot": {
-      "count": 5599,
+      "count": 5603,
       "domains": [
         {
           "domain": "rskariadi.co.id",
@@ -33596,6 +33596,30 @@
           "domain": "artoncairncross.com.au",
           "raw_url": "https://www.artoncairncross.com.au/",
           "found_time": "2024-11-17 23:58:52",
+          "status": "active"
+        },
+        {
+          "domain": "ajarin-dong-bang-seo.pages.dev",
+          "raw_url": "https://ajarin-dong-bang-seo.pages.dev/gas/?mie==MEGA777",
+          "found_time": "2024-11-17 23:58:53",
+          "status": "active"
+        },
+        {
+          "domain": "kuisioner.blubalaihatpen.id",
+          "raw_url": "https://kuisioner.blubalaihatpen.id/five/?smile=megawin",
+          "found_time": "2024-11-18 00:00:55",
+          "status": "active"
+        },
+        {
+          "domain": "saptawarna.co.id",
+          "raw_url": "https://saptawarna.co.id/includes/vendor/?id=megawin",
+          "found_time": "2024-11-18 00:01:57",
+          "status": "active"
+        },
+        {
+          "domain": "ips88.pages.dev",
+          "raw_url": "https://ips88.pages.dev/",
+          "found_time": "2024-11-18 00:02:58",
           "status": "active"
         }
       ]
