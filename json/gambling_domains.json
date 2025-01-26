@@ -1,5 +1,5 @@
 {
-  "updated": "2024-11-18 10:09:13",
+  "updated": "2025-01-26 20:00:29",
   "categories": {
     "slot": {
       "count": 5612,
@@ -37284,7 +37284,7 @@
       ]
     },
     "togel": {
-      "count": 968,
+      "count": 969,
       "domains": [
         {
           "domain": "tupac-berlin.com",
@@ -43092,6 +43092,12 @@
           "domain": "hmuconference.com",
           "raw_url": "https://hmuconference.com/",
           "found_time": "2024-11-18 03:09:12",
+          "status": "active"
+        },
+        {
+          "domain": "dentalpartnerslexingtonoh.com",
+          "raw_url": "https://www.dentalpartnerslexingtonoh.com/amp/",
+          "found_time": "2024-11-18 03:09:13",
           "status": "active"
         }
       ]
